@@ -659,7 +659,8 @@ logerror("%04x: custom 54XX write %02x\n",activecpu_get_pc(),data);
 }
 
 
-
+//TMK
+int sceFpuTrunc(float fval);
 
 static void *namco_54xx_start(int sndindex, int clock, const void *config)
 {
@@ -724,6 +725,7 @@ altogether which corresponds to 1254 chip clock cycles. 13 samples = 543 cycles,
 	/* 0 means no particular part so we allow 1 cycle */
 	c_value = ((double)(1<<PRECISION_SH)) / 1.0;
 	chip->speeds[0] = c_value * scaler;	/* scaled to our sample rate */
+//TMK	chip->speeds[0] = sceFpuTrunc(c_value * scaler);
 	logerror("speed[%2i]=%08x\n", 0, chip->speeds[0]);
 
 	for (i = 1; i < 256; i++)

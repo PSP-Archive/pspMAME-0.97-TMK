@@ -291,7 +291,8 @@ void osd_fclose(osd_file *file);
 
 ******************************************************************************/
 
-typedef INT64 cycles_t;
+//TMK typedef INT64 cycles_t;
+typedef UINT32 cycles_t;
 
 /* return the current number of cycles, or some other high-resolution timer */
 cycles_t osd_cycles(void);

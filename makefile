@@ -12,6 +12,9 @@ endif
 # I686 = 1
 # P4 = 1
 # PM = 1
+#PSP =1
+#PSP2 =1
+PSP3 =1
 
 # uncomment next line to include the symbols for symify
 # SYMBOLS = 1
@@ -26,10 +29,10 @@ endif
 NEW_DEBUGGER = 1
 
 # uncomment next line to use DRC MIPS3 engine
-X86_MIPS3_DRC = 1
+#X86_MIPS3_DRC = 1
 
 # uncomment next line to use DRC PowerPC engine
-X86_PPC_DRC = 1
+#X86_PPC_DRC = 1
 
 # uncomment next line to use cygwin compiler
 # COMPILESYSTEM_CYGWIN	= 1
@@ -40,10 +43,15 @@ BUILD_EXPAT = 1
 # uncomment next line to build zlib as part of MAME build
 BUILD_ZLIB = 1
 
+# cpu emulation
+#CZ80=1
+C6809_BUILD=1
 
 # set this the operating system you're building for
 # MAMEOS = msdos
 # MAMEOS = windows
+MAMEOS = psp
+MAMEOS2 = psp3
 ifeq ($(MAMEOS),)
 MAMEOS = windows
 endif
@@ -59,7 +67,8 @@ AR = @ar
 CC = @gcc
 LD = @gcc
 ASM = @nasm
-ASMFLAGS = -f coff
+#TMK ASMFLAGS = -f coff
+#ASMFLAGS = -march=r4000 -g -mabi=eabi -mgp32 -c -xassembler -O
 MD = -mkdir.exe
 RM = @rm -f
 
@@ -95,6 +104,24 @@ NAME = $(PREFIX)$(TARGET)$(SUFFIX)pm
 ARCH = -march=pentium3 -msse2
 endif
 
+ifdef PSP
+NAME = $(PREFIX)$(TARGET)$(SUFFIX)psp
+ARCH = -march=r4000 -mabi=eabi -mgp32 -mlong32 -msingle-float -fshort-double -include src/psp/floatonly.h
+#ARCH = -march=r4000 -mabi=eabi -mgp32 -mlong32 -msingle-float
+endif
+
+ifdef PSP2
+NAME = $(PREFIX)$(TARGET)$(SUFFIX)psp2
+ARCH = -mabi=eabi -mgp32 -mlong32 -msingle-float -include src/psp/floatonly.h -include src/psp/stdout.h
+MAMEOS2 = psp2
+endif
+
+ifdef PSP3
+NAME = $(PREFIX)$(TARGET)$(SUFFIX)psp3
+ARCH = 
+MAMEOS2 = psp3
+endif
+
 # debug builds just get the 'd' suffix and nothing more
 ifdef DEBUG
 NAME = $(PREFIX)$(TARGET)$(SUFFIX)d
@@ -105,9 +132,11 @@ endif
 # some structures and thus they can't be linked against each other.
 OBJ = obj/$(NAME)
 
-EMULATOR = $(NAME)$(EXE)
+#TMK EMULATOR = $(NAME)$(EXE)
+EMULATOR = EBOOT.PBP
 
-DEFS = -DX86_ASM -DLSB_FIRST -DINLINE="static __inline__" -Dasm=__asm__ -DCRLF=3
+#TMK DEFS = -DX86_ASM -DLSB_FIRST -DINLINE="static __inline__" -Dasm=__asm__ -DCRLF=3
+DEFS = -DLSB_FIRST -DINLINE="static __inline__" -Dasm=__asm__ -DCRLF=3 -DPI=M_PI -DCLOCKS_PER_SEC=1000000
 ifdef NEW_DEBUGGER
 DEFS += -DNEW_DEBUGGER
 endif
@@ -119,11 +148,13 @@ CFLAGS += -O0 -Wall -Wno-unused -g
 else
 CFLAGS += -DNDEBUG \
 	$(ARCH) -O3 -fomit-frame-pointer -fno-strict-aliasing \
-	-Werror -Wall -Wno-sign-compare -Wunused -Wno-unused-functions \
+	-Wall -Wno-sign-compare -Wunused \
 	-Wpointer-arith -Wbad-function-cast -Wcast-align \
 	-Wstrict-prototypes -Wundef \
 	-Wformat-security -Wwrite-strings \
 	-Wdisabled-optimization \
+#	-Wno-unused-functions
+#TMK	-Werror -Wall -Wno-sign-compare -Wunused -Wno-unused-functions \
 #	-Wredundant-decls
 #	-Wfloat-equal
 #	-Wunreachable-code -Wpadded
@@ -155,7 +186,7 @@ MAPFLAGS =
 endif
 
 OBJDIRS = obj $(OBJ) $(OBJ)/cpu $(OBJ)/sound $(OBJ)/$(MAMEOS) \
-	$(OBJ)/drivers $(OBJ)/machine $(OBJ)/vidhrdw $(OBJ)/sndhrdw $(OBJ)/debug
+	$(OBJ)/drivers $(OBJ)/machine $(OBJ)/vidhrdw $(OBJ)/sndhrdw $(OBJ)/debug pbp pbp/$(TARGET)
 ifdef MESS
 OBJDIRS += $(OBJ)/mess $(OBJ)/mess/systems $(OBJ)/mess/machine \
 	$(OBJ)/mess/vidhrdw $(OBJ)/mess/sndhrdw $(OBJ)/mess/tools
@@ -184,11 +215,15 @@ endif
 
 all:	maketree emulator extra
 
+DESCJ =$(OBJ)/null_descj.o
+
 # include the various .mak files
 include src/core.mak
 include src/$(TARGET).mak
 include src/rules.mak
-include src/$(MAMEOS)/$(MAMEOS).mak
+include src/$(MAMEOS)/$(MAMEOS2).mak
+
+COREOBJS += $(DESCJ)
 
 ifdef DEBUG
 DBGDEFS = -DMAME_DEBUG
@@ -204,29 +239,142 @@ endif
 
 emulator: maketree $(EMULATOR)
 
-extra:	$(TOOLS) $(TEXTS)
+#TMK extra:	$(TOOLS) $(TEXTS)
+extra:	$(TEXTS)
 
 # combine the various definitions to one
 CDEFS = $(DEFS) $(COREDEFS) $(CPUDEFS) $(SOUNDDEFS) $(ASMDEFS) $(DBGDEFS)
 
+ifeq ($(PSP_LARGE_MEMORY),1)
+MKSFO = mksfoex -d MEMSIZE=1
+endif
+
+ifeq ($(PSP_FW_VERSION),)
+PSP_FW_VERSION=150
+endif
+
+CFLAGS += -D_PSP_FW_VERSION=$(PSP_FW_VERSION)
+CXXFLAGS += -D_PSP_FW_VERSION=$(PSP_FW_VERSION)
+
+ifeq ($(BUILD_PRX),1)
+	LDFLAGS  := $(addprefix -L,$(LIBDIR)) -specs=$(PSPSDK)/lib/prxspecs -Wl,-q,-T$(PSPSDK)/lib/linkfile.prx $(LDFLAGS)
+	EXTRA_CLEAN += $(TARGET).elf
+	# Setup default exports if needed
+	ifdef PRX_EXPORTS
+		EXPORT_OBJ=$(patsubst %.exp,%.o,$(PRX_EXPORTS))
+		EXTRA_CLEAN += $(EXPORT_OBJ)
+	else 
+		EXPORT_OBJ=$(PSPSDK)/lib/prxexports.o
+	endif
+else
+	LDFLAGS  := $(addprefix -L,$(LIBDIR)) $(LDFLAGS)
+endif
+
+# Library selection.  By default we link with Newlib's libc.  Allow the
+# user to link with PSPSDK's libc if USE_PSPSDK_LIBC is set to 1.
+
+ifeq ($(USE_KERNEL_LIBC),1)
+	# Use the PSP's kernel libc
+	PSPSDK_LIBC_LIB = 
+	CFLAGS := -I$(PSPSDK)/include/libc $(CFLAGS)
+else
+	ifeq ($(USE_PSPSDK_LIBC),1)
+		# Use the pspsdk libc
+		PSPSDK_LIBC_LIB = -lpsplibc
+		CFLAGS := -I$(PSPSDK)/include/libc $(CFLAGS)
+	else
+		# Use newlib (urgh)
+		PSPSDK_LIBC_LIB = -lc
+	endif
+endif
+
+# Link with following default libraries.  Other libraries should be specified in the $(LIBS) variable.
+# TODO: This library list needs to be generated at configure time.
+#
+ifeq ($(USE_KERNEL_LIBS),1)
+	PSPSDK_LIBS = -lpspdebug -lpspdisplay_driver -lpspctrl_driver -lpspsdk
+	LIBS     := $(LIBS) $(PSPSDK_LIBS) $(PSPSDK_LIBC_LIB) -lpspkernel
+else
+	ifeq ($(USE_USER_LIBS),1)
+		PSPSDK_LIBS = -lpspdebug -lpspdisplay -lpspge -lpspctrl -lpspsdk
+		LIBS     := $(LIBS) $(PSPSDK_LIBS) $(PSPSDK_LIBC_LIB) -lpspnet \
+				-lpspnet_inet -lpspnet_apctl -lpspnet_resolver -lpsputility \
+				-lpspuser
+	else
+		PSPSDK_LIBS = -lpspdebug -lpspdisplay -lpspge -lpspctrl -lpspsdk
+		LIBS     := $(LIBS) $(PSPSDK_LIBS) $(PSPSDK_LIBC_LIB) -lpspnet \
+				-lpspnet_inet -lpspnet_apctl -lpspnet_resolver -lpsputility \
+				-lpspuser -lpspkernel
+	endif
+endif
+
+# Define the overridable parameters for EBOOT.PBP
+ifndef PSP_EBOOT_TITLE
+PSP_EBOOT_TITLE = PSPMAME 0.97 $(TARGET)
+endif
+
+ifndef PSP_EBOOT_SFO
+PSP_EBOOT_SFO = PARAM.SFO
+endif
+
+ifndef PSP_EBOOT_ICON
+PSP_EBOOT_ICON = Icon0.png
+endif
+
+ifndef PSP_EBOOT_ICON1
+PSP_EBOOT_ICON1 = NULL
+endif
+
+ifndef PSP_EBOOT_UNKPNG
+PSP_EBOOT_UNKPNG = NULL
+endif
+
+ifndef PSP_EBOOT_PIC1
+PSP_EBOOT_PIC1 = NULL
+endif
+
+ifndef PSP_EBOOT_SND0
+PSP_EBOOT_SND0 = NULL
+endif
+
+ifndef PSP_EBOOT_PSAR
+PSP_EBOOT_PSAR = NULL
+endif
+
+ifndef PSP_EBOOT
+PSP_EBOOT = EBOOT.PBP
+endif
+
+	
 # primary target
 $(EMULATOR): $(OBJS) $(COREOBJS) $(OSOBJS) $(DRVLIBS) $(EXPAT) $(ZLIB) $(OSDBGOBJS)
 # always recompile the version string
 	$(CC) $(CDEFS) $(CFLAGSPEDANTIC) -c src/version.c -o $(OBJ)/version.o
 	@echo Linking $@...
-	$(LD) $(LDFLAGS) $(OSDBGLDFLAGS) $^ $(LIBS) -o $@ $(MAPFLAGS)
+	$(LINK.c) $^ $(LIBS) -o $(TARGET).elf
+	$(FIXUP) $(TARGET).elf
+	$(STRIP) $(TARGET).elf -o $(TARGET)_strip.elf
+	$(MKSFO) '$(PSP_EBOOT_TITLE)' $(PSP_EBOOT_SFO)
+	cp ./icon/$(TARGET).png ./Icon0.png
+	$(PACK_PBP) $(PSP_EBOOT) $(PSP_EBOOT_SFO) $(PSP_EBOOT_ICON)  \
+		$(PSP_EBOOT_ICON1) $(PSP_EBOOT_UNKPNG) $(PSP_EBOOT_PIC1)  \
+		$(PSP_EBOOT_SND0)  $(TARGET)_strip.elf $(PSP_EBOOT_PSAR)
+	-rm -f $(TARGET)_strip.elf
+	cp $(PSP_EBOOT) pbp/$(TARGET)
 
-romcmp$(EXE): $(OBJ)/romcmp.o $(OBJ)/unzip.o $(ZLIB) $(OSDBGOBJS)
-	@echo Linking $@...
-	$(LD) $(LDFLAGS) $(OSDBGLDFLAGS) $^ $(LIBS) -o $@
+#TMK	$(LD) $(LDFLAGS) $(OSDBGLDFLAGS) $^ $(LIBS) -o $@ $(MAPFLAGS)
 
-chdman$(EXE): $(OBJ)/chdman.o $(OBJ)/chd.o $(OBJ)/chdcd.o $(OBJ)/cdrom.o $(OBJ)/md5.o $(OBJ)/sha1.o $(OBJ)/version.o $(ZLIB) $(OSDBGOBJS)
-	@echo Linking $@...
-	$(LD) $(LDFLAGS) $(OSDBGLDFLAGS) $^ $(LIBS) -o $@
-
-xml2info$(EXE): $(OBJ)/xml2info.o $(EXPAT) $(OSDBGOBJS)
-	@echo Linking $@...
-	$(LD) $(LDFLAGS) $(OSDBGLDFLAGS) $^ $(LIBS) -o $@
+#TMK romcmp$(EXE): $(OBJ)/romcmp.o $(OBJ)/unzip.o $(ZLIB) $(OSDBGOBJS)
+#	@echo Linking $@...
+#	$(LD) $(LDFLAGS) $(OSDBGLDFLAGS) $^ $(LIBS) -o $@
+#
+#chdman$(EXE): $(OBJ)/chdman.o $(OBJ)/chd.o $(OBJ)/chdcd.o $(OBJ)/cdrom.o $(OBJ)/md5.o $(OBJ)/sha1.o $(OBJ)/version.o $(ZLIB) $(OSDBGOBJS)
+#	@echo Linking $@...
+#	$(LD) $(LDFLAGS) $(OSDBGLDFLAGS) $^ $(LIBS) -o $@
+#
+#xml2info$(EXE): $(OBJ)/xml2info.o $(EXPAT) $(OSDBGOBJS)
+#	@echo Linking $@...
+#	$(LD) $(LDFLAGS) $(OSDBGLDFLAGS) $^ $(LIBS) -o $@
 
 # secondary libraries
 $(OBJ)/libexpat.a: $(OBJ)/expat/xmlparse.o $(OBJ)/expat/xmlrole.o $(OBJ)/expat/xmltok.o
@@ -254,9 +402,10 @@ $(OBJ)/cpu/m68000/m68kcpu.o: $(OBJ)/cpu/m68000/m68kmake$(EXE)
 # generate C source files for the 68000 emulator
 $(OBJ)/cpu/m68000/m68kmake$(EXE): src/cpu/m68000/m68kmake.c $(OSDBGOBJS)
 	@echo M68K make $<...
-	$(CC) $(CDEFS) $(CFLAGSPEDANTIC) -DDOS -o $(OBJ)/cpu/m68000/m68kmake$(EXE) $< $(OSDBGOBJS)
-	@echo Generating M68K source files...
-	$(OBJ)/cpu/m68000/m68kmake$(EXE) $(OBJ)/cpu/m68000 src/cpu/m68000/m68k_in.c
+	cp obj/m68000/m68k* $(OBJ)/cpu/m68000
+#TMK	$(CC) $(CDEFS) $(CFLAGSPEDANTIC) -DDOS -o $(OBJ)/cpu/m68000/m68kmake$(EXE) $< $(OSDBGOBJS)
+#	@echo Generating M68K source files...
+#	$(OBJ)/cpu/m68000/m68kmake$(EXE) $(OBJ)/cpu/m68000 src/cpu/m68000/m68k_in.c
 
 $(OBJ)/%.a:
 	@echo Archiving $@...

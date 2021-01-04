@@ -74,6 +74,7 @@ static int show_profiler;
 
 UINT8 ui_dirty;
 
+int input_port_settings_modify;		//TMK
 
 
 /***************************************************************************
@@ -1623,6 +1624,8 @@ static int switchmenu(struct mame_bitmap *bitmap, int selected, UINT32 switch_na
 
 			/* tell updatescreen() to clean after us (in case the window changes size) */
 			schedule_full_refresh();
+
+			input_port_settings_modify =1; //TMK
 		}
 	}
 
@@ -1649,6 +1652,8 @@ static int switchmenu(struct mame_bitmap *bitmap, int selected, UINT32 switch_na
 
 			/* tell updatescreen() to clean after us (in case the window changes size) */
 			schedule_full_refresh();
+
+			input_port_settings_modify =1; //TMK
 		}
 	}
 
@@ -1872,6 +1877,8 @@ static int setdefcodesettings(struct mame_bitmap *bitmap,int selected)
 
 			/* tell updatescreen() to clean after us (in case the window changes size) */
 			schedule_full_refresh();
+
+			input_port_settings_modify =1; //TMK
 		}
 	}
 
@@ -1898,6 +1905,8 @@ static int setdefcodesettings(struct mame_bitmap *bitmap,int selected)
 					seq_set_1(entry[sel], CODE_NONE);
 
 				schedule_full_refresh();
+
+				input_port_settings_modify =1; //TMK
 			}
 		}
 	}
@@ -2059,6 +2068,8 @@ static int setcodesettings(struct mame_bitmap *bitmap,int selected)
 
 			/* tell updatescreen() to clean after us (in case the window changes size) */
 			schedule_full_refresh();
+
+			input_port_settings_modify =1; //TMK
 		}
 	}
 
@@ -2075,6 +2086,8 @@ static int setcodesettings(struct mame_bitmap *bitmap,int selected)
 				seq_set_1(seq[sel], CODE_NONE);
 
 			schedule_full_refresh();
+
+			input_port_settings_modify =1; //TMK
 		}
 	}
 
@@ -2443,7 +2456,7 @@ int showcopyright(struct mame_bitmap *bitmap)
 
 	setup_selected = -1;////
 	done = 0;
-
+	
 	do
 	{
 		erase_screen(bitmap);
@@ -2451,6 +2464,7 @@ int showcopyright(struct mame_bitmap *bitmap)
 		ui_displaymessagewindow(bitmap,buf);
 
 		update_video_and_audio();
+		psp_gu_drawsync();	//TMK
 		if (input_ui_pressed(IPT_UI_CANCEL))
 		{
 			setup_selected = 0;////
@@ -2740,8 +2754,10 @@ int showgamewarnings(struct mame_bitmap *bitmap)
 			ui_displaymessagewindow(bitmap,buf);
 
 			update_video_and_audio();
-			if (input_ui_pressed(IPT_UI_CANCEL))
+			psp_gu_drawsync(); //TMK
+			if (input_ui_pressed(IPT_UI_CANCEL)) {
 				return 1;
+			}
 			if (code_pressed_memory(KEYCODE_O) ||
 					input_ui_pressed(IPT_UI_LEFT))
 				done = 1;
@@ -2749,6 +2765,7 @@ int showgamewarnings(struct mame_bitmap *bitmap)
 					input_ui_pressed(IPT_UI_RIGHT)))
 				done = 2;
 		} while (done < 2);
+
 	}
 
 	erase_screen(bitmap);
@@ -2766,6 +2783,7 @@ int showgameinfo(struct mame_bitmap *bitmap)
 	while (displaygameinfo(bitmap,0) == 1)
 	{
 		update_video_and_audio();
+		psp_gu_drawsync(); //TMK
 	}
 
 	#ifdef MESS
@@ -4121,8 +4139,8 @@ int handle_user_interface(struct mame_bitmap *bitmap)
 
 	/* if the user pressed ESC, stop the emulation */
 	/* but don't quit if the setup menu is on screen */
-	if (setup_selected == 0 && input_ui_pressed(IPT_UI_CANCEL))
-		return 1;
+//TMK	if (setup_selected == 0 && input_ui_pressed(IPT_UI_CANCEL))
+//		return 1;
 
 	if (setup_selected == 0 && input_ui_pressed(IPT_UI_CONFIGURE))
 	{
@@ -4200,8 +4218,8 @@ int handle_user_interface(struct mame_bitmap *bitmap)
 			if (input_ui_pressed(IPT_UI_SHOW_GFX))
 				showcharset(bitmap);
 
-			if (setup_selected == 0 && input_ui_pressed(IPT_UI_CANCEL))
-				return 1;
+//TMK			if (setup_selected == 0 && input_ui_pressed(IPT_UI_CANCEL))
+//				return 1;
 
 			if (setup_selected == 0 && input_ui_pressed(IPT_UI_CONFIGURE))
 			{
@@ -4240,6 +4258,7 @@ int handle_user_interface(struct mame_bitmap *bitmap)
 			}
 
 			update_video_and_audio();
+			psp_gu_drawsync(); //TMK
 			reset_partial_updates();
 
 #ifdef MESS
@@ -4250,7 +4269,7 @@ int handle_user_interface(struct mame_bitmap *bitmap)
 			}
 #endif /* MESS */
 		}
-
+		
 		if (code_pressed(KEYCODE_LSHIFT) || code_pressed(KEYCODE_RSHIFT))
 			single_step = 1;
 		else

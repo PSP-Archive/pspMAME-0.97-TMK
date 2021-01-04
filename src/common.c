@@ -16,7 +16,8 @@
 
 //#define LOG_LOAD
 
-
+//TMK
+void *psp_gu_bmp();
 
 /***************************************************************************
 
@@ -362,6 +363,8 @@ struct mame_bitmap *bitmap_alloc_core(int width,int height,int depth,int use_aut
 	{
 		int i, rowlen, rdwidth, bitmapsize, linearraysize, pixelsize;
 		unsigned char *bm;
+//TMK ADD
+//		height = (height + 127) & ~127;		// テクスチャの境界調整
 
 		/* initialize the basic parameters */
 		bitmap->depth = depth;
@@ -376,12 +379,15 @@ struct mame_bitmap *bitmap_alloc_core(int width,int height,int depth,int use_aut
 			pixelsize = 4;
 
 		/* round the width to a multiple of 8 */
-		rdwidth = (width + 7) & ~7;
+//TMK		rdwidth = (width + 7) & ~7;
+		rdwidth = (width + 255) & ~255;		// テクスチャの境界調整
 		rowlen = rdwidth + 2 * BITMAP_SAFETY;
 		bitmap->rowpixels = rowlen;
 
 		/* now convert from pixels to bytes */
 		rowlen *= pixelsize;
+//TMK 32byte align
+//		rowlen =(rowlen +31) & ~31;
 		bitmap->rowbytes = rowlen;
 
 		/* determine total memory for bitmap and line arrays */
@@ -392,7 +398,13 @@ struct mame_bitmap *bitmap_alloc_core(int width,int height,int depth,int use_aut
 		linearraysize = (linearraysize + 15) & ~15;
 
 		/* allocate the bitmap data plus an array of line pointers */
-		bitmap->line = use_auto ? auto_malloc(linearraysize + bitmapsize) : malloc(linearraysize + bitmapsize);
+//TMK
+		if (2 ==use_auto)
+			bitmap->line = use_auto ? auto_malloc(linearraysize) : malloc(linearraysize);
+		else
+//TMK
+//			bitmap->line = use_auto ? auto_malloc(linearraysize + bitmapsize) : malloc(linearraysize + bitmapsize);
+			bitmap->line = use_auto ? auto_malloc(linearraysize +bitmapsize +16) : malloc(linearraysize +bitmapsize +16);
 		if (bitmap->line == NULL)
 		{
 			if (!use_auto) free(bitmap);
@@ -400,7 +412,14 @@ struct mame_bitmap *bitmap_alloc_core(int width,int height,int depth,int use_aut
 		}
 
 		/* clear ALL bitmap, including safety area, to avoid garbage on right */
-		bm = (unsigned char *)bitmap->line + linearraysize;
+//TMK
+		if (2 ==use_auto)
+			bm = (unsigned char *)psp_gu_bmp();
+		else
+//TMK
+//			bm = (unsigned char *)bitmap->line + linearraysize;
+			bm = (unsigned char *)((((((unsigned int)bitmap->line + linearraysize)) +15) & ~15)|0x40000000UL);
+//			bm = (unsigned char *)(((((unsigned int)(bitmap->line + linearraysize)) +15) & ~15));
 		memset(bm, 0, (height + 2 * BITMAP_SAFETY) * rowlen);
 
 		/* initialize the line pointers */
@@ -550,6 +569,11 @@ struct mame_bitmap *auto_bitmap_alloc(int width,int height)
 struct mame_bitmap *auto_bitmap_alloc_depth(int width,int height,int depth)
 {
 	return bitmap_alloc_core(width,height,depth,1);
+}
+
+struct mame_bitmap *auto_bitmap_alloc_depth_vram(int width,int height,int depth)
+{
+	return bitmap_alloc_core(width,height,depth,2);
 }
 
 

@@ -524,7 +524,9 @@ static UINT8 sound_matrix[SOUND_COUNT][MAX_SOUND];
 static int totalspeakers;
 static struct speaker_info speaker[MAX_SPEAKER];
 
-static INT16 *finalmix;
+//TMK static INT16 *finalmix;
+INT16 *finalmix;
+int finalmixLen, finalmixCur, finalmixCurNow, finalmixCounter;	//TMK ADD
 static INT32 *leftmix, *rightmix;
 static int samples_this_frame;
 static int global_sound_enabled;
@@ -579,7 +581,12 @@ int sound_start(void)
 		return 1;
 
 	/* allocate memory for mix buffers */
-	finalmix = auto_malloc(Machine->sample_rate * sizeof(*finalmix));
+//TMK	finalmix = auto_malloc(Machine->sample_rate * sizeof(*finalmix));
+	finalmixCur =finalmixCurNow =finalmixCounter =0;
+	finalmixLen =Machine->sample_rate;
+	finalmixLen =((finalmixLen +0x7ff) & ~0x7ff); // 2048の倍数になる様調整
+	finalmix = auto_malloc(finalmixLen * sizeof(*finalmix));
+
 	leftmix = auto_malloc(Machine->sample_rate * sizeof(*leftmix));
 	rightmix = auto_malloc(Machine->sample_rate * sizeof(*rightmix));
 
@@ -975,6 +982,8 @@ void sound_stop(void)
 	totalsnd = 0;
 	memset(&speaker, 0, sizeof(speaker));
 	memset(&sound, 0, sizeof(sound));
+
+	finalmix =0x00;	//TMK
 }
 
 
@@ -1111,6 +1120,8 @@ void sound_frame_update(void)
 		}
 	}
 
+//TMK ADD
+	finalmixCurNow =finalmixCur;
 	/* now downmix the final result */
 	for (sample = 0; sample < samples_this_frame; sample++)
 	{
@@ -1122,7 +1133,8 @@ void sound_frame_update(void)
 			samp = -32768;
 		else if (samp > 32767)
 			samp = 32767;
-		finalmix[sample*2+0] = samp;
+//TMK		finalmix[sample*2+0] = samp;
+		finalmix[finalmixCur++] = samp;
 
 		/* clamp the right side */
 		samp = rightmix[sample];
@@ -1130,14 +1142,25 @@ void sound_frame_update(void)
 			samp = -32768;
 		else if (samp > 32767)
 			samp = 32767;
-		finalmix[sample*2+1] = samp;
+//TMK		finalmix[sample*2+1] = samp;
+		finalmix[finalmixCur++] = samp;
+
+//TMK
+		if (finalmixCur >=finalmixLen) {
+			finalmixCur =0;
+//			finalmixCounter ++;
+//			if (finalmixCounter >1000)
+//				finalmixCounter =0;
+		}
 	}
 
 	if (wavfile)
-		wav_add_data_16(wavfile, finalmix, samples_this_frame * 2);
+		wav_add_data_16(wavfile, &finalmix[finalmixCurNow], samples_this_frame * 2);	// データは正常でない
+//TMK		wav_add_data_16(wavfile, finalmix, samples_this_frame * 2);
 
 	/* play the result */
-	samples_this_frame = osd_update_audio_stream(finalmix);
+//TMK	samples_this_frame = osd_update_audio_stream(finalmix);
+	samples_this_frame = osd_update_audio_stream(&finalmix[finalmixCurNow]);		// データは正常でない
 
 	/* update the streamer */
 	streams_frame_update();

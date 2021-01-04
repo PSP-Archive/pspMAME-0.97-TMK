@@ -49,6 +49,24 @@ extern WRITE8_HANDLER( trackfld_sound_w );
 extern READ8_HANDLER( hyprolyb_speech_r );
 extern WRITE8_HANDLER( hyprolyb_ADPCM_data_w );
 
+/* handle fake button for speed cheat */
+static READ8_HANDLER( konami_IN1_r )
+{
+	int res;
+	static int cheat = 0;
+	static int bits[] = { 0xee, 0xff, 0xbb, 0xaa };
+
+	res = readinputportbytag("IN1");
+
+	if ((res & 0x80) == 0)
+	{
+		res |= 0x55;
+		res &= bits[cheat];
+		cheat = (cheat+1)%4;
+	}
+	return res;
+}
+
 /*
  Track'n'Field has 1k of battery backed RAM which can be erased by setting a dipswitch
 */
@@ -180,7 +198,8 @@ static WRITE8_HANDLER( questions_bank_w )
 static ADDRESS_MAP_START( readmem, ADDRESS_SPACE_PROGRAM, 8 )
 	AM_RANGE(0x1200, 0x1200) AM_READ(input_port_4_r) /* DIP 2 */
 	AM_RANGE(0x1280, 0x1280) AM_READ(input_port_0_r) /* IO Coin */
-	AM_RANGE(0x1281, 0x1281) AM_READ(input_port_1_r) /* P1 IO */
+//TMK	AM_RANGE(0x1281, 0x1281) AM_READ(input_port_1_r) /* P1 IO */
+	AM_RANGE(0x1281, 0x1281) AM_READ(konami_IN1_r) /* P1 IO and handle fake button for cheating */
 	AM_RANGE(0x1282, 0x1282) AM_READ(input_port_2_r) /* P2 IO */
 	AM_RANGE(0x1283, 0x1283) AM_READ(input_port_3_r) /* DIP 1 */
 	AM_RANGE(0x1800, 0x1fff) AM_READ(MRA8_RAM)
@@ -339,7 +358,9 @@ INPUT_PORTS_START( trackfld )
 	PORT_BIT( 0x10, IP_ACTIVE_LOW, IPT_BUTTON3 ) PORT_PLAYER(2)
 	PORT_BIT( 0x20, IP_ACTIVE_LOW, IPT_BUTTON2 ) PORT_PLAYER(2)
 	PORT_BIT( 0x40, IP_ACTIVE_LOW, IPT_BUTTON1 ) PORT_PLAYER(2)
-	PORT_BIT( 0x80, IP_ACTIVE_LOW, IPT_UNKNOWN )
+//TMK	PORT_BIT( 0x80, IP_ACTIVE_LOW, IPT_UNKNOWN )
+	/* Fake button to press buttons 1 and 3 impossibly fast. Handle via konami_IN1_r */
+	PORT_BIT( 0x80, IP_ACTIVE_LOW, IPT_BUTTON4 ) PORT_NAME("Run Like Hell (Cheat)") PORT_PLAYER(1)
 
 	PORT_START_TAG("IN2")
 	PORT_BIT( 0x01, IP_ACTIVE_LOW, IPT_BUTTON3  ) PORT_PLAYER(3) //PORT_COCKTAIL
