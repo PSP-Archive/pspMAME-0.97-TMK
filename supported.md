@@ -2,6 +2,7 @@ Compatibility list for each build (machine translation):
 
 # Bandai
 
+```
 Air Gallet
 Bang Bang Ball (ver 1.05)
 Denjin Makai
@@ -31,9 +32,11 @@ The Super Dimension Fortress Macross II
 Ultra Fighting Spirit Legend (Japan Version)
 Ultra Guard-Fantasy Special Effects Game
 Ultraman-Fantasy Tokusatsu Series (Japan Version)
+```
 
 # Capcom
 
+```
 1942 (set 1)
 1942 (set 2)
 1942 (set 3)
@@ -111,9 +114,11 @@ Trojan / Trojan (USA version)
 Vargas (Japanese version?)
 Vargas (set 1)
 Vargas (set 2)
+```
 
 # Deco
 
+```
 Act-Fancer -Cybernetick Hyper Weapon (Japanese version rev 1)
 Act-Fancer -Cybernetick Hyper Weapon (overseas version rev 1)
 Act-Fancer -Cybernetick Hyper Weapon (overseas version rev 2)
@@ -339,9 +344,11 @@ Zaviga (Japan version)
 Shoot Down King / Zero Target (Overseas Version)
 Zeroise (Cassette)
 Mission X / Zoar
+```
 
 # Irem
 
+```
 Air Duel (Japan Version)
 Andromeda SS (Japanese version?)
 Wily Tower / Atomic Boy
@@ -446,9 +453,11 @@ Wily Tower
 X Multiply (Japan Version)
 Baseball Fighting League Man (Japan Version)
 Youjuden (Japan Version)
+```
 
 # Jaleco
 
+```
 64th Street -A Detective Story (Japan Version)
 64th Street -A Detective Story (Overseas Version)
 Formation Z / Aeroboto
@@ -535,9 +544,11 @@ The Road of King (Japan Version)
 Wai Wai Jockey Gate Inn!
 Wild pilot
 World PK Soccer
+```
 
 # Konami
 
+```
 Turpin / 600
 Amidar
 Amidar (Olympia)
@@ -663,9 +674,11 @@ Video hustler
 With quiz (Konami ver)
 Yie Ar Kung Fu (set 1)
 Yie Ar Kung Fu (set 2)
+```
 
 # Namco
 
+```
 Baraduke (set 1)
 Baraduke (set 2)
 Bomb Bee
@@ -759,9 +772,11 @@ Xevious (Atari set 1)
 Xevious (Atari set 2)
 Xevious (Atari set 3)
 Xevious (Namco)
+```
 
 # Nichibutsu
 
+```
 Armed F
 Youth Mahjong Bijin Gakuen (Japan Version 880116)
 Beautiful girl dream story (Japanese version 870925)
@@ -900,9 +915,11 @@ Tokyo Gal Encyclopedia (Japan Version)
 Tube panic
 Wiping
 Youma Ninpocho (Japan Version)
+```
 
 # Sega
 
+```
 005
 4-D Warriors
 Ali Baba and 40 Thieves
@@ -1039,9 +1056,11 @@ Zaxxon (set 1)
 Zaxxon (set 2)
 Zector (rev B)
 Zoom 909
+```
 
 # SNK
 
+```
 ASO <Armored Scrum Object> / Alpha Mission
 ASO <Armored Scrum Object>
 Athena
@@ -1119,9 +1138,11 @@ Vanguard II
 Ikari Warriors / Victory Road
 World Wars (overseas version)
 Satan of Satan / Zarzon
+```
 
 # Sunsoft
 
+```
 Beirut (USA version set 1 unprotected)
 Beirut (Japanese version set 2 FD1094 317-0115)
 Beirut (overseas version set 3 FD1094 317-0116)
@@ -1130,9 +1151,11 @@ Do you need a delicious puzzle?
 Shanghai (Japan version)
 Shanghai II (Japan version)
 Shanghai III (Japan version)
+```
 
 # Taito
 
+```
 Alpine skiing (set 1)
 Alpine skiing (set 2)
 American Horseshoes (USA Version)
@@ -1308,9 +1331,11 @@ Wild Western (set 2)
 Zookeeper (set 1)
 Zookeeper (set 2)
 Zookeeper (set 3)
+```
 
 # Taito2
 
+```
 Ah Eikou Glory Koshien (Japan Version)
 Air Inferno (USA version)
 Akanbeda ~ (ver 2.5J 1995/06/14)
@@ -1557,9 +1582,11 @@ WGP-Real Race Feeling (USA Version)
 WGP2-Real Race Feeling (Japan Version)
 Yes.No Psychological Tokimeki Chart
 Go with Yuyu's quiz! Go! (Japan version)
+```
 
 # Technos
 
+```
 Batten O'Hara's Scharaka Aerial Battle / Acrobatic Dog-Fight
 Battle lane! Vol.5 (set 1)
 Battle lane! Vol.5 (set 2)
@@ -1607,9 +1634,9 @@ WWF Wrestle Fest (USA version set 1)
 WWF Wrestle Fest (USA version Tecmo)
 Zaind Slina
 
-# Tecmo
+```# Tecmo
 
-Argos Warrior (Japan Version)
+```Argos Warrior (Japan Version)
 Dero-Dero Dero
 Eight force
 Final Star Force (USA version)
@@ -1645,9 +1672,11 @@ Tokidensho -Angel Eyes
 Tecmo V Goal Soccer
 Tecmo V Goal Soccer (alt)
 Wild Fang
+```
 
 # Universal
 
+```
 Pleiades / Capitol
 Cheeky mouse
 Cosmic aliens
@@ -1690,9 +1719,11 @@ Space Panic (ver E)
 Space Raider
 Super Clown (Japan Version)
 Zero hour
+```
 
 # Up!
 
+```
 Acrobat mission
 Ark area
 Atomic Robokid
@@ -1726,3 +1757,4 @@ US AAF Mustang (Seoul Trading)
 Bandaik (Jaleco set 1)
 Bandaik (Japan version)
 XX mission
+```
