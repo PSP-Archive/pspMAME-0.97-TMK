@@ -6,6 +6,26 @@ The emulator comes in several different builds - one of each arcade system being
 
 For the games that do work, emulation is largely accurate and free from glitches, but this accuracy comes at the cost of limited performance. Setting the clock speed to 333Mhz, increasing frame skip and turning off the audio may help to make games playable.
 
+
+## ROMs path
+
+ROMs are to be compressed in the zip format, and placed in this folder:
+
+- ms0:/mame/roms
+
+Reportedly accepted paths, but seemingly non-working in r6:
+
+- Current ./roms
+- ms0:/psp/game/mamepsp/roms
+	
+By default, the emulator will display a list of all ROMs compatible with the current build.
+
+The list can be filtered to only show compatible ROMs available within the folder by pressing △, or by setting 'ROM display mode' to 'available list'.
+
+## Dat file for ClrmamePro
+
+Dat files are text files with information about games emulated with a specific version of MAME. There is no .dat file specific to the PSP port of MAME 0.97; the closest match would be the .dat for the mainstream 0.97 release.
+
 ## Controls
 
 ### Menu controls
@@ -14,7 +34,7 @@ For the games that do work, emulation is largely accurate and free from glitches
 - 〇: accept.
 - ×: cancel.
 - △: filter the list of ROMs.
-- Home: End menu
+- Home: Exit to XMB.
 
 ### In-game controls
 
@@ -25,16 +45,4 @@ For the games that do work, emulation is largely accurate and free from glitches
 - SELECT: insert coin.
 - START: start.
 - △ 〇 × □: buttons 1 to 4.
-- L + R + START: exit to menu.
-
-## ROMs path
-
-ROMs are to be compressed in the zip format, and placed in a folder in one of these paths:
-
-- Current ./roms
-- ms0: / mame / roms
-- ms0:/psp/game/mamepsp/roms
-	
-By default, the emulator will display a list of all ROMs compatible with the current build.
-
-The list can be filtered to only show compatible ROMs available within the folder by pressing △, or by setting 'ROM display mode' to 'available list'.
+- L + R + START: exit to menu; will often cause a hard freeze unless the game is first paused (by pressing R).
