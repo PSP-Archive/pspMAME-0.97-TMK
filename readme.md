@@ -1,5 +1,7 @@
 The source code in this repository is for version r5 of the TMK fork, found on [TMK's blog](http://tmk2000.blog41.fc2.com/).
 
+- [Full list of supported ROMs](supported.md)
+
 # Guide
 
 The emulator comes in several different builds - one of each arcade system being emulated: one for the CPS2, one for Taito, Konami, and so on. The list of compatible ROMs shown within the emulator reflects only the individual build. Not everything on the list actually works.
