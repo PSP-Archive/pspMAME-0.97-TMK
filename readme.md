@@ -1,4 +1,4 @@
-The source code in this repository is for version r5 of the TMK fork.
+The source code in this repository is for version r5 of the TMK fork, found on [TMK's blog](http://tmk2000.blog41.fc2.com/).
 
 # Guide
 
