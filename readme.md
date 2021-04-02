@@ -26,7 +26,7 @@ The list can be filtered to only show compatible ROMs available within the folde
 
 ## Dat file for ClrmamePro
 
-Dat files are text files with information about games emulated with a specific version of MAME. There is no .dat file specific to the PSP port of MAME 0.97; the closest match would be the .dat for the mainstream 0.97 release ( [link](MAME 0.97.dat) ).
+Dat files are text files with information about games emulated with a specific version of MAME. There is no .dat file specific to the PSP port of MAME 0.97; the closest match would be the .dat for the mainstream 0.97 release ( [link](https://github.com/PSP-Archive/pspMAME-0.97-TMK/blob/main/MAME%200.97.dat) ).
 
 ## Controls
 
