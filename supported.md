@@ -1634,7 +1634,9 @@ WWF Wrestle Fest (USA version set 1)
 WWF Wrestle Fest (USA version Tecmo)
 Zaind Slina
 
-```# Tecmo
+```
+
+# Tecmo
 
 ```Argos Warrior (Japan Version)
 Dero-Dero Dero
