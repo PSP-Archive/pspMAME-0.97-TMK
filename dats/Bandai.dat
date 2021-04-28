@@ -1,0 +1,562 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MAME</name>
+		<description>MAME 0.97 (Jun 2 2005)</description>
+		<category>Emulation</category>
+		<version>0.97</version>
+		<date>02/06/2005</date>
+		<author>AntoPISA</author>
+		<email>progettosnaps@gmail.com</email>
+		<homepage>http://www.progettosnaps.net/</homepage>
+		<url>http://www.progettosnaps.net/dats/MAME/</url>
+		<comment>-not specified-</comment>
+		<clrmamepro/>
+	</header>
+
+	<game name="agallet" sourcefile="cave.c">
+		<description>Air Gallet</description>
+		<year>1996</year>
+		<manufacturer>Banpresto / Gazelle</manufacturer>
+		<rom name="bp962a.u45" size="524288" crc="24815046" sha1="f5eeae60b923ae850b335e7898a2760407631d8b"/>
+		<rom name="bp962a.u47" size="2097152" crc="6d4e9737" sha1="81c7ecdfc2d38d0b35e26745866f6672f566f936"/>
+		<rom name="bp962a.u48" size="2097152" crc="ae00a1ce" sha1="5e8c74df0ac77efb3080406870856f958be14f79"/>
+		<rom name="bp962a.u53" size="2097152" crc="fcd9a107" sha1="169b94db8389e7d47d4d77f36907a62c30fea727"/>
+		<rom name="bp962a.u54" size="2097152" crc="0cfa3409" sha1="17107e26762ef7e3b902fb29a6d7bc534a4d09aa"/>
+		<rom name="bp962a.u57" size="2097152" crc="6d608957" sha1="15f6e8346f5f95eb229505b1b4666dabeb810ee8"/>
+		<rom name="bp962a.u65" size="2097152" crc="135fcf9a" sha1="2e8c89c2627bbdef160d96724d07883fb2fa1a57"/>
+		<rom name="bp962a.u76" size="2097152" crc="858da439" sha1="33a3d2a3ec3fa3364b00e1e43b405e5030a5b2a3"/>
+		<rom name="bp962a.u77" size="2097152" crc="ea2ba35e" sha1="72487f21d44fe7be9a98068ce7f57a43c132945f"/>
+		<rom name="bp962a.u9" size="524288" crc="06caddbe" sha1="6a3cc50558ba19a31b21b7f3ec6c6e2846244ff1"/>
+	</game>
+
+	<game name="bangball" sourcefile="metro.c">
+		<description>Bang Bang Ball (v1.05)</description>
+		<year>1996</year>
+		<manufacturer>Banpresto / Kunihiko Tashiro+Goodhouse</manufacturer>
+		<rom name="bp963a.u27" size="1048576" crc="5e3c7732" sha1="e8c442a8038921ae3de48ce52923d25cb97e36ea"/>
+		<rom name="bp963a.u28" size="1048576" crc="96d03c6a" sha1="6257585721291e5a5ce311c2873c9e1e1dac2fc6"/>
+		<rom name="bp963a.u29" size="1048576" crc="d934468f" sha1="b93353bf2302b68a297d71fc9d91dc55c1cccce4"/>
+		<rom name="bp963a.u30" size="1048576" crc="b0ca8e39" sha1="f2eb1d07cd10050c234f0b418146c742b496f196"/>
+		<rom name="rom#005.u19" size="262144" crc="3fa08587" sha1="8fdafdde5e77d077b5cd8f94f97b5430fe062936"/>
+		<rom name="rom#006.u18" size="262144" crc="0e4124bc" sha1="f5cd762df4e822ab5c8dba6f276b3366895235d1"/>
+		<rom name="rom#007.u49" size="524288" crc="04cc91a9" sha1="e5cf6055a0803f4ad44919090cd147702e805d88"/>
+		<rom name="yrw801-m" size="2097152" crc="2a9d8d43" sha1="32760893ce06dbe3930627755ba065cc3d8ec6ca"/>
+	</game>
+
+	<game name="dbz" sourcefile="dbz2.c">
+		<description>Dragonball Z</description>
+		<year>1993</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="222a01.27c" size="2097152" crc="9fce4ed4" sha1="81e19375b351ee247f066434dd595149333d73c5"/>
+		<rom name="222a02.27e" size="2097152" crc="651acaa5" sha1="33942a90fb294b5da6a48e5bfb741b31babca188"/>
+		<rom name="222a03.7c" size="262144" crc="1924467b" sha1="57922090509bcc63b4783e8f2c5e95afd2090b87"/>
+		<rom name="222a04.3j" size="2097152" crc="2533b95a" sha1="35910836b6030130d742eae6c4bf1cdf1ff43fa4"/>
+		<rom name="222a05.1j" size="2097152" crc="731b7f93" sha1="b676fff2ede5aa72c49fe12736cd60766462fe0b"/>
+		<rom name="222a06.3l" size="2097152" crc="97b767d3" sha1="3d879c431586da2f88c632ab1a531b4a5ec96939"/>
+		<rom name="222a07.1l" size="2097152" crc="430bc873" sha1="ea483195bb7f20ef3df7cfba153e5f6f8d53e5f9"/>
+		<rom name="222a08.25k" size="2097152" crc="6410ee1b" sha1="2296aafd3ba25f63a12130f7b58de53e88f14e92"/>
+		<rom name="222a09.25l" size="2097152" crc="f7b3f070" sha1="50ebd8cfcda292a3df5664de50f9212108d58923"/>
+		<rom name="222a10.5e" size="32768" crc="1c93e30a" sha1="8545a0ac5126b3c855e1901b186f57820699895d"/>
+		<rom name="222a11.9e" size="524288" crc="60c7d9b2" sha1="718ef89e89b3943845e91bedfc5c1d26229f9fe5"/>
+		<rom name="222a12.9f" size="524288" crc="6ebc6853" sha1="e9b2068246228968cc6b8554215563cacaa5ba9f"/>
+	</game>
+
+	<game name="dbz2" sourcefile="dbz2.c">
+		<description>Dragonball Z 2 Super Battle</description>
+		<year>1994</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="a9e.9e" size="524288" crc="e6a142c9" sha1="7951c8f7036a67a0cd3260f434654820bf3e603f"/>
+		<rom name="a9f.9f" size="524288" crc="76cac399" sha1="af6daa1f8b87c861dc62adef5ca029190c3cb9ae"/>
+		<rom name="ds-b01.27c" size="2097152" crc="8dc39972" sha1="c6e3d4e0ff069e08bdb68e2b0ad24cc7314e4e93"/>
+		<rom name="ds-b02.27e" size="2097152" crc="7552f8cd" sha1="1f3beffe9733b1a18d44b5e8880ff1cc97e7a8ab"/>
+		<rom name="ds-o01.3j" size="2097152" crc="d018531f" sha1="d4082fe28e9f1f3f35aa75b4be650cadf1cef192"/>
+		<rom name="ds-o02.1j" size="2097152" crc="5a0f1ebe" sha1="3bb9e1389299dc046a24740ef1a1c543e44b5c37"/>
+		<rom name="ds-o03.3l" size="2097152" crc="ddc3bef1" sha1="69638ef53f627a238a12b6c206d57faadf894893"/>
+		<rom name="ds-o04.1l" size="2097152" crc="b5df6676" sha1="194cfce460ccd29e2cceec577aae4ec936ae88e5"/>
+		<rom name="ds-p01.25k" size="2097152" crc="1c7aad68" sha1="a5296cf12cec262eede55397ea929965576fea81"/>
+		<rom name="ds-p02.27k" size="2097152" crc="e4c3a43b" sha1="f327f75fe82f8aafd2cfe6bdd3a426418615974b"/>
+		<rom name="ds-p03.25l" size="2097152" crc="1eaa671b" sha1="1875eefc6f2c3fc8feada56bfa6701144e8ef64b"/>
+		<rom name="ds-p04.27l" size="2097152" crc="5845ff98" sha1="73b4c3f439321ce9c462119fe933e7cbda8cd498"/>
+		<rom name="pcm.7c" size="262144" crc="b58c884a" sha1="0e2a7267e9dff29c9af25558081ec9d56629bc43"/>
+		<rom name="s-001.5e" size="32768" crc="154e6d03" sha1="db15c20982692271f40a733dfc3f2486221cd604"/>
+	</game>
+
+	<game name="denjinmk" sourcefile="legionna.c">
+		<description>Denjin Makai</description>
+		<year>1993</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="bg-1-ab.618" size="1048576" crc="eaad151a" sha1="bdd1d83ee8497efe20f21baf873e786446372bcb"/>
+		<rom name="bg-2-ab.617" size="1048576" crc="40938f74" sha1="d68b0f8245a8b390ad5d4e6ebc7514a939b8ac51"/>
+		<rom name="bg-3-ab.619" size="1048576" crc="de7366ee" sha1="0c3969d15f3cd963e579d4164b6e0a6b4012c9c6"/>
+		<rom name="copx-d2.313" size="524288" crc="7c52581b" sha1="7e668476f886806b0c06fa0bcf4bbc955878c87c"/>
+		<rom name="obj-0-3.748" size="1048576" crc="3dcc7b04" sha1="3c3ad5ddc18a42046348dcb54e65f6173c003d72"/>
+		<rom name="obj-4-5.756" size="1048576" crc="01f8d4e6" sha1="25b69da693be8c3404f750b419c330a7a56e88ec"/>
+		<rom name="obj-6-7.743" size="1048576" crc="e5805757" sha1="9d392c27eef7c1fcda560dac17ba9d7ae2287ac8"/>
+		<rom name="obj-8-9.757" size="1048576" crc="c8f7e1c9" sha1="a746d187b50a0ecdd5a7f687a2601e5dc8bfe272"/>
+		<rom name="rom1.025" size="262144" crc="44a648e8" sha1="a3c1721e89ac6b9fc16f80682b2f701cb24b5d76"/>
+		<rom name="rom2.024" size="262144" crc="e5ee8fe0" sha1="2ebff4fdbe82062fb526598e10f11358b0b5c02f"/>
+		<rom name="rom3.026" size="262144" crc="781b942e" sha1="f1f4ddc332de3dc29b716a1b82c2ecc2045efb3a"/>
+		<rom name="rom4.023" size="262144" crc="502a588b" sha1="9055b631240fe52d33b572e34275d31a9f3d290f"/>
+		<rom name="rom5.016" size="65536" crc="7fe7e352" sha1="1ceae22186751ca91dfffab7bd11f275e693451f"/>
+		<rom name="rom6.922" size="262144" crc="09e13213" sha1="9500e057104c6b83da0467938e46d9efa2f49f4c"/>
+		<rom name="rom7.620" size="65536" crc="e1f759b1" sha1="ddc60e78e7791a59c59403dd4089b3f6e1ecf8cb"/>
+		<rom name="rom8.615" size="65536" crc="cc36af0d" sha1="69c2ae38f03be79be4d138fcc73a6a86407eb285"/>
+		<rom name="s68e08.844" size="512" crc="96f7646e" sha1="400a831b83d6ac4d2a46ef95b97b1ee237099e44"/>
+	</game>
+
+	<game name="gdfs" sourcefile="ssv.c">
+		<description>Mobile Suit Gundam Final Shooting</description>
+		<year>1995</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="ssv2set0.u1" size="524288" crc="c23b9e2c" sha1="9026e065252981fb403255ddc5782359c0088e8a"/>
+		<rom name="ssv2set1.u2" size="524288" crc="d7d52570" sha1="12e7531519a0a4331e409991265908fb518286ef"/>
+		<rom name="ssvv7.u16" size="524288" crc="f1c3ab6f" sha1="b7f54f7ae60650fee7570aa4dd4266c629149673"/>
+		<rom name="vg004-01.u33" size="2097152" crc="aa9a81c2" sha1="a7d005f9be199e317aa4c6aed8a2ab322fe82119"/>
+		<rom name="vg004-02.u34" size="2097152" crc="fa40ecb4" sha1="0513f3b6879dc7d207646d949d6ddb7251f77bcc"/>
+		<rom name="vg004-03.u35" size="2097152" crc="90004023" sha1="041edb77b34e6677ac5b85ce542d87a9bb1baf31"/>
+		<rom name="vg004-04.u36" size="2097152" crc="fdafd289" sha1="3ff1969a176d13bfa68a48c9ed582f5789b1047f"/>
+		<rom name="vg004-05.u37" size="2097152" crc="9ae488b0" sha1="7823cc689c588f3dbcafe9bdc94c094d6e9cd605"/>
+		<rom name="vg004-06.u38" size="2097152" crc="3402325f" sha1="7ea169c1f8b01a37bd7dbb4d486d38bdac62be5b"/>
+		<rom name="vg004-07.u39" size="2097152" crc="5e89fcf9" sha1="db727ec8117e84c98037c756715e28fd5e39972a"/>
+		<rom name="vg004-08.u40" size="2097152" crc="6b1746dc" sha1="35e5ee02975474985a4a611dcc439fc3050b7f94"/>
+		<rom name="vg004-09.u43" size="2097152" crc="b7382cfa" sha1="df735470181c16f8aac0e3be76e1ed53a32dbb9c"/>
+		<rom name="vg004-10.u45" size="2097152" crc="b3c6b1cb" sha1="c601213e35d8dfd1244921da5c093f82145706d2"/>
+		<rom name="vg004-11.u48" size="2097152" crc="1491def1" sha1="344043302c81b4118cac4f692375b8af7ea68570"/>
+		<rom name="vg004-12.u4" size="2097152" crc="eb41a4ef" sha1="f4d0844a3c00cf90faa59ae982744b7f0bcbe218"/>
+		<rom name="vg004-13.u5" size="2097152" crc="a4ed3977" sha1="5843d56f69789e70ce0201a693ffae322b628459"/>
+		<rom name="vg004-14.u3" size="1048576" crc="d88254df" sha1="ccdfd42e4ce3941018f83e300da8bf7a5950f65c"/>
+	</game>
+
+	<game name="godzilla" sourcefile="legionna.c">
+		<description>Godzilla</description>
+		<year>1993</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="1.024" size="131072" crc="0d6b663d" sha1="01e02999cffd2642f7a37e492fe7f83770cddd67"/>
+		<rom name="10.615" size="65536" crc="9c22bc13" sha1="a94d9ed63ee1f5e358ebcaf517e6a1c986fa5d96"/>
+		<rom name="11.620" size="65536" crc="58e0e41f" sha1="563c633eb3d4df41e467c93957c74b540a0ae43c"/>
+		<rom name="2.025" size="131072" crc="be9c6e5a" sha1="9a7e49ac9cdbcc02b13b3448544cee5fe398ec16"/>
+		<rom name="3.023" size="131072" crc="bb16e5d0" sha1="31d8941e6e297b1f410944f0063a4c9219d23f23"/>
+		<rom name="4.026" size="131072" crc="bb8c0132" sha1="fa8b049f590be710b3cf82f27deade63656db730"/>
+		<rom name="8.016" size="65536" crc="4ab76e43" sha1="40c34fade03161c4b50f9f6a2ae61078b8d8ea6d"/>
+		<rom name="bg1.618" size="1048576" crc="78fbbb84" sha1="b1f5d4041bb88c5b2a561949239b11c3fd7c5fbc"/>
+		<rom name="bg2.619" size="1048576" crc="8ac192a5" sha1="54b557e81a704c70a651e6b8da70207a2a70530f"/>
+		<rom name="copx-d2.313" size="524288" crc="7c52581b" sha1="7e668476f886806b0c06fa0bcf4bbc955878c87c"/>
+		<rom name="obj1.748" size="1048576" crc="146bacb0" sha1="1331f04f3d9e6236cec7524e9da1782ed1916ff7"/>
+		<rom name="obj2.756" size="1048576" crc="91c2a6a5" sha1="0e9d9d94c3d99a54c6f9f99270e65682eb0a8b6a"/>
+		<rom name="obj3.743" size="1048576" crc="5af0114e" sha1="9362de9ade6db67ab0e3a2dfea580e688bbf7729"/>
+		<rom name="obj4.757" size="1048576" crc="7448b054" sha1="5c08319329eb8c90b63e5393c0011bc39911ebbb"/>
+		<rom name="pcm.922" size="524288" crc="59cbef10" sha1="6b89b7286f80f9c903dfb81dc93a03c38dff707c"/>
+		<rom name="s68e08.844" size="512" crc="96f7646e" sha1="400a831b83d6ac4d2a46ef95b97b1ee237099e44"/>
+	</game>
+
+	<game name="grdians" sourcefile="seta2.c">
+		<description>Guardians / Denjin Makai II</description>
+		<year>1995</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="u15.bin" size="4194304" crc="01672dcd" sha1="f61f60e3343cc5b6ccee391ee529966a141566db"/>
+		<rom name="u16.bin" size="4194304" crc="6a65f265" sha1="6cad11f718f8bbcff464d41eb4717460769237ed"/>
+		<rom name="u17.bin" size="4194304" crc="0fad0629" sha1="1bdc8e7c5e39e83d327f14a672ec81b049112da6"/>
+		<rom name="u18.bin" size="4194304" crc="967babf4" sha1="42a6311576417c44aeaceb8ba6bb3cd7794e4882"/>
+		<rom name="u19.bin" size="4194304" crc="c0c998a0" sha1="498fb1877527ed37412537f06a2c39ff0c60f146"/>
+		<rom name="u2.bin" size="524288" crc="36adc6f2" sha1="544e87f88179fe1342e7a06a8948ac1828e85108"/>
+		<rom name="u20.bin" size="4194304" crc="a7226ab7" sha1="408580dd35c568ffef1ebbd87359e3ec1f867020"/>
+		<rom name="u21.bin" size="4194304" crc="6f95e466" sha1="28482fad16a3ac9302f152d81552e6f84a44f3e4"/>
+		<rom name="u22.bin" size="4194304" crc="6239997a" sha1="87b6d6f30f152f625f82fd858c1290176c7e156e"/>
+		<rom name="u3.bin" size="524288" crc="2704f416" sha1="9081a12cbb9927d36e1c50b52aa2c6003810ee42"/>
+		<rom name="u32.bin" size="1048576" crc="cf0f3017" sha1="8376d3a674f71aec72f52c72758fbc53d9feb1a1"/>
+		<rom name="u4.bin" size="524288" crc="bb52447b" sha1="61433f683210ab2bc2cf1cc4b5b7a39cc5b6493d"/>
+		<rom name="u5.bin" size="524288" crc="9c164a3b" sha1="6d688c7af9e7e8e8d54b2e4dfbf41f59c79242eb"/>
+	</game>
+
+	<game name="gundamex" sourcefile="seta2.c">
+		<description>Mobile Suit Gundam EX Revue</description>
+		<year>1994</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="ka001005.u77" size="524288" crc="f01d3d00" sha1="ff12834e99a76261d619f10d186f4b329fb9cb7a"/>
+		<rom name="ka001006.u21" size="2097152" crc="6aac2f2f" sha1="fac5478ca2941a93c57f670a058ff626e537bcde"/>
+		<rom name="ka001007.u22" size="2097152" crc="588f9d63" sha1="ed5148d09d02e3bc12c50c39c5c86e6356b2dd7a"/>
+		<rom name="ka001008.u23" size="2097152" crc="db55a60a" sha1="03d118c7284ca86219891c473e2a89489710ea27"/>
+		<rom name="ka001009.u16" size="2097152" crc="997d8d93" sha1="4cb4cdb7e8208af4b14483610d9d6aa5e13acd89"/>
+		<rom name="ka001010.u18" size="2097152" crc="811b67ca" sha1="c8cfae6f54c76d63bd625ff011c872ffb75fd2e2"/>
+		<rom name="ka001011.u20" size="2097152" crc="08a72700" sha1="fb8003aa02dd249c30a757cb43b516260b41c1bf"/>
+		<rom name="ka001012.u15" size="2097152" crc="b789e4a8" sha1="400b773f24d677a9d47466fdbbe68cb6efc1ad37"/>
+		<rom name="ka001013.u17" size="2097152" crc="d8a0201f" sha1="fe8a2407c872adde8aec8e9340b00be4f00a2872"/>
+		<rom name="ka001014.u19" size="2097152" crc="7635e026" sha1="116a3daab14a17faca85c4a956b356aaf0fc2276"/>
+		<rom name="ka001015.u28" size="2097152" crc="ada2843b" sha1="09d06026031bc7558da511c3c0e29187ea0a0099"/>
+		<rom name="ka002001.u4" size="524288" crc="553ebe6b" sha1="7fb8a159513d31a1d60520ff14e4c4d133fd3e19"/>
+		<rom name="ka002002.u2" size="524288" crc="e850f6d8" sha1="026325e305676b1f8d3d9e7573920f8b70d7bccb"/>
+		<rom name="ka002003.u5" size="524288" crc="946185aa" sha1="524911c4c510d6c3e17a7ab42c7077c2fffbf06b"/>
+		<rom name="ka002004.u3" size="524288" crc="c0fb1208" sha1="84b25e4c73cb8e023ee5dbf69f588be98700b43f"/>
+	</game>
+
+	<game name="gundhara" sourcefile="seta.c">
+		<description>Gundhara</description>
+		<year>1995</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="bpgh-001.102" size="524288" crc="8d23a23c" sha1="9e9a6488db424c81a97edcb7115cc070fe35c077"/>
+		<rom name="bpgh-002.103" size="524288" crc="312f58e2" sha1="a74819d2f84a00c233489893f12c9ab1a98459cf"/>
+		<rom name="bpgh-003.u3" size="524288" crc="14e9970a" sha1="31964bd290cc94c40684adf3a5d129b1c3addc3b"/>
+		<rom name="bpgh-004.u4" size="524288" crc="96dfc658" sha1="f570bc49758535eb00d93ecce9f75832f97a0d8d"/>
+		<rom name="bpgh-005.200" size="2097152" crc="74138266" sha1="c859acff358a61a32e5810ff369b9d5528137337"/>
+		<rom name="bpgh-006.201" size="2097152" crc="5a81411d" sha1="ebf90afe027a0dc0fa3022978677fb071b9083d1"/>
+		<rom name="bpgh-007.u63" size="2097152" crc="aa49ce7b" sha1="fe0064d533bd895657b88a0ef96e835443a4077f"/>
+		<rom name="bpgh-008.u64" size="2097152" crc="7ed9d272" sha1="2e9243b3ecee27c175234f9bb1893ab498090fce"/>
+		<rom name="bpgh-009.u65" size="524288" crc="b768e666" sha1="473fa52c16c0a9f321e6429947a3e0fc1ef22f7e"/>
+		<rom name="bpgh-010.u66" size="1048576" crc="b742f0b8" sha1="9246846c9ee839d5d84f5e02cf4605afcfd6bf7a"/>
+		<rom name="bpgh-011.u67" size="1048576" crc="49aff270" sha1="de25209e520cd8747042078440ee20866097d0cb"/>
+		<rom name="bpgh-012.u68" size="2097152" crc="edfda595" sha1="5942181430d59c0c303cd1cbe753910c26c109a2"/>
+		<rom name="bpgh-013.u70" size="1048576" crc="0fa5d503" sha1="fd7a80cd25c23e737cc2c3d11de2291e22313b58"/>
+	</game>
+
+	<game name="gunpey" sourcefile="gunpey.c">
+		<description>Gunpey</description>
+		<year>2000</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="gp_rom1.021" size="524288" crc="07a589a7" sha1="06c4140ffd5f74b3d3ddfc424f43fcd08d903490"/>
+		<rom name="gp_rom2.022" size="524288" crc="f66bc4cf" sha1="54931d878d228c535b9e2bf22a0a3e41756f0fe5"/>
+		<rom name="gp_rom3.025" size="4194304" crc="f2d1f9f0" sha1="0d20301fd33892074508b9d127456eae80cc3a1c"/>
+		<rom name="gp_rom4.525" size="4194304" crc="78dd1521" sha1="91d2046c60e3db348f29f776def02e3ef889f2c1"/>
+		<rom name="gp_rom5.622" size="4194304" crc="f79903e0" sha1="4fd50b4138e64a48ec1504eb8cd172a229e0e965"/>
+	</game>
+
+	<game name="macross" sourcefile="nmk16.c">
+		<description>Super Spacefortress Macross / Chou-Jikuu Yousai Macross</description>
+		<year>1992</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="921a01" size="131072" crc="bbd8242d" sha1="7cf4897be1278e1190f499f00bc78384817a5160"/>
+		<rom name="921a02" size="65536" crc="77c082c7" sha1="be07aa14d0116f830f98e11a19f1debb48a5230e"/>
+		<rom name="921a03" size="524288" crc="33318d55" sha1="c99f85e09bd334dc8ce138b08cbed2331b0d67dd"/>
+		<rom name="921a04" size="2097152" crc="4002e4bb" sha1="281433d798ac85c84d4f1f3751a3032e8a3b5cd4"/>
+		<rom name="921a05" size="524288" crc="d5a1eddd" sha1="42b5b255f02b9c6d856b1578af9a5dfc51ea6ebb"/>
+		<rom name="921a06" size="524288" crc="89461d0f" sha1="b7d27d0ee0b7ab44c20ab710b567f64fc3afb90c"/>
+		<rom name="921a07" size="2097152" crc="7d2bf112" sha1="1997c99c2d3998096842abd1cee89e0e6ab43a47"/>
+		<rom name="921a08" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="921a09" size="256" crc="633ab1c9" sha1="acd99fcca41eaab7948ca84988352f1d7d519c61"/>
+		<rom name="921a10" size="32" crc="8371e42d" sha1="6cfd70dfa00e85ec1df8832d41df331cc3e3733a"/>
+	</game>
+
+	<game name="macross2" sourcefile="nmk16.c">
+		<description>Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II</description>
+		<year>1993</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="bp932an.a04" size="2097152" crc="c4d77ff0" sha1="aca60a3f5f89265e7e3799e5d80ea8196fb11ff3"/>
+		<rom name="bp932an.a05" size="1048576" crc="b5335abb" sha1="f4eaf4e465eeca31741d432ee46ed39ffcd92cca"/>
+		<rom name="bp932an.a06" size="2097152" crc="ef0ffec0" sha1="fd72cc77e02d1a00bf27e77a33d7dab5f6ba1cb4"/>
+		<rom name="bp932an.a07" size="2097152" crc="aa1b21b9" sha1="133822e3d8628aa4eb3e62fbd054956799423b98"/>
+		<rom name="bp932an.a08" size="2097152" crc="67eb2901" sha1="25e0f9fda1a8c0c2b59616dd153cb6dcb459d2d9"/>
+		<rom name="mcrs2bpr.10" size="256" crc="e6ead349" sha1="6d81b1c0233580aa48f9718bade42d640e5ef3dd"/>
+		<rom name="mcrs2bpr.9" size="256" crc="435653a2" sha1="575b4a46ea65179de3042614da438d2f6d8b572e"/>
+		<rom name="mcrs2j.1" size="131072" crc="c7417410" sha1="41431d8f1ff4d66baf1a8518a0b0c0125d1d71d4"/>
+		<rom name="mcrs2j.2" size="131072" crc="b4aa8ac7" sha1="73a6de56cbfb468450d9b39fcbae0362f242f37b"/>
+		<rom name="mcrs2j.3" size="524288" crc="36a618fe" sha1="56fdb2bcb4a39888cfbaf9692d66335524a6ac0c"/>
+	</game>
+
+	<game name="macrossp" sourcefile="macrossp.c">
+		<description>Macross Plus</description>
+		<year>1996</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="bp964a-c.u1" size="524288" crc="e37904e4" sha1="e51e446f3699632c53c40e4c16d0ffb76ed1123f"/>
+		<rom name="bp964a-c.u2" size="524288" crc="86d0ca6a" sha1="8cc1b4a83cbba8b07e1343c5c20e2590d3ce471a"/>
+		<rom name="bp964a-c.u3" size="524288" crc="fb895a7b" sha1="547e5d3d43e503a15573748ab49a44e5569db1d7"/>
+		<rom name="bp964a-c.u4" size="524288" crc="8c8b966c" sha1="881fa2b7aefc3ea916924b715d2cd0ceaffe2d92"/>
+		<rom name="bp964a.u10" size="4194304" crc="ab84bba7" sha1="d30876b2e45c4b78cda27d3c648100e60f739d9c"/>
+		<rom name="bp964a.u11" size="4194304" crc="b9ae1d0b" sha1="bc541a8bd622c99cf5065b3a793f0b5f6420ac64"/>
+		<rom name="bp964a.u12" size="4194304" crc="8dda1052" sha1="c374335e98859ae98ac392a7cdb44f15b4e1c23a"/>
+		<rom name="bp964a.u13" size="4194304" crc="f4d3c5bf" sha1="82522d276a6d49148da8a4fb11846a039429bcf8"/>
+		<rom name="bp964a.u14" size="4194304" crc="4f2dd1b2" sha1="30a2c9fb26bca8bb27fbc5637878f99e7f6ad8f4"/>
+		<rom name="bp964a.u15" size="4194304" crc="5b97a870" sha1="16f3921649b28ecb6d628871214f972333bbeca4"/>
+		<rom name="bp964a.u16" size="4194304" crc="c8a0cd64" sha1="2a30a4d4ec3f94631783eb08c62003b116bb2ee3"/>
+		<rom name="bp964a.u17" size="4194304" crc="f2470876" sha1="e683208432f71f3cc19ced245fa5b8a82466d19b"/>
+		<rom name="bp964a.u18" size="4194304" crc="52ef21f3" sha1="08fb1969ad0ffd0c5bf11d3d5448a26112d562b0"/>
+		<rom name="bp964a.u19" size="524288" crc="19c7acd9" sha1="b7631e74f359c5570c44addf46c3e96c80adc6c3"/>
+		<rom name="bp964a.u20" size="524288" crc="12960cbb" sha1="7182c4b36849a5d34ddf388bf5f4485ed360fe84"/>
+		<rom name="bp964a.u21" size="524288" crc="87bdd2fc" sha1="c33f087ebca6e98db195404788ca8e0cc6663622"/>
+		<rom name="bp964a.u24" size="4194304" crc="93f90336" sha1="75daa2f8cedc732cf5ef98254f61748c94b94aea"/>
+		<rom name="bp964a.u49" size="131072" crc="ad203f76" sha1="3eb86eeeb020349dfd88ebc8b4fc9579d1cc50fb"/>
+		<rom name="bp964a.u9" size="4194304" crc="bd51a70d" sha1="3447ae9d368e4e33df2d4e2848b4fd5aa0fc6840"/>
+	</game>
+
+	<game name="mazinger" sourcefile="cave.c">
+		<description>Mazinger Z</description>
+		<year>1994</year>
+		<manufacturer>Banpresto/Dynamic Pl. Toei Animation</manufacturer>
+		<rom name="bp943a-0.u63" size="2097152" crc="c1fed98a" sha1="c276505f80a49b129862966a19db507f97153e45"/>
+		<rom name="bp943a-1.u60" size="2097152" crc="46327415" sha1="679d26caefa975569198fac550105c370e2be00d"/>
+		<rom name="bp943a-2.u56" size="2097152" crc="97e13959" sha1="c30b1093aacebafefcae701af767dd36fc55fac7"/>
+		<rom name="bp943a-3.u55" size="524288" crc="9c4957dd" sha1="e775605a01b6cadc318855ac046dad03c4fc5bb4"/>
+		<rom name="bp943a-4.u64" size="524288" crc="3fc7f29a" sha1="feb21b918243c0a03dfa4a80cc80b86be4f62680"/>
+		<rom name="mzp-0.u24" size="524288" crc="43a4279f" sha1="2c17eb31040bb7f1554bc1c9a968eec5e72af097"/>
+		<rom name="mzp-1.924" size="524288" crc="db40acba" sha1="797a3046b6ab33773c5c4d6bb6d045ea60c1eb45"/>
+		<rom name="mzs.u21" size="131072" crc="c5b4f7ed" sha1="01f3cd1dd4045029260544e0e1c15dd08817012e"/>
+	</game>
+
+	<game name="metmqstr" sourcefile="cave.c">
+		<description>Metamoqester</description>
+		<year>1995</year>
+		<manufacturer>Banpresto/Pandorabox</manufacturer>
+		<rom name="bp947a.u20" size="262144" crc="a4a36170" sha1="ae55094518bd968ea0d04613a133c1421e412012"/>
+		<rom name="bp947a.u25" size="524288" crc="0a5c3442" sha1="684b79912dedc103f45c42fdebf9983e091b1308"/>
+		<rom name="bp947a.u28" size="524288" crc="8c55decf" sha1="76c6ce4c8e621273258d31ceb9ec4442fcf1a393"/>
+		<rom name="bp947a.u29" size="524288" crc="cf0f3f3b" sha1="49a3c0e7536edd53bbf09353e43e9166d736b3f4"/>
+		<rom name="bp947a.u37" size="2097152" crc="c3077c8f" sha1="0a76316a81b7de78279b859549eb5161a721ac71"/>
+		<rom name="bp947a.u42" size="2097152" crc="2ce8ff2a" sha1="8ef8c5b7d4a0e60c980c2962e75f7977faafa311"/>
+		<rom name="bp947a.u46" size="2097152" crc="0f9c906e" sha1="03872e8be28637df66373bddb04ed91de4f9db75"/>
+		<rom name="bp947a.u47" size="2097152" crc="0de42827" sha1="05d452ca11a31f941cb8a9b0cbb0b59c6b0cbdcb"/>
+		<rom name="bp947a.u48" size="2097152" crc="04ff6a3d" sha1="7187db436f7a2ab59a3f5c6ab297b3d740e20f1d"/>
+		<rom name="bp947a.u49" size="2097152" crc="09749531" sha1="6deeed2712241611ec3202c49a66beed28698af8"/>
+		<rom name="bp947a.u50" size="2097152" crc="19cea8b2" sha1="87fb29458074f0e4852237e0184b8b3b44b0eb29"/>
+		<rom name="bp947a.u51" size="2097152" crc="c19bed67" sha1="ac664a15512c0e8c8b701833aede95f53cd46a45"/>
+		<rom name="bp947a.u52" size="2097152" crc="70c64875" sha1="1c20ab100ccfdf42c97a25e4deb9041b83f5ca8d"/>
+	</game>
+
+	<game name="msgunda1" sourcefile="seta.c" cloneof="msgundam" romof="msgundam">
+		<description>Mobile Suit Gundam (Japan)</description>
+		<year>1993</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="fa001001.u20" merge="fa001001.u20" size="1048576" crc="fca139d0" sha1="b56282c69f7ec64c697a48e42d59a2565401c032"/>
+		<rom name="fa001004.u26" merge="fa001004.u26" size="1048576" crc="b965f07c" sha1="ff7827cc80655465ffbb732d55ba81f21f51a5ca"/>
+		<rom name="fa001005.u24" merge="fa001005.u24" size="524288" crc="8cd7ff86" sha1="ce7eb90776e21239f8f52e822c636143506c6f9b"/>
+		<rom name="fa001006.u23" merge="fa001006.u23" size="1048576" crc="3b60365c" sha1="bdf5a0b1b45eb75dbbb6725d1e5303716321aeb9"/>
+		<rom name="fa001007.u22" merge="fa001007.u22" size="2097152" crc="793198a6" sha1="45f53870e74b14126680d18dd58dbbe01a6ef509"/>
+		<rom name="fa001008.u21" merge="fa001008.u21" size="2097152" crc="e7accf48" sha1="dca9d53bc9cf0ecb661358d5a3f388c4ce9388e7"/>
+		<rom name="fa002002.u25" size="524288" crc="dee3b083" sha1="e2ad626aa0109906846dd9e9053ffc83b7bf4d2e"/>
+	</game>
+
+	<game name="msgundam" sourcefile="seta.c">
+		<description>Mobile Suit Gundam</description>
+		<year>1993</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="fa001001.u20" size="1048576" crc="fca139d0" sha1="b56282c69f7ec64c697a48e42d59a2565401c032"/>
+		<rom name="fa001004.u26" size="1048576" crc="b965f07c" sha1="ff7827cc80655465ffbb732d55ba81f21f51a5ca"/>
+		<rom name="fa001005.u24" size="524288" crc="8cd7ff86" sha1="ce7eb90776e21239f8f52e822c636143506c6f9b"/>
+		<rom name="fa001006.u23" size="1048576" crc="3b60365c" sha1="bdf5a0b1b45eb75dbbb6725d1e5303716321aeb9"/>
+		<rom name="fa001007.u22" size="2097152" crc="793198a6" sha1="45f53870e74b14126680d18dd58dbbe01a6ef509"/>
+		<rom name="fa001008.u21" size="2097152" crc="e7accf48" sha1="dca9d53bc9cf0ecb661358d5a3f388c4ce9388e7"/>
+		<rom name="fa003002.u25" size="524288" crc="1cc72d4c" sha1="5043d693b5a8116a077d5b6997b658cb287e2aa7"/>
+	</game>
+
+	<game name="neobattl" sourcefile="seta.c">
+		<description>SD Gundam Neo Battling (Japan)</description>
+		<year>1992</year>
+		<manufacturer>Banpresto / Sotsu Agency. Sunrise</manufacturer>
+		<rom name="bp923001.u45" size="131072" crc="0d0aeb73" sha1="5ca631d5d68e53029f379d9877a056997c6c6afa"/>
+		<rom name="bp923002.u46" size="131072" crc="9731fbbc" sha1="196c913fb67496f9da2943ad1e69edf89cb65fdf"/>
+		<rom name="bp923003.u15" size="524288" crc="91ca98a1" sha1="b02b362e3a6118f52d9e1a262ca11aecef887b00"/>
+		<rom name="bp923004.u9" size="524288" crc="15c678e3" sha1="8c0fa41a1f4e7b4e1c90faaeec7f6c910cc3ad0b"/>
+		<rom name="bp923005.u4" size="1048576" crc="7c0e37be" sha1="5d5779de948f986971a82db2a5a4302044c3257a"/>
+	</game>
+
+	<game name="nmaster" sourcefile="cave.c" cloneof="metmqstr" romof="metmqstr">
+		<description>Oni - The Ninja Master (Japan)</description>
+		<year>1995</year>
+		<manufacturer>Banpresto/Pandorabox</manufacturer>
+		<rom name="bp947a.u20" merge="bp947a.u20" size="262144" crc="a4a36170" sha1="ae55094518bd968ea0d04613a133c1421e412012"/>
+		<rom name="bp947a.u28" merge="bp947a.u28" size="524288" crc="8c55decf" sha1="76c6ce4c8e621273258d31ceb9ec4442fcf1a393"/>
+		<rom name="bp947a.u29" merge="bp947a.u29" size="524288" crc="cf0f3f3b" sha1="49a3c0e7536edd53bbf09353e43e9166d736b3f4"/>
+		<rom name="bp947a.u37" merge="bp947a.u37" size="2097152" crc="c3077c8f" sha1="0a76316a81b7de78279b859549eb5161a721ac71"/>
+		<rom name="bp947a.u42" merge="bp947a.u42" size="2097152" crc="2ce8ff2a" sha1="8ef8c5b7d4a0e60c980c2962e75f7977faafa311"/>
+		<rom name="bp947a.u46" merge="bp947a.u46" size="2097152" crc="0f9c906e" sha1="03872e8be28637df66373bddb04ed91de4f9db75"/>
+		<rom name="bp947a.u47" merge="bp947a.u47" size="2097152" crc="0de42827" sha1="05d452ca11a31f941cb8a9b0cbb0b59c6b0cbdcb"/>
+		<rom name="bp947a.u48" merge="bp947a.u48" size="2097152" crc="04ff6a3d" sha1="7187db436f7a2ab59a3f5c6ab297b3d740e20f1d"/>
+		<rom name="bp947a.u49" merge="bp947a.u49" size="2097152" crc="09749531" sha1="6deeed2712241611ec3202c49a66beed28698af8"/>
+		<rom name="bp947a.u50" merge="bp947a.u50" size="2097152" crc="19cea8b2" sha1="87fb29458074f0e4852237e0184b8b3b44b0eb29"/>
+		<rom name="bp947a.u51" merge="bp947a.u51" size="2097152" crc="c19bed67" sha1="ac664a15512c0e8c8b701833aede95f53cd46a45"/>
+		<rom name="bp947a.u52" merge="bp947a.u52" size="2097152" crc="70c64875" sha1="1c20ab100ccfdf42c97a25e4deb9041b83f5ca8d"/>
+		<rom name="bp947a_n.u25" size="524288" crc="748cc514" sha1="11d882e77a539407c314f087386e50d691a6bc0b"/>
+	</game>
+
+	<game name="quizmoon" sourcefile="macrossp.c">
+		<description>Quiz Bisyoujo Senshi Sailor Moon - Chiryoku Tairyoku Toki no Un</description>
+		<year>1997</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="u1.bin" size="131072" crc="ea404553" sha1="123bb8e399a5b54c43f4eb41d3e5f52c6947900f"/>
+		<rom name="u10.bin" size="4194304" crc="f0349691" sha1="623a680ad164d407be0af585a15540f0dca995a4"/>
+		<rom name="u11.bin" size="4194304" crc="893ab178" sha1="ba68b9a3e81af4c2565715504ada35c7da3f135f"/>
+		<rom name="u12.bin" size="4194304" crc="39b731b8" sha1="2bf1d083fc6d8058a0d26b29714945e8be0e2c79"/>
+		<rom name="u13.bin" size="4194304" crc="3dcbb041" sha1="fcff67113707fcf14d49538551724490498c0909"/>
+		<rom name="u15.bin" size="4194304" crc="b84224f0" sha1="7163aec2cc118111b2c5d8deb61133d762a5d74c"/>
+		<rom name="u17.bin" size="2097152" crc="ff93c949" sha1="13917d73a6cb70d03d0335bd816bf6b094758d0b"/>
+		<rom name="u2.bin" size="131072" crc="024eedff" sha1="cbaa2b71980a2686e582331616dc36e34ecd9e67"/>
+		<rom name="u20.bin" size="131072" crc="d7ad1ffb" sha1="9d375285628b32296c93456a00bc005a3f40ce38"/>
+		<rom name="u21.bin" size="131072" crc="6fc625c6" sha1="542bc025cf0e37686eae5d6c80bc5e047d6389fd"/>
+		<rom name="u24.bin" size="4194304" crc="5b12d0b1" sha1="c5ddff2053148a1da0710a10f48689bf5c736ae4"/>
+		<rom name="u25.bin" size="4194304" crc="3b9689bc" sha1="0857c3d3e9810f9468f7c17f8b795825c55a9f08"/>
+		<rom name="u26.bin" size="4194304" crc="6c8f30d4" sha1="7e215589e4a52cbce7f2bb31b333f874a9f83d00"/>
+		<rom name="u27.bin" size="4194304" crc="bd75d165" sha1="2da770d15c812cbfdb4e3048d320071edffccfa1"/>
+		<rom name="u3.bin" size="131072" crc="545b1d17" sha1="f1b15260942482857c48b574ada1e2a3b728f395"/>
+		<rom name="u4.bin" size="131072" crc="60b3d18c" sha1="230342a084938fdbd2b4da23df2054391eab165b"/>
+		<rom name="u49.bin" size="131072" crc="1590ad81" sha1="04fb8119d9eafc6d2a921700dfb11e9c8b705c88"/>
+		<rom name="u5.bin" size="524288" crc="4cc65f5e" sha1="eebad4c1bf761f08cacbf8c75e7f7bd421ee65ca"/>
+		<rom name="u6.bin" size="524288" crc="d84b7c6c" sha1="ba6ab34fb5c61aa1a97159b7aa3d89e978fb0538"/>
+		<rom name="u7.bin" size="524288" crc="656b2125" sha1="ac3874e71ec0aa4e77ac0d556e4572606ce673c7"/>
+		<rom name="u8.bin" size="524288" crc="944df309" sha1="ee85f6dbfe970b63943d01d9f8b491717a4d5a71"/>
+		<rom name="u9.bin" size="4194304" crc="aaaf2ca9" sha1="b9e59590daf4cdee4b1deeb6d4ecc80eb12a2e18"/>
+	</game>
+
+	<game name="sailormn" sourcefile="cave.c">
+		<description>Pretty Soldier Sailor Moon (95/03/22B)</description>
+		<year>1995</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb"/>
+		<rom name="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c"/>
+		<rom name="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51"/>
+		<rom name="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229"/>
+		<rom name="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b"/>
+		<rom name="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d"/>
+		<rom name="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd"/>
+		<rom name="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4"/>
+		<rom name="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a"/>
+		<rom name="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239"/>
+		<rom name="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073"/>
+		<rom name="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f"/>
+		<rom name="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e"/>
+		<rom name="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b"/>
+		<rom name="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212"/>
+		<rom name="bpsm945a.u45" size="524288" crc="898c9515" sha1="0fe8d7f13f5cfe2f6e79a0a21b2e8e7e70e65c4b"/>
+		<rom name="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14"/>
+	</game>
+
+	<game name="sailormo" sourcefile="cave.c" cloneof="sailormn" romof="sailormn">
+		<description>Pretty Soldier Sailor Moon (95/03/22)</description>
+		<year>1995</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="bpsm.u46" merge="bpsm.u46" size="2097152" crc="32084e80" sha1="0ac503190d95009620b5ad7e7e0e63324f6fa4eb"/>
+		<rom name="bpsm.u47" merge="bpsm.u47" size="524288" crc="0f2901b9" sha1="ebd3e9e39e8d2bc91688dac19b99548a28b4733c"/>
+		<rom name="bpsm.u48" merge="bpsm.u48" size="2097152" crc="498e4ed1" sha1="28d45a41702d9e5af4e214c1800b2e513ec84d51"/>
+		<rom name="bpsm.u53" merge="bpsm.u53" size="2097152" crc="b9b15f83" sha1="8c574c97d38fb9e2889648c8d677b171e80a4229"/>
+		<rom name="bpsm.u54" merge="bpsm.u54" size="2097152" crc="8f00679d" sha1="4ea412f8ecdb9fd46f2d1378809919d1a62fcc2b"/>
+		<rom name="bpsm.u57" merge="bpsm.u57" size="2097152" crc="86be7b63" sha1="6b7d3d41fb1e4045c765b3cc98304464d91e6e3d"/>
+		<rom name="bpsm.u58" merge="bpsm.u58" size="2097152" crc="e0bba83b" sha1="9e1434814efd9321b2e5210b995d2fe66cca37dd"/>
+		<rom name="bpsm.u60" merge="bpsm.u60" size="2097152" crc="992468c0" sha1="3c66cc08313a9a326badc44f53a98cdfe0643da4"/>
+		<rom name="bpsm.u61" merge="bpsm.u61" size="2097152" crc="6a014b52" sha1="107c687479b59c455fc514cd61d290853c95ad9a"/>
+		<rom name="bpsm.u62" merge="bpsm.u62" size="2097152" crc="a1e3bfac" sha1="4528887d57e519df8dd60b2392db4c175c57b239"/>
+		<rom name="bpsm.u63" merge="bpsm.u63" size="2097152" crc="d57a56b4" sha1="e039b336887b66eba4e0630a3cb04cbd8fe14073"/>
+		<rom name="bpsm.u64" merge="bpsm.u64" size="2097152" crc="6559d31c" sha1="bf688123a4beff625652cc1844bf0dc192f5c90f"/>
+		<rom name="bpsm.u65" merge="bpsm.u65" size="2097152" crc="f60fb7b5" sha1="72cb8908cd687a330e14657664cd35037a52c39e"/>
+		<rom name="bpsm.u76" merge="bpsm.u76" size="2097152" crc="a243a5ba" sha1="3a32d685e53e0b75977f7acb187cf414a50c7f8b"/>
+		<rom name="bpsm.u77" merge="bpsm.u77" size="2097152" crc="5179a4ac" sha1="ceb8d3d889aae885debb2c9cf2263f60be3f1212"/>
+		<rom name="bpsm945a.u9" merge="bpsm945a.u9" size="524288" crc="438de548" sha1="81a0ca1cd662e2017aa980da162d39cfd0a19f14"/>
+		<rom name="smprg.u45" size="524288" crc="234f1152" sha1="8fc6d4a8995d550862d328011d3357c09334f0fa"/>
+	</game>
+
+	<game name="sdgndmps" sourcefile="dcon.c">
+		<description>SD Gundam Psycho Salamander no Kyoui</description>
+		<year>1991</year>
+		<manufacturer>Banpresto / Bandai</manufacturer>
+		<rom name="911-a01.25" size="131072" crc="3362915d" sha1="d98e2d4de402ca549664e148c9a6fe94fccfd5e9"/>
+		<rom name="911-a02.29" size="131072" crc="fbc78285" sha1="85d40b0e7bb923a0daacbd78ce7d5bb9c80b9ffc"/>
+		<rom name="911-a03.27" size="131072" crc="6c24b4f2" sha1="e9fb82884f47694bebcad9254cb57a0b01dcd9c8"/>
+		<rom name="911-a04.28" size="131072" crc="6ff9d716" sha1="303faec19a84afd6cbcf3ca5d4877693c11d406e"/>
+		<rom name="911-a05.010" size="65536" crc="90455406" sha1="dd2c5b96ac4b51251a3d34d97cc9af360afaa38c"/>
+		<rom name="911-a06.97" size="262144" crc="12c79440" sha1="9e9987527f64dfd8a51a2ab49afc465e76c5e7ac"/>
+		<rom name="911-a07.73" size="65536" crc="6f40d4a9" sha1="8abadb2dc07ac22081b2970358e9f92b90b174b0"/>
+		<rom name="911-a08.66" size="65536" crc="e7e04823" sha1="d9b1ace5cd8218d5a4767cf5adbc267dce7c0668"/>
+		<rom name="911-a09.74" size="1048576" crc="98f34519" sha1="20319d546df104485ee553ce0e58364f927d1135"/>
+		<rom name="911-a10.73" size="1048576" crc="80e341fb" sha1="619e71aefd0b13a01a6a2ed5d8613fe56242d209"/>
+		<rom name="911-a11.65" size="524288" crc="3f3b7810" sha1="0761c5fb0802fdd2ee7523f1f4e5cfb2c7a6fce6"/>
+		<rom name="911-a12.63" size="524288" crc="8976bbb6" sha1="6f510d6506e54ddec7119d85dcc0a169d4901983"/>
+		<rom name="911-a13.64" size="1048576" crc="f38a584a" sha1="16dd8e7086949d14e9185c37313290024d6dafdc"/>
+		<rom name="bnd-007.88" size="512" crc="96f7646e" sha1="400a831b83d6ac4d2a46ef95b97b1ee237099e44"/>
+	</game>
+
+	<game name="sdgndmrb" sourcefile="legionna.c">
+		<description>SD Gundam Sangokushi Rainbow Tairiku Senki</description>
+		<year>1993</year>
+		<manufacturer>Banpresto</manufacturer>
+		<rom name="copx-d2.313" size="262144" crc="a6732ff9" sha1="c4856ec77869d9098da24b1bb3d7d58bb74b4cda"/>
+		<rom name="rb-ad.922" size="131072" crc="a364cb42" sha1="c527b39a1627ecee20a2c4df4cf2b5f2ba729081"/>
+		<rom name="rb-bg-01.618" size="1048576" crc="6a4ca7e7" sha1="13612d29f8f04cf62b4357b69b81240dd1eceae4"/>
+		<rom name="rb-bg-2.619" size="1048576" crc="a9b5c85e" sha1="0ae044e05730e8080d94f1f6758f8dd051b03c41"/>
+		<rom name="rb-f1.620" size="65536" crc="792c403d" sha1="3c606af696fe8f3d6edefdab3940bd5eb341bca9"/>
+		<rom name="rb-f2.615" size="65536" crc="a30e0903" sha1="b9e7646da1ccab6dadaca6beda08125b34946653"/>
+		<rom name="rb-p1.25" size="262144" crc="0995c511" sha1="97fb2bd7d26720552ace25e655fce09ad9a7afd7"/>
+		<rom name="rb-p2.24" size="262144" crc="c9eb756f" sha1="88d784a71bfab4f321d3320aed1b6b2648529979"/>
+		<rom name="rb-p3.26" size="262144" crc="fe2f08a8" sha1="bb95e5c113a0343b6da43c5dca1292601dec00eb"/>
+		<rom name="rb-p4.23" size="262144" crc="f558962a" sha1="fcfb6f2cba59effd14c76602b0f87f564235d8ef"/>
+		<rom name="rb-s.016" size="65536" crc="8439bf5b" sha1="089009b91768d64edef6639e7694723d2d1c46ff"/>
+		<rom name="rb-spr01.748" size="1048576" crc="11a3479d" sha1="4d2d06d62da02c6e9884735de8c319f37ca1715c"/>
+		<rom name="rb-spr23.756" size="1048576" crc="fd08a761" sha1="3297a2bfaabef17ed9320e24e9a4ffa2f3eb3a44"/>
+	</game>
+
+	<game name="suprslam" sourcefile="suprslam.c">
+		<description>Super Slams</description>
+		<year>1995</year>
+		<manufacturer>Banpresto / Toei Animation</manufacturer>
+		<rom name="eb26_100.bin" size="2097152" crc="c2ee5eb6" sha1="4b61e77a0d0f38b542d5e32fa25799a4c85bf651"/>
+		<rom name="eb26_101.bin" size="2097152" crc="7df654b7" sha1="3a5ed6ee7cc31566e908b835a065e9bce60389fb"/>
+		<rom name="eb26ic09.bin" size="2097152" crc="5a415365" sha1="a59a4ab231980b0540e9a8356a02530217779dbd"/>
+		<rom name="eb26ic10.bin" size="2097152" crc="a04f3140" sha1="621ff823d93fecdde801912064ac951727b71677"/>
+		<rom name="eb26ic12.bin" size="2097152" crc="14561bd7" sha1="5f69f68a305aba9acb21b844c8aa5b1de60f89ff"/>
+		<rom name="eb26ic36.bin" size="2097152" crc="92019d89" sha1="dbf6f8384341707996e4b9e07a3d4f536cf4905b"/>
+		<rom name="eb26ic38.bin" size="131072" crc="153f2c50" sha1="b70f248cfb18239fcd26e36fb36159f219debf2c"/>
+		<rom name="eb26ic43.bin" size="2097152" crc="9dfb0959" sha1="ba479192a422a55efcf8aa7ff995c914525b4a56"/>
+		<rom name="eb26ic47.bin" size="524288" crc="8d051fd8" sha1="1820209306116e5b09cc10a8b3661d232c688b24"/>
+		<rom name="eb26ic59.bin" size="1048576" crc="4ae4095b" sha1="62b0600b18febb6cecb6370b03a2d6b7756840a2"/>
+		<rom name="eb26ic66.bin" size="2097152" crc="8cb33682" sha1="0e6189ef0673227d35b9a154e333cc6cf9b65df6"/>
+		<rom name="eb26ic73.bin" size="524288" crc="ca4ad383" sha1="143ee475761fa54d5b3a9f4e3fb3acc8408972fd"/>
+	</game>
+
+	<game name="ultraman" sourcefile="ultraman.c">
+		<description>Ultraman (Japan)</description>
+		<year>1991</year>
+		<manufacturer>Banpresto/Bandai</manufacturer>
+		<rom name="910-a05.d05" size="32768" crc="ebaef189" sha1="73e6163466d55ae782f55839ba9c98f06c30876b"/>
+		<rom name="910-a06.c06" size="262144" crc="28fa99c9" sha1="54663d79ee105ac18d6ba01333a52e3732f2e5fe"/>
+		<rom name="910-a07.j15" size="131072" crc="8b43a64e" sha1="e373d0fd88b59fb01782dfaeccb1e13673a35766"/>
+		<rom name="910-a08.j16" size="131072" crc="c3829826" sha1="0d383a7afac2a3b5da692375a2b2cd675848861a"/>
+		<rom name="910-a09.j18" size="131072" crc="ee10b519" sha1="a34bd7d89bb8a19af7252ed96ffce212788c586b"/>
+		<rom name="910-a10.j19" size="131072" crc="cffbb0c3" sha1="e9ebe350289f0436de10a6289b04eed3b6a9f98e"/>
+		<rom name="910-a11.l15" size="131072" crc="17a5581d" sha1="aca5d465a0e181a266a165aeb0112a4696b0cd18"/>
+		<rom name="910-a12.l16" size="131072" crc="39763fb5" sha1="0e1795af4bae545a0a2be265398837fb2d623232"/>
+		<rom name="910-a13.l18" size="131072" crc="66b25a4f" sha1="954552b005582c90d570ae32c715108ec4b088f1"/>
+		<rom name="910-a14.l19" size="131072" crc="09fbd412" sha1="d11587db7b03f3a75ad8964523bb34f4453bbaca"/>
+		<rom name="910-a15.m15" size="131072" crc="6d5bfbb7" sha1="e98c594446b506cb32cc5cc958d2f0de22ebed5e"/>
+		<rom name="910-a16.m16" size="131072" crc="5f6f8c3d" sha1="e365836d2263f36aa4602f0618bf7ce693d2e106"/>
+		<rom name="910-a17.m18" size="131072" crc="1f3ec4ff" sha1="875f53516f47decc4ce31154cf4694c8429ee4ea"/>
+		<rom name="910-a18.m19" size="131072" crc="fdc42929" sha1="079827c1b1a3c32f8547dd91bba8ae37034c16be"/>
+		<rom name="910-a19.l04" size="524288" crc="2dc9ffdc" sha1="aa34247c82d48c8d13f5209be292127938a4a682"/>
+		<rom name="910-a20.l01" size="524288" crc="a4298dce" sha1="62faf8f0c0490a9562b75ce27909fbee6e84b22a"/>
+		<rom name="910-a21.f14" size="256" crc="64460fbc" sha1="b5295e1d3303d5d816ad44da7b011bbfa613f9e4"/>
+		<rom name="910-b01.c11" size="131072" crc="3d9e4323" sha1="54ee218c9be1ac029836624839d0845b39e6e30f"/>
+		<rom name="910-b02.d11" size="131072" crc="d24c82e9" sha1="e792e2601e235939546fe98d52bfafe5a95b3491"/>
+	</game>
+
+	<game name="ultrax" sourcefile="ssv.c">
+		<description>Ultra X Weapons / Ultra Keibitai</description>
+		<year>1995</year>
+		<manufacturer>Banpresto + Tsuburaya Prod.</manufacturer>
+		<rom name="71047-01.u73" size="2097152" crc="66662b08" sha1="0cb683e5f85ffe21bd3367af4d3e48a484dbd4c3"/>
+		<rom name="71047-02.u74" size="1048576" crc="6b00dc0c" sha1="6af8ceed72d13f9979175c0d907a4a8c127ca1ad"/>
+		<rom name="71047-03.u76" size="2097152" crc="00fcd6c2" sha1="61d13cbafbc0fd6ff62cd08aa88591ed0fd0b182"/>
+		<rom name="71047-04.u77" size="1048576" crc="d9e710d1" sha1="063459a247f9ff81cb558802e9943b3ea8a2ea3a"/>
+		<rom name="71047-05.u75" size="2097152" crc="10848193" sha1="40b7ebb6011dc703bbf620cd22cd678c10ec67a4"/>
+		<rom name="71047-06.u88" size="1048576" crc="b8ac2942" sha1="3e85e8f5669d469dd3114455248546d32a642315"/>
+		<rom name="71047-07.u59" size="2097152" crc="d9828b62" sha1="f66a388d7a00b3a45d386671c061f5b840453451"/>
+		<rom name="71047-08.u60" size="2097152" crc="30ebff6d" sha1="53824c1fc37e22b545fd68b59722f7968f0ca1e2"/>
+		<rom name="71047-09.u65" size="524288" crc="08ea8d91" sha1="5d2672f6c96fbbe9d80bd6539c1400b62745892a"/>
+		<rom name="71047-10.u63" size="524288" crc="7c79faf9" sha1="40c1420eeae355efa628bbcfd69e0dd18d343fd9"/>
+		<rom name="71047-11.u64" size="524288" crc="593b2678" sha1="3b24b59a21386a4688502c5f0a2dd4eb0ec92544"/>
+		<rom name="71047-12.u62" size="524288" crc="76a77ab2" sha1="0cf2f293defc23c807556ff92ea99f963fafed40"/>
+	</game>
+
+	<game name="utoukond" sourcefile="seta.c">
+		<description>Ultra Toukon Densetsu (Japan)</description>
+		<year>1993</year>
+		<manufacturer>Banpresto + Tsuburaya Prod.</manufacturer>
+		<rom name="93uta009.112" size="65536" crc="67f18483" sha1="d9af58dec09c317ccab65553d53d82c8cce2bfb9"/>
+		<rom name="93uta01.200" size="1048576" crc="364de841" sha1="a025bd57f60eac05c0d7b4fb69b4b4979f357e6b"/>
+		<rom name="93uta010.3" size="524288" crc="c486ef5e" sha1="36e4ef4805d543216269f1161028d8a436f72284"/>
+		<rom name="93uta011.4" size="524288" crc="978978f7" sha1="a7fd3a4ce3a7c6c9d9bdd60df29b4f427abf4f92"/>
+		<rom name="93uta02.201" size="1048576" crc="884fedfa" sha1="3710003bd2e55bba03e2720fcab0fe080163222d"/>
+		<rom name="93uta03.63" size="1048576" crc="818484a5" sha1="642252abe56e26aa8376db2e25b192b11586d1e4"/>
+		<rom name="93uta04.64" size="1048576" crc="9cba0538" sha1="83278918b6ad160d3e53c178b3cad252e7b0edfb"/>
+		<rom name="93uta05.66" size="1048576" crc="5e640bfb" sha1="37f30ae6ab9d7860da6ca6a343fa9adf4b3d355c"/>
+		<rom name="93uta06.67" size="1048576" crc="294c26e4" sha1="459ec7f8c8db4f1e3906d5db240298405bda991c"/>
+		<rom name="93uta07.68" size="1048576" crc="67bdd036" sha1="527b6a67e7a62263bee738dc82d6ff289ab54853"/>
+		<rom name="93uta08.69" size="1048576" crc="3d50bbcd" sha1="e9b78d08466e1f9b42f11999bb53b6deceb81a12"/>
+	</game>
+
+</datafile>

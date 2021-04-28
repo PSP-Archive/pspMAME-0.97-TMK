@@ -1,0 +1,571 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MAME</name>
+		<description>MAME 0.97 (Jun 2 2005)</description>
+		<category>Emulation</category>
+		<version>0.97</version>
+		<date>02/06/2005</date>
+		<author>AntoPISA</author>
+		<email>progettosnaps@gmail.com</email>
+		<homepage>http://www.progettosnaps.net/</homepage>
+		<url>http://www.progettosnaps.net/dats/MAME/</url>
+		<comment>-not specified-</comment>
+		<clrmamepro/>
+	</header>
+
+	<game name="acrobatm" sourcefile="nmk16.c">
+		<description>Acrobat Mission</description>
+		<year>1991</year>
+		<manufacturer>UPL (Taito license)</manufacturer>
+		<rom name="01_ic101.bin" size="131072" crc="17175753" sha1="738865744badb78a0414ff650a94b97e516d0ea0"/>
+		<rom name="02_ic100.bin" size="131072" crc="3fe487f4" sha1="29aba5debcfddff14e584a1c7c5a403e85fc6ec0"/>
+		<rom name="03_ic79.bin" size="65536" crc="d86c186e" sha1="2e263d4780f2ba7acc7faa88472c85216fbae6a3"/>
+		<rom name="04_ic74.bin" size="65536" crc="176905fb" sha1="135a184f44bedd93b293b9124fa0bd725e0ee93b"/>
+		<rom name="05_ic54.bin" size="524288" crc="3b8c2b0e" sha1="72491da32512823540b67dc5027f21c74af08c7d"/>
+		<rom name="06_ic53.bin" size="524288" crc="c1517cd4" sha1="5a91ddc608c7a6fbdd9f93e503d39eac02ef04a4"/>
+		<rom name="07_ic42.bin" size="1048576" crc="5672bdaa" sha1="5401a104d72904de19b73125451767bc63d36809"/>
+		<rom name="08_ic29.bin" size="524288" crc="b4c0ace3" sha1="5d638781d588cfbf4025d002d5a2309049fe1ee5"/>
+		<rom name="09_ic8.bin" size="1048576" crc="7c12afed" sha1="ae793e41599355a126cbcce91cd2c9f212d21853"/>
+		<rom name="10_ic81.bin" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="11_ic80.bin" size="256" crc="633ab1c9" sha1="acd99fcca41eaab7948ca84988352f1d7d519c61"/>
+	</game>
+
+	<game name="arkarea" sourcefile="mnight.c">
+		<description>Ark Area</description>
+		<manufacturer>UPL</manufacturer>
+		<rom name="arkarea.001" size="65536" crc="09d11ab7" sha1="14f68e93e7173069f790493eafe9e1adc1a074cc"/>
+		<rom name="arkarea.002" size="65536" crc="051d3482" sha1="3ebef1a7280f52df6d5ee34e3d4e7567aac0c165"/>
+		<rom name="arkarea.003" size="65536" crc="6f45a308" sha1="b6994fe1f50d5e9cf38d3efbd69a2c5f76f33c56"/>
+		<rom name="arkarea.004" size="32768" crc="69e36af2" sha1="2bccef8f396dcb5261af0140af04c95ee8ecae11"/>
+		<rom name="arkarea.005" size="65536" crc="9886004d" sha1="4050756af5c00ab1a368780fe091460fd9e2cb05"/>
+		<rom name="arkarea.006" size="65536" crc="2c0567d6" sha1="f36a2a3ff487660f89470516617482331f008da0"/>
+		<rom name="arkarea.007" size="65536" crc="d5684a27" sha1="4961e8a5df2510afb1ef3e937d0a5d52e91893a3"/>
+		<rom name="arkarea.008" size="32768" crc="1ce1b5b9" sha1="ab7755523d58736b124deb59779dedee870fd7d2"/>
+		<rom name="arkarea.009" size="32768" crc="db1c81d1" sha1="64a2f51c218d84c4eaeb8c5a5a3f0f4cdf5d174c"/>
+		<rom name="arkarea.010" size="32768" crc="5a460dae" sha1="e64d3662bb074a528cd71061621c0dd3765928b6"/>
+		<rom name="arkarea.011" size="32768" crc="63f022c9" sha1="414f52d2b9584f08285b261d1dafcc9e6e5e0c74"/>
+		<rom name="arkarea.012" size="32768" crc="3c4c65d5" sha1="e11f840f8b1da0933a0a4342f5fa1a17f0d6d3e2"/>
+		<rom name="arkarea.013" size="32768" crc="2d409d58" sha1="6344b43db5459691728c3f843b643c84ea71dd8e"/>
+	</game>
+
+	<game name="bioship" sourcefile="nmk16.c">
+		<description>Bio-ship Paladin</description>
+		<year>1990</year>
+		<manufacturer>UPL (American Sammy license)</manufacturer>
+		<rom name="1" size="131072" crc="820ef303" sha1="d2ef29557b05abf8ae79a2c7ce0d15a91b36eeff"/>
+		<rom name="2" size="131072" crc="acf56afb" sha1="0e8ec494ab406cfee24cf586059878332265de75"/>
+		<rom name="6" size="65536" crc="5f39a980" sha1="2a440f86685249f9c317634cad8cdedc8a8f1491"/>
+		<rom name="7" size="65536" crc="2f3f5a10" sha1="c1006eb755eec75f69dc7972d78d0c59088eb140"/>
+		<rom name="8" size="65536" crc="75a46fea" sha1="3d78cfc482b42779bb5aedb722c4a39cbc71bd10"/>
+		<rom name="9" size="65536" crc="d91448ee" sha1="7f84ca3605edcab4bf226dab8dd7218cd5c3e5a4"/>
+		<rom name="sbs-g.01" size="524288" crc="21302e78" sha1="a17939c0529c8e9ec2a4edd5e6be4bcb67f86787"/>
+		<rom name="sbs-g.02" size="524288" crc="f31eb668" sha1="67d6d56ea203edfbae4db658399bf61f14134206"/>
+		<rom name="sbs-g.03" size="524288" crc="60e00d7b" sha1="36fd02a7842ce1e79b8c4cfbe9c97052bef4aa62"/>
+		<rom name="sbs-g.04" size="524288" crc="7c74cc4e" sha1="92097b372eacabdb9e8e261b0bc4223821ff9273"/>
+		<rom name="sbs-g.05" size="524288" crc="f0a782e3" sha1="d572226b8e597f1c34d246cb284e047a6e2d9290"/>
+	</game>
+
+	<game name="blkhearj" sourcefile="nmk16.c" cloneof="blkheart" romof="blkheart">
+		<description>Black Heart (Japan)</description>
+		<year>1991</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="10.bpr" merge="10.bpr" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="3.bin" merge="3.bin" size="131072" crc="a1ab3a16" sha1="3fb57c9d2ef94ee188cbadd70378ae6f4407e71d"/>
+		<rom name="4.bin" merge="4.bin" size="65536" crc="7cefa295" sha1="408f46613b3620cee31dec43281688d231b47ddd"/>
+		<rom name="6.bin" size="131072" crc="7cce45e8" sha1="72491e30d1f9be2eede21fdde5a7484d4f65cfbf"/>
+		<rom name="7.bin" size="131072" crc="e0a5c667" sha1="3ef39b2dc1f7ffdddf586f0b3080ecd1f362ec37"/>
+		<rom name="9.bpr" merge="9.bpr" size="256" crc="98ed1c97" sha1="f125ad05c3cbd1b1ab356161f9b1d814781d4c3b"/>
+		<rom name="90068-1.bin" merge="90068-1.bin" size="524288" crc="e7af69d2" sha1="da050880e186954bcf0e0adf00750dd5a371551b"/>
+		<rom name="90068-2.bin" merge="90068-2.bin" size="524288" crc="3a583184" sha1="9226f1ea7725e4b48bb055d1c17389cf960d75f8"/>
+		<rom name="90068-5.bin" merge="90068-5.bin" size="1048576" crc="a1ab4f24" sha1="b9f8104d53eda87ccd4000d049ee74ac9aa20b3e"/>
+		<rom name="90068-8.bin" merge="90068-8.bin" size="1048576" crc="9d3204b2" sha1="b37a246ad37f9ce092b371f01122ddf2bc8b2db6"/>
+	</game>
+
+	<game name="blkheart" sourcefile="nmk16.c">
+		<description>Black Heart</description>
+		<year>1991</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="10.bpr" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="3.bin" size="131072" crc="a1ab3a16" sha1="3fb57c9d2ef94ee188cbadd70378ae6f4407e71d"/>
+		<rom name="4.bin" size="65536" crc="7cefa295" sha1="408f46613b3620cee31dec43281688d231b47ddd"/>
+		<rom name="9.bpr" size="256" crc="98ed1c97" sha1="f125ad05c3cbd1b1ab356161f9b1d814781d4c3b"/>
+		<rom name="90068-1.bin" size="524288" crc="e7af69d2" sha1="da050880e186954bcf0e0adf00750dd5a371551b"/>
+		<rom name="90068-2.bin" size="524288" crc="3a583184" sha1="9226f1ea7725e4b48bb055d1c17389cf960d75f8"/>
+		<rom name="90068-5.bin" size="1048576" crc="a1ab4f24" sha1="b9f8104d53eda87ccd4000d049ee74ac9aa20b3e"/>
+		<rom name="90068-8.bin" size="1048576" crc="9d3204b2" sha1="b37a246ad37f9ce092b371f01122ddf2bc8b2db6"/>
+		<rom name="blkhrt.6" size="131072" crc="6449e50d" sha1="d8cd126d921c95478346da96c20da01212395d77"/>
+		<rom name="blkhrt.7" size="131072" crc="5bd248c0" sha1="0649f4f8682404aeb3fc80643fcabc2d7836bb23"/>
+	</game>
+
+	<game name="mnight" sourcefile="mnight.c">
+		<description>Mutant Night</description>
+		<year>1987</year>
+		<manufacturer>UPL (Kawakus license)</manufacturer>
+		<rom name="mn1-j7.bin" size="65536" crc="a0782a31" sha1="8abd2f0b0c2c2eb876f324f7a095a5cdc773c187"/>
+		<rom name="mn10-b10.bin" size="32768" crc="37b8221f" sha1="ac86e0ae8039fd30a028a893d08ce099f7765615"/>
+		<rom name="mn11-b20.bin" size="65536" crc="4d37e0f4" sha1="a6d9aaccd97769197622cda45474e223c2ee1d98"/>
+		<rom name="mn12-b22.bin" size="65536" crc="b22cbbd3" sha1="70984f1051fd236730d97011bc87dacb3ca38594"/>
+		<rom name="mn13-b23.bin" size="65536" crc="65714070" sha1="48f3c130c97d00e8f0535904dc2237277067c475"/>
+		<rom name="mn2-j12.bin" size="32768" crc="9c391d1b" sha1="06e8c202337e3eba38c479e8b7e29a3f8ffc4ed1"/>
+		<rom name="mn3-j14.bin" size="32768" crc="df6a4f7a" sha1="ce3cb84b514220d686b12c03567289fd23da0fe1"/>
+		<rom name="mn4-j16.bin" size="32768" crc="c5e42bb4" sha1="1956e737ae393e987cb7e8eae520518f1e0f597f"/>
+		<rom name="mn5-j17.bin" size="32768" crc="2a73f88e" sha1="0a7b769174f2b976650453d808cb23668dff0260"/>
+		<rom name="mn6-j19.bin" size="32768" crc="56678d14" sha1="acf3a97ca29db8ab9cad69599c5567464af3ae44"/>
+		<rom name="mn7-e11.bin" size="65536" crc="4883059c" sha1="53d4b9b0f0725c25e302ee1549a306778ec74d85"/>
+		<rom name="mn8-e12.bin" size="65536" crc="02b91445" sha1="f0cf85f9e17c40248de16bca8df6d745e359b92d"/>
+		<rom name="mn9-e14.bin" size="65536" crc="9f08d160" sha1="1a0041ad138e7e6598d4d03d7cbd52a7244557ac"/>
+	</game>
+
+	<game name="mouser" sourcefile="mouser.c">
+		<description>Mouser</description>
+		<year>1983</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="bprom.4b" size="256" crc="dd233851" sha1="25eab1ec2227910c6fcd2803986f1cf206624da7"/>
+		<rom name="bprom.4c" size="256" crc="60aaa686" sha1="bb2ad555da51f6b30ab8b55833fe8d461a1e67f4"/>
+		<rom name="bprom.5u" size="32" crc="0086feed" sha1="b0b368e5fb7380cf09abd60c0933b405daf1c36a"/>
+		<rom name="bprom.5v" size="32" crc="7f8930b2" sha1="8d0fe14b770fcf7088696d7b80d64507c6ee7364"/>
+		<rom name="m0.5e" size="8192" crc="b56e00bc" sha1="f3b23212590d91f1d19b1c7a98c560fbe5943185"/>
+		<rom name="m1.5f" size="8192" crc="ae375d49" sha1="8422f5a4d8560425f0c8612cf6f76029fcfe267c"/>
+		<rom name="m2.5j" size="8192" crc="ef5817e4" sha1="5cadc19f20fadf97c95852b280305fe4c75f1d19"/>
+		<rom name="m3.11h" size="8192" crc="aca2834e" sha1="c4f457fd8ea46386431ef8dffe54a232631870be"/>
+		<rom name="m4.11k" size="8192" crc="943ab2e2" sha1="ef9fc31dc8fe7a62f7bc6c817ce0d65091cb9a03"/>
+		<rom name="m5.3v" size="4096" crc="50705eec" sha1="252cea3498722318638f0c98ae929463ffd7d0d6"/>
+	</game>
+
+	<game name="mustang" sourcefile="nmk16.c">
+		<description>US AAF Mustang (Japan)</description>
+		<year>1990</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="10.bpr" size="256" crc="633ab1c9" sha1="acd99fcca41eaab7948ca84988352f1d7d519c61"/>
+		<rom name="2.bin" size="131072" crc="bd9f7c89" sha1="a0af46a8ff82b90bece2515e1bd74e7a7ddf5379"/>
+		<rom name="3.bin" size="131072" crc="0eec36a5" sha1="c549fbcd3e2741a6d0f2633ded6a85909d37f633"/>
+		<rom name="90058-1" size="131072" crc="81ccfcad" sha1="70a0f769c0d4588f6f17bd52cc86a745f30e9f00"/>
+		<rom name="90058-11" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="90058-4" size="524288" crc="a07a2002" sha1="55720d84a251c33c52ae8c33aa41ff8ac9727941"/>
+		<rom name="90058-5" size="524288" crc="c60c883e" sha1="8a01950cad820b2e781ec81cd12737829edc4f19"/>
+		<rom name="90058-6" size="524288" crc="233c1776" sha1="7010a2f914611698a65bf4f22bc1753a9ed26277"/>
+		<rom name="90058-7" size="65536" crc="920a93c8" sha1="7660ca419e2fd98848ae7f5994994eaed023151e"/>
+		<rom name="90058-8" size="524288" crc="560bff04" sha1="b005642adc81d878971ecbdead8ef5e604c90ae2"/>
+		<rom name="90058-9" size="524288" crc="b9d72a03" sha1="43ee9def1b6c491c6832562d66c1af54d81d9b3c"/>
+	</game>
+
+	<game name="mustangs" sourcefile="nmk16.c" cloneof="mustang" romof="mustang">
+		<description>US AAF Mustang (Seoul Trading)</description>
+		<year>1990</year>
+		<manufacturer>UPL (Seoul Trading license)</manufacturer>
+		<rom name="90058-1" merge="90058-1" size="131072" crc="81ccfcad" sha1="70a0f769c0d4588f6f17bd52cc86a745f30e9f00"/>
+		<rom name="90058-10" size="256" crc="de156d99" sha1="07b70deca74e23bab7c13e5e9aee32d0dbb06509"/>
+		<rom name="90058-11" merge="90058-11" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="90058-2" size="131072" crc="833aa458" sha1="a9924f7044397e3a36c674b064173ffae80a79ec"/>
+		<rom name="90058-3" size="131072" crc="e4b80f06" sha1="ce589cebb5ea85c89eb44796b821a4bd0c44b9a8"/>
+		<rom name="90058-4" merge="90058-4" size="524288" crc="a07a2002" sha1="55720d84a251c33c52ae8c33aa41ff8ac9727941"/>
+		<rom name="90058-5" merge="90058-5" size="524288" crc="c60c883e" sha1="8a01950cad820b2e781ec81cd12737829edc4f19"/>
+		<rom name="90058-6" merge="90058-6" size="524288" crc="233c1776" sha1="7010a2f914611698a65bf4f22bc1753a9ed26277"/>
+		<rom name="90058-7" merge="90058-7" size="65536" crc="920a93c8" sha1="7660ca419e2fd98848ae7f5994994eaed023151e"/>
+		<rom name="90058-8" merge="90058-8" size="524288" crc="560bff04" sha1="b005642adc81d878971ecbdead8ef5e604c90ae2"/>
+		<rom name="90058-9" merge="90058-9" size="524288" crc="b9d72a03" sha1="43ee9def1b6c491c6832562d66c1af54d81d9b3c"/>
+	</game>
+
+	<game name="ninjak2a" sourcefile="ninjakd2.c" cloneof="ninjakd2" romof="ninjakd2">
+		<description>Ninja-Kid II (set 2)</description>
+		<year>1987</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="nk2_01.bin" size="32768" crc="e6adca65" sha1="33d483dde0853f37455cde32b461f4e919601b4b"/>
+		<rom name="nk2_02.bin" size="32768" crc="d9284bd1" sha1="e790fb1a718a1f7997931f2f390fe053655f231d"/>
+		<rom name="nk2_03.rom" merge="nk2_03.rom" size="32768" crc="ad275654" sha1="7d29a17132adb19aeee9b98be5b76bd6e91f308e"/>
+		<rom name="nk2_04.rom" merge="nk2_04.rom" size="32768" crc="e7692a77" sha1="84beb8b02c564bffa9cc00313214e8f109bd40f9"/>
+		<rom name="nk2_05.bin" size="32768" crc="960725fb" sha1="160c8bfaf089cbeeef2023f12379793079bff93b"/>
+		<rom name="nk2_06.bin" size="65536" crc="7bfe6c9e" sha1="aef8cbeb0024939bf65f77113a5cf777f6613722"/>
+		<rom name="nk2_07.rom" merge="nk2_07.rom" size="65536" crc="0be5cd13" sha1="8f94a8fef6668aaf13329715fee81302dbd6c685"/>
+		<rom name="nk2_08.rom" merge="nk2_08.rom" size="65536" crc="1b79c50a" sha1="8954bc51cb9fbbe16b09381f35c84ccc56a803f3"/>
+		<rom name="nk2_09.rom" merge="nk2_09.rom" size="65536" crc="c1d2d170" sha1="0f325815086fde90fd85360d3660042b0b68ba96"/>
+		<rom name="nk2_10.rom" merge="nk2_10.rom" size="65536" crc="c913c4ab" sha1="f822c5621b3e32c1a284f6367bdcace81c1c74b3"/>
+		<rom name="nk2_11.rom" merge="nk2_11.rom" size="65536" crc="41a714b3" sha1="b05f48d71a9837914c12c13e0b479c8a6dc8c25e"/>
+		<rom name="nk2_12.rom" merge="nk2_12.rom" size="32768" crc="db5657a9" sha1="abbb033edb9a5a0c66ee5981d1e4df1ab334a82d"/>
+	</game>
+
+	<game name="ninjak2b" sourcefile="ninjakd2.c" cloneof="ninjakd2" romof="ninjakd2">
+		<description>Ninja-Kid II (set 3)</description>
+		<year>1987</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="1.3s" size="32768" crc="cb4f4624" sha1="4fc66641adc0a2c0eca332f27c5777df62fa507b"/>
+		<rom name="2.3q" size="32768" crc="0ad0c100" sha1="c5bbc107ba07bd6950bb4d7377e827c084b8229b"/>
+		<rom name="nk2_03.rom" merge="nk2_03.rom" size="32768" crc="ad275654" sha1="7d29a17132adb19aeee9b98be5b76bd6e91f308e"/>
+		<rom name="nk2_04.rom" merge="nk2_04.rom" size="32768" crc="e7692a77" sha1="84beb8b02c564bffa9cc00313214e8f109bd40f9"/>
+		<rom name="nk2_05.rom" merge="nk2_05.rom" size="32768" crc="5dac9426" sha1="0916cddbbe1e93c32b96fe28e145d34b2a892e80"/>
+		<rom name="nk2_06.bin" size="65536" crc="7bfe6c9e" sha1="aef8cbeb0024939bf65f77113a5cf777f6613722"/>
+		<rom name="nk2_07.rom" merge="nk2_07.rom" size="65536" crc="0be5cd13" sha1="8f94a8fef6668aaf13329715fee81302dbd6c685"/>
+		<rom name="nk2_08.rom" merge="nk2_08.rom" size="65536" crc="1b79c50a" sha1="8954bc51cb9fbbe16b09381f35c84ccc56a803f3"/>
+		<rom name="nk2_09.rom" merge="nk2_09.rom" size="65536" crc="c1d2d170" sha1="0f325815086fde90fd85360d3660042b0b68ba96"/>
+		<rom name="nk2_10.rom" merge="nk2_10.rom" size="65536" crc="c913c4ab" sha1="f822c5621b3e32c1a284f6367bdcace81c1c74b3"/>
+		<rom name="nk2_11.rom" merge="nk2_11.rom" size="65536" crc="41a714b3" sha1="b05f48d71a9837914c12c13e0b479c8a6dc8c25e"/>
+		<rom name="nk2_12.rom" merge="nk2_12.rom" size="32768" crc="db5657a9" sha1="abbb033edb9a5a0c66ee5981d1e4df1ab334a82d"/>
+	</game>
+
+	<game name="ninjakd2" sourcefile="ninjakd2.c">
+		<description>Ninja-Kid II (set 1)</description>
+		<year>1987</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="nk2_01.rom" size="32768" crc="3cdbb906" sha1="f48f82528b5fc581ee3b1ccd0ef9cdecc7249bb3"/>
+		<rom name="nk2_02.rom" size="32768" crc="b5ce9a1a" sha1="295a7e1d41e1a8ee45f1250086a0c9314837eded"/>
+		<rom name="nk2_03.rom" size="32768" crc="ad275654" sha1="7d29a17132adb19aeee9b98be5b76bd6e91f308e"/>
+		<rom name="nk2_04.rom" size="32768" crc="e7692a77" sha1="84beb8b02c564bffa9cc00313214e8f109bd40f9"/>
+		<rom name="nk2_05.rom" size="32768" crc="5dac9426" sha1="0916cddbbe1e93c32b96fe28e145d34b2a892e80"/>
+		<rom name="nk2_06.rom" size="65536" crc="d3a18a79" sha1="e4df713f89d8a8b43ef831b14864c50ec9b53f0b"/>
+		<rom name="nk2_07.rom" size="65536" crc="0be5cd13" sha1="8f94a8fef6668aaf13329715fee81302dbd6c685"/>
+		<rom name="nk2_08.rom" size="65536" crc="1b79c50a" sha1="8954bc51cb9fbbe16b09381f35c84ccc56a803f3"/>
+		<rom name="nk2_09.rom" size="65536" crc="c1d2d170" sha1="0f325815086fde90fd85360d3660042b0b68ba96"/>
+		<rom name="nk2_10.rom" size="65536" crc="c913c4ab" sha1="f822c5621b3e32c1a284f6367bdcace81c1c74b3"/>
+		<rom name="nk2_11.rom" size="65536" crc="41a714b3" sha1="b05f48d71a9837914c12c13e0b479c8a6dc8c25e"/>
+		<rom name="nk2_12.rom" size="32768" crc="db5657a9" sha1="abbb033edb9a5a0c66ee5981d1e4df1ab334a82d"/>
+	</game>
+
+	<game name="nov2001u" sourcefile="nova2001.c" cloneof="nova2001" romof="nova2001">
+		<description>Nova 2001 (US)</description>
+		<year>1983</year>
+		<manufacturer>UPL (Universal license)</manufacturer>
+		<rom name="3.6f" merge="3.6f" size="8192" crc="b2849038" sha1="b56c7c03ef7c677cc6df0280a485f9cda3435b23"/>
+		<rom name="4.6g" merge="4.6g" size="4096" crc="6b5bb12d" sha1="74aee3d08a7ee1f98eaec4a4b3062aa9d17948ec"/>
+		<rom name="7.12n" merge="7.12n" size="8192" crc="9ebd8806" sha1="26b6caa0d0a7ae52a182070ecc7bc696c12038b3"/>
+		<rom name="8.12l" merge="8.12l" size="8192" crc="d1b18389" sha1="2d808fee774f1bb4cec42e23cfef36b54eee0efa"/>
+		<rom name="nova2001.1" size="8192" crc="b79461bd" sha1="7fac3313bc76612f66a6518450d0fed32fe70c45"/>
+		<rom name="nova2001.2" size="8192" crc="fab87144" sha1="506703f9d96443839f864ef5bde1a71120f54384"/>
+		<rom name="nova2001.5" size="8192" crc="8ea576e8" sha1="d8dbcfd43aafe25afad7f947a80737cdc55b23d7"/>
+		<rom name="nova2001.6" size="8192" crc="0c61656c" sha1="41c480799798c95543b5a805694e68282b9f563a"/>
+		<rom name="nova2001.clr" merge="nova2001.clr" size="32" crc="a2fac5cd" sha1="ad14aa2be57722d1f48b47171fe72f96091423b6"/>
+	</game>
+
+	<game name="nova2001" sourcefile="nova2001.c">
+		<description>Nova 2001 (Japan)</description>
+		<year>1983</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="1.6c" size="8192" crc="368cffc0" sha1="b756c0542d5b86640af62639bdd0d32f6e364dd3"/>
+		<rom name="2.6d" size="8192" crc="bc4e442b" sha1="6e1dca5dde442db95403377bf49aaad2a337813e"/>
+		<rom name="3.6f" size="8192" crc="b2849038" sha1="b56c7c03ef7c677cc6df0280a485f9cda3435b23"/>
+		<rom name="4.6g" size="4096" crc="6b5bb12d" sha1="74aee3d08a7ee1f98eaec4a4b3062aa9d17948ec"/>
+		<rom name="5.12s" size="8192" crc="54198941" sha1="fe762a0bbcf10b13ece87ded2ea730257cfbe7d3"/>
+		<rom name="6.12p" size="8192" crc="cbd90dca" sha1="7eacde832f5783f4389fb98d6bf6b26dd494665d"/>
+		<rom name="7.12n" size="8192" crc="9ebd8806" sha1="26b6caa0d0a7ae52a182070ecc7bc696c12038b3"/>
+		<rom name="8.12l" size="8192" crc="d1b18389" sha1="2d808fee774f1bb4cec42e23cfef36b54eee0efa"/>
+		<rom name="nova2001.clr" size="32" crc="a2fac5cd" sha1="ad14aa2be57722d1f48b47171fe72f96091423b6"/>
+	</game>
+
+	<game name="omegaf" sourcefile="omegaf.c">
+		<description>Omega Fighter</description>
+		<year>1989</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="1.5" size="131072" crc="57a7fd96" sha1="65ca290b48f8579fcce00db5b3b3f8694667a136"/>
+		<rom name="1back2.15b" size="524288" crc="6210ddcc" sha1="89c091eeafcc92750d0ea303fcde8a8dc3eeba89"/>
+		<rom name="2back1.27b" size="524288" crc="21f8a32e" sha1="26582e06e7381e09443fa99f24ca9edd0b4a2937"/>
+		<rom name="3back3.5f" size="524288" crc="c31cae56" sha1="4cc2d0d70990ca04b0e3abd15e5afe183e98e4ab"/>
+		<rom name="4.18h" size="32768" crc="9e2d8152" sha1="4b50557d171d1b03a870db5891ae67d70858ad37"/>
+		<rom name="6.4l" size="131072" crc="6277735c" sha1="b0f91f0cc51d424a1a7834c126736f24c2e23c17"/>
+		<rom name="7.7m" size="65536" crc="d40fc8d5" sha1="4f615a0fb786cafc20f82f0b5fa112a9c356378f"/>
+		<rom name="8.23m" size="131072" crc="0bd2a5d1" sha1="ef84f1a5554e891fc38d17314e3952ea5c9d2731"/>
+	</game>
+
+	<game name="omegafs" sourcefile="omegaf.c" cloneof="omegaf" romof="omegaf">
+		<description>Omega Fighter Special</description>
+		<year>1989</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="1back2.15b" merge="1back2.15b" size="524288" crc="6210ddcc" sha1="89c091eeafcc92750d0ea303fcde8a8dc3eeba89"/>
+		<rom name="2back1.27b" merge="2back1.27b" size="524288" crc="21f8a32e" sha1="26582e06e7381e09443fa99f24ca9edd0b4a2937"/>
+		<rom name="3back3.5f" merge="3back3.5f" size="524288" crc="c31cae56" sha1="4cc2d0d70990ca04b0e3abd15e5afe183e98e4ab"/>
+		<rom name="4.18h" merge="4.18h" size="32768" crc="9e2d8152" sha1="4b50557d171d1b03a870db5891ae67d70858ad37"/>
+		<rom name="5.3l" size="131072" crc="503a3e63" sha1="73420aecb653cd4fd3b6afe67d6f5726f01411dd"/>
+		<rom name="6.4l" merge="6.4l" size="131072" crc="6277735c" sha1="b0f91f0cc51d424a1a7834c126736f24c2e23c17"/>
+		<rom name="7.7m" merge="7.7m" size="65536" crc="d40fc8d5" sha1="4f615a0fb786cafc20f82f0b5fa112a9c356378f"/>
+		<rom name="8.23m" merge="8.23m" size="131072" crc="0bd2a5d1" sha1="ef84f1a5554e891fc38d17314e3952ea5c9d2731"/>
+	</game>
+
+	<game name="pkunwar" sourcefile="pkunwar.c">
+		<description>Penguin-Kun Wars (US)</description>
+		<manufacturer>UPL</manufacturer>
+		<rom name="pkwar.01r" size="16384" crc="ce2d2c7b" sha1="2ffe2eb339fd668ec4fe90eff66124a334db0693"/>
+		<rom name="pkwar.01y" size="16384" crc="428d3b92" sha1="7fe11e8d785fe829d34e512f233bb9ccc70cd431"/>
+		<rom name="pkwar.02r" size="16384" crc="abc1f661" sha1="c4bf4a345efd4271617de9f334303d81c6885aa5"/>
+		<rom name="pkwar.02y" size="16384" crc="ce1da7bc" sha1="a2357b61703a689ce63aec7dd44702b119894f8e"/>
+		<rom name="pkwar.03r" size="8192" crc="56faebea" sha1="dd0406c723a08f5d1120655857a115ab8c2d2a11"/>
+		<rom name="pkwar.03y" size="16384" crc="63204400" sha1="1ba87ad3425c51150cb65408f04ee0147ef332d3"/>
+		<rom name="pkwar.04y" size="16384" crc="061dfca8" sha1="0a2dd8fc790d607195ca18dfc55575c2b9ddc58a"/>
+		<rom name="pkwar.col" size="32" crc="af0fc5e2" sha1="480908bf893211b580ae19cfb40dc35ad1bbc343"/>
+	</game>
+
+	<game name="pkunwarj" sourcefile="pkunwar.c" cloneof="pkunwar" romof="pkunwar">
+		<description>Penguin-Kun Wars (Japan)</description>
+		<manufacturer>UPL</manufacturer>
+		<rom name="pgunwar.2" size="16384" crc="a2a43443" sha1="4e10569886d364eb2539928ea81dc1565b60b590"/>
+		<rom name="pgunwar.5" size="16384" crc="0092e49e" sha1="7945361036f7679e4f4bb6b94f60f3ca09c077dc"/>
+		<rom name="pgunwar.6" size="16384" crc="357f3ef3" sha1="bc651fb7701b395ae8cda1888814af5c5aa325a6"/>
+		<rom name="pkwar.01y" merge="pkwar.01y" size="16384" crc="428d3b92" sha1="7fe11e8d785fe829d34e512f233bb9ccc70cd431"/>
+		<rom name="pkwar.02y" merge="pkwar.02y" size="16384" crc="ce1da7bc" sha1="a2357b61703a689ce63aec7dd44702b119894f8e"/>
+		<rom name="pkwar.03r" merge="pkwar.03r" size="8192" crc="56faebea" sha1="dd0406c723a08f5d1120655857a115ab8c2d2a11"/>
+		<rom name="pkwar.04y" merge="pkwar.04y" size="16384" crc="061dfca8" sha1="0a2dd8fc790d607195ca18dfc55575c2b9ddc58a"/>
+		<rom name="pkwar.col" merge="pkwar.col" size="32" crc="af0fc5e2" sha1="480908bf893211b580ae19cfb40dc35ad1bbc343"/>
+	</game>
+
+	<game name="raiders5" sourcefile="raiders5.c">
+		<description>Raiders5</description>
+		<year>1985</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="raiders3.11f" size="16384" crc="30041d58" sha1="a33087de7afb276925879898a96f418128a5a38c"/>
+		<rom name="raiders4.11g" size="16384" crc="e441931c" sha1="f39b4c25de779c671a6e2b02df64e7fed726f4da"/>
+		<rom name="raiders5.1" size="16384" crc="47cea11f" sha1="0499e6627ad9c16775fdc59f2ff56dfdfc23490a"/>
+		<rom name="raiders5.11n" size="16384" crc="c0895090" sha1="a3a1ae57ed66bc095ea9bfb26470290f67aab1fe"/>
+		<rom name="raiders5.2" size="16384" crc="eb2ff410" sha1="5c995b66b6301cd3cd58efd173481deaa036f842"/>
+	</game>
+
+	<game name="raidrs5t" sourcefile="raiders5.c" cloneof="raiders5" romof="raiders5">
+		<description>Raiders5 (Japan)</description>
+		<year>1985</year>
+		<manufacturer>UPL (Taito license)</manufacturer>
+		<rom name="raiders1.4c" size="16384" crc="4e2d5679" sha1="a1c1603ba98814a83b92ad024ca4422aea872111"/>
+		<rom name="raiders2.4d" size="16384" crc="c8604be1" sha1="6d23f26174bb9b2f7db3a5fa6b39674fe237135b"/>
+		<rom name="raiders3.11f" merge="raiders3.11f" size="16384" crc="30041d58" sha1="a33087de7afb276925879898a96f418128a5a38c"/>
+		<rom name="raiders4.11g" merge="raiders4.11g" size="16384" crc="e441931c" sha1="f39b4c25de779c671a6e2b02df64e7fed726f4da"/>
+		<rom name="raiders5.11n" merge="raiders5.11n" size="16384" crc="c0895090" sha1="a3a1ae57ed66bc095ea9bfb26470290f67aab1fe"/>
+	</game>
+
+	<game name="rdaction" sourcefile="ninjakd2.c" cloneof="ninjakd2" romof="ninjakd2">
+		<description>Rad Action</description>
+		<year>1987</year>
+		<manufacturer>UPL (World Games license)</manufacturer>
+		<rom name="1.3u" size="32768" crc="5c475611" sha1="2da88a95b5d68b259c8ae48af1438a82a1d601c1"/>
+		<rom name="12.5n" size="32768" crc="0936b365" sha1="3705f42b76ab474357e77c1a9b8e3755c7ab2c0c"/>
+		<rom name="2.3s" size="32768" crc="a1e23bd2" sha1="c3b6574dc9fa66b4f41c37754a0d20a865f8bc28"/>
+		<rom name="nk2_03.rom" merge="nk2_03.rom" size="32768" crc="ad275654" sha1="7d29a17132adb19aeee9b98be5b76bd6e91f308e"/>
+		<rom name="nk2_04.rom" merge="nk2_04.rom" size="32768" crc="e7692a77" sha1="84beb8b02c564bffa9cc00313214e8f109bd40f9"/>
+		<rom name="nk2_05.bin" size="32768" crc="960725fb" sha1="160c8bfaf089cbeeef2023f12379793079bff93b"/>
+		<rom name="nk2_06.rom" merge="nk2_06.rom" size="65536" crc="d3a18a79" sha1="e4df713f89d8a8b43ef831b14864c50ec9b53f0b"/>
+		<rom name="nk2_07.rom" merge="nk2_07.rom" size="65536" crc="0be5cd13" sha1="8f94a8fef6668aaf13329715fee81302dbd6c685"/>
+		<rom name="nk2_08.rom" merge="nk2_08.rom" size="65536" crc="1b79c50a" sha1="8954bc51cb9fbbe16b09381f35c84ccc56a803f3"/>
+		<rom name="nk2_09.rom" merge="nk2_09.rom" size="65536" crc="c1d2d170" sha1="0f325815086fde90fd85360d3660042b0b68ba96"/>
+		<rom name="nk2_10.rom" merge="nk2_10.rom" size="65536" crc="c913c4ab" sha1="f822c5621b3e32c1a284f6367bdcace81c1c74b3"/>
+		<rom name="nk2_11.rom" merge="nk2_11.rom" size="65536" crc="41a714b3" sha1="b05f48d71a9837914c12c13e0b479c8a6dc8c25e"/>
+	</game>
+
+	<game name="robokid" sourcefile="omegaf.c">
+		<description>Atomic Robo-kid</description>
+		<year>1988</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="robokid.12a" size="65536" crc="e64d1c10" sha1="d1073c80c9788aba65410f88691747a37b2a9d4a"/>
+		<rom name="robokid.12c" size="65536" crc="0ab45f94" sha1="d8274263068d998c89a1b247dde7f814037cc15b"/>
+		<rom name="robokid.14a" size="65536" crc="8f9371e4" sha1="0ea06d62bf4673ebda49a849cead832a24e5b886"/>
+		<rom name="robokid.14c" size="65536" crc="029bbd4a" sha1="8e078cdafe608fc6cde827be85c5267ade4ecca6"/>
+		<rom name="robokid.15a" size="65536" crc="469204e7" sha1="8c2e94635b2b304e7dfa2e6ad58ba526dcf02453"/>
+		<rom name="robokid.15c" size="65536" crc="7de67ebb" sha1="2fe92e50e2894dd363e69b053db96bdb66a273eb"/>
+		<rom name="robokid.15d" size="65536" crc="cd632a4d" sha1="a537d9ced45fdac490097e9162ac4d09a470be79"/>
+		<rom name="robokid.15f" size="65536" crc="ba61f5ab" sha1="8433ddd55f0184cd5e8bb4a94a1c2336b2f8ff05"/>
+		<rom name="robokid.16a" size="65536" crc="4e340815" sha1="d204b830c5809f25f7dfa451bbcbeda8b81ced54"/>
+		<rom name="robokid.16c" size="65536" crc="53c0e582" sha1="763e6127532d022a707bf9ddf1a832413745f248"/>
+		<rom name="robokid.16d" size="65536" crc="18d92b2b" sha1="e6d20ea8f0fac8bd4824a3b279a0fd8a1d6c26f5"/>
+		<rom name="robokid.16f" size="65536" crc="d9b399ce" sha1="70755c9cae27187f183ae6d61bedb95c420756f4"/>
+		<rom name="robokid.17a" size="65536" crc="f0863106" sha1="ff7e44d0aa5a07ec9a7eddef1a55181bd2e867b1"/>
+		<rom name="robokid.17c" size="65536" crc="0cae5a1e" sha1="a183a33516c81ea2c029b72ee6261c4519e095ab"/>
+		<rom name="robokid.17d" size="65536" crc="2fa29b99" sha1="13dce7932e2e9c03a139a4293584838aa3d9f1c3"/>
+		<rom name="robokid.17f" size="65536" crc="afe432b9" sha1="1ec7954ccf112eddf0ffcb8b5aec6cbc5cba7a7a"/>
+		<rom name="robokid.18a" size="65536" crc="fdff7441" sha1="843b2c92bbc6f7319568677d50cbd9b03475b34a"/>
+		<rom name="robokid.18c" size="65536" crc="56ac7c8a" sha1="66ed5646a2e8563caeb4ff96fa7d34fde27e9899"/>
+		<rom name="robokid.18d" size="65536" crc="ae15ce02" sha1="175e4eebdf12f1f373e01a4b1c933053ddd09abf"/>
+		<rom name="robokid.18f" size="65536" crc="a0aa2a84" sha1="4d46c169429cd285644336c7d47e393b33bd8770"/>
+		<rom name="robokid.19c" size="65536" crc="02220421" sha1="f533e9c6cea1dccbb60e0528c470f3cb5e8fc44e"/>
+		<rom name="robokid.19d" size="65536" crc="784b089e" sha1="1ae3346b4afa3da9484ebc59c8a530cb95f7d277"/>
+		<rom name="robokid.19f" size="65536" crc="0f9071c6" sha1="8bf0c35189eda98a9bc150788890e136870cb5b2"/>
+		<rom name="robokid.20c" size="65536" crc="02d59bc2" sha1="031acbb14145f9f4623de8868c6207fb9f8e8207"/>
+		<rom name="robokid.20d" size="65536" crc="b0b395ed" sha1="31ec07634053793a701bbfd601b029f7da66e9d7"/>
+		<rom name="robokid.b9" size="32768" crc="fac59c3f" sha1="1b202ad5c12982512129d9e097267dd31b984ae8"/>
+		<rom name="robokid.k7" size="65536" crc="f490a2e9" sha1="861d1256c090ce3d1f45f95cc894affbbc3f1466"/>
+		<rom name="robokid1.18j" size="65536" crc="378c21fc" sha1="58163bd6fbfa8385b1bd648cfde3d75bf81ac07d"/>
+		<rom name="robokid2.18k" size="65536" crc="ddef8c5a" sha1="a1dd2f51205863c3d5d3527991d538ca8adf7587"/>
+		<rom name="robokid3.15k" size="65536" crc="05295ec3" sha1="33dd0853a2064cb4301cfbdc7856def81f6e1223"/>
+		<rom name="robokid4.12k" size="65536" crc="3bc3977f" sha1="da394e12d197b0e109b03c854da06b1267bd9d59"/>
+	</game>
+
+	<game name="robokidj" sourcefile="omegaf.c" cloneof="robokid" romof="robokid">
+		<description>Atomic Robo-kid (Japan)</description>
+		<year>1988</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="1.29" size="65536" crc="59a1e2ec" sha1="71f9d28dd8d2cf77a27fab163ce9562e3e75a540"/>
+		<rom name="2.30" size="65536" crc="e3f73476" sha1="bd1c8946d637df21432bd52ae9324255251570b9"/>
+		<rom name="robokid.12a" merge="robokid.12a" size="65536" crc="e64d1c10" sha1="d1073c80c9788aba65410f88691747a37b2a9d4a"/>
+		<rom name="robokid.12c" merge="robokid.12c" size="65536" crc="0ab45f94" sha1="d8274263068d998c89a1b247dde7f814037cc15b"/>
+		<rom name="robokid.14a" merge="robokid.14a" size="65536" crc="8f9371e4" sha1="0ea06d62bf4673ebda49a849cead832a24e5b886"/>
+		<rom name="robokid.14c" merge="robokid.14c" size="65536" crc="029bbd4a" sha1="8e078cdafe608fc6cde827be85c5267ade4ecca6"/>
+		<rom name="robokid.15a" merge="robokid.15a" size="65536" crc="469204e7" sha1="8c2e94635b2b304e7dfa2e6ad58ba526dcf02453"/>
+		<rom name="robokid.15c" merge="robokid.15c" size="65536" crc="7de67ebb" sha1="2fe92e50e2894dd363e69b053db96bdb66a273eb"/>
+		<rom name="robokid.15d" merge="robokid.15d" size="65536" crc="cd632a4d" sha1="a537d9ced45fdac490097e9162ac4d09a470be79"/>
+		<rom name="robokid.15f" merge="robokid.15f" size="65536" crc="ba61f5ab" sha1="8433ddd55f0184cd5e8bb4a94a1c2336b2f8ff05"/>
+		<rom name="robokid.16a" merge="robokid.16a" size="65536" crc="4e340815" sha1="d204b830c5809f25f7dfa451bbcbeda8b81ced54"/>
+		<rom name="robokid.16c" merge="robokid.16c" size="65536" crc="53c0e582" sha1="763e6127532d022a707bf9ddf1a832413745f248"/>
+		<rom name="robokid.16d" merge="robokid.16d" size="65536" crc="18d92b2b" sha1="e6d20ea8f0fac8bd4824a3b279a0fd8a1d6c26f5"/>
+		<rom name="robokid.16f" merge="robokid.16f" size="65536" crc="d9b399ce" sha1="70755c9cae27187f183ae6d61bedb95c420756f4"/>
+		<rom name="robokid.17a" merge="robokid.17a" size="65536" crc="f0863106" sha1="ff7e44d0aa5a07ec9a7eddef1a55181bd2e867b1"/>
+		<rom name="robokid.17c" merge="robokid.17c" size="65536" crc="0cae5a1e" sha1="a183a33516c81ea2c029b72ee6261c4519e095ab"/>
+		<rom name="robokid.17d" merge="robokid.17d" size="65536" crc="2fa29b99" sha1="13dce7932e2e9c03a139a4293584838aa3d9f1c3"/>
+		<rom name="robokid.17f" merge="robokid.17f" size="65536" crc="afe432b9" sha1="1ec7954ccf112eddf0ffcb8b5aec6cbc5cba7a7a"/>
+		<rom name="robokid.18a" merge="robokid.18a" size="65536" crc="fdff7441" sha1="843b2c92bbc6f7319568677d50cbd9b03475b34a"/>
+		<rom name="robokid.18c" merge="robokid.18c" size="65536" crc="56ac7c8a" sha1="66ed5646a2e8563caeb4ff96fa7d34fde27e9899"/>
+		<rom name="robokid.18d" merge="robokid.18d" size="65536" crc="ae15ce02" sha1="175e4eebdf12f1f373e01a4b1c933053ddd09abf"/>
+		<rom name="robokid.18f" merge="robokid.18f" size="65536" crc="a0aa2a84" sha1="4d46c169429cd285644336c7d47e393b33bd8770"/>
+		<rom name="robokid.19c" merge="robokid.19c" size="65536" crc="02220421" sha1="f533e9c6cea1dccbb60e0528c470f3cb5e8fc44e"/>
+		<rom name="robokid.19d" merge="robokid.19d" size="65536" crc="784b089e" sha1="1ae3346b4afa3da9484ebc59c8a530cb95f7d277"/>
+		<rom name="robokid.19f" merge="robokid.19f" size="65536" crc="0f9071c6" sha1="8bf0c35189eda98a9bc150788890e136870cb5b2"/>
+		<rom name="robokid.20c" merge="robokid.20c" size="65536" crc="02d59bc2" sha1="031acbb14145f9f4623de8868c6207fb9f8e8207"/>
+		<rom name="robokid.20d" merge="robokid.20d" size="65536" crc="b0b395ed" sha1="31ec07634053793a701bbfd601b029f7da66e9d7"/>
+		<rom name="robokid.b9" merge="robokid.b9" size="32768" crc="fac59c3f" sha1="1b202ad5c12982512129d9e097267dd31b984ae8"/>
+		<rom name="robokid.k7" merge="robokid.k7" size="65536" crc="f490a2e9" sha1="861d1256c090ce3d1f45f95cc894affbbc3f1466"/>
+		<rom name="robokid3.15k" merge="robokid3.15k" size="65536" crc="05295ec3" sha1="33dd0853a2064cb4301cfbdc7856def81f6e1223"/>
+		<rom name="robokid4.12k" merge="robokid4.12k" size="65536" crc="3bc3977f" sha1="da394e12d197b0e109b03c854da06b1267bd9d59"/>
+	</game>
+
+	<game name="strahl" sourcefile="nmk16.c">
+		<description>Koutetsu Yousai Strahl (Japan set 1)</description>
+		<year>1992</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="str6b1w1.776" size="524288" crc="bb1bb155" sha1="83a02e89180e15f0e7817e0e92b4bf4e209bb69a"/>
+		<rom name="str7b2r0.275" size="262144" crc="5769e3e1" sha1="7d7a16b11027d0a7618df1ec1e3484224b772e90"/>
+		<rom name="str8pmw1.540" size="524288" crc="01d6bb6a" sha1="b157f6f921483ed8067a7e13e370f73fdb60d136"/>
+		<rom name="str9pew1.639" size="524288" crc="6bb3eb9f" sha1="9c1394df4f8a08f9098c85eb3d38fb862d6eabbb"/>
+		<rom name="strahl-1.83" size="131072" crc="afc3c4d6" sha1="ab3dd7db692eb01e3a87f4216d322a702f3beaad"/>
+		<rom name="strahl-2.82" size="131072" crc="c9d008ae" sha1="e9218a3143d5887e702df051354a9083a806c69c"/>
+		<rom name="strahl-3.73" size="65536" crc="2273b33e" sha1="fa53e91b80dfea3f8b2c1f0ce66e5c6920c4960f"/>
+		<rom name="strahl-4.66" size="65536" crc="60a799c4" sha1="8ade3cf827a389f7cb4080957dc4d67077ea4166"/>
+		<rom name="strl3-01.32" size="524288" crc="d8337f15" sha1="4df23fff2506b66a94dae4e0cf7d25499936b942"/>
+		<rom name="strl4-02.57" size="524288" crc="2a38552b" sha1="82335fc6aa3de9145dd84952e5ed423493bf7141"/>
+		<rom name="strl5-03.58" size="524288" crc="a0e7d210" sha1="96a762a3a1cdeaa91bde50429e0ac665fb81190b"/>
+	</game>
+
+	<game name="strahla" sourcefile="nmk16.c" cloneof="strahl" romof="strahl">
+		<description>Koutetsu Yousai Strahl (Japan set 2)</description>
+		<year>1992</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="rom1" size="131072" crc="802ecbfc" sha1="cc776023c7bd6b6d6af9659a0c822a2887e50199"/>
+		<rom name="rom2" size="131072" crc="f80a22ef" sha1="22099eb0bbb445702e0276713c3e48d60de60c30"/>
+		<rom name="str6b1w1.776" merge="str6b1w1.776" size="524288" crc="bb1bb155" sha1="83a02e89180e15f0e7817e0e92b4bf4e209bb69a"/>
+		<rom name="str7b2r0.275" merge="str7b2r0.275" size="262144" crc="5769e3e1" sha1="7d7a16b11027d0a7618df1ec1e3484224b772e90"/>
+		<rom name="str8pmw1.540" merge="str8pmw1.540" size="524288" crc="01d6bb6a" sha1="b157f6f921483ed8067a7e13e370f73fdb60d136"/>
+		<rom name="str9pew1.639" merge="str9pew1.639" size="524288" crc="6bb3eb9f" sha1="9c1394df4f8a08f9098c85eb3d38fb862d6eabbb"/>
+		<rom name="strahl-3.73" merge="strahl-3.73" size="65536" crc="2273b33e" sha1="fa53e91b80dfea3f8b2c1f0ce66e5c6920c4960f"/>
+		<rom name="strahl-4.66" merge="strahl-4.66" size="65536" crc="60a799c4" sha1="8ade3cf827a389f7cb4080957dc4d67077ea4166"/>
+		<rom name="strl3-01.32" merge="strl3-01.32" size="524288" crc="d8337f15" sha1="4df23fff2506b66a94dae4e0cf7d25499936b942"/>
+		<rom name="strl4-02.57" merge="strl4-02.57" size="524288" crc="2a38552b" sha1="82335fc6aa3de9145dd84952e5ed423493bf7141"/>
+		<rom name="strl5-03.58" merge="strl5-03.58" size="524288" crc="a0e7d210" sha1="96a762a3a1cdeaa91bde50429e0ac665fb81190b"/>
+	</game>
+
+	<game name="tharierj" sourcefile="nmk16.c" cloneof="tharrier" romof="tharrier">
+		<description>Task Force Harrier (Japan)</description>
+		<year>1989</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="1.bin" size="65536" crc="005c26c3" sha1="ee88d8f956b9b0a8ba5fb49c5c05f6ed6f01729c"/>
+		<rom name="12" merge="12" size="65536" crc="b959f837" sha1="073b14935e7d5b0cad19a3471fd26e9e3a363827"/>
+		<rom name="2.bin" size="131072" crc="f3887a44" sha1="4e5b660d33ba1d1e00263030efa67e2db376a234"/>
+		<rom name="21.bpr" merge="21.bpr" size="256" crc="fcd5efea" sha1="cbda6b14127dabd1788cc256743cf62efaa5e8c4"/>
+		<rom name="22.bpr" merge="22.bpr" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="23.bpr" merge="23.bpr" size="32" crc="fc3569f4" sha1="e1c498085e4ae9d0a995c94530544b0a5b760fbf"/>
+		<rom name="24.bpr" merge="24.bpr" size="256" crc="e0a009fe" sha1="a66a27bb405d4ff8e4c0062273ee9b11e76ee520"/>
+		<rom name="25.bpr" merge="25.bpr" size="256" crc="e0a009fe" sha1="a66a27bb405d4ff8e4c0062273ee9b11e76ee520"/>
+		<rom name="26.bpr" merge="26.bpr" size="32" crc="0cbfb33e" sha1="5dfee031a0a14bcd667fe2af2fa9cdfac3941d22"/>
+		<rom name="3.bin" size="131072" crc="65c247f6" sha1="9f35f2b6f54814b4c4d23e2d78db8043e678fef2"/>
+		<rom name="89050-10" merge="89050-10" size="524288" crc="893552ab" sha1="b0a34291f4e482858ed295203ae031b17c2dbabc"/>
+		<rom name="89050-13" merge="89050-13" size="524288" crc="24db3fa4" sha1="e0d76c479dfcacf03c04ec4760caecf3fd1e2ff7"/>
+		<rom name="89050-17" merge="89050-17" size="524288" crc="7f715421" sha1="bde5e0e1e22519e51ca0fd806909e90cc5b1c5b8"/>
+		<rom name="89050-4" merge="89050-4" size="524288" crc="64d7d687" sha1="dcfeac71fd577439e31cc1186b720388fbdc6ca0"/>
+		<rom name="89050-8" merge="89050-8" size="524288" crc="11ee4c39" sha1="163295c385cff963a5bf87dc3e7bef6019e10ba8"/>
+	</game>
+
+	<game name="tharrier" sourcefile="nmk16.c">
+		<description>Task Force Harrier</description>
+		<year>1989</year>
+		<manufacturer>UPL (American Sammy license)</manufacturer>
+		<rom name="1" size="65536" crc="c7402e4a" sha1="25cade2f8d4784887f0f51beb48b1e6b695629c2"/>
+		<rom name="12" size="65536" crc="b959f837" sha1="073b14935e7d5b0cad19a3471fd26e9e3a363827"/>
+		<rom name="2" size="131072" crc="78923aaa" sha1="28338f49581180604403e1bd200f524fc4cb8b9f"/>
+		<rom name="21.bpr" size="256" crc="fcd5efea" sha1="cbda6b14127dabd1788cc256743cf62efaa5e8c4"/>
+		<rom name="22.bpr" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="23.bpr" size="32" crc="fc3569f4" sha1="e1c498085e4ae9d0a995c94530544b0a5b760fbf"/>
+		<rom name="24.bpr" size="256" crc="e0a009fe" sha1="a66a27bb405d4ff8e4c0062273ee9b11e76ee520"/>
+		<rom name="25.bpr" size="256" crc="e0a009fe" sha1="a66a27bb405d4ff8e4c0062273ee9b11e76ee520"/>
+		<rom name="26.bpr" size="32" crc="0cbfb33e" sha1="5dfee031a0a14bcd667fe2af2fa9cdfac3941d22"/>
+		<rom name="3" size="131072" crc="99cea259" sha1="75abfb08b2358dd13809ade5a2dfffeb8b8df82c"/>
+		<rom name="89050-10" size="524288" crc="893552ab" sha1="b0a34291f4e482858ed295203ae031b17c2dbabc"/>
+		<rom name="89050-13" size="524288" crc="24db3fa4" sha1="e0d76c479dfcacf03c04ec4760caecf3fd1e2ff7"/>
+		<rom name="89050-17" size="524288" crc="7f715421" sha1="bde5e0e1e22519e51ca0fd806909e90cc5b1c5b8"/>
+		<rom name="89050-4" size="524288" crc="64d7d687" sha1="dcfeac71fd577439e31cc1186b720388fbdc6ca0"/>
+		<rom name="89050-8" size="524288" crc="11ee4c39" sha1="163295c385cff963a5bf87dc3e7bef6019e10ba8"/>
+	</game>
+
+	<game name="urashima" sourcefile="jalmah.c">
+		<description>Urashima Mahjong</description>
+		<year>1989</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="um-1.15c" size="131072" crc="5f5c8f39" sha1="cef663965c3112f87788d6a871e609c0b10ef9a2"/>
+		<rom name="um-10.2b" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="um-11.2c" size="256" crc="ff5660cf" sha1="a4635dcf9d6dd637ea4f36f1ad233db0bd039731"/>
+		<rom name="um-12.20c" size="32" crc="bdb66b02" sha1="8755244de638d7e835e35e08c62b0612958e6ca5"/>
+		<rom name="um-13.10l" size="32" crc="4ce07ec0" sha1="5f5744ddc7f258307f036fde4c0a8e6271b2d1f9"/>
+		<rom name="um-2.15d" size="131072" crc="a90a47e3" sha1="2f912001e9177cce8c3795f3d299115b80fdca4e"/>
+		<rom name="um-3.22c" size="524288" crc="9fd8c8fa" sha1="0346f74c03a4daa7a84b64c9edf0e54297c82fd9"/>
+		<rom name="um-5.22j" size="131072" crc="991776a2" sha1="56740553d7d26aaeb9bec8557727030950bb01f7"/>
+		<rom name="um-6.2l" size="524288" crc="076be5b5" sha1="77444025f149a960137d3c79abecf9b30defa341"/>
+		<rom name="um-7.4l" size="524288" crc="d2a68cfb" sha1="eb6cb1fad306b697b2035a31ad48e8996722a032"/>
+	</game>
+
+	<game name="vandyjal" sourcefile="nmk16.c" cloneof="vandyke" romof="vandyke">
+		<description>Vandyke (Jaleco)</description>
+		<year>1990</year>
+		<manufacturer>UPL (Jaleco license)</manufacturer>
+		<rom name="ic100.bpr" merge="ic100.bpr" size="256" crc="98ed1c97" sha1="f125ad05c3cbd1b1ab356161f9b1d814781d4c3b"/>
+		<rom name="ic101.bpr" merge="ic101.bpr" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="jaleco2.15" size="131072" crc="170e4d2e" sha1="6009d19d30e345fea93e039d165061e2b20ff058"/>
+		<rom name="vdk-01.13" merge="vdk-01.13" size="524288" crc="195a24be" sha1="3a20dd746a87efc5c1fdc5025b709efeff82e05e"/>
+		<rom name="vdk-02.126" merge="vdk-02.126" size="524288" crc="b2103274" sha1="6bbdc912393607cd5306be946327c5ea0178c7a6"/>
+		<rom name="vdk-03.165" merge="vdk-03.165" size="524288" crc="631776d3" sha1="ffd76e5b03130252c55eaa6ae7edfee5632dae73"/>
+		<rom name="vdk-04.2-1" merge="vdk-04.2-1" size="524288" crc="0a730547" sha1="afac0549eb86d1fab5ca8ae2a0dad14144f55c02"/>
+		<rom name="vdk-05.3-1" merge="vdk-05.3-1" size="524288" crc="ba456d27" sha1="5485a560ae2c2c8b6fdec314393c02a3de758ef3"/>
+		<rom name="vdk-06.203" merge="vdk-06.203" size="524288" crc="d54722a8" sha1="47f8e97b29ae0ff1a1d7d50734e4219a87a2ed57"/>
+		<rom name="vdk-07.202" merge="vdk-07.202" size="524288" crc="42d41f06" sha1="69fd1d38187b8081f65acea2424bc1a0d455d90c"/>
+		<rom name="vdk-1.16" merge="vdk-1.16" size="131072" crc="c1d01c59" sha1="04a7fd31ca4d87d078070390660edf08bf1d96b5"/>
+		<rom name="vdk-3.222" merge="vdk-3.222" size="65536" crc="5a547c1b" sha1="2d61f51ce2f91ebf0053ce3a00911d1bcbaba816"/>
+		<rom name="vdk-4.127" merge="vdk-4.127" size="65536" crc="eba544f0" sha1="36f6d048d15a392542a9220a244d8a7049aaff8b"/>
+	</game>
+
+	<game name="vandyke" sourcefile="nmk16.c">
+		<description>Vandyke (Japan)</description>
+		<year>1990</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="ic100.bpr" size="256" crc="98ed1c97" sha1="f125ad05c3cbd1b1ab356161f9b1d814781d4c3b"/>
+		<rom name="ic101.bpr" size="256" crc="cfdbb86c" sha1="588822f6308a860937349c9106c2b4b1a75823ec"/>
+		<rom name="vdk-01.13" size="524288" crc="195a24be" sha1="3a20dd746a87efc5c1fdc5025b709efeff82e05e"/>
+		<rom name="vdk-02.126" size="524288" crc="b2103274" sha1="6bbdc912393607cd5306be946327c5ea0178c7a6"/>
+		<rom name="vdk-03.165" size="524288" crc="631776d3" sha1="ffd76e5b03130252c55eaa6ae7edfee5632dae73"/>
+		<rom name="vdk-04.2-1" size="524288" crc="0a730547" sha1="afac0549eb86d1fab5ca8ae2a0dad14144f55c02"/>
+		<rom name="vdk-05.3-1" size="524288" crc="ba456d27" sha1="5485a560ae2c2c8b6fdec314393c02a3de758ef3"/>
+		<rom name="vdk-06.203" size="524288" crc="d54722a8" sha1="47f8e97b29ae0ff1a1d7d50734e4219a87a2ed57"/>
+		<rom name="vdk-07.202" size="524288" crc="42d41f06" sha1="69fd1d38187b8081f65acea2424bc1a0d455d90c"/>
+		<rom name="vdk-1.16" size="131072" crc="c1d01c59" sha1="04a7fd31ca4d87d078070390660edf08bf1d96b5"/>
+		<rom name="vdk-2.15" size="131072" crc="9d741cc2" sha1="2d101044fba5fc5b7d63869a0a053c42fdc2598b"/>
+		<rom name="vdk-3.222" size="65536" crc="5a547c1b" sha1="2d61f51ce2f91ebf0053ce3a00911d1bcbaba816"/>
+		<rom name="vdk-4.127" size="65536" crc="eba544f0" sha1="36f6d048d15a392542a9220a244d8a7049aaff8b"/>
+	</game>
+
+	<game name="xxmissio" sourcefile="xxmissio.c">
+		<description>XX Mission</description>
+		<year>1986</year>
+		<manufacturer>UPL</manufacturer>
+		<rom name="xx1.4l" size="32768" crc="86e07709" sha1="7bfb7540b6509f07a6388ca2da6b3892f5b1df74"/>
+		<rom name="xx10.4c" size="32768" crc="d27d7834" sha1="60c24dc2ab7e2a33da4002f1f07eaf7898cf387f"/>
+		<rom name="xx11.4b" size="32768" crc="d9dd827c" sha1="aea3a5abd871adf7f75ad4d6cc57eff0833135c7"/>
+		<rom name="xx2.4b" size="16384" crc="13fa7049" sha1="e8974d9f271a966611b523496ba8cd910e227a23"/>
+		<rom name="xx3.6a" size="32768" crc="16fdacab" sha1="2158ca9b14c52bc1cd5ef0f4c0180f0519224403"/>
+		<rom name="xx4.6b" size="32768" crc="274bd4d2" sha1="2ddf9b953584e26f221b1c86181d827bdc3dc81b"/>
+		<rom name="xx5.6d" size="32768" crc="c5f35535" sha1="6812b70beb73fc80cf20d2d51f747952ed106887"/>
+		<rom name="xx6.8j" size="32768" crc="dc954d01" sha1="73ecbbc859da9db9fead91cd03bb90e5779916e2"/>
+		<rom name="xx7.8h" size="32768" crc="abe9cd68" sha1="f3ce9b40e3d9cdc9b77a43f9d5d0411338d88833"/>
+		<rom name="xx8.8f" size="32768" crc="a9587cc6" sha1="5fbcb88505f89c4d8a2a228489612ff66fc5d3af"/>
+		<rom name="xx9.8e" size="32768" crc="854e0e5f" sha1="b01d6a735b175c2f7ac3fc4053702c9da62c6a4e"/>
+	</game>
+
+</datafile>

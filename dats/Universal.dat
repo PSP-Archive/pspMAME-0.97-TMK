@@ -1,0 +1,863 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MAME</name>
+		<description>MAME 0.97 (Jun 2 2005)</description>
+		<category>Emulation</category>
+		<version>0.97</version>
+		<date>02/06/2005</date>
+		<author>AntoPISA</author>
+		<email>progettosnaps@gmail.com</email>
+		<homepage>http://www.progettosnaps.net/</homepage>
+		<url>http://www.progettosnaps.net/dats/MAME/</url>
+		<comment>-not specified-</comment>
+		<clrmamepro/>
+	</header>
+
+	<game name="capitol" sourcefile="phoenix.c" cloneof="pleiads" romof="pleiads">
+		<description>Capitol</description>
+		<year>1981</year>
+		<manufacturer>Universal Video Spiel</manufacturer>
+		<rom name="cp1.45" size="2048" crc="0922905b" sha1="501342b0162bba43570b1cbefa1ada6302a54017"/>
+		<rom name="cp10.40" size="2048" crc="4807408f" sha1="4aa81e934a65e9986b194e9a9bab99f6c85ff7a5"/>
+		<rom name="cp11.23" size="2048" crc="9b0bbb8d" sha1="cde7c0140e773fe28e97e36486d4e048710f6004"/>
+		<rom name="cp12.24" size="2048" crc="39949e66" sha1="21a204f22f04c5808538b21d49ebc6b7cb7625e8"/>
+		<rom name="cp2.46" size="2048" crc="4f168f45" sha1="8d268dad54a2cf7081f22a29a3e025174ae462e7"/>
+		<rom name="cp3.47" size="2048" crc="3975e0b0" sha1="d509398aa8b90c7c451d9e60bc1ca6488b1563a9"/>
+		<rom name="cp4.48" size="2048" crc="da49caa8" sha1="274c8dcabb9f43a2cbf9682b849ffd2bc8cf6496"/>
+		<rom name="cp5.49" size="2048" crc="38e4362b" sha1="c5aeb8b7d49b3da760904a16b57604e782cf29fc"/>
+		<rom name="cp6.50" size="2048" crc="aaf798eb" sha1="660774db4195aaa499569804a2304e969f168cdf"/>
+		<rom name="cp7.51" size="2048" crc="eaadf14c" sha1="753a46317e98b1ae63f88f5c3e70ff1c7ec04286"/>
+		<rom name="cp8.52" size="2048" crc="d3fe2af4" sha1="f0c9bfc17ba6f55fbe95136da40a3de775aa46d2"/>
+		<rom name="cp9.39" size="2048" crc="04f7d19a" sha1="9b8e55ad0e374d4e7538e82c7b3f081b3bb98124"/>
+		<rom name="ic40.prm" size="256" crc="79350b25" sha1="57411be4c1d89677f7919ae295446da90612c8a8"/>
+		<rom name="ic41.prm" size="256" crc="e176b768" sha1="e2184dd495ed579f10b6da0b78379e02d7a6229f"/>
+	</game>
+
+	<game name="cavenger" sourcefile="ladybug.c">
+		<description>Cosmic Avenger</description>
+		<year>1981</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="0" size="4096" crc="52ad1133" sha1="bc8c52c6ba919287773ff6a4ec793ebd95176130"/>
+		<rom name="1" size="4096" crc="9e0cc781" sha1="f23bd6b9f427c26ac996a5c8ba29f356cf45c78a"/>
+		<rom name="2" size="4096" crc="5ce5b950" sha1="170e3f8be592dcccb8868474f40f8f2223e8a8b5"/>
+		<rom name="3" size="4096" crc="bc28218d" sha1="4b0f1b38a5837b7ffc9aec6c28c6eb72cfa46226"/>
+		<rom name="4" size="4096" crc="2b32e9f5" sha1="f8a7ea799d8ff9b4f830d064bb2f34a76729c336"/>
+		<rom name="5" size="4096" crc="d117153e" sha1="622c90a6c3f0adc24fe8a1d4969075cbd55add4e"/>
+		<rom name="6" size="4096" crc="c7d366cb" sha1="ec4981fe34abf992acbd6325b2c756c58ff80b04"/>
+		<rom name="8" size="4096" crc="b022bf2d" sha1="85f78d5a1e5782587bb66ad101a94fd0d62fb790"/>
+		<rom name="9" size="4096" crc="63357785" sha1="20eaa866b7700535312fd415edaea94408ff3e3d"/>
+		<rom name="h9.bpr" size="32" crc="27fa3a50" sha1="7cf59b7a37c156640d6ea91554d1c4276c1780e0"/>
+		<rom name="k9.bpr" size="32" crc="d736b8de" sha1="4c9c76826f3a2a631d01fd2531d55318172b0c12"/>
+		<rom name="t8.bpr" size="32" crc="42a24dd5" sha1="03175ee7f8e11896a89d7cc0d614a78a49923627"/>
+	</game>
+
+	<game name="cheekyms" sourcefile="cheekyms.c">
+		<description>Cheeky Mouse</description>
+		<manufacturer>Universal</manufacturer>
+		<rom name="cm.m8" size="32" crc="2386bc68" sha1="6676082860cd8678a71339a352d2c6286e78ba44"/>
+		<rom name="cm.m9" size="32" crc="db9c59a5" sha1="357ed5ac8e954a4c8b4d78d36e57bf2de36c1d57"/>
+		<rom name="cm.p3" size="32" crc="6ac41516" sha1="05bf40790a0de1e859362df892f7f158c183e247"/>
+		<rom name="cm01.c1" size="2048" crc="26f73bd7" sha1="fa4db5df5be1a5f4531cba86a83f89b7eb7fa3ec"/>
+		<rom name="cm02.c2" size="2048" crc="885887c3" sha1="62ce8e39d27c0cfea9ebd51757ad31b0baf6b3cd"/>
+		<rom name="cm03.c5" size="2048" crc="1ad0cb40" sha1="2a751395ac19a3218c22cfd3597f9a17b8e31527"/>
+		<rom name="cm04.c6" size="2048" crc="2238f607" sha1="35df9eb49f6e3c6351fae220d773442cf8536f90"/>
+		<rom name="cm05.c7" size="2048" crc="4169eba8" sha1="52a059f29c724d087483c7cd733f75d7b8a5b103"/>
+		<rom name="cm06.c8" size="2048" crc="7031660c" sha1="1370702e30897e45ee172609c1d983f8a4fdf157"/>
+		<rom name="cm07.n5" size="2048" crc="2738c88d" sha1="3ccd6c1d49bfe2c1b141854ec705e692252e8af8"/>
+		<rom name="cm08.n6" size="2048" crc="b3fbd4ac" sha1="9f45cc6d9e0bf580149e18de5c3e37d4de347b92"/>
+	</game>
+
+	<game name="cosmica" sourcefile="cosmic.c">
+		<description>Cosmic Alien</description>
+		<year>1979</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="ca.d9" size="32" crc="dfb60f19" sha1="d510327ff3492f098659c551f7245835f61a2959"/>
+		<rom name="ca.e2" size="1024" crc="ea4ee931" sha1="d0a4afda4b493efb40286c2d67bf56a2a8b8da9d"/>
+		<rom name="ca.e3" size="2048" crc="535ee0c5" sha1="3ec3056b7fabe07ef49a9179114aa74be44a943e"/>
+		<rom name="ca.e4" size="2048" crc="ed3cf8f7" sha1="6ba1d98d82400519e844b950cb2fb1274c06d89a"/>
+		<rom name="ca.e5" size="2048" crc="6a111e5e" sha1="593be409bc969cece2ff88623e53c166b4dc43cd"/>
+		<rom name="ca.e6" size="2048" crc="c9b5ca2a" sha1="3384b98954b6bc9a64e753b95757f61ce1d3c52e"/>
+		<rom name="ca.e7" size="2048" crc="43666d68" sha1="e44492360a77d93aeaaaa0f38f4ac19732998559"/>
+		<rom name="ca.n1" size="2048" crc="431e866c" sha1="b007cd3cc856360a0247bd78bb49d173f5cef321"/>
+		<rom name="ca.n2" size="2048" crc="aa6c6079" sha1="af4ab73e9e1c189290b26bf42adb511d5a347df9"/>
+		<rom name="ca.sub" size="1024" crc="acbd4e98" sha1="d33fe8bdc77bb18a3ffb369ea692210d1b890771"/>
+	</game>
+
+	<game name="cosmica2" sourcefile="cosmic.c" cloneof="cosmica" romof="cosmica">
+		<description>Cosmic Alien (older)</description>
+		<year>1979</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="c3.bin" size="1024" crc="699c849e" sha1="90a58ab8ede9c31eec3df1f8f251b59858f85eb6"/>
+		<rom name="ca.d9" merge="ca.d9" size="32" crc="dfb60f19" sha1="d510327ff3492f098659c551f7245835f61a2959"/>
+		<rom name="ca.e2" merge="ca.e2" size="1024" crc="ea4ee931" sha1="d0a4afda4b493efb40286c2d67bf56a2a8b8da9d"/>
+		<rom name="ca.e3" merge="ca.e3" size="2048" crc="535ee0c5" sha1="3ec3056b7fabe07ef49a9179114aa74be44a943e"/>
+		<rom name="ca.e5" merge="ca.e5" size="2048" crc="6a111e5e" sha1="593be409bc969cece2ff88623e53c166b4dc43cd"/>
+		<rom name="ca.e6" merge="ca.e6" size="2048" crc="c9b5ca2a" sha1="3384b98954b6bc9a64e753b95757f61ce1d3c52e"/>
+		<rom name="ca.n1" merge="ca.n1" size="2048" crc="431e866c" sha1="b007cd3cc856360a0247bd78bb49d173f5cef321"/>
+		<rom name="ca.n2" merge="ca.n2" size="2048" crc="aa6c6079" sha1="af4ab73e9e1c189290b26bf42adb511d5a347df9"/>
+		<rom name="ca.sub" merge="ca.sub" size="1024" crc="acbd4e98" sha1="d33fe8bdc77bb18a3ffb369ea692210d1b890771"/>
+		<rom name="d4.bin" size="1024" crc="168e38da" sha1="63c5f8346861aa7c70ad58a05977c7af413cbfaf"/>
+		<rom name="i9.bin" size="1024" crc="3bb57720" sha1="2d1edcad57767a4fa2c7713726ed0cb1203f6fbc"/>
+		<rom name="j0.bin" size="1024" crc="4ff70f45" sha1="791499be62a7b91bde75e7a7ab6c546f5fb63027"/>
+	</game>
+
+	<game name="cosmicg" sourcefile="cosmic.c">
+		<description>Cosmic Guerilla</description>
+		<year>1979</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="cosmicg1.bin" size="1024" crc="e1b9f894" sha1="bab7fd9b3db145a889542653191905b6efc5ce75"/>
+		<rom name="cosmicg2.bin" size="1024" crc="35c75346" sha1="4e50eaa0b50ab04802dc63992ad2600c227301ad"/>
+		<rom name="cosmicg3.bin" size="1024" crc="82a49b48" sha1="4cf9f684f3eb18b99a88ca879bb7083b1334f0cc"/>
+		<rom name="cosmicg4.bin" size="1024" crc="1c1c934c" sha1="011b2b3ec4d31869fda13a3654c7bc51f3ce4dc2"/>
+		<rom name="cosmicg5.bin" size="1024" crc="b1c00fbf" sha1="136267f75e2d5b445695cabef4538f986e6f1b10"/>
+		<rom name="cosmicg6.bin" size="1024" crc="f03454ce" sha1="32c87f369475c7154fe3243d2c7be4a25444e530"/>
+		<rom name="cosmicg7.bin" size="1024" crc="f33ebae7" sha1="915bca53d5356e12c94ec765103ceced7306d1dd"/>
+		<rom name="cosmicg8.bin" size="1024" crc="472e4990" sha1="d5797b9d89446aa6533f7515e6a5fc8368d82f91"/>
+		<rom name="cosmicg9.bin" size="1024" crc="689c2c96" sha1="ddfdc3fd29c56fdebd3b1c3443a7c39f567d5355"/>
+		<sample name="cg_att.wav"/>
+		<sample name="cg_chnc.wav"/>
+		<sample name="cg_dest.wav"/>
+		<sample name="cg_ext.wav"/>
+		<sample name="cg_gotb.wav"/>
+		<sample name="cg_gotm.wav"/>
+		<sample name="cg_gun.wav"/>
+		<sample name="cg_m0.wav"/>
+		<sample name="cg_m1.wav"/>
+		<sample name="cg_m2.wav"/>
+		<sample name="cg_m3.wav"/>
+		<sample name="cg_m4.wav"/>
+		<sample name="cg_m5.wav"/>
+		<sample name="cg_m6.wav"/>
+		<sample name="cg_m7.wav"/>
+	</game>
+
+	<game name="cosmicm2" sourcefile="8080bw.c" cloneof="invaders" romof="invaders" sampleof="invaders">
+		<description>Cosmic Monsters 2</description>
+		<year>1979</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="3906.bin" size="4096" crc="b841f894" sha1="b1f9e1800969baab14da2fd8873b58d4707b7236"/>
+		<rom name="3907.bin" size="4096" crc="bbffede6" sha1="e7505ee8e3f19557ebbfd0145dc2ae0d1c529eba"/>
+		<sample name="1.wav"/>
+		<sample name="2.wav"/>
+		<sample name="3.wav"/>
+		<sample name="4.wav"/>
+		<sample name="5.wav"/>
+		<sample name="6.wav"/>
+		<sample name="7.wav"/>
+		<sample name="8.wav"/>
+		<sample name="9.wav"/>
+	</game>
+
+	<game name="cosmicmo" sourcefile="8080bw.c" cloneof="invaders" romof="invaders" sampleof="invaders">
+		<description>Cosmic Monsters</description>
+		<year>1979</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="cosmicmo.1" size="1024" crc="d6e4e5da" sha1="8b4275a3c71ac3fa80d17237dc04de5f586645f4"/>
+		<rom name="cosmicmo.2" size="1024" crc="8f7988e6" sha1="b6a01d5dcab013350f8f7f3e3ebfc986bb939fe0"/>
+		<rom name="cosmicmo.3" size="1024" crc="2d2e9dc8" sha1="dd3da4fc752e003e5e7c64bf189288133aed545b"/>
+		<rom name="cosmicmo.4" size="1024" crc="26cae456" sha1="2f2262340c10e5c29d71317f6eb8072c26655563"/>
+		<rom name="cosmicmo.5" size="1024" crc="b13f228e" sha1="a0de05aa36435e72c77f5333f3ad964ec448a8f0"/>
+		<rom name="cosmicmo.6" size="1024" crc="4ae1b9c4" sha1="8eed87eebe68caa775fa679363b0fe3728d98c34"/>
+		<rom name="cosmicmo.7" size="1024" crc="6a13b15b" sha1="dc03a6c3e938cfd08d16bd1660899f951ba72ea2"/>
+		<sample name="1.wav"/>
+		<sample name="2.wav"/>
+		<sample name="3.wav"/>
+		<sample name="4.wav"/>
+		<sample name="5.wav"/>
+		<sample name="6.wav"/>
+		<sample name="7.wav"/>
+		<sample name="8.wav"/>
+		<sample name="9.wav"/>
+	</game>
+
+	<game name="devzone" sourcefile="cosmic.c">
+		<description>Devil Zone</description>
+		<year>1980</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="dv1.e3" size="2048" crc="c70faf00" sha1="d3f0f071e6c7552724eba64a7182637dae4438c7"/>
+		<rom name="dv2.e4" size="2048" crc="eacfed61" sha1="493c0d21fd1574b12978dd1f52e8735df6c1732c"/>
+		<rom name="dv3.e5" size="2048" crc="7973317e" sha1="d236e3dad8c991c32a2550e561518b522a4580bc"/>
+		<rom name="dv4.e6" size="2048" crc="a58c5b8c" sha1="7ff08007aedd2ff1d7ef64263da92a5b77ae2dc4"/>
+		<rom name="dv5.e7" size="2048" crc="b71a3989" sha1="aad14021ee569e221ea632416d6a006e60dd94e5"/>
+		<rom name="dv6.e8" size="2048" crc="3930fb67" sha1="919883e833d6caa8fe7c3ceaa184575a3b4932b6"/>
+		<rom name="dv7.n1" size="2048" crc="e7562fcf" sha1="0a0833dbb8d4be69fbf8897aa3e045a87ae42024"/>
+		<rom name="dv8.n2" size="2048" crc="da1cbec1" sha1="08a668f19c68335f4fc9f98cd53b44047dd8aad9"/>
+		<rom name="dz9.e2" size="1024" crc="693855b6" sha1="1c29d72be511c1d38b30b9534d647d0813b2ef57"/>
+		<rom name="ic1.sub" size="32" crc="df974878" sha1="2ef2e1b771923f9a0bfe1841444de61200298605"/>
+		<rom name="ic12.sub" size="2048" crc="f61c1c45" sha1="9016710409ae2bccfc60f8e3d1131c125333c034"/>
+		<rom name="ms.d9" size="32" crc="36e2aa2a" sha1="4813b013cb8260157858e3adc7323efc6654e170"/>
+	</game>
+
+	<game name="devzone2" sourcefile="cosmic.c" cloneof="devzone" romof="devzone">
+		<description>Devil Zone (easier)</description>
+		<year>1980</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="dz9.e2" merge="dz9.e2" size="1024" crc="693855b6" sha1="1c29d72be511c1d38b30b9534d647d0813b2ef57"/>
+		<rom name="ic1.sub" merge="ic1.sub" size="32" crc="df974878" sha1="2ef2e1b771923f9a0bfe1841444de61200298605"/>
+		<rom name="ic12.sub" merge="ic12.sub" size="2048" crc="f61c1c45" sha1="9016710409ae2bccfc60f8e3d1131c125333c034"/>
+		<rom name="ms.d9" merge="ms.d9" size="32" crc="36e2aa2a" sha1="4813b013cb8260157858e3adc7323efc6654e170"/>
+		<rom name="ms6_3.e5" size="2048" crc="c1952e2f" sha1="d42f0f547e989a71254957e5e634ac359e72bb14" status="baddump"/>
+		<rom name="mx3_7.n1" size="2048" crc="c089c9e3" sha1="2fb725338a19d5d4f9e445e7d46d105b8db9733c"/>
+		<rom name="mx6_5.e7" size="2048" crc="c5394215" sha1="8c970f6a8d34963bc4848f2bef90cee850c9c28d" status="baddump"/>
+		<rom name="my1_4.e6" size="2048" crc="5d965d93" sha1="49fe79e4b5cec1c7aa2f8e1eb750b39bb7dda16c" status="baddump"/>
+		<rom name="my4_2.e4" size="2048" crc="e1637800" sha1="3705ce1f02f3fefec0285f5db6a7606e6cec1bac" status="baddump"/>
+		<rom name="my8_8.n2" size="2048" crc="18abce02" sha1="5cac11f4e6f1a4801bd02007399a906cdff66b85"/>
+		<rom name="mz7_6.e8" size="2048" crc="8504e8c9" sha1="40e08ff38673544c734a9fc19b38edaa8cc74f23" status="baddump"/>
+		<rom name="p10_1.e3" size="2048" crc="38bd45a4" sha1="192eee64ff53c20fb5b369703b52a5bb3976ba1d" status="baddump"/>
+	</game>
+
+	<game name="docastl2" sourcefile="docastle.c" cloneof="docastle" romof="docastle">
+		<description>Mr. Do&apos;s Castle (set 2)</description>
+		<year>1983</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="01d.bin" merge="01d.bin" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="03a_a5.bin" merge="03a_a5.bin" size="16384" crc="0636b8f4" sha1="8b34773bf7b7071fb5c8ff443a08befae3b545ea"/>
+		<rom name="04h_a9.bin" merge="04h_a9.bin" size="8192" crc="af24bce0" sha1="0f06c5d248c9c92f2a4636d259ab843339737969"/>
+		<rom name="04j_a8.bin" merge="04j_a8.bin" size="8192" crc="9afb16e9" sha1="f951e75af658623f3b0e18ff388990b2870fad53"/>
+		<rom name="04l_a7.bin" merge="04l_a7.bin" size="8192" crc="3dfaa9d1" sha1="cc016019efe0a2bc38c66fadf792c05f6cabeeaa"/>
+		<rom name="04m_a6.bin" merge="04m_a6.bin" size="8192" crc="3bbc9b26" sha1="1b1f79717e5c1a23eefb2d6df71ad95aac9f8be4"/>
+		<rom name="09c.bin" merge="09c.bin" size="512" crc="066f52bc" sha1="99f4f2d0181bcaf389c16f127cc3e632d62ee417"/>
+		<rom name="a1" size="8192" crc="0d81fafc" sha1="938c4470b022063ae66b607ca086fad98174248f"/>
+		<rom name="a10" size="16384" crc="45f7f69b" sha1="1c614c29be4950314ab04e0b828e691fd0907eff"/>
+		<rom name="a2" size="8192" crc="a13dc4ac" sha1="f096d5ac8e26444ebdb4c3fb5c71592058fb6c79"/>
+		<rom name="a3" size="8192" crc="a1f04ffb" sha1="8cb53992cc679278a0bd33e5b728f27c585e38e1"/>
+		<rom name="a4" size="8192" crc="1fb14aa6" sha1="45b50db61ca2c9ace182ddba3817257308f07c89"/>
+	</game>
+
+	<game name="docastle" sourcefile="docastle.c">
+		<description>Mr. Do&apos;s Castle (set 1)</description>
+		<year>1983</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="01d.bin" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="01k_a4.bin" size="8192" crc="479a745e" sha1="7195036727990932bc94b30405ebc2b8ea5b37a8"/>
+		<rom name="01l_a3.bin" size="8192" crc="71a70ba9" sha1="0c9e4c402f82d61d573eb55b3e2e0c8b7c8b7028"/>
+		<rom name="01n_a2.bin" size="8192" crc="1d2fc7f4" sha1="f7b0c7466cd6a3854eda818c63663e3559dc7bc2"/>
+		<rom name="01p_a1.bin" size="8192" crc="17c6fc24" sha1="e397d283e8b8e1c512495b777c0fe16f66bb1862"/>
+		<rom name="03a_a5.bin" size="16384" crc="0636b8f4" sha1="8b34773bf7b7071fb5c8ff443a08befae3b545ea"/>
+		<rom name="04h_a9.bin" size="8192" crc="af24bce0" sha1="0f06c5d248c9c92f2a4636d259ab843339737969"/>
+		<rom name="04j_a8.bin" size="8192" crc="9afb16e9" sha1="f951e75af658623f3b0e18ff388990b2870fad53"/>
+		<rom name="04l_a7.bin" size="8192" crc="3dfaa9d1" sha1="cc016019efe0a2bc38c66fadf792c05f6cabeeaa"/>
+		<rom name="04m_a6.bin" size="8192" crc="3bbc9b26" sha1="1b1f79717e5c1a23eefb2d6df71ad95aac9f8be4"/>
+		<rom name="07n_a0.bin" size="16384" crc="f23b5cdb" sha1="de71d9f142f8d420aa097d7e56b03a06db2f85fd"/>
+		<rom name="09c.bin" size="512" crc="066f52bc" sha1="99f4f2d0181bcaf389c16f127cc3e632d62ee417"/>
+	</game>
+
+	<game name="docastlo" sourcefile="docastle.c" cloneof="docastle" romof="docastle">
+		<description>Mr. Do&apos;s Castle (older)</description>
+		<year>1983</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="01d.bin" merge="01d.bin" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="03a_a5.bin" merge="03a_a5.bin" size="16384" crc="0636b8f4" sha1="8b34773bf7b7071fb5c8ff443a08befae3b545ea"/>
+		<rom name="c1.bin" size="8192" crc="c9ce96ab" sha1="3166aef4556ce334ecef27dceb285f51de371c35"/>
+		<rom name="c2.bin" size="8192" crc="42b28369" sha1="8c9a618984db52cdc4ec3a6bcfa7659866d2709c"/>
+		<rom name="c3.bin" size="8192" crc="c8c13124" sha1="2cfc15b232744b40350c174b0d89677495c077eb"/>
+		<rom name="c4.bin" size="8192" crc="7ca78471" sha1="2804f9be825973e69bc35aa703145b3ef22a5ecd"/>
+		<rom name="dorev10.bin" size="16384" crc="4b1925e3" sha1="1b229dd73eede3853d23576dfe397a4d2d952991"/>
+		<rom name="dorev6.bin" size="8192" crc="9e335bf8" sha1="30ccfb959c1d3069739280711ba3d7d8b7a1a2b0"/>
+		<rom name="dorev7.bin" size="8192" crc="f5d5701d" sha1="f2731aaa7be3e269cf929aa14db1c967c9198dc6"/>
+		<rom name="dorev8.bin" size="8192" crc="7143ca68" sha1="b5b45e3cf7d0287d93231eb01395a03f39f473fc"/>
+		<rom name="dorev9.bin" size="8192" crc="893fc004" sha1="15559d11cc14341d2fec190d12205a649bdd484f"/>
+		<rom name="dorevc9.bin" size="512" crc="96624ebe" sha1="74ff21dc85dcb013c941ec6c06cafdb5bcc16960"/>
+	</game>
+
+	<game name="dorunru2" sourcefile="docastle.c" cloneof="dorunrun" romof="dorunrun">
+		<description>Do! Run Run (set 2)</description>
+		<year>1984</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="27128.a3" merge="27128.a3" size="16384" crc="4be96dcf" sha1="f9b45e6297cbbc4d1ee2df7ac377c5daf5181b0f"/>
+		<rom name="27128.p7" merge="27128.p7" size="16384" crc="8b06d461" sha1="2434478810c6301197997be76505f5fc6beba5d3"/>
+		<rom name="2764.h4" merge="2764.h4" size="8192" crc="523aa999" sha1="1d4aa0af79a2ed7b935d4ce92d978bf738f08eb3"/>
+		<rom name="2764.j4" merge="2764.j4" size="8192" crc="79287039" sha1="e2e3c056f35a22e48115557e10fcd172ad2f91f1"/>
+		<rom name="2764.l4" merge="2764.l4" size="8192" crc="0c08508a" sha1="1e235a0f44207c53af2c8da631e5a8e08b231258"/>
+		<rom name="2764.m4" merge="2764.m4" size="8192" crc="4bb231a0" sha1="350423a1e602e23b229095021942d4b14a4736a7"/>
+		<rom name="bprom2.bin" merge="bprom2.bin" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="dorunrun.clr" merge="dorunrun.clr" size="256" crc="d5bab5d5" sha1="7a465fe30b6008793d33f6e07086c89111e1e407"/>
+		<rom name="k1" size="8192" crc="099aaf54" sha1="c0419db2a2349ecb97c31256811993d1dcf3dc6e"/>
+		<rom name="l1" size="8192" crc="38609287" sha1="85f5cd707d620780436e4bed00753acef08f83cd"/>
+		<rom name="n1" size="8192" crc="4f8fcbae" sha1="c1558664e081252141530e1932403df1fbf5f8a0"/>
+		<rom name="p1" size="8192" crc="12a99365" sha1="12a1ab76182faa4f76cc5020913ca5706313fe72"/>
+	</game>
+
+	<game name="dorunruc" sourcefile="docastle.c" cloneof="dorunrun" romof="dorunrun">
+		<description>Do! Run Run (Do&apos;s Castle hardware)</description>
+		<year>1984</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="2764.h4" merge="2764.h4" size="8192" crc="523aa999" sha1="1d4aa0af79a2ed7b935d4ce92d978bf738f08eb3"/>
+		<rom name="2764.j4" merge="2764.j4" size="8192" crc="79287039" sha1="e2e3c056f35a22e48115557e10fcd172ad2f91f1"/>
+		<rom name="2764.l4" merge="2764.l4" size="8192" crc="0c08508a" sha1="1e235a0f44207c53af2c8da631e5a8e08b231258"/>
+		<rom name="2764.m4" merge="2764.m4" size="8192" crc="4bb231a0" sha1="350423a1e602e23b229095021942d4b14a4736a7"/>
+		<rom name="bprom2.bin" merge="bprom2.bin" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="dorunrun.clr" merge="dorunrun.clr" size="256" crc="d5bab5d5" sha1="7a465fe30b6008793d33f6e07086c89111e1e407"/>
+		<rom name="rev-0-1.p1" size="8192" crc="49906ebd" sha1="03afb7e3107038d5a052e497b8a206334514536f"/>
+		<rom name="rev-0-2.n1" size="8192" crc="dbe3e7db" sha1="168026aacce73941329a72e78423f83f7c4f0f04"/>
+		<rom name="rev-0-2.n7" size="16384" crc="6dac2fa3" sha1="cd583f379f01788ce20f611f17689105d32ef97a"/>
+		<rom name="rev-0-3.l1" size="8192" crc="e9b8181a" sha1="6b960c3503589e62b61f9a2af372b98c48412bc0"/>
+		<rom name="rev-0-4.k1" size="8192" crc="a63d0b89" sha1="d2ab3b76149e6620f1eb93a051c802b208b8d6dc"/>
+		<rom name="rev-0-5.a3" size="16384" crc="e20795b7" sha1="ae4366d2c45580f3e60ae36f81a5fc912d1eb899"/>
+	</game>
+
+	<game name="dorunrun" sourcefile="docastle.c">
+		<description>Do! Run Run (set 1)</description>
+		<year>1984</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="27128.a3" size="16384" crc="4be96dcf" sha1="f9b45e6297cbbc4d1ee2df7ac377c5daf5181b0f"/>
+		<rom name="27128.p7" size="16384" crc="8b06d461" sha1="2434478810c6301197997be76505f5fc6beba5d3"/>
+		<rom name="2764.h4" size="8192" crc="523aa999" sha1="1d4aa0af79a2ed7b935d4ce92d978bf738f08eb3"/>
+		<rom name="2764.j4" size="8192" crc="79287039" sha1="e2e3c056f35a22e48115557e10fcd172ad2f91f1"/>
+		<rom name="2764.k1" size="8192" crc="b1195d3d" sha1="095ad2ee1f53be3203830263cb0c9efbe4710c56"/>
+		<rom name="2764.l1" size="8192" crc="e9a65ba7" sha1="fbee57d68352fd4062aac55cd1070f001714d0a3"/>
+		<rom name="2764.l4" size="8192" crc="0c08508a" sha1="1e235a0f44207c53af2c8da631e5a8e08b231258"/>
+		<rom name="2764.m4" size="8192" crc="4bb231a0" sha1="350423a1e602e23b229095021942d4b14a4736a7"/>
+		<rom name="2764.n1" size="8192" crc="6a8160d1" sha1="12101c351bf800319172c459b5e7c69cb5603806"/>
+		<rom name="2764.p1" size="8192" crc="95c86f8e" sha1="9fe44911e0aa8d4c7299472a31c401e064d63d17"/>
+		<rom name="bprom2.bin" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="dorunrun.clr" size="256" crc="d5bab5d5" sha1="7a465fe30b6008793d33f6e07086c89111e1e407"/>
+	</game>
+
+	<game name="douni" sourcefile="docastle.c" cloneof="docastle" romof="docastle">
+		<description>Mr. Do vs. Unicorns</description>
+		<year>1983</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="01d.bin" merge="01d.bin" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="03a_a5.bin" merge="03a_a5.bin" size="16384" crc="0636b8f4" sha1="8b34773bf7b7071fb5c8ff443a08befae3b545ea"/>
+		<rom name="dorev1.bin" size="8192" crc="1e2cbb3c" sha1="f3c6eab7f7f43a067d432d47f3403ab1d07575fe"/>
+		<rom name="dorev10.bin" size="16384" crc="4b1925e3" sha1="1b229dd73eede3853d23576dfe397a4d2d952991"/>
+		<rom name="dorev2.bin" size="8192" crc="18418f83" sha1="1be77b0b53e6d243484d942108e84b950f1a4901"/>
+		<rom name="dorev3.bin" size="8192" crc="7b9e2061" sha1="2b21af54018a2ff756d80ba0b53b71108c0ce043"/>
+		<rom name="dorev4.bin" size="8192" crc="e013954d" sha1="1e05937f3b6eaef77c36b485da091ebb22e50f85"/>
+		<rom name="dorev6.bin" size="8192" crc="9e335bf8" sha1="30ccfb959c1d3069739280711ba3d7d8b7a1a2b0"/>
+		<rom name="dorev7.bin" size="8192" crc="f5d5701d" sha1="f2731aaa7be3e269cf929aa14db1c967c9198dc6"/>
+		<rom name="dorev8.bin" size="8192" crc="7143ca68" sha1="b5b45e3cf7d0287d93231eb01395a03f39f473fc"/>
+		<rom name="dorev9.bin" size="8192" crc="893fc004" sha1="15559d11cc14341d2fec190d12205a649bdd484f"/>
+		<rom name="dorevc9.bin" size="512" crc="96624ebe" sha1="74ff21dc85dcb013c941ec6c06cafdb5bcc16960"/>
+	</game>
+
+	<game name="dowild" sourcefile="docastle.c">
+		<description>Mr. Do&apos;s Wild Ride</description>
+		<year>1984</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="8300b-2" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="dowild.clr" size="256" crc="a703dea5" sha1="159abdb62cb8bf3167d9fdc26038fb485219af7c"/>
+		<rom name="w1" size="8192" crc="097de78b" sha1="8d0cedde09a893ff67db0cb8e239babeb2cb3701"/>
+		<rom name="w10" size="16384" crc="d1f37fba" sha1="827e2e3b140c4df2fd8780d7d05dc45694cf8f02"/>
+		<rom name="w2" size="8192" crc="0914ab69" sha1="048a68976d313015ff40f411d5c89d318fd9bb04"/>
+		<rom name="w3" size="8192" crc="fc6a1cbb" sha1="4cf59459d521c725e41bbd9363fb58bffdad13a2"/>
+		<rom name="w4" size="8192" crc="8aac1d30" sha1="c746f5506a541b25a7ca6fc754fbdb94212f7178"/>
+		<rom name="w5" size="16384" crc="b294b151" sha1="c8c15bf9ab2401052ec80fdfc8fe124c6aa52521"/>
+		<rom name="w6" size="8192" crc="57e0208b" sha1="52c1157d7df84fef754cd9466a70df7e53bc837f"/>
+		<rom name="w7" size="8192" crc="5001a6f7" sha1="ef37a26f0c2960fc55ff800da5d4d9c3d54270c2"/>
+		<rom name="w8" size="8192" crc="ec503251" sha1="ea7bb11c8e51fe69b5ecba4e4806ec8a8e4961d7"/>
+		<rom name="w9" size="8192" crc="af7bd7eb" sha1="1cc017b4606d1f6d70cc6cdaf9cf7797dd552b4b"/>
+	</game>
+
+	<game name="galxwar2" sourcefile="8080bw.c" cloneof="galxwars" romof="galxwars" sampleof="invaders">
+		<description>Galaxy Wars (Universal set 2)</description>
+		<year>1979</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="3192.h6" size="4096" crc="bde6860b" sha1="e04b8add32d8f7ea588fae6d6a387f1d40495f1b"/>
+		<rom name="3193.h7" size="4096" crc="a17cd507" sha1="554ab0e8bdc0e7af4a30b0ddc8aa053c8e70255c"/>
+		<sample name="1.wav"/>
+		<sample name="2.wav"/>
+		<sample name="3.wav"/>
+		<sample name="4.wav"/>
+		<sample name="5.wav"/>
+		<sample name="6.wav"/>
+		<sample name="7.wav"/>
+		<sample name="8.wav"/>
+		<sample name="9.wav"/>
+	</game>
+
+	<game name="galxwars" sourcefile="8080bw.c" sampleof="invaders">
+		<description>Galaxy Wars (Universal set 1)</description>
+		<year>1979</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="univgw1.4" size="1024" crc="0871156e" sha1="3726d0bfe153a0afc62ea56737662074986064b0"/>
+		<rom name="univgw2.5" size="1024" crc="6036d7bf" sha1="36c2ad2ffdb47bbecc40fd67ced6ab51a5cd2f3e"/>
+		<rom name="univgw3.0" size="1024" crc="937796f4" sha1="88e9494cc532498e51e3a68fa1122c40f22b27dd"/>
+		<rom name="univgw4.1" size="1024" crc="4b86e7a6" sha1="167f9f7491a2de39d08e3e6f7057cc75b36c9340"/>
+		<rom name="univgw5.2" size="1024" crc="47a187cd" sha1="640c896ba25f34d323624005bd676257ad17b687"/>
+		<rom name="univgw6.3" size="1024" crc="7b7d22ff" sha1="74364cf2b04dcfbbc8e0131fa12c0e574f693d34"/>
+		<sample name="1.wav"/>
+		<sample name="2.wav"/>
+		<sample name="3.wav"/>
+		<sample name="4.wav"/>
+		<sample name="5.wav"/>
+		<sample name="6.wav"/>
+		<sample name="7.wav"/>
+		<sample name="8.wav"/>
+		<sample name="9.wav"/>
+	</game>
+
+	<game name="idsoccer" sourcefile="docastle.c">
+		<description>Indoor Soccer</description>
+		<year>1985</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="id01" size="8192" crc="f1c3bf09" sha1="446d373671f122d8131d2ec2d80c2110ec68a19b"/>
+		<rom name="id02" size="8192" crc="184e6af0" sha1="1664ca6fa0efae8496d051ac5f19596239e7cbcb"/>
+		<rom name="id03" size="8192" crc="22524661" sha1="363528a1135d11ead03c76064042a72e0ac93533"/>
+		<rom name="id04" size="8192" crc="e8cd95fd" sha1="2e272c154bd5dd2dca58d3fe12c6ba5e01a62477"/>
+		<rom name="id05" size="16384" crc="a57c7a11" sha1="9faebad0050da05101811427f350e163a7811396"/>
+		<rom name="id06" size="32768" crc="b42a6f4a" sha1="ddce4438b3649610bd3703cbd7592aaa9a3eda0e"/>
+		<rom name="id07" size="32768" crc="fa2b1c77" sha1="0d8e9db065c76621deb58575f01c6ec5ee6cf6b0"/>
+		<rom name="id08" size="32768" crc="5e97eab9" sha1="40d261a0255c594353816c18aa6c0c245aeb68a8"/>
+		<rom name="id09" size="32768" crc="a2a69223" sha1="6bd9b76e0119643450c9f64c80b52e9056da82d6"/>
+		<rom name="id10" size="16384" crc="6c8b2037" sha1="718d680186623d5af23ed272f04e726fbb17f078"/>
+		<rom name="id_3d.clr" size="512" crc="a433ff62" sha1="db9afe5fc917d25aafa21576cb1cecec7481d4cb"/>
+		<rom name="id_8p" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="is1" size="16384" crc="9eb76196" sha1="c15331dd8c3efaa83a95245210d05eaaa64b3161"/>
+		<rom name="is3" size="16384" crc="27bebba3" sha1="cf752b22603c1e2a0b33958481c652d6d56ebf68"/>
+		<rom name="is4" size="16384" crc="dd5ffaa2" sha1="4bc4330a54ca93448a8fe05207d3fb1a3a9872e1"/>
+	</game>
+
+	<game name="jjack" sourcefile="docastle.c">
+		<description>Jumping Jack</description>
+		<year>1984</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="bprom1.bin" size="512" crc="2f0955f2" sha1="5eb417478669560f447a0a0e6fe93af27804590f"/>
+		<rom name="bprom2.bin" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="j0.bin" size="16384" crc="ab042f04" sha1="06412dbdc43ebd6d376a811f240a4c9ec43ca6e7"/>
+		<rom name="j1.bin" size="8192" crc="87f29bd2" sha1="12b0a6f84439b84dd09fe54436c765fc58f928e1"/>
+		<rom name="j2.bin" size="8192" crc="dec52e80" sha1="1620a070a75115d7c35f44574a8b53ce137ce21a"/>
+		<rom name="j3.bin" size="8192" crc="35b0517e" sha1="756d7627f4dc2e9b24be7b0c4c80a9043cb4c322"/>
+		<rom name="j4.bin" size="8192" crc="35bb316a" sha1="8461503179eb7798de6f9f6677eb18ebcd22d470"/>
+		<rom name="j5.bin" size="16384" crc="75038ff9" sha1="2a92e0d0adb1abd029c5ee6e350a859fed3f0ae9"/>
+		<rom name="j6.bin" size="8192" crc="5937bd7b" sha1="4d399370422e22448d1680113d5bbe9894086a2b"/>
+		<rom name="j7.bin" size="8192" crc="cf8ae8e7" sha1="81b881eda0bf60f52dadf22aafc9ca7162fd1540"/>
+		<rom name="j8.bin" size="8192" crc="84f6fc8c" sha1="be631af9525262cf98c982b88cb97d3287366731"/>
+		<rom name="j9.bin" size="8192" crc="3f9bb09f" sha1="a38f7c9a21e37c7b903497e8170f64a378df730e"/>
+	</game>
+
+	<game name="kickridr" sourcefile="docastle.c">
+		<description>Kick Rider</description>
+		<year>1984</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="8300b-2" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="k1" size="8192" crc="dfdd1ab4" sha1="2f1ad3a8b2c1cbca2dc4a9a0c9a5f79af8712999"/>
+		<rom name="k10" size="16384" crc="6843dbc0" sha1="8a83f785e1fc2fa34a9955c19e27a1968a6d3f08"/>
+		<rom name="k2" size="8192" crc="e193fb5c" sha1="3719c012bb1d75e79aa111093864b6e6bb46bc8c"/>
+		<rom name="k3" size="8192" crc="412244da" sha1="2d4efad88c27db00c18626a667bd00531f4cc4fb"/>
+		<rom name="k4" size="8192" crc="a67dd2ec" sha1="d35eefd314c7a7d9badffc8a19270380f01e263c"/>
+		<rom name="k5" size="16384" crc="3f7d7e49" sha1="ed9697656a46c3e036665659a008396b323c9c2b"/>
+		<rom name="k6" size="8192" crc="94252ed3" sha1="ec7a31d786104a8ebff9229d89e78a074b1b5205"/>
+		<rom name="k7" size="8192" crc="7ef2420e" sha1="b04443ba9f7d19b0b8c15fab2aa7d86febb2add3"/>
+		<rom name="k8" size="8192" crc="29bed201" sha1="f44b2a65d3bd6612a726dd17c3e5e29e7f8196b2"/>
+		<rom name="k9" size="8192" crc="847584d3" sha1="14aa799a2d060f49fc955c760b0e97e9c1ac1662"/>
+		<rom name="kickridr.clr" size="256" crc="73ec281c" sha1="1af32653e03c1e0aadef47b91bdc3f3c56ef7b23"/>
+	</game>
+
+	<game name="ladybug" sourcefile="ladybug.c">
+		<description>Lady Bug</description>
+		<year>1981</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="10-1.vid" size="32" crc="40640d8f" sha1="85d13a9b78c47174cff7c869f52b30263bae575e"/>
+		<rom name="10-2.vid" size="32" crc="df091e52" sha1="4d7fea6d9ab31e5f280b1dc198a325f00c3826ef"/>
+		<rom name="10-3.vid" size="32" crc="27fa3a50" sha1="7cf59b7a37c156640d6ea91554d1c4276c1780e0"/>
+		<rom name="lb1.cpu" size="4096" crc="d09e0adb" sha1="ddc1f849cbcefb64b70a26c2a4c993f0516af814"/>
+		<rom name="lb10.vid" size="4096" crc="aa82e00b" sha1="83a5b745e58844b6dd7d05dfe9dbb5959aaf5c40"/>
+		<rom name="lb2.cpu" size="4096" crc="88bc4a0a" sha1="193c9f90b7550020c0923cb158dff7d5faa53bc6"/>
+		<rom name="lb3.cpu" size="4096" crc="53e9efce" sha1="1960e9cd896b6a65197aefc3f10348103552b598"/>
+		<rom name="lb4.cpu" size="4096" crc="ffc424d7" sha1="2a4b9533e61e265bdd38c126add8c26d5bc048d5"/>
+		<rom name="lb5.cpu" size="4096" crc="ad6af809" sha1="276275d56c725b9d90eeb44c317ceb06bac27ae7"/>
+		<rom name="lb6.cpu" size="4096" crc="cf1acca4" sha1="c05de7de4bd05d5c2af6aa752e057a9286f3effc"/>
+		<rom name="lb7.cpu" size="4096" crc="86a5b448" sha1="f8585a6fcf921e3e21f112dd2de474cb53cef290"/>
+		<rom name="lb8.cpu" size="4096" crc="8b99910b" sha1="0bc812cf872f04eacedb50feed53f1aa8a1f24b9"/>
+		<rom name="lb9.vid" size="4096" crc="77b1da1e" sha1="58cb82417396a3d96acfc864f091b1a5988f228d"/>
+	</game>
+
+	<game name="magspot" sourcefile="cosmic.c">
+		<description>Magical Spot</description>
+		<year>1980</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="ms.d9" size="32" crc="36e2aa2a" sha1="4813b013cb8260157858e3adc7323efc6654e170"/>
+		<rom name="ms.e2" size="1024" crc="89f23ebd" sha1="a56bda82f8be8e541a50d2a411ada89a6d9c0373"/>
+		<rom name="ms1.bin" size="2048" crc="59e9019d" sha1="3c64ae956ec4eed988018b89c986ad8f6f065fe0"/>
+		<rom name="ms2.bin" size="2048" crc="98b913b1" sha1="2ce86f5069e2664e2ea44bda567ca26432fd59f7"/>
+		<rom name="ms3.bin" size="2048" crc="ea58c124" sha1="7551c14ed9563e3aed7220cc03f7bca4029b3a4e"/>
+		<rom name="ms4.bin" size="2048" crc="088582ab" sha1="ad2d86184b4a6ee74464d1df40f4e841434c46c8"/>
+		<rom name="ms5.bin" size="2048" crc="4302a658" sha1="9590be8db27b7122c87cfb27f8e09c2ecbf6fbd0"/>
+		<rom name="ms6.bin" size="2048" crc="e6bf492c" sha1="ada3a33c54b6c02f3fb9590181fceefafdc429bc"/>
+		<rom name="ms7.bin" size="2048" crc="1ab338d3" sha1="4e3bf93f94119fd10c40953245cec735db8417fb"/>
+		<rom name="ms8.bin" size="2048" crc="9e1d63a2" sha1="d8642e515871da44880e105e6891c4b25222744f"/>
+	</game>
+
+	<game name="magspot2" sourcefile="cosmic.c">
+		<description>Magical Spot II</description>
+		<year>1980</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="ms.d9" size="32" crc="36e2aa2a" sha1="4813b013cb8260157858e3adc7323efc6654e170"/>
+		<rom name="ms.e2" size="1024" crc="89f23ebd" sha1="a56bda82f8be8e541a50d2a411ada89a6d9c0373"/>
+		<rom name="ms.e3" size="2048" crc="c0085ade" sha1="ab60ba7c0e45ea2576d935135e930e2fdf165867"/>
+		<rom name="ms.e4" size="2048" crc="d534a68b" sha1="fd3b5e619b22a8c53e3c6f5f5351068a3f26eb61"/>
+		<rom name="ms.e5" size="2048" crc="25513b2a" sha1="c7f3d9a53cb7e7cf523ff710c333dbc744088e31"/>
+		<rom name="ms.e6" size="2048" crc="6a08ab94" sha1="5d9272a5304546cef6668c975e815f6750bcfa15"/>
+		<rom name="ms.e7" size="2048" crc="8836bbc4" sha1="9da6c1b4e9a446108bc324e7fc280bfaeaf50504"/>
+		<rom name="ms.e8" size="2048" crc="77c6d109" sha1="bb265bd56d4d597d2ef75d169d5d30db1499e3be"/>
+		<rom name="ms.n1" size="2048" crc="1ab338d3" sha1="4e3bf93f94119fd10c40953245cec735db8417fb"/>
+		<rom name="ms.n2" size="2048" crc="9e1d63a2" sha1="d8642e515871da44880e105e6891c4b25222744f"/>
+	</game>
+
+	<game name="mimonkey" sourcefile="scobra.c">
+		<description>Mighty Monkey</description>
+		<manufacturer>Universal Video Games</manufacturer>
+		<rom name="82s123.6e" size="32" crc="4e3caeab" sha1="a25083c3e36d28afdefe4af6e6d4f3155e303625"/>
+		<rom name="mm1.2e" size="4096" crc="9019f1b1" sha1="0c45f64e39b9a182f6162ab520ced6ef0686466c"/>
+		<rom name="mm10.5h" size="4096" crc="3828c9db" sha1="eaf9e81c803ad2be6c2db3104f07f80788378286"/>
+		<rom name="mm11.5f" size="4096" crc="9e0e9289" sha1="79d412dbceb364bc798feda658b15792feb63338"/>
+		<rom name="mm12.5h" size="4096" crc="f73a8412" sha1="9baf4336cceb9b039372b0a1c733910aeab5ec6d"/>
+		<rom name="mm13.11d" size="4096" crc="2d14c527" sha1="062414ce0415b6c471149319ecae22f465df3a4f"/>
+		<rom name="mm14.10d" size="4096" crc="35ed0f96" sha1="5aaacae5c2acf97540b72491f71ea823f5eeae1a"/>
+		<rom name="mm2.2e" size="4096" crc="043e97d6" sha1="924c0165dfcf01182696b0d259718ac625573d9a"/>
+		<rom name="mm3.2f" size="4096" crc="1052726a" sha1="2fdd3064f02babd2d496a38c7aee094cb3666f24"/>
+		<rom name="mm4.2h" size="4096" crc="7b3f35ff" sha1="b52c46c3f166346d3b25cd2ab09781afc703de08"/>
+		<rom name="mm5.2j" size="4096" crc="b4e5c32d" sha1="18e53519e8f4e813109cfaf45f2f66444e6fa1a2"/>
+		<rom name="mm6.2l" size="4096" crc="409036c4" sha1="a9640da91156504bfc8fedcda30f81169b28a0c9"/>
+		<rom name="mm7.2m" size="4096" crc="119c08fa" sha1="6e19ab874b735fe7339bcf651111664263ea4ef9"/>
+		<rom name="mm8.2p" size="4096" crc="f7989f04" sha1="d6e301414a807f5e9feed92ce53ab73d6bd46c45"/>
+		<rom name="mm9.5f" size="4096" crc="92085b0c" sha1="a791703fa9f17e42450c871d902430fc3c6b10ef"/>
+	</game>
+
+	<game name="mrdo" sourcefile="mrdo.c">
+		<description>Mr. Do!</description>
+		<year>1982</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="a4-01.bin" size="8192" crc="03dcfba2" sha1="c15e3d0c4225e0ca120bcd28aca39632575f8e11"/>
+		<rom name="c4-02.bin" size="8192" crc="0ecdd39c" sha1="c64b3363593911a676c647bf3dba8fe063fcb0de"/>
+		<rom name="e4-03.bin" size="8192" crc="358f5dc2" sha1="9fed1f5d1d04935d1b77687c8b2f3bfce970dc08"/>
+		<rom name="f10--1.bin" size="32" crc="16ee4ca2" sha1="fcba4d103708b9711452009cd29c4f88d2f64cd3"/>
+		<rom name="f4-04.bin" size="8192" crc="f4190cfc" sha1="24f5125d900f944294d4eda068b710c8f1c6d39f"/>
+		<rom name="h5-05.bin" size="4096" crc="e1218cc5" sha1="d946613a1cf1c97f7533a4f8c2d0078d1b7daaa8"/>
+		<rom name="j10--4.bin" size="32" crc="ff7fe284" sha1="3ac8e30011c1fcba0ee8f4dc932f82296c3ba143"/>
+		<rom name="k5-06.bin" size="4096" crc="b1f68b04" sha1="25709cd81c03df51f27cd730fecf86a1daa9e27e"/>
+		<rom name="n8-07.bin" size="4096" crc="4b9973db" sha1="8766c51a345a5e63446e65614c6f665ab5fbe0d7"/>
+		<rom name="r8-08.bin" size="4096" crc="dbdc9ffa" sha1="93f29fc106283eecbba3fd69cf3c4658aa38ab9f"/>
+		<rom name="s8-09.bin" size="4096" crc="aa80c5b6" sha1="76f9f90deb74598470e7ed565237da38dd07e4e9"/>
+		<rom name="t02--3.bin" size="32" crc="ae263dc0" sha1="7072c100b9d692f5bb12b0c9e304425f534481e2"/>
+		<rom name="u02--2.bin" size="32" crc="238a65d7" sha1="a5b20184a1989db23544296331462ec4d7be7516"/>
+		<rom name="u8-10.bin" size="4096" crc="d20ec85b" sha1="9762bbe34d3fa209ea719807c723f57cb6bf4e01"/>
+	</game>
+
+	<game name="mrdofix" sourcefile="mrdo.c" cloneof="mrdo" romof="mrdo">
+		<description>Mr. Do! (bugfixed)</description>
+		<year>1982</year>
+		<manufacturer>Universal (Taito license)</manufacturer>
+		<rom name="d1" size="8192" crc="3dcd9359" sha1="bfe00450ee8822f437d87514f051ad1be6de9463"/>
+		<rom name="d10" size="4096" crc="a6c2f38b" sha1="7c132771bf385c8ed28d8c8bdfc3dbf0b4aa75e8"/>
+		<rom name="d2" size="8192" crc="710058d8" sha1="168cc179f2266bbf9437445bef9ff7d3358a8e6b"/>
+		<rom name="d9" size="4096" crc="de4cfe66" sha1="c217dcc24305f3b4badfb778a1cf4e57c178d168"/>
+		<rom name="dofix.d3" size="8192" crc="3a7d039b" sha1="ac87a3c9fa6433d1700e858914a995dce35113fa"/>
+		<rom name="dofix.d4" size="8192" crc="32db845f" sha1="5c58532ae2cfab9bd81383824d970b20015c960e"/>
+		<rom name="f10--1.bin" merge="f10--1.bin" size="32" crc="16ee4ca2" sha1="fcba4d103708b9711452009cd29c4f88d2f64cd3"/>
+		<rom name="h5-05.bin" merge="h5-05.bin" size="4096" crc="e1218cc5" sha1="d946613a1cf1c97f7533a4f8c2d0078d1b7daaa8"/>
+		<rom name="j10--4.bin" merge="j10--4.bin" size="32" crc="ff7fe284" sha1="3ac8e30011c1fcba0ee8f4dc932f82296c3ba143"/>
+		<rom name="k5-06.bin" merge="k5-06.bin" size="4096" crc="b1f68b04" sha1="25709cd81c03df51f27cd730fecf86a1daa9e27e"/>
+		<rom name="n8-07.bin" merge="n8-07.bin" size="4096" crc="4b9973db" sha1="8766c51a345a5e63446e65614c6f665ab5fbe0d7"/>
+		<rom name="r8-08.bin" merge="r8-08.bin" size="4096" crc="dbdc9ffa" sha1="93f29fc106283eecbba3fd69cf3c4658aa38ab9f"/>
+		<rom name="t02--3.bin" merge="t02--3.bin" size="32" crc="ae263dc0" sha1="7072c100b9d692f5bb12b0c9e304425f534481e2"/>
+		<rom name="u02--2.bin" merge="u02--2.bin" size="32" crc="238a65d7" sha1="a5b20184a1989db23544296331462ec4d7be7516"/>
+	</game>
+
+	<game name="mrdot" sourcefile="mrdo.c" cloneof="mrdo" romof="mrdo">
+		<description>Mr. Do! (Taito)</description>
+		<year>1982</year>
+		<manufacturer>Universal (Taito license)</manufacturer>
+		<rom name="d1" size="8192" crc="3dcd9359" sha1="bfe00450ee8822f437d87514f051ad1be6de9463"/>
+		<rom name="d10" size="4096" crc="a6c2f38b" sha1="7c132771bf385c8ed28d8c8bdfc3dbf0b4aa75e8"/>
+		<rom name="d2" size="8192" crc="710058d8" sha1="168cc179f2266bbf9437445bef9ff7d3358a8e6b"/>
+		<rom name="d3" size="8192" crc="467d12d8" sha1="7bb85e6a780de1c0c224229ee571cab39098f78d"/>
+		<rom name="d4" size="8192" crc="fce9afeb" sha1="26236a42c1c620975d4480c4315d0c6f112429b6"/>
+		<rom name="d9" size="4096" crc="de4cfe66" sha1="c217dcc24305f3b4badfb778a1cf4e57c178d168"/>
+		<rom name="f10--1.bin" merge="f10--1.bin" size="32" crc="16ee4ca2" sha1="fcba4d103708b9711452009cd29c4f88d2f64cd3"/>
+		<rom name="h5-05.bin" merge="h5-05.bin" size="4096" crc="e1218cc5" sha1="d946613a1cf1c97f7533a4f8c2d0078d1b7daaa8"/>
+		<rom name="j10--4.bin" merge="j10--4.bin" size="32" crc="ff7fe284" sha1="3ac8e30011c1fcba0ee8f4dc932f82296c3ba143"/>
+		<rom name="k5-06.bin" merge="k5-06.bin" size="4096" crc="b1f68b04" sha1="25709cd81c03df51f27cd730fecf86a1daa9e27e"/>
+		<rom name="n8-07.bin" merge="n8-07.bin" size="4096" crc="4b9973db" sha1="8766c51a345a5e63446e65614c6f665ab5fbe0d7"/>
+		<rom name="r8-08.bin" merge="r8-08.bin" size="4096" crc="dbdc9ffa" sha1="93f29fc106283eecbba3fd69cf3c4658aa38ab9f"/>
+		<rom name="t02--3.bin" merge="t02--3.bin" size="32" crc="ae263dc0" sha1="7072c100b9d692f5bb12b0c9e304425f534481e2"/>
+		<rom name="u02--2.bin" merge="u02--2.bin" size="32" crc="238a65d7" sha1="a5b20184a1989db23544296331462ec4d7be7516"/>
+	</game>
+
+	<game name="mrdoy" sourcefile="mrdo.c" cloneof="mrdo" romof="mrdo">
+		<description>Mr. Do! (prototype)</description>
+		<year>1982</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="dosnow.1" size="8192" crc="d3454e2c" sha1="f8ecb9eec414badbcb65b7188d4a4d06739534cc"/>
+		<rom name="dosnow.10" size="4096" crc="61a7f54b" sha1="19b0074f098955d61e5dfab060873ac96fdb30b4"/>
+		<rom name="dosnow.2" size="8192" crc="5120a6b2" sha1="1db6dc3a91ac024e763179f425ad46d9d0aff8f9"/>
+		<rom name="dosnow.3" size="8192" crc="96416dbe" sha1="55f5262448b65899309f3e9e16c62b0c1e0b86c3"/>
+		<rom name="dosnow.4" size="8192" crc="c05051b6" sha1="6f528370dc097bf1550f4fa4b5f740214bc18f0b"/>
+		<rom name="dosnow.5" size="4096" crc="7662d828" sha1="559150326e3edc7ee062bfd962fe8d39f9423b45"/>
+		<rom name="dosnow.6" size="4096" crc="413f88d1" sha1="830df0def7289536e2d08e0517cdb6edbc947400"/>
+		<rom name="dosnow.7" size="4096" crc="ac8ffddf" sha1="9911524de6b4e9056944b92a53ac93de110d52bd"/>
+		<rom name="dosnow.8" size="4096" crc="2bd1239a" sha1="43a36afbf7374578e9735956f54412823486b3ff"/>
+		<rom name="dosnow.9" size="4096" crc="85d16217" sha1="35cb4e4a9e55f42f7818aeaa3f72892d2ddc99aa"/>
+		<rom name="f10--1.bin" merge="f10--1.bin" size="32" crc="16ee4ca2" sha1="fcba4d103708b9711452009cd29c4f88d2f64cd3"/>
+		<rom name="j10--4.bin" merge="j10--4.bin" size="32" crc="ff7fe284" sha1="3ac8e30011c1fcba0ee8f4dc932f82296c3ba143"/>
+		<rom name="t02--3.bin" merge="t02--3.bin" size="32" crc="ae263dc0" sha1="7072c100b9d692f5bb12b0c9e304425f534481e2"/>
+		<rom name="u02--2.bin" merge="u02--2.bin" size="32" crc="238a65d7" sha1="a5b20184a1989db23544296331462ec4d7be7516"/>
+	</game>
+
+	<game name="nomnlnd" sourcefile="cosmic.c">
+		<description>No Man&apos;s Land</description>
+		<year>1980</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="1.bin" size="2048" crc="ba117ba6" sha1="7399e7ac8a585ed6502ea0d740850b1ed2dc5bcd"/>
+		<rom name="2.bin" size="2048" crc="e5ed654f" sha1="c26dc12ade6dc63392945ec0caca229d936f7f89"/>
+		<rom name="3.bin" size="2048" crc="7fc42724" sha1="0f8fdfad0a2557b9dd99ae3890c37bbc5c59bc89"/>
+		<rom name="4.bin" size="2048" crc="0e8cd46a" sha1="14cf9017e408b862a4ed63bb8acd37064b3919a8"/>
+		<rom name="5.bin" size="2048" crc="9cc2f1d9" sha1="453c67b613550c84364f445705019188bb580d64"/>
+		<rom name="6.bin" size="2048" crc="ba472ba5" sha1="49be1500b3805a19c7210e53ad5c2c4a5876bf4e"/>
+		<rom name="nl10.ic4" size="1024" crc="5b13f64e" sha1="b04d2423fb443d46fff69c031b0312d956a5b789"/>
+		<rom name="nl11.ic7" size="1024" crc="e717b241" sha1="6d234a75514e22d484dc027db5bb85cf8b58f4f2"/>
+		<rom name="nl9.e2" size="1024" crc="9e05f14e" sha1="76fc0b2b12cc9a0a64b539d2e75edefdb4a2ae61"/>
+		<rom name="nml.d9" size="32" crc="65e911f9" sha1="6420a03195f63edeed17cc3a235e46e3f88d2037"/>
+		<rom name="nml7.n1" size="2048" crc="d08ed22f" sha1="33f450b6f63110bf804105280dc679f1591422f6"/>
+		<rom name="nml8.n2" size="2048" crc="739009b4" sha1="bbabd6ce7b1ded025f20120adaebdb97fb755ef0"/>
+	</game>
+
+	<game name="nomnlndg" sourcefile="cosmic.c" cloneof="nomnlnd" romof="nomnlnd">
+		<description>No Man&apos;s Land (Gottlieb)</description>
+		<year>1980</year>
+		<manufacturer>Universal (Gottlieb license)</manufacturer>
+		<rom name="nl10.ic4" merge="nl10.ic4" size="1024" crc="5b13f64e" sha1="b04d2423fb443d46fff69c031b0312d956a5b789"/>
+		<rom name="nl11.ic7" merge="nl11.ic7" size="1024" crc="e717b241" sha1="6d234a75514e22d484dc027db5bb85cf8b58f4f2"/>
+		<rom name="nl9.e2" merge="nl9.e2" size="1024" crc="9e05f14e" sha1="76fc0b2b12cc9a0a64b539d2e75edefdb4a2ae61"/>
+		<rom name="nml.d9" merge="nml.d9" size="32" crc="65e911f9" sha1="6420a03195f63edeed17cc3a235e46e3f88d2037"/>
+		<rom name="nml1.e3" size="2048" crc="e212ed91" sha1="135c20fc97790769d5e1619d7ac844a1d3f6aace"/>
+		<rom name="nml2.e4" size="2048" crc="f66ef3d8" sha1="c42a325dd952cda074ef2857e7fa5154f0b7c7ce"/>
+		<rom name="nml3.e5" size="2048" crc="d422fc8a" sha1="18cafc462ce0800fea2af277439827dc1f4fc91b"/>
+		<rom name="nml4.e6" size="2048" crc="994c9afb" sha1="c8e6af30d9b2cb5ca52fa325c6ac9a41413d067c"/>
+		<rom name="nml5.e7" size="2048" crc="d58952ac" sha1="1c82a49cc1f0203e6436c5292ebd6e9004bd6a84"/>
+		<rom name="nml6.e8" size="2048" crc="01ed2d8c" sha1="bfa31e9100a1f9276c521ed8699e1cb0d067e0fa"/>
+		<rom name="nml7.n1" merge="nml7.n1" size="2048" crc="d08ed22f" sha1="33f450b6f63110bf804105280dc679f1591422f6"/>
+		<rom name="nml8.n2" merge="nml8.n2" size="2048" crc="739009b4" sha1="bbabd6ce7b1ded025f20120adaebdb97fb755ef0"/>
+	</game>
+
+	<game name="panic" sourcefile="cosmic.c">
+		<description>Space Panic (version E)</description>
+		<year>1980</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="82s123.sp" size="32" crc="35d43d2f" sha1="2ce164c92ed7ba3ee26a907f0c5969ec3decca01"/>
+		<rom name="spcpanic.10" size="2048" crc="c9631c2d" sha1="e5ab95e19c1b22a798a70a1a6599bc1f5e853c60"/>
+		<rom name="spcpanic.11" size="2048" crc="acea9df4" sha1="7de2a82da8160ad1a01c32a516d10c19dc306051"/>
+		<rom name="spcpanic.12" size="2048" crc="e83423d0" sha1="eba1129537869f1ecb5afeeae19db19b134865f6"/>
+		<rom name="spcpanic.5" size="2048" crc="5b80f277" sha1="b060e57c88679f547153aed041a5554dc26a83aa"/>
+		<rom name="spcpanic.6" size="2048" crc="b73babf0" sha1="229944a6b3653601bc20afea5a9aec787fd95ce0"/>
+		<rom name="spcpanic.8" size="2048" crc="7da0b321" sha1="b450cc02de9cc27e3f336c626221c90c6961b51e"/>
+		<rom name="spcpanic.9" size="2048" crc="eec78b4c" sha1="efd21d0a26b988a490c45315a7a121607f74d147"/>
+		<rom name="spe1" size="2048" crc="70ac0888" sha1="bdc6dfb74b4643df36cae60923f9759751340c86"/>
+		<rom name="spe2" size="2048" crc="2b910c48" sha1="9ebb15694e068a4d8769ec5d312af1148818d472"/>
+		<rom name="spe3" size="2048" crc="03810148" sha1="768418bc0a3a5bc9f7ec07b8edd4099da69efac6"/>
+		<rom name="spe4" size="2048" crc="119bbbfd" sha1="2b3722300b1eebe1bffa4a4e39fceb45aefde24f"/>
+		<rom name="spe7" size="2048" crc="2894106e" sha1="625896225b0ec03ac12f3e8b97e801cb743f37e7"/>
+		<sample name="coin.wav"/>
+		<sample name="death.wav"/>
+		<sample name="ekilled.wav"/>
+		<sample name="elaugh.wav"/>
+		<sample name="escaping.wav"/>
+		<sample name="extral.wav"/>
+		<sample name="falling.wav"/>
+		<sample name="oxygen.wav"/>
+		<sample name="trapped.wav"/>
+		<sample name="upordown.wav"/>
+		<sample name="walk.wav"/>
+	</game>
+
+	<game name="panic2" sourcefile="cosmic.c" cloneof="panic" romof="panic" sampleof="panic">
+		<description>Space Panic (set 2)</description>
+		<year>1980</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="82s123.sp" merge="82s123.sp" size="32" crc="35d43d2f" sha1="2ce164c92ed7ba3ee26a907f0c5969ec3decca01"/>
+		<rom name="spcpanic.1" size="2048" crc="405ae6f9" sha1="92000f5f9bc1384ebae36dd30e715764747504d8"/>
+		<rom name="spcpanic.10" merge="spcpanic.10" size="2048" crc="c9631c2d" sha1="e5ab95e19c1b22a798a70a1a6599bc1f5e853c60"/>
+		<rom name="spcpanic.11" merge="spcpanic.11" size="2048" crc="acea9df4" sha1="7de2a82da8160ad1a01c32a516d10c19dc306051"/>
+		<rom name="spcpanic.12" merge="spcpanic.12" size="2048" crc="e83423d0" sha1="eba1129537869f1ecb5afeeae19db19b134865f6"/>
+		<rom name="spcpanic.2" size="2048" crc="b6a286c5" sha1="b33beb1fbe622e9c90888d25d018fd5bef6cb65b"/>
+		<rom name="spcpanic.3" size="2048" crc="85ae8b2e" sha1="a5676d38e3c0ea0aeedc29bea0c04086e51da67f"/>
+		<rom name="spcpanic.4" size="2048" crc="b6d4f52f" sha1="431e5ef00768a633d17449a888ac9ce46975272d"/>
+		<rom name="spcpanic.5" merge="spcpanic.5" size="2048" crc="5b80f277" sha1="b060e57c88679f547153aed041a5554dc26a83aa"/>
+		<rom name="spcpanic.6" merge="spcpanic.6" size="2048" crc="b73babf0" sha1="229944a6b3653601bc20afea5a9aec787fd95ce0"/>
+		<rom name="spcpanic.7" size="2048" crc="fc27f4e5" sha1="80064ccfb810d11f6d7d79bfd991adb2eb2f1c16"/>
+		<rom name="spcpanic.8" merge="spcpanic.8" size="2048" crc="7da0b321" sha1="b450cc02de9cc27e3f336c626221c90c6961b51e"/>
+		<rom name="spcpanic.9" merge="spcpanic.9" size="2048" crc="eec78b4c" sha1="efd21d0a26b988a490c45315a7a121607f74d147"/>
+		<sample name="coin.wav"/>
+		<sample name="death.wav"/>
+		<sample name="ekilled.wav"/>
+		<sample name="elaugh.wav"/>
+		<sample name="escaping.wav"/>
+		<sample name="extral.wav"/>
+		<sample name="falling.wav"/>
+		<sample name="oxygen.wav"/>
+		<sample name="trapped.wav"/>
+		<sample name="upordown.wav"/>
+		<sample name="walk.wav"/>
+	</game>
+
+	<game name="panic3" sourcefile="cosmic.c" cloneof="panic" romof="panic" sampleof="panic">
+		<description>Space Panic (set 3)</description>
+		<year>1980</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="82s123.sp" merge="82s123.sp" size="32" crc="35d43d2f" sha1="2ce164c92ed7ba3ee26a907f0c5969ec3decca01"/>
+		<rom name="panica.1" size="2048" crc="289720ce" sha1="8601bda95ac32a55f17fe9c723796bfe8b2b2fa7"/>
+		<rom name="panica.7" size="2048" crc="3641cb7f" sha1="94a5108233cf9517f782759bb396e4eab58b8551"/>
+		<rom name="spcpanic.10" merge="spcpanic.10" size="2048" crc="c9631c2d" sha1="e5ab95e19c1b22a798a70a1a6599bc1f5e853c60"/>
+		<rom name="spcpanic.11" merge="spcpanic.11" size="2048" crc="acea9df4" sha1="7de2a82da8160ad1a01c32a516d10c19dc306051"/>
+		<rom name="spcpanic.12" merge="spcpanic.12" size="2048" crc="e83423d0" sha1="eba1129537869f1ecb5afeeae19db19b134865f6"/>
+		<rom name="spcpanic.2" size="2048" crc="b6a286c5" sha1="b33beb1fbe622e9c90888d25d018fd5bef6cb65b"/>
+		<rom name="spcpanic.3" size="2048" crc="85ae8b2e" sha1="a5676d38e3c0ea0aeedc29bea0c04086e51da67f"/>
+		<rom name="spcpanic.4" size="2048" crc="b6d4f52f" sha1="431e5ef00768a633d17449a888ac9ce46975272d"/>
+		<rom name="spcpanic.5" merge="spcpanic.5" size="2048" crc="5b80f277" sha1="b060e57c88679f547153aed041a5554dc26a83aa"/>
+		<rom name="spcpanic.6" merge="spcpanic.6" size="2048" crc="b73babf0" sha1="229944a6b3653601bc20afea5a9aec787fd95ce0"/>
+		<rom name="spcpanic.8" merge="spcpanic.8" size="2048" crc="7da0b321" sha1="b450cc02de9cc27e3f336c626221c90c6961b51e"/>
+		<rom name="spcpanic.9" merge="spcpanic.9" size="2048" crc="eec78b4c" sha1="efd21d0a26b988a490c45315a7a121607f74d147"/>
+		<sample name="coin.wav"/>
+		<sample name="death.wav"/>
+		<sample name="ekilled.wav"/>
+		<sample name="elaugh.wav"/>
+		<sample name="escaping.wav"/>
+		<sample name="extral.wav"/>
+		<sample name="falling.wav"/>
+		<sample name="oxygen.wav"/>
+		<sample name="trapped.wav"/>
+		<sample name="upordown.wav"/>
+		<sample name="walk.wav"/>
+	</game>
+
+	<game name="panicger" sourcefile="cosmic.c" cloneof="panic" romof="panic" sampleof="panic">
+		<description>Space Panic (German)</description>
+		<year>1980</year>
+		<manufacturer>Universal (ADP Automaten license)</manufacturer>
+		<rom name="82s123.sp" merge="82s123.sp" size="32" crc="35d43d2f" sha1="2ce164c92ed7ba3ee26a907f0c5969ec3decca01"/>
+		<rom name="spacepan.001" size="2048" crc="a6d9515a" sha1="20fe6fa4cb10e83f97b77e19d9d4f883aba73d1a"/>
+		<rom name="spacepan.002" size="2048" crc="cfc22663" sha1="44036a69ca3463759c56637c3435a3305b102879"/>
+		<rom name="spacepan.003" size="2048" crc="e1f36893" sha1="689b77b4df15dc980d35cf245aca1affe46d6b21"/>
+		<rom name="spacepan.004" size="2048" crc="01be297c" sha1="d22856ef192d8239a3520f16bbe5a6f7f4c3adc8"/>
+		<rom name="spacepan.005" size="2048" crc="e0d54805" sha1="5852f69cee9a8f9984b175268bcfafe4f3f124ba"/>
+		<rom name="spacepan.006" size="2048" crc="aae1458e" sha1="79dd5992b81f316cf86efdb2809b7002e824e0e7"/>
+		<rom name="spacepan.007" size="2048" crc="14e46e70" sha1="f49f09a12b796f7a7713d872ecd12e246c56c261"/>
+		<rom name="spcpanic.10" merge="spcpanic.10" size="2048" crc="c9631c2d" sha1="e5ab95e19c1b22a798a70a1a6599bc1f5e853c60"/>
+		<rom name="spcpanic.11" merge="spcpanic.11" size="2048" crc="acea9df4" sha1="7de2a82da8160ad1a01c32a516d10c19dc306051"/>
+		<rom name="spcpanic.12" merge="spcpanic.12" size="2048" crc="e83423d0" sha1="eba1129537869f1ecb5afeeae19db19b134865f6"/>
+		<rom name="spcpanic.8" merge="spcpanic.8" size="2048" crc="7da0b321" sha1="b450cc02de9cc27e3f336c626221c90c6961b51e"/>
+		<rom name="spcpanic.9" merge="spcpanic.9" size="2048" crc="eec78b4c" sha1="efd21d0a26b988a490c45315a7a121607f74d147"/>
+		<sample name="coin.wav"/>
+		<sample name="death.wav"/>
+		<sample name="ekilled.wav"/>
+		<sample name="elaugh.wav"/>
+		<sample name="escaping.wav"/>
+		<sample name="extral.wav"/>
+		<sample name="falling.wav"/>
+		<sample name="oxygen.wav"/>
+		<sample name="trapped.wav"/>
+		<sample name="upordown.wav"/>
+		<sample name="walk.wav"/>
+	</game>
+
+	<game name="panich" sourcefile="cosmic.c" cloneof="panic" romof="panic" sampleof="panic">
+		<description>Space Panic (harder)</description>
+		<year>1980</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="82s123.sp" merge="82s123.sp" size="32" crc="35d43d2f" sha1="2ce164c92ed7ba3ee26a907f0c5969ec3decca01"/>
+		<rom name="spcpanic.10" merge="spcpanic.10" size="2048" crc="c9631c2d" sha1="e5ab95e19c1b22a798a70a1a6599bc1f5e853c60"/>
+		<rom name="spcpanic.11" merge="spcpanic.11" size="2048" crc="acea9df4" sha1="7de2a82da8160ad1a01c32a516d10c19dc306051"/>
+		<rom name="spcpanic.12" merge="spcpanic.12" size="2048" crc="e83423d0" sha1="eba1129537869f1ecb5afeeae19db19b134865f6"/>
+		<rom name="spcpanic.8" merge="spcpanic.8" size="2048" crc="7da0b321" sha1="b450cc02de9cc27e3f336c626221c90c6961b51e"/>
+		<rom name="spcpanic.9" merge="spcpanic.9" size="2048" crc="eec78b4c" sha1="efd21d0a26b988a490c45315a7a121607f74d147"/>
+		<rom name="sph1" size="2048" crc="f6e9c6ef" sha1="90b5bba0fd726e4c6618793467eba8c18c63fd43"/>
+		<rom name="sph2" size="2048" crc="58dbc49b" sha1="f716e8cdbb7eb456bd7f2996241b5ebd03086de3"/>
+		<rom name="sph3" size="2048" crc="c4f275ad" sha1="446be24dc99e46f3c69cf2cfb657958053857b7d"/>
+		<rom name="sph4" size="2048" crc="6e7785de" sha1="d12326791cbcae37980e240e2bfc20d7618f3ef5"/>
+		<rom name="sph5" size="2048" crc="1916c9b8" sha1="ab4a353340f152d6ba181555ee211afeb7877509"/>
+		<rom name="sph6" size="2048" crc="54b92314" sha1="970ebae831ea0a1958b8d711ebc5956ef4f932fe"/>
+		<rom name="sph7" size="2048" crc="8600b881" sha1="2eed176de531f44d10b7755141621050d72ad7ac"/>
+		<sample name="coin.wav"/>
+		<sample name="death.wav"/>
+		<sample name="ekilled.wav"/>
+		<sample name="elaugh.wav"/>
+		<sample name="escaping.wav"/>
+		<sample name="extral.wav"/>
+		<sample name="falling.wav"/>
+		<sample name="oxygen.wav"/>
+		<sample name="trapped.wav"/>
+		<sample name="upordown.wav"/>
+		<sample name="walk.wav"/>
+	</game>
+
+	<game name="snapjack" sourcefile="ladybug.c">
+		<description>Snap Jack</description>
+		<year>1982</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="sj2a.bin" size="4096" crc="6b30fcda" sha1="85e4ebbbe8e8d6c79a14387d7a6818abc9430037"/>
+		<rom name="sj2b.bin" size="4096" crc="1f1088d1" sha1="0fd5204ea27e9bdd811e9ea21e9bbab84b916f4a"/>
+		<rom name="sj2c.bin" size="4096" crc="edd65f3a" sha1="763d588f0755a22c0f24269e6f38979fd516693f"/>
+		<rom name="sj2d.bin" size="4096" crc="f4481192" sha1="514bb124a1d75a622e2ca4c2175d819092d4638d"/>
+		<rom name="sj2e.bin" size="4096" crc="1bff7d05" sha1="47246095313ebba30f42d715a9fb5fc1abb68ea6"/>
+		<rom name="sj2f.bin" size="4096" crc="21793edf" sha1="11e259161bab3a32a8b52f7baa4fec17be6d4302"/>
+		<rom name="sj2g.bin" size="4096" crc="1cdb03a8" sha1="5f390a672f3adf6392f8060bf7f0bcabc2eba139"/>
+		<rom name="sj2h.bin" size="4096" crc="b7f105b6" sha1="1135c3188b41cb0ccb24079c613188209b624683"/>
+		<rom name="sj2i.bin" size="4096" crc="ff2011c7" sha1="38409e2318dee3cc0678d4ee9e93d9b895883df6"/>
+		<rom name="sj2j.bin" size="4096" crc="f097babb" sha1="461662719bc7f1cf21c41759f4832a92b0fdb4f2"/>
+		<rom name="sj8t.bin" size="32" crc="cbbd9dd1" sha1="e267726ba59e9a42ac89dd22eb1508ad21fd32ac"/>
+		<rom name="sj9h.bin" size="32" crc="27fa3a50" sha1="7cf59b7a37c156640d6ea91554d1c4276c1780e0"/>
+		<rom name="sj9k.bin" size="32" crc="5b16fbd2" sha1="0a776aeca3947a6f29d527018f5182e758b50c5d"/>
+	</game>
+
+	<game name="spiero" sourcefile="docastle.c" cloneof="dorunrun" romof="dorunrun">
+		<description>Super Pierrot (Japan)</description>
+		<year>1987</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="27128.p7" merge="27128.p7" size="16384" crc="8b06d461" sha1="2434478810c6301197997be76505f5fc6beba5d3"/>
+		<rom name="bprom1.bin" size="512" crc="fc1b66ff" sha1="0a73f7e00501c638f017473b1e0786d7bcbbe82a"/>
+		<rom name="bprom2.bin" merge="bprom2.bin" size="512" crc="2747ca77" sha1="abc0ca05925974c4b852827605ee2f1caefb8524"/>
+		<rom name="sp1.bin" size="8192" crc="08d23e38" sha1="0810b0ecaa1bd7f16f78ce08054f5d24a57b1266"/>
+		<rom name="sp2.bin" size="8192" crc="3a29ccb0" sha1="37d6ce598a9c3b5dbb23c19a4bd94265287f83f7"/>
+		<rom name="sp3.bin" size="8192" crc="faa0c18c" sha1="0dadea03b529bb889f45bd710bca0b4333cbbba8"/>
+		<rom name="sp4.bin" size="8192" crc="639b4e5d" sha1="cf252869fa0c5351f093026996c4e372f19a52a9"/>
+		<rom name="sp5.bin" size="16384" crc="1b704bb0" sha1="db3b2f120d632b5f897c47aee115916ec6c52a69"/>
+		<rom name="sp6.bin" size="8192" crc="00f893a7" sha1="9680d59065a18ea25734bdcd9a1dd1d5d721a47b"/>
+		<rom name="sp7.bin" size="8192" crc="173e5c6a" sha1="5d06b8702e90af122c347e20b01811994165e727"/>
+		<rom name="sp8.bin" size="8192" crc="2e66525a" sha1="50e7b5e5f01d961eb311c65321fc536d8e4eb7b0"/>
+		<rom name="sp9.bin" size="8192" crc="9c571525" sha1="c7f1c22c6decd6326ef188bbf440115c1e2b16f4"/>
+	</game>
+
+	<game name="sraider" sourcefile="ladybug.c">
+		<description>Space Raider</description>
+		<year>1982</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="sraid-s0.k6" size="4096" crc="a0373909" sha1="00e3bd5dd90769d670fc3c51edd1cd4b69e6132d"/>
+		<rom name="sraid-s4.h6" size="8192" crc="57173a12" sha1="6cb8fd4826e499f9a4e63621d58bc4b596cc261e"/>
+		<rom name="sraid-s5.j6" size="8192" crc="5a459179" sha1="a261c8f3c7c4cd4587c003bbbe815d2c4e01ffbc"/>
+		<rom name="sraid-s6.l6" size="8192" crc="ea3aa25d" sha1="353c0d075d5e0a3bc25a65e2748f5eb5212a844d"/>
+		<rom name="sraid-s7.m2" size="4096" crc="299f8e07" sha1="1de71f251286088487da7285d6f8070147002af5"/>
+		<rom name="sraid-s8.n2" size="4096" crc="57ba8888" sha1="2aa1a5f682d146a55a96e471bb78e5c60da02bf9"/>
+		<rom name="sraid-s9.f6" size="4096" crc="2380b90f" sha1="0310554e3f2ec973c2bb6e816d04e5c0c1e0a0b9"/>
+		<rom name="sraid1.m4" size="8192" crc="2f302a4e" sha1="3a902ce6858f38df88b60830bef4b1d45b09b2df"/>
+		<rom name="sraid2.n4" size="8192" crc="38a48db0" sha1="6f4f384d702fb8ee4bb2ef579638239d57e32ddd"/>
+		<rom name="sraid3.r4" size="8192" crc="0f389774" sha1="c67596e6bf00175ff0a241506cd2f88114d05933"/>
+		<rom name="sraids11.l6" size="4096" crc="ba22d949" sha1="83762ced1df92ff594887e44d5b783826bbfb0c9"/>
+		<rom name="srpr10-1.a2" size="32" crc="121fdb99" sha1="3bc092da40beb129a4df3db2f55d22bbbcf7bad8"/>
+		<rom name="srpr10-2.l3" size="32" crc="88b67e70" sha1="e21ee2939e96dffee101bd92c62ed975b6b64001"/>
+		<rom name="srpr10-3.c1" size="32" crc="27fa3a50" sha1="7cf59b7a37c156640d6ea91554d1c4276c1780e0"/>
+	</game>
+
+	<game name="zerohour" sourcefile="redclash.c">
+		<description>Zero Hour</description>
+		<year>1980</year>
+		<manufacturer>Universal</manufacturer>
+		<rom name="zerohour.1" size="2048" crc="0dff4b48" sha1="4911255f953851d0e5c2b66090b95254ac59ac9e"/>
+		<rom name="zerohour.2" size="2048" crc="cf41b6ac" sha1="263794e6be22c20e2b10fe9099e475097475df7b"/>
+		<rom name="zerohour.3" size="2048" crc="5ef48b67" sha1="ae291aa84b109e6a51eebdd5526abca1d901b7b9"/>
+		<rom name="zerohour.4" size="2048" crc="25c5872d" sha1="df008db607b72a92c4284d6a8127eafec2432ca4"/>
+		<rom name="zerohour.5" size="2048" crc="d7ce3add" sha1="d8dd7ad98e7a0a4f35de181549b2e88a9e0a73d6"/>
+		<rom name="zerohour.6" size="2048" crc="8a93ae6e" sha1="a66f05bb27e67b755c64ac8b68fa38ffe4cd961c"/>
+		<rom name="zerohour.7" size="2048" crc="4c12f59d" sha1="b99a21415bff0e59b6130df60182f05b1a5d0811"/>
+		<rom name="zerohour.8" size="2048" crc="6b9a6b6e" sha1="f80d893b1b26c75c297e1da1c20db04e7129c92a"/>
+		<rom name="zerohour.9" size="2048" crc="17ae6f13" sha1="ce7a02f4e1aa2e5292d3807a0cfed6d92752fc7a"/>
+		<rom name="zerohour.ic2" size="32" crc="b55aee56" sha1="33e4767c8afbb7b3af67517ea1dfd69bf692cac7"/>
+		<rom name="zerohour.n2" size="32" crc="9adabf46" sha1="f3538fdbc4280b6be46a4d7ebb4c34bd1a1ce2b7"/>
+		<rom name="zerohour.u6" size="32" crc="27fa3a50" sha1="7cf59b7a37c156640d6ea91554d1c4276c1780e0"/>
+	</game>
+
+</datafile>

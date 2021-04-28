@@ -1,0 +1,1889 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MAME</name>
+		<description>MAME 0.97 (Jun 2 2005)</description>
+		<category>Emulation</category>
+		<version>0.97</version>
+		<date>02/06/2005</date>
+		<author>AntoPISA</author>
+		<email>progettosnaps@gmail.com</email>
+		<homepage>http://www.progettosnaps.net/</homepage>
+		<url>http://www.progettosnaps.net/dats/MAME/</url>
+		<comment>-not specified-</comment>
+		<clrmamepro/>
+	</header>
+
+	<game name="47pie2" sourcefile="ms32.c">
+		<description>Idol Janshi Su-Chi-Pie 2 (v1.1)</description>
+		<year>1994</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="93166-21.bin" size="262144" crc="e7fd1bf4" sha1="74567530364bfd93bffddb588758d8498e197668"/>
+		<rom name="93166-26.v11" size="524288" crc="e4e62134" sha1="224b3e8dba56009bf2af6eceb7495e60302a6360"/>
+		<rom name="93166-27.v11" size="524288" crc="7bd00919" sha1="60565b5e1da5fee00ac4a7fb1202d7150dab49ee"/>
+		<rom name="93166-28.v11" size="524288" crc="aa49eec2" sha1="173afc596caa1c464fc3247cb64d36c1d97a1520"/>
+		<rom name="93166-29.v11" size="524288" crc="92763e41" sha1="eb593bbb586661c4c4e8728d845b146974d0bdf8"/>
+		<rom name="93166-30.bin" size="524288" crc="0c738883" sha1="e552c1842d759e5e617eb9c6cc178620a461b4dd"/>
+		<rom name="94019-01.13" size="2097152" crc="1ddfe825" sha1="27fbf492fdb4f0b4b8db18330e840c130213e15e"/>
+		<rom name="94019-02.1" size="2097152" crc="f9d692f2" sha1="666df55d26e00be39073173fa3616ac9dafbe615"/>
+		<rom name="94019-03.14" size="2097152" crc="b26426c4" sha1="2d95137edea7d0c380dd8fd99852254ad3e4c837"/>
+		<rom name="94019-04.2" size="2097152" crc="24ca77ec" sha1="a5c575224ab276cbed5785f40fc0d35dd2748e74"/>
+		<rom name="94019-05.15" size="2097152" crc="1da63eb4" sha1="8193ad27ddfe6ba242b73082d1b4a400e88401ba"/>
+		<rom name="94019-06.3" size="2097152" crc="c8aa4b57" sha1="55da6a43ba6f0cb32f5d024f67cae21d04019d2a"/>
+		<rom name="94019-07.16" size="2097152" crc="34f471a8" sha1="4c9c358a9bfdb436a211caa14d085e631609681d"/>
+		<rom name="94019-08.4" size="2097152" crc="4b07edc9" sha1="22aaa923a94a7bec997d2adabc8ec2c7696c33a5"/>
+		<rom name="94019-09.11" size="2097152" crc="cde7bb6f" sha1="47454dac4ce67ce8d7e0c5ef3a732477ac8170a7"/>
+		<rom name="94019-10.22" size="2097152" crc="745d41ec" sha1="9118d0f27b65c9d37970326ccf86fdccb81d32f5"/>
+		<rom name="94019-11.23" size="2097152" crc="021dc350" sha1="c71936091f86440201fdbdc94b0d1d22c4018188"/>
+		<rom name="94019-12.10" size="1048576" crc="15ae05d9" sha1="ac00d3766c42ccba4585b9acfacc81bcb940ac26"/>
+	</game>
+
+	<game name="47pie2o" sourcefile="ms32.c" cloneof="47pie2" romof="47pie2">
+		<description>Idol Janshi Su-Chi-Pie 2 (v1.0)</description>
+		<year>1994</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="93166-21.bin" merge="93166-21.bin" size="262144" crc="e7fd1bf4" sha1="74567530364bfd93bffddb588758d8498e197668"/>
+		<rom name="93166-26.v10" size="524288" crc="21dc94dd" sha1="faf2eea891cb061d5df47ef31d9538feb0c1233c"/>
+		<rom name="93166-27.v10" size="524288" crc="5bf18a7d" sha1="70869dc37e6ad79ce4e85db71a03c5cccf9d732b"/>
+		<rom name="93166-28.v10" size="524288" crc="b1261d51" sha1="3f393aeb7a076c4d2d2cc7f22ead05f405186d80"/>
+		<rom name="93166-29.v10" size="524288" crc="9211c82a" sha1="0aa3f93293b81e0f66b985046eb5e91708693959"/>
+		<rom name="93166-30.bin" merge="93166-30.bin" size="524288" crc="0c738883" sha1="e552c1842d759e5e617eb9c6cc178620a461b4dd"/>
+		<rom name="94019-01.13" merge="94019-01.13" size="2097152" crc="1ddfe825" sha1="27fbf492fdb4f0b4b8db18330e840c130213e15e"/>
+		<rom name="94019-02.1" merge="94019-02.1" size="2097152" crc="f9d692f2" sha1="666df55d26e00be39073173fa3616ac9dafbe615"/>
+		<rom name="94019-03.14" merge="94019-03.14" size="2097152" crc="b26426c4" sha1="2d95137edea7d0c380dd8fd99852254ad3e4c837"/>
+		<rom name="94019-04.2" merge="94019-04.2" size="2097152" crc="24ca77ec" sha1="a5c575224ab276cbed5785f40fc0d35dd2748e74"/>
+		<rom name="94019-05.15" merge="94019-05.15" size="2097152" crc="1da63eb4" sha1="8193ad27ddfe6ba242b73082d1b4a400e88401ba"/>
+		<rom name="94019-06.3" merge="94019-06.3" size="2097152" crc="c8aa4b57" sha1="55da6a43ba6f0cb32f5d024f67cae21d04019d2a"/>
+		<rom name="94019-07.16" merge="94019-07.16" size="2097152" crc="34f471a8" sha1="4c9c358a9bfdb436a211caa14d085e631609681d"/>
+		<rom name="94019-08.4" merge="94019-08.4" size="2097152" crc="4b07edc9" sha1="22aaa923a94a7bec997d2adabc8ec2c7696c33a5"/>
+		<rom name="94019-09.11" merge="94019-09.11" size="2097152" crc="cde7bb6f" sha1="47454dac4ce67ce8d7e0c5ef3a732477ac8170a7"/>
+		<rom name="94019-10.22" merge="94019-10.22" size="2097152" crc="745d41ec" sha1="9118d0f27b65c9d37970326ccf86fdccb81d32f5"/>
+		<rom name="94019-11.23" merge="94019-11.23" size="2097152" crc="021dc350" sha1="c71936091f86440201fdbdc94b0d1d22c4018188"/>
+		<rom name="94019-12.10" merge="94019-12.10" size="1048576" crc="15ae05d9" sha1="ac00d3766c42ccba4585b9acfacc81bcb940ac26"/>
+	</game>
+
+	<game name="64streej" sourcefile="megasys1.c" cloneof="64street" romof="64street">
+		<description>64th. Street - A Detective Story (Japan)</description>
+		<year>1991</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="64th_01.rom" merge="64th_01.rom" size="524288" crc="06222f90" sha1="52b6cb88b9d2209c16d1633c83c0224b6ebf29dc"/>
+		<rom name="64th_04.rom" merge="64th_04.rom" size="524288" crc="98f83ef6" sha1="e9b72487695ac7cdc4fbf595389c4b8781ed207e"/>
+		<rom name="64th_05.rom" merge="64th_05.rom" size="524288" crc="a89a7020" sha1="be36e58e9314688ee39249944c5a6c201e0249ee"/>
+		<rom name="64th_06.rom" merge="64th_06.rom" size="524288" crc="2bfcdc75" sha1="f49f92f1ff58dccf72e05ecf80761c7b65a25ba3"/>
+		<rom name="64th_07.rom" merge="64th_07.rom" size="65536" crc="13595d01" sha1="e730a530ca232aab883217fa12804075cb2aa640"/>
+		<rom name="64th_08.rom" merge="64th_08.rom" size="65536" crc="632be0c1" sha1="626073037249d96ac70b2d11b2dd72b22bac49c7"/>
+		<rom name="64th_09.rom" merge="64th_09.rom" size="131072" crc="a4a97db4" sha1="1179457a6f33b3b44fac6056f6245f3aaae6afd5"/>
+		<rom name="64th_10.rom" merge="64th_10.rom" size="262144" crc="a3390561" sha1="f86d5c61e3e80d30408535c2203940ca1e95ac18"/>
+		<rom name="64th_11.rom" merge="64th_11.rom" size="131072" crc="b0b8a65c" sha1="b7e42d9083d0bbfe160fc73a7317d696e90d83d6"/>
+		<rom name="91105-2.bin" size="262144" crc="27c1f436" sha1="d7936523549cfcd99ba98c6776ebd225b245867b"/>
+		<rom name="91105-3.bin" size="262144" crc="a211a83b" sha1="423d8f273f1520f6a37f1255bb2d343a6bbd790a"/>
+		<rom name="prom" size="512" status="nodump"/>
+	</game>
+
+	<game name="64street" sourcefile="megasys1.c">
+		<description>64th. Street - A Detective Story (World)</description>
+		<year>1991</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="64th_01.rom" size="524288" crc="06222f90" sha1="52b6cb88b9d2209c16d1633c83c0224b6ebf29dc"/>
+		<rom name="64th_02.rom" size="262144" crc="0621ed1d" sha1="97d3e84cced23865157c5a15cbf5b7671c1dbae1"/>
+		<rom name="64th_03.rom" size="262144" crc="ed6c6942" sha1="f610b31548ed4889a43d77be286b9bfabf700064"/>
+		<rom name="64th_04.rom" size="524288" crc="98f83ef6" sha1="e9b72487695ac7cdc4fbf595389c4b8781ed207e"/>
+		<rom name="64th_05.rom" size="524288" crc="a89a7020" sha1="be36e58e9314688ee39249944c5a6c201e0249ee"/>
+		<rom name="64th_06.rom" size="524288" crc="2bfcdc75" sha1="f49f92f1ff58dccf72e05ecf80761c7b65a25ba3"/>
+		<rom name="64th_07.rom" size="65536" crc="13595d01" sha1="e730a530ca232aab883217fa12804075cb2aa640"/>
+		<rom name="64th_08.rom" size="65536" crc="632be0c1" sha1="626073037249d96ac70b2d11b2dd72b22bac49c7"/>
+		<rom name="64th_09.rom" size="131072" crc="a4a97db4" sha1="1179457a6f33b3b44fac6056f6245f3aaae6afd5"/>
+		<rom name="64th_10.rom" size="262144" crc="a3390561" sha1="f86d5c61e3e80d30408535c2203940ca1e95ac18"/>
+		<rom name="64th_11.rom" size="131072" crc="b0b8a65c" sha1="b7e42d9083d0bbfe160fc73a7317d696e90d83d6"/>
+		<rom name="prom" size="512" status="nodump"/>
+	</game>
+
+	<game name="acommand" sourcefile="acommand.c">
+		<description>Alien Command</description>
+		<year>1990</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="jalcf1.bin" size="1048576" crc="24af21d3" sha1="f68ab81a6c833b57ae9eef916a1c8578f3d893dd"/>
+		<rom name="jalcf2.bin" size="1048576" crc="b982fd97" sha1="35ee5b1b9be762ccfefda24d73e329ceea876deb"/>
+		<rom name="jalcf3.bin" size="131072" crc="f031abf7" sha1="e381742fd6a6df4ddae42ddb3a074a55dc550b3c"/>
+		<rom name="jalcf4.bin" size="131072" crc="dd0c0540" sha1="3e788fcb30ae725bd0ec9b57424e3946db1e946f"/>
+		<rom name="jalcf5.bin" size="524288" crc="ff0be97f" sha1="5ccab778318dec30849d7b7f25091d4aab8bde32"/>
+		<rom name="jalcf6.bin" size="131072" crc="442173d6" sha1="56c02bc2761967040127977ecabe844fc45e2218"/>
+		<rom name="jalgp1.bin" size="524288" crc="c4aeeae2" sha1="ee0d3dd93a604f8e1a96b55c4a1cd001d49f1157"/>
+		<rom name="jalgp2.bin" size="524288" crc="f0e4e80e" sha1="08252ef8b5e309cce2d4654410142f4ae9e3ef22"/>
+		<rom name="jalgp3.bin" size="524288" crc="7acebd83" sha1="64be95186d62003b637fcdf45a9c0b7aab182116"/>
+		<rom name="jalgp4.bin" size="524288" crc="6a6b72f3" sha1="3ba359b1a89eb3f6664ed83d93f79d7f895d4222"/>
+		<rom name="jalgp5.bin" size="524288" crc="65ab751d" sha1="f2cb8701eb8c3567a1d03248e6918c5a7b5df939"/>
+		<rom name="jalgp6.bin" size="524288" crc="24e3ab23" sha1="d1431688e1518ba52935f6ab44b815975bec4c27"/>
+		<rom name="jalgp7.bin" size="524288" crc="44b71098" sha1="a6ec2573f9a266d4f8f315f6e99b12525011f512"/>
+		<rom name="jalgp8.bin" size="524288" crc="ce0b7838" sha1="46e34971cb62565a3948d8c0a18086648c32e13b"/>
+		<rom name="jalmr14.bin" size="524288" crc="9d428fb7" sha1="02f72938d73db932bd217620a175a05215f6016a"/>
+		<rom name="jalmr17.bin" size="524288" crc="9d428fb7" sha1="02f72938d73db932bd217620a175a05215f6016a"/>
+	</game>
+
+	<game name="akiss" sourcefile="ms32.c">
+		<description>Mahjong Angel Kiss</description>
+		<year>1995</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="93166.21" size="262144" crc="01a03687" sha1="2340c4ed19f434e8c23709edfc93259313aefaf9"/>
+		<rom name="93166.26" size="524288" crc="5bdd01ee" sha1="21b8e07bb7ef6b437a43719b02deeba970330900"/>
+		<rom name="93166.27" size="524288" crc="bb11b2c9" sha1="86ba06d28bc8f560ac3d05515d061e05c90d1628"/>
+		<rom name="93166.28" size="524288" crc="20565478" sha1="d532ab55be287f45d8d81317bb844c675eb1292c"/>
+		<rom name="93166.29" size="524288" crc="ff454f0d" sha1="db81aaaf4160eb62badbe08fc01543463470ac97"/>
+		<rom name="93166.30" size="524288" crc="1807c1ea" sha1="94696b8319c4982cb5d33423f56e2348f210cdb5"/>
+		<rom name="95008-01.13" size="2097152" crc="1be66420" sha1="9fc85e6108f230418e012ad05586010235139039"/>
+		<rom name="95008-02.1" size="2097152" crc="1cc4808e" sha1="70a19d66b4f187320c67760bc453b6afb7d66f9a"/>
+		<rom name="95008-03.14" size="2097152" crc="4045f0dc" sha1="5ba9786618ecad9410dbdf3664f9dda848a754f7"/>
+		<rom name="95008-04.2" size="2097152" crc="ef3c139d" sha1="3de374e77443dd4e967dbb5da820fe1c8c78aa1b"/>
+		<rom name="95008-05.15" size="2097152" crc="43ea4a84" sha1="d9d9898edcf432998ed6b9a1622812def45cf369"/>
+		<rom name="95008-06.3" size="2097152" crc="24f23d4e" sha1="8a7b6f28f25227391df73edb096695c5fe8df7dc"/>
+		<rom name="95008-07.16" size="2097152" crc="bf47747e" sha1="b97121953f41039182e25ea023802df4524cf9bd"/>
+		<rom name="95008-08.4" size="2097152" crc="34829a09" sha1="7229c56fee53a9d4d29cf0c9dec471b6cc4dc30b"/>
+		<rom name="95008-09.10" size="2097152" crc="7236f6a0" sha1="98dbb55f08d669ef3bf69394bb9739d0e6137fcb"/>
+		<rom name="95008-10.11" size="2097152" crc="52da2e9e" sha1="d7a29bdd1c6801aa8d36bc098e75091c63ba0766"/>
+		<rom name="95008-11.22" size="2097152" crc="23b9af76" sha1="98b4087c142500dc759bda94d71c77634452a7ad"/>
+		<rom name="95008-12.23" size="2097152" crc="780a2f45" sha1="770cbf04e34ae7d72e6eb2304bcdfaff483cd8c1"/>
+	</game>
+
+	<game name="astyanax" sourcefile="megasys1.c">
+		<description>The Astyanax</description>
+		<year>1989</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="astyan1.bin" size="131072" crc="1a1ad3cf" sha1="e094b4528e6f36eb30bfc148f2ad50d876e9280a"/>
+		<rom name="astyan10.bin" size="131072" crc="4f704e7a" sha1="10a3cabb087b065fb28d2838c476125e051cbbf8"/>
+		<rom name="astyan11.bin" size="131072" crc="5593fec9" sha1="8fa5bfa8921c6f03ddf485276207978e345887d5"/>
+		<rom name="astyan12.bin" size="131072" crc="e8b313ec" sha1="ee690e284ab05db858aad4f0a0b24681c14f93c8"/>
+		<rom name="astyan13.bin" size="131072" crc="5f3496c6" sha1="56f2beb2a6224cd77ee7fb56ed2685b78271c27a"/>
+		<rom name="astyan14.bin" size="131072" crc="29a09ec2" sha1="6eab93fdc3491da54ca4da8a2a04a095b85aee57"/>
+		<rom name="astyan15.bin" size="131072" crc="0d316615" sha1="64e6c2a836ba91e17277c7a9fd65cfb6faa88c04"/>
+		<rom name="astyan16.bin" size="131072" crc="ba96e8d9" sha1="da1e8bfc2861df267b11991ddc9329101a6ad0c8"/>
+		<rom name="astyan17.bin" size="131072" crc="be60ba06" sha1="205fb6fe3fe27ef40346c2ccd61168477cd83ac1"/>
+		<rom name="astyan18.bin" size="131072" crc="3668da3d" sha1="4e8328851b26985b3a2d56d398411fbaeae8012c"/>
+		<rom name="astyan19.bin" size="131072" crc="98158623" sha1="e9088d0d4b8c07bd21398f68966cb8633716a9b7"/>
+		<rom name="astyan2.bin" size="131072" crc="1b598dcc" sha1="f6b733d9b0e81226eb784aaddda1791e3e95b816"/>
+		<rom name="astyan20.bin" size="131072" crc="c1ad9aa0" sha1="b19bc564ccb3fdb06300a64ccd672aace734393f"/>
+		<rom name="astyan21.bin" size="131072" crc="0bf498ee" sha1="9d7e25e97cec6056d7b9abd36f5a1e4c162b70a3"/>
+		<rom name="astyan22.bin" size="131072" crc="5f04d9b1" sha1="1f58a49a01129f8ef921f3bc284c299393213af3"/>
+		<rom name="astyan23.bin" size="131072" crc="7bd4d1e7" sha1="888a2224cca41db19d84da344db657d924dcc019"/>
+		<rom name="astyan3.bin" size="65536" crc="097b53a6" sha1="80952b2e685cefa8dd7c31b1ec54c4de924a84eb"/>
+		<rom name="astyan4.bin" size="65536" crc="1e1cbdb2" sha1="5d076233d5ed6fdd9f0ecf64453325c14d33e879"/>
+		<rom name="astyan5.bin" size="65536" crc="11c74045" sha1="00310a08a1c9a08050004e39b111b940142f8dea"/>
+		<rom name="astyan6.bin" size="65536" crc="eecd4b16" sha1="2078e900b53347aad008a8ce7191f4e5541d4df0"/>
+		<rom name="astyan7.bin" size="131072" crc="319418cc" sha1="4056948e12f2191eecd2f4140a7de4340ab1554f"/>
+		<rom name="astyan8.bin" size="131072" crc="5e5d2a22" sha1="fc039d804fdcb8ce089e4436260d64408640b264"/>
+		<rom name="astyan9.bin" size="131072" crc="a10b3f17" sha1="6b548d99f0c10f15d14f1a14d494f3348ea8e484"/>
+		<rom name="rd.bpr" size="512" crc="85b30ac4" sha1="b03f577ceb0f26b67453ffa52ef61fea76a93184"/>
+	</game>
+
+	<game name="avspirit" sourcefile="megasys1.c">
+		<description>Avenging Spirit</description>
+		<year>1991</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="ph.bin" size="512" crc="8359650a" sha1="97d0105f06c64340fb19a541db03481a7e0b5e05"/>
+		<rom name="spirit01.rom" size="131072" crc="d02ec045" sha1="465b61d89ca06e7e0a42c42efb6919c964ad0f93"/>
+		<rom name="spirit02.rom" size="131072" crc="30213390" sha1="9334978d3568b36215ed29789501f7cbaf6651ea"/>
+		<rom name="spirit05.rom" size="262144" crc="b26a341a" sha1="5ff5b7d3aa73cc7cea7b6e8cc2ba55f4cd9b52e5"/>
+		<rom name="spirit06.rom" size="262144" crc="609f71fe" sha1="ab1bfe211763fb855477645267223e7fd4d6b6da"/>
+		<rom name="spirit09.rom" size="131072" crc="0c37edf7" sha1="4074377f756b231b905b9b6a087c6d6ad3d49f52"/>
+		<rom name="spirit10.rom" size="524288" crc="2b1180b3" sha1="6d62b6bd73b9dd23670a0683f28609be29ac1d98"/>
+		<rom name="spirit11.rom" size="524288" crc="7896f6b0" sha1="f09c1592aaa34eb5b7fe096ad4ccdcb155a5cadd"/>
+		<rom name="spirit12.rom" size="524288" crc="728335d4" sha1="bbf13378ac0bff5e732eb30081b421ed89d12fa2"/>
+		<rom name="spirit13.rom" size="262144" crc="05bc04d9" sha1="b903edf39393cad2b4b6b58b10651304793aaa3e"/>
+		<rom name="spirit14.rom" size="262144" crc="13be9979" sha1="828ae745867e25834e51d08308b4ab5d8e80f2c8"/>
+	</game>
+
+	<game name="bbbxing" sourcefile="ms32.c">
+		<description>Best Bout Boxing</description>
+		<year>1994</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="bbbx1.bin" size="2097152" crc="c1c10c3b" sha1="e1f739f38e148c4d7aff6b81b3e42131c5c6c3dd"/>
+		<rom name="bbbx11.bin" size="2097152" crc="85238ca9" sha1="1ce32d585fe66764d621c11882ef9d2abaea6256"/>
+		<rom name="bbbx13.bin" size="2097152" crc="4b8c1574" sha1="c389c70b532d54528a175f460ca3f329b34cf67c"/>
+		<rom name="bbbx14.bin" size="2097152" crc="e9cfd83b" sha1="8580c571a4144ea27c7fca7e86e3e4f5e4f5facb"/>
+		<rom name="bbbx15.bin" size="2097152" crc="6ab64a10" sha1="4ee2cec6b9f8d729ff53851f7949c5cd3a8029d8"/>
+		<rom name="bbbx16.bin" size="2097152" crc="e001d6cb" sha1="c887dbf192e6b46c86fd86bb5f58b44ab8fe8d73"/>
+		<rom name="bbbx17.bin" size="524288" crc="1d7ebaf0" sha1="5aac7cb01013ce3be206318678aced5812bff9a9"/>
+		<rom name="bbbx2.bin" size="2097152" crc="03b77c1e" sha1="f156ae6a4f2a8ae99815eb5a7b28425d273c1c3e"/>
+		<rom name="bbbx21.bin" size="262144" crc="5f3ea01f" sha1="761f6a5852312d2b12de009f3cf0476f5b2e906c"/>
+		<rom name="bbbx22.bin" size="2097152" crc="0fa26f65" sha1="e92b14862fbce33ea4ab4567ec48199bfcbbdd84"/>
+		<rom name="bbbx23.bin" size="2097152" crc="b7875a23" sha1="62bb4c1318f98ea68894658d92ce08e84d386d0c"/>
+		<rom name="bbbx25.bin" size="524288" crc="b526b41e" sha1="44945931b159646468a954d5acdd2c6c61daf098"/>
+		<rom name="bbbx27.bin" size="524288" crc="45b27ad8" sha1="0af415b17400aabecdcb6d1d069f28b64780017f"/>
+		<rom name="bbbx29.bin" size="524288" crc="85bbbe79" sha1="bc5ebb96491762e6a0d202ddf7faeb57c66211b4"/>
+		<rom name="bbbx3.bin" size="2097152" crc="bba0d1a4" sha1="15f8de7478182c36927a84ee8de8eb8ac3e65d7b"/>
+		<rom name="bbbx31.bin" size="524288" crc="e0c865ed" sha1="f21e8dc174c50d7afdd3f82c1c66dfcc002bdd07"/>
+		<rom name="bbbx32-2.bin" size="524288" crc="3ffdae75" sha1="2b837d28f7ecdd49e8525bd5c249e83021d5fe9f"/>
+		<rom name="bbbx4.bin" size="2097152" crc="97f97e3a" sha1="260603a10fe742986aa4f7fb90e4f141bdadae17"/>
+		<rom name="bbbx5.bin" size="524288" crc="64989edf" sha1="033eab0e8a53607b2bb420f6356804b2cfa1544c"/>
+		<rom name="bbbx9.bin" size="2097152" crc="a41cb650" sha1="1c55a4afe55c1250806f2d93c25842dc3fb7f987"/>
+	</game>
+
+	<game name="bigrun" sourcefile="cischeat.c">
+		<description>Big Run (11th Rallye version)</description>
+		<year>1989</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="br8950b.3" size="131072" crc="864cebf7" sha1="4e63106cd5832901688dfce2e450f536a6927c81"/>
+		<rom name="br8950b.4" size="131072" crc="702c2a6e" sha1="cf3327919e24b7206d404b008cb00117e4308f94"/>
+		<rom name="br8950b.5" size="131072" crc="0530764e" sha1="0a89eab2ce9bd5df574a46bb6ea884c33407f122"/>
+		<rom name="br8950b.6" size="131072" crc="cf40ecfa" sha1="96e1bfb7a33603a1eaaeb31386bba947fc005060"/>
+		<rom name="br8950b.7" size="131072" crc="bd5fd061" sha1="e5e0afb0a3a1d5f7a27bd04b724c48ea65872233"/>
+		<rom name="br8950b.8" size="131072" crc="7d66f418" sha1="f6564ac9d65d40af17f5dd422c435aeb6a385256"/>
+		<rom name="br8950b.9" size="131072" crc="be0864c4" sha1="e0f1c0f09b30a731f0e062b1acb1b3a3a772a5cc"/>
+		<rom name="br8950b.e1" size="262144" crc="bfb54a62" sha1="49f78e162e8bc19a75c62029737acd665b9b124b"/>
+		<rom name="br8950b.e2" size="262144" crc="c0483e81" sha1="e8fd8860191c7d8cb4dda44c69ce05cd58174a07"/>
+		<rom name="br8951b.21" size="131072" crc="59b9c26b" sha1="09fea3b77b045d9c1ed62bf53efa8b5242a33a10"/>
+		<rom name="br8951b.22" size="131072" crc="c112a803" sha1="224a2ed690b78caef266958a93524211ff4a8e70"/>
+		<rom name="br8951b.23" size="65536" crc="b9474fec" sha1="f1f0eab014e8f52572484b83f56189e0ff6f2b0d"/>
+		<rom name="br8952a.10" size="131072" crc="8c0df287" sha1="3a2e689e2d841e2089b18267a8462f1acc40ae99"/>
+		<rom name="br8952a.19" size="131072" crc="fcf6b70c" sha1="34f7ca29241925251a043c63062596d1c220b730"/>
+		<rom name="br8952a.20" size="131072" crc="c43d367b" sha1="86242ba03cd172e95bf42eac369fb3acf42c7c45"/>
+		<rom name="br8952a.9" size="131072" crc="f803f0d9" sha1="6d2e90e74bb15cd443d901ad0fc827117432daa6"/>
+		<rom name="br8953c.1" size="131072" crc="79fc7bc0" sha1="edb6cf626f93417cdc9525627d85a0ca9bcd1b1c"/>
+		<rom name="br8953c.2" size="131072" crc="b690d8d9" sha1="317c0b4e9bef30c84daf16765af66f5a6f9d1c54"/>
+		<rom name="mb88004c.t48" size="262144" crc="02e2931d" sha1="754b38929a2dd10d39634fb9cf737e3175a8b1ec"/>
+		<rom name="mb88004f.t49" size="262144" crc="4f012dab" sha1="35f756b1c7b41f2e81ccbefb2075608a5d663152"/>
+		<rom name="mb88004h.t46" size="524288" crc="6b31a1ba" sha1="71a956f0f51a63bddedfef0febdc95108ed42226"/>
+		<rom name="mb88004l.t50" size="524288" crc="6b11fb10" sha1="eb6e9614bb50b8fc332ada61882da484d34d727f"/>
+		<rom name="mb88004m.t51" size="524288" crc="ee52f04d" sha1="fc45bd1d3a7552433e40846c358573c6988127c3"/>
+		<rom name="mr88004a.t41" size="524288" crc="c781d8c5" sha1="52b23842a20443b51490d701dca72fb0a3118033"/>
+		<rom name="mr88004b.t42" size="524288" crc="2df2e7b9" sha1="5772e0dc2f842077ea70a558b55ec5ceea693f00"/>
+		<rom name="mr88004d.t43" size="524288" crc="e4041208" sha1="f5bd21b42f627b01bca2324082aecee7852a37e6"/>
+		<rom name="mr88004e.t44" size="524288" crc="7af7fbf6" sha1="5b8e2d3bb0c9f29f2c96f68c6d4c7fbf63e640c9"/>
+		<rom name="mr88004g.t45" size="524288" crc="bb397bae" sha1="c67d33bde6e8de2ea7581faadb96acd977adc13c"/>
+	</game>
+
+	<game name="bigstrik" sourcefile="megasys1.c">
+		<description>Big Striker</description>
+		<year>1992</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="82s131.12" size="512" crc="4b00fccf" sha1="61682a595e604772b0adf6446d265a04719a36cc"/>
+		<rom name="91021-01.1" size="524288" crc="f1945858" sha1="3ed3881d3a93f34de5a15c287e076db209477259"/>
+		<rom name="91021-02.5" size="524288" crc="199819ca" sha1="2f85cb3a8fa12faab379377c9a5ce3add30e6abf"/>
+		<rom name="91021-03.6" size="524288" crc="e88821e5" sha1="60ea179db5e958b721eee71e26398e4ea8b8457e"/>
+		<rom name="91105v10.10" size="262144" crc="d273a92a" sha1="9f94bb7a60dfc7158871c9239d72832ca7b8ad09"/>
+		<rom name="91105v10.11" size="262144" crc="0ef8fd43" sha1="c226db63d9427ba024e7c41d5518c8895b45feaa"/>
+		<rom name="91105v10.7" size="65536" crc="bc2c1508" sha1="110dece929f9b452eb287c736d394d1022a09d75"/>
+		<rom name="91105v10.8" size="65536" crc="7dd69ece" sha1="e8dc3cbce8cb3f549384cd114f8fc0e6c72462f3"/>
+		<rom name="91105v11.2" size="131072" crc="2120f05b" sha1="a769cf8c3a4fa6a3f604edf45ce6db35979826cb"/>
+		<rom name="91105v11.3" size="131072" crc="5d6e08ec" sha1="4b80a5073cd0b0142cad094816b935d750ac11fb"/>
+		<rom name="91105v11.9" size="131072" crc="7be1c50c" sha1="1dd81a61deeda3866e3f1ca82384f5f1b2efac08"/>
+	</game>
+
+	<game name="chameleo" sourcefile="lasso.c">
+		<description>Chameleon</description>
+		<year>1983</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="chamaprm.bin" size="32" crc="c7063b54" sha1="53baed3806848207ab3a8fafd182cabec3be4b04"/>
+		<rom name="chambprm.bin" size="32" crc="e3ad76df" sha1="cd115cece4931bfcfc0f60147b942998a5c21bf7"/>
+		<rom name="chamel1.bin" size="4096" crc="96031d3b" sha1="a143b54b98891423d355e0ba08c3b88d70fa0e23"/>
+		<rom name="chamel2.bin" size="4096" crc="81dcc49c" sha1="7e1b4351775f9c140a43f531da8b055271b7b28c"/>
+		<rom name="chamel3.bin" size="4096" crc="52eab9ec" sha1="554c34134e3af970262da89fe82feeaf47fd30bc"/>
+		<rom name="chamel4.bin" size="8192" crc="97379c47" sha1="b29fa2318d4260c29fc95d22a461173dc960ad1a"/>
+		<rom name="chamel5.bin" size="8192" crc="0a2cadfd" sha1="1ccc43accd60ca15b8f03ed1c3fda76a840a2bb1"/>
+		<rom name="chamel6.bin" size="8192" crc="b023c354" sha1="0424ecf81ac9f0e055f9ff01cf0bd6d5c9ff866c"/>
+		<rom name="chamel7.bin" size="8192" crc="a5a03375" sha1="c1eac4596c2bda419f3c513ecd3df9fae49ae159"/>
+		<rom name="chamel8.bin" size="8192" crc="dc67916b" sha1="8b3fad0d5d42925b44e51df7f88ea4b6a8dbb4f6"/>
+		<rom name="chamel9.bin" size="8192" crc="6b559bf1" sha1="b7b8b8bccbd88ea868e2d3ccb42513615120d8e6"/>
+	</game>
+
+	<game name="checkmaj" sourcefile="galaxian.c" cloneof="checkman" romof="checkman">
+		<description>Check Man (Japan)</description>
+		<year>1982</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="checkman.clr" merge="checkman.clr" size="32" crc="57a45057" sha1="d4ec6a54f72640e5b485aa59e206c090e67ff640"/>
+		<rom name="cm_1.bin" size="4096" crc="456a118f" sha1="7c2e8343360f446af4391012784a1ccfecae3299"/>
+		<rom name="cm_2.bin" size="4096" crc="146b2c44" sha1="80455396a9b1802fcefaec1340b76461c0601bf9"/>
+		<rom name="cm_3.bin" size="2048" crc="73e1c945" sha1="bcf2558958a30e5936f19ff53687f2316e0b822e"/>
+		<rom name="cm_4.bin" size="4096" crc="923cffa1" sha1="132822d20de2ad1ecc561e811ca40c5642500631"/>
+		<rom name="cm_5.bin" size="2048" crc="b3df2b5f" sha1="519a0894d1794211659abeb6b2a2c610e6c2af25"/>
+		<rom name="cm_6.bin" size="2048" crc="476a7cc3" sha1="3c343b0dcfb2f4cbec2f8b5854a303a1660fea22"/>
+	</game>
+
+	<game name="chimerab" sourcefile="megasys1.c">
+		<description>Chimera Beast (prototype)</description>
+		<year>1993</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="b1.bin" size="524288" crc="29c0385e" sha1="4416cb17d3121ec00bceff2614dc424a359f127a"/>
+		<rom name="b2.bin" size="524288" crc="6e7f1778" sha1="ac93f56c998f28e3f453fcdbf85f3217c9ae97de"/>
+		<rom name="prg2.bin" size="262144" crc="821dbb85" sha1="df204db38995ff4c898b8a0121834ec1b84b215c"/>
+		<rom name="prg3.bin" size="262144" crc="70f1448f" sha1="60aaee1cf7aa15ffa4962d947747b0ae7cdcfd8a"/>
+		<rom name="prg7.bin" size="65536" crc="83b9982d" sha1="68e7d344ebfffe19822c4cf9f7b13cb51f23537a"/>
+		<rom name="prg8.bin" size="65536" crc="a682b1ca" sha1="66f5d5a73f5e8cba87eac09c55eee59117d94f7b"/>
+		<rom name="prom" size="512" status="nodump"/>
+		<rom name="s1.bin" size="524288" crc="e4c2ac77" sha1="db4bff3c02f22cc59a67b103fd176f4d88531f93"/>
+		<rom name="s2.bin" size="524288" crc="fafb37a5" sha1="e36c4d18209add696982e36e84397ec51b9a9e7e"/>
+		<rom name="scr3.bin" size="131072" crc="5fe38a83" sha1="0492be1a92baacb80ed5bdc0167beda3e9163d76"/>
+		<rom name="voi10.bin" size="262144" crc="67498914" sha1="8d89fa90f38fd102b15f26f71491ea833ec32cb2"/>
+		<rom name="voi11.bin" size="262144" crc="14b3afe6" sha1="6d8659d0fc6980ffc1661702fc787737448dce9d"/>
+	</game>
+
+	<game name="cischeat" sourcefile="cischeat.c">
+		<description>Cisco Heat</description>
+		<year>1990</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="ch9071.02" size="262144" crc="a5d0f4dc" sha1="2e7aaa915e27ab31e38ca6759301ffe33a12b427"/>
+		<rom name="ch9071.04" size="262144" crc="7fb48cbc" sha1="7f0442ce37b39e830fe8bcb8230cf7da2103059d"/>
+		<rom name="ch9071.07" size="65536" crc="3724ccc3" sha1="3797ea49156362467ba948c51ac7b52610d1b9de"/>
+		<rom name="ch9071.10" size="131072" crc="bf7b634d" sha1="29186c41a397df322cc2c40decd1c19963f89d36"/>
+		<rom name="ch9071.11" size="131072" crc="bc137bea" sha1="ca6d781a617c797aec87e6ce0a002280aa62aebc"/>
+		<rom name="ch9071.a14" size="262144" crc="7a6d147f" sha1="8f52e012d9699311c2a2409130c6200c6d2e1c51"/>
+		<rom name="ch9071.r23" size="524288" crc="c7dbb992" sha1="9fa802830947f4e5d41447b2ac9637daf1fd8193"/>
+		<rom name="ch9071.r24" size="524288" crc="e87ca4d7" sha1="b2a2edd701324640e438d1e84dd033ec212917b5"/>
+		<rom name="ch9071.t74" size="262144" crc="735a2e25" sha1="51f528db207283c0d2b70acd5037ffafbe24f6f3"/>
+		<rom name="ch9071v2.01" size="262144" crc="7b65276a" sha1="e0075b6d09da12ab7c84b888ffe65cd33ec7c6b6"/>
+		<rom name="ch9071v2.03" size="262144" crc="dd1bb26f" sha1="2b9330b45edcc3291ad4ac935558c1f070ab5bd9"/>
+		<rom name="ch9072.01" size="131072" crc="b2efed33" sha1="3b347d4bc866aaa6cb53bd0991b4fb6a22e40a5c"/>
+		<rom name="ch9072.02" size="262144" crc="536edde4" sha1="45ebd2add357275177fcd7b6d9ea748c6756f1c0"/>
+		<rom name="ch9072.03" size="262144" crc="7e79151a" sha1="5a305cff8600446be426641ce112208b379094b9"/>
+		<rom name="ch9072.r15" size="524288" crc="38af4aea" sha1="ea27ab44b33776984adaa9b26d85165d6700a12c"/>
+		<rom name="ch9072.r16" size="524288" crc="71388dad" sha1="0d2451e36cfbf7400ade849b4c8a1e8f56fc089c"/>
+		<rom name="ch9072.r17" size="524288" crc="9d052cf3" sha1="d6bd30965316104cb03e62a69df61eb60eb84741"/>
+		<rom name="ch9072.r18" size="524288" crc="fe402a56" sha1="c64aa0d83b77ce0fea5072a9332bbcbbd94a1be4"/>
+		<rom name="ch9072.r19" size="524288" crc="4e996fa8" sha1="c74d761e0c8d17b3fb5d33b06136c4d0ba87c2e1"/>
+		<rom name="ch9072.r20" size="524288" crc="fa70b92d" sha1="01b5f7309c9c7cd6d41c0f46678772dda45344e1"/>
+		<rom name="ch9072.r25" size="524288" crc="be8cca47" sha1="4e64cbbdec9b55721e420b50f0a563684e93f739"/>
+		<rom name="ch9072.r26" size="524288" crc="2f96f47b" sha1="045842428849bc4afb8b59f7f0594b3f537f9e12"/>
+		<rom name="ch9073.01" size="262144" crc="ba331526" sha1="bed5182c0d63a64cc44f9c127d1b8ce55a701184"/>
+		<rom name="ch9073.02" size="262144" crc="b45ff10f" sha1="11fb2d9a3b5cc4f997816e0d3c9cf47bf749db17"/>
+		<rom name="ch9073.r21" size="524288" crc="2943d2f6" sha1="ae8a25c1d76d3c36aa326d0171acb7dce93c4d87"/>
+		<rom name="ch9073.r22" size="524288" crc="2dd44f85" sha1="5f20f75e96e14389187d3471bc7f2ceb0758eec4"/>
+		<rom name="ch9073v1.03" size="262144" crc="bf1d1cbf" sha1="0892ce5f35864393a6f899f02f811b8fdba03978"/>
+		<rom name="ch9073v1.04" size="262144" crc="1ec8a597" sha1="311d4aa8bd92dd2eea0a64f881f64d19b7ba7d12"/>
+	</game>
+
+	<game name="citycon" sourcefile="citycon.c">
+		<description>City Connection (set 1)</description>
+		<year>1985</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="c1" size="32768" crc="1fad7589" sha1="2e626bbbab8cffe11ee7de3e56aa1871c29d5fa9"/>
+		<rom name="c10" size="16384" crc="ae88b53c" sha1="dd12310bd9c9b93462446e8e0a1c853506bf3aa1"/>
+		<rom name="c11" size="32768" crc="139eb1aa" sha1="c570e8ca1499f7ea61938e78c32c1cc3050ca2b7"/>
+		<rom name="c12" size="8192" crc="08eaaccd" sha1="a970381e3ba22bcdea6df2d31cd8a10c4b2bc413"/>
+		<rom name="c13" size="8192" crc="1819aafb" sha1="8a5ffcd8866e09c5568879257384767d61796111"/>
+		<rom name="c2" size="32768" crc="f2da4f23" sha1="5ea1a51c3ac283796f7eafb6719d88356767340d"/>
+		<rom name="c3" size="16384" crc="7ef3ac1b" sha1="8a0497c4e4733f9c50d576f632210b82497a5e1c"/>
+		<rom name="c4" size="8192" crc="a6b32fc6" sha1="d99d5a527440e9a91525c1084b95b213e3b760ec"/>
+		<rom name="c5" size="8192" crc="c03d8b1b" sha1="641c1eba334d36ea64b9293a20320b31c7c88858"/>
+		<rom name="c6" size="32768" crc="2246fe9d" sha1="f7f8708d499bcbd1a583e1092b54425ad1105f94"/>
+		<rom name="c7" size="16384" crc="e8b97de9" sha1="f4d1b7075f47ab4522c36281b97eaa02fe383814"/>
+		<rom name="c8" size="16384" crc="0d7a1eeb" sha1="60b8d4124ce857a248d3c41fdb050f11be58549f"/>
+		<rom name="c9" size="32768" crc="8aeb47e6" sha1="bb09dbe6b37e1bd02abf3024ac4d954c8f0e70f2"/>
+	</game>
+
+	<game name="citycona" sourcefile="citycon.c" cloneof="citycon" romof="citycon">
+		<description>City Connection (set 2)</description>
+		<year>1985</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="c1" merge="c1" size="32768" crc="1fad7589" sha1="2e626bbbab8cffe11ee7de3e56aa1871c29d5fa9"/>
+		<rom name="c10" merge="c10" size="16384" crc="ae88b53c" sha1="dd12310bd9c9b93462446e8e0a1c853506bf3aa1"/>
+		<rom name="c11b" size="32768" crc="d64af468" sha1="5bb3541af3ce632e8eca313231205713d72fb9dc"/>
+		<rom name="c12" merge="c12" size="8192" crc="08eaaccd" sha1="a970381e3ba22bcdea6df2d31cd8a10c4b2bc413"/>
+		<rom name="c13" merge="c13" size="8192" crc="1819aafb" sha1="8a5ffcd8866e09c5568879257384767d61796111"/>
+		<rom name="c2" merge="c2" size="32768" crc="f2da4f23" sha1="5ea1a51c3ac283796f7eafb6719d88356767340d"/>
+		<rom name="c3" merge="c3" size="16384" crc="7ef3ac1b" sha1="8a0497c4e4733f9c50d576f632210b82497a5e1c"/>
+		<rom name="c4" merge="c4" size="8192" crc="a6b32fc6" sha1="d99d5a527440e9a91525c1084b95b213e3b760ec"/>
+		<rom name="c5" merge="c5" size="8192" crc="c03d8b1b" sha1="641c1eba334d36ea64b9293a20320b31c7c88858"/>
+		<rom name="c6" merge="c6" size="32768" crc="2246fe9d" sha1="f7f8708d499bcbd1a583e1092b54425ad1105f94"/>
+		<rom name="c7" merge="c7" size="16384" crc="e8b97de9" sha1="f4d1b7075f47ab4522c36281b97eaa02fe383814"/>
+		<rom name="c8" merge="c8" size="16384" crc="0d7a1eeb" sha1="60b8d4124ce857a248d3c41fdb050f11be58549f"/>
+		<rom name="c9" merge="c9" size="32768" crc="8aeb47e6" sha1="bb09dbe6b37e1bd02abf3024ac4d954c8f0e70f2"/>
+	</game>
+
+	<game name="cruisin" sourcefile="citycon.c" cloneof="citycon" romof="citycon">
+		<description>Cruisin</description>
+		<year>1985</year>
+		<manufacturer>Jaleco (Kitkorp license)</manufacturer>
+		<rom name="c1" merge="c1" size="32768" crc="1fad7589" sha1="2e626bbbab8cffe11ee7de3e56aa1871c29d5fa9"/>
+		<rom name="c12" merge="c12" size="8192" crc="08eaaccd" sha1="a970381e3ba22bcdea6df2d31cd8a10c4b2bc413"/>
+		<rom name="c13" merge="c13" size="8192" crc="1819aafb" sha1="8a5ffcd8866e09c5568879257384767d61796111"/>
+		<rom name="c2" merge="c2" size="32768" crc="f2da4f23" sha1="5ea1a51c3ac283796f7eafb6719d88356767340d"/>
+		<rom name="c3" merge="c3" size="16384" crc="7ef3ac1b" sha1="8a0497c4e4733f9c50d576f632210b82497a5e1c"/>
+		<rom name="c5" merge="c5" size="8192" crc="c03d8b1b" sha1="641c1eba334d36ea64b9293a20320b31c7c88858"/>
+		<rom name="c6" merge="c6" size="32768" crc="2246fe9d" sha1="f7f8708d499bcbd1a583e1092b54425ad1105f94"/>
+		<rom name="c7" merge="c7" size="16384" crc="e8b97de9" sha1="f4d1b7075f47ab4522c36281b97eaa02fe383814"/>
+		<rom name="c8" merge="c8" size="16384" crc="0d7a1eeb" sha1="60b8d4124ce857a248d3c41fdb050f11be58549f"/>
+		<rom name="c9" merge="c9" size="32768" crc="8aeb47e6" sha1="bb09dbe6b37e1bd02abf3024ac4d954c8f0e70f2"/>
+		<rom name="cr10" size="16384" crc="cc7c52f3" sha1="69d76f146fb1dac62c6def3a4269012b3880f03b"/>
+		<rom name="cr11" size="32768" crc="5422f276" sha1="d384fc4f853fe79b73e939a8fc7b7af780659c5e"/>
+		<rom name="cr4" size="8192" crc="8cd0308e" sha1="7303b9e074bda557d64b39e04cef0f965a756be6"/>
+	</game>
+
+	<game name="cybattlr" sourcefile="megasys1.c">
+		<description>Cybattler</description>
+		<year>1993</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="cb_02.rom" size="262144" crc="2ed14c50" sha1="4ed01ea5c5e59c3c012d9a4d5257be78220758c1"/>
+		<rom name="cb_03.rom" size="262144" crc="bee20587" sha1="3c1d546c63a3d6f8a63b7dee1c8e99a7091d774d"/>
+		<rom name="cb_07.rom" size="65536" crc="85d219d7" sha1="a9628efc5eddefad739363ff0b2f37a2d095df86"/>
+		<rom name="cb_08.rom" size="65536" crc="bf7b3558" sha1="6046b965d61560e0227437f00f1ff1f7dbc16232"/>
+		<rom name="cb_09.rom" size="131072" crc="37b1f195" sha1="06be0e2ec2649e82183925554a5025c1c7a09137"/>
+		<rom name="cb_10.rom" size="262144" crc="8af95eed" sha1="42949d67986303370f3b663106f278f828955a4b"/>
+		<rom name="cb_11.rom" size="262144" crc="59d62d1f" sha1="48363df066e7967b28887253108dc8cb124637f4"/>
+		<rom name="cb_m01.rom" size="524288" crc="1109337f" sha1="ab294d87c9b4eb54401da5ad6ea171e4c0a700b5"/>
+		<rom name="cb_m02.rom" size="524288" crc="882825db" sha1="06ab0f9ee60614ce22d32b27ab28fcaa0d8de66f"/>
+		<rom name="cb_m03.rom" size="524288" crc="4cd49f58" sha1="a455a27edec8b6f92c64636a10624ab5ccefa5e0"/>
+		<rom name="cb_m04.rom" size="524288" crc="0c91798e" sha1="63747adcf24146fdb0f59bd4dfd6ac6300eeafc3"/>
+		<rom name="pr-91028.12" size="512" crc="cfe90082" sha1="b59991ec7b3e83ba645b709547e5b4cbe03c0f11"/>
+	</game>
+
+	<game name="daireika" sourcefile="jalmah.c">
+		<description>Mahjong Daireikai</description>
+		<year>1989</year>
+		<manufacturer>Jaleco / NMK</manufacturer>
+		<rom name="mj1.bin" size="131072" crc="3b4e8357" sha1="1ad3e40ec6b6ff4f1c9c09d7b530f67b460151d8"/>
+		<rom name="mj10.bin" size="524288" crc="1f5509a5" sha1="4dcdee0e159956cf73f5f85ce278479be2a9ca9f"/>
+		<rom name="mj11.bin" size="131072" crc="14867c51" sha1="b282b5048a55c9ad72ceb0d23f010a0fee78704f"/>
+		<rom name="mj12.bin" size="131072" crc="236f809f" sha1="9e15dd8a810a9d4f7f75f084d6bd277ea7d0e40a"/>
+		<rom name="mj13.bin" size="65536" crc="c54bca14" sha1="ee9c99858817aedd70bd6266b7a71c3c5ad00607"/>
+		<rom name="mj14.bin" size="65536" crc="c84c5577" sha1="6437368d3be39739d62158590ecd373aa070a9b2"/>
+		<rom name="mj15.bpr" size="256" crc="ebac41f9" sha1="9d1629d977849663392cbf03a3ddf76665f88608"/>
+		<rom name="mj16.bpr" size="256" crc="8d5dc1f6" sha1="9f723e7cd44f8c09ec30b04725644346484ec753"/>
+		<rom name="mj17.bpr" size="32" crc="a17c3e8a" sha1="d7969fad7cec9c792c53aa457f4ad764a727e0a5"/>
+		<rom name="mj2.bin" size="131072" crc="c54d2f9b" sha1="d59fc5a9e5bbb96b3b6a43378f4f2215c368b671"/>
+		<rom name="mj3.bin" size="524288" crc="65bb350c" sha1="e77866f2d612a0973adc616717e7c89a37d6c48e"/>
+	</game>
+
+	<game name="ddayjlc" sourcefile="ddayjlc.c">
+		<description>D-Day (Jaleco)</description>
+		<year>1984</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="1" size="8192" crc="dbfb8772" sha1="1fbc9726d0cd1f8781ced2f8233107b65b9bdb1a"/>
+		<rom name="10" size="8192" crc="5452aba1" sha1="03ef47161d0ab047c8675d6ffd3b7acf81f74721"/>
+		<rom name="11" size="8192" crc="fe4de019" sha1="16c5402e1a79756f8227d7e99dd94c5896c57444"/>
+		<rom name="12" size="4096" crc="7f7afe80" sha1="e8a549b8a8985c61d3ba452e348414146f2bc77e"/>
+		<rom name="13" size="4096" crc="f169b93f" sha1="fb0617162542d688503fc6618dd430308e259455"/>
+		<rom name="14" size="4096" crc="2c0e9bbe" sha1="e34ab774d2eb17ddf51af513dbcaa0c51f8dcbf7"/>
+		<rom name="15" size="4096" crc="a6eeaa50" sha1="052cd3e906ca028e6f55d0caa1e1386482684cbf"/>
+		<rom name="16" size="8192" crc="a167fe9a" sha1="f2770d93ee5ae4eb9b3bcb052e14e36f53eec707"/>
+		<rom name="17" size="8192" crc="13ffe662" sha1="2ea7855a14a4b8429751bae2e670e77608f93406"/>
+		<rom name="18" size="8192" crc="debe6531" sha1="34b3b70a1872527266c664b2a82014d028a4ff1e"/>
+		<rom name="19" size="8192" crc="5816f947" sha1="2236bed3e82980d3e7de3749aef0fbab042086e6"/>
+		<rom name="2" size="8192" crc="f40ea53e" sha1="234ef686d3e9fe12aceada7098c4cc53e56eb1a3"/>
+		<rom name="3" size="8192" crc="0780ef60" sha1="9247af38acbaea0f78892fc50081b2400abbdc1f"/>
+		<rom name="4" size="8192" crc="75991a24" sha1="175f505da6eb80479a70181d6aed01130f6a64cc"/>
+		<rom name="5" size="8192" crc="299b05f2" sha1="3c1804bccb514bada4bed68a6af08db63a8f1b19"/>
+		<rom name="6" size="8192" crc="38ae2616" sha1="62c96f32532f0d7e2cf1606a303d81ebb4aada7d"/>
+		<rom name="7" size="8192" crc="4210f6ef" sha1="525d8413afabf97cf1d04ee9a3c3d980b91bde65"/>
+		<rom name="8" size="8192" crc="91a32130" sha1="cbcd673b47b672b9ce78c7354dacb5964a81db6f"/>
+		<rom name="9" size="8192" crc="ccb82f09" sha1="37c23f13aa0728bae82dba9e2858a8d81fa8afa5"/>
+	</game>
+
+	<game name="desertwr" sourcefile="ms32.c">
+		<description>Desert War / Wangan Sensou</description>
+		<year>1995</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="92042-01.33" size="2097152" crc="0fa26f65" sha1="e92b14862fbce33ea4ab4567ec48199bfcbbdd84"/>
+		<rom name="93166-21.30" size="262144" crc="9300be4c" sha1="a8e9c1704abf26545aeb9a5d28fd0cafd38f2d84"/>
+		<rom name="93166-26.37" size="524288" crc="582b9584" sha1="027a987cde7e9e1b24aef6a3086eba61679ad0b6"/>
+		<rom name="93166-27.38" size="524288" crc="cb60dda3" sha1="0499b8ab19abdf8db8c18d778b3f9f6e0d277ff0"/>
+		<rom name="93166-28.39" size="524288" crc="0de40efb" sha1="c49c3b27939e428dec1f642b7fdb9a1ff760289a"/>
+		<rom name="93166-29.40" size="524288" crc="fc25eae2" sha1="a4d47fcb4d4c3285cf67d77d8a21478f344b98ca"/>
+		<rom name="93166-30.41" size="524288" crc="980ab89c" sha1="8468fc13a5988e25750e8d99ff464f46e86ab412"/>
+		<rom name="94038-01.20" size="2097152" crc="f11f83e2" sha1="e3c99e6583003210483163c79182cb14aa334702"/>
+		<rom name="94038-02.3" size="2097152" crc="3d1fa710" sha1="5fae3e8c714cca88e22e432dd7275c6898c631a8"/>
+		<rom name="94038-03.21" size="2097152" crc="84fd5790" sha1="6187ff32a63f3b4105ea875f52237f0d4314f8b6"/>
+		<rom name="94038-04.4" size="2097152" crc="b9ef5b78" sha1="e2f160a93532f67948a557db717d44c926ae0e49"/>
+		<rom name="94038-05.22" size="2097152" crc="feee1b8d" sha1="39e1d424dd56257139ab5ab8e897caa1c9cd4e71"/>
+		<rom name="94038-06.5" size="2097152" crc="d417f289" sha1="39cca11989bb5dc95ef03013d23a7c100bcb36ab"/>
+		<rom name="94038-07.23" size="2097152" crc="426f4193" sha1="98a16a70c225d7cd061fcd6e88992d393e6ef9fd"/>
+		<rom name="94038-08.6" size="2097152" crc="f4088399" sha1="9d53880996f85776815840bca1f8c3958de4c275"/>
+		<rom name="94038-09.12" size="2097152" crc="72ec1ce7" sha1="88bd9ca3aa7a6410e8fcf6fd70304f12724653bb"/>
+		<rom name="94038-10.11" size="2097152" crc="1e17f2a9" sha1="19e6be1daa157593fbab84149f1f739dd39c9226"/>
+		<rom name="94038-11.13" size="2097152" crc="bf2ec3a3" sha1="904cd5ab2e855bdb94bc70efa6db42af672337d7"/>
+		<rom name="94038-12.14" size="2097152" crc="d0e113da" sha1="57f27cbd58421a0afe724fec5628c4a29aad8868"/>
+		<rom name="94038-13.34" size="2097152" crc="b0cac8f2" sha1="f7d2e32d9c2f301341f7c02678c2c1e09ce655ba"/>
+	</game>
+
+	<game name="edf" sourcefile="megasys1.c">
+		<description>E.D.F. : Earth Defense Force</description>
+		<year>1991</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="edf_01.rom" size="131072" crc="2290ea19" sha1="64c9394bd4d5569d68833d2e57abaf2f1af5be97"/>
+		<rom name="edf_02.rom" size="131072" crc="ce93643e" sha1="686bf0ec104af8c97624a782e0d60afe170fd945"/>
+		<rom name="edf_05.rom" size="262144" crc="105094d1" sha1="e962164836756bc20c2b5dc0032042a0219e82d8"/>
+		<rom name="edf_06.rom" size="262144" crc="94da2f0c" sha1="ae6aef03d61d244a857a9dc824be230c35f4c978"/>
+		<rom name="edf_09.rom" size="131072" crc="96e38983" sha1="a4fb94f15d9a9f7df1645be66fe3e179d0ebf765"/>
+		<rom name="edf_m01.rom" size="262144" crc="9149286b" sha1="f6c66c5cd50b72c4d401a263c65a8d4ef8cf9221"/>
+		<rom name="edf_m02.rom" size="262144" crc="fc4281d2" sha1="67ea324ff359a5d9e7538c08865b5eeebd16704b"/>
+		<rom name="edf_m03.rom" size="524288" crc="ef469449" sha1="bc591e56c5478383eb4bd29f16133c6ba407c22f"/>
+		<rom name="edf_m04.rom" size="524288" crc="6744f406" sha1="3b8f13ca968456186d9ad61f34611b7eab62ea86"/>
+		<rom name="edf_m05.rom" size="524288" crc="6f47e456" sha1="823baa9dc4cb2425c64e9332c6ed4678e49d0c7b"/>
+		<rom name="prom.14m" size="512" crc="1d877538" sha1="a5be0dc65dcfc36fbba10d1fddbe155e24b6122f"/>
+	</game>
+
+	<game name="exerion" sourcefile="exerion.c">
+		<description>Exerion</description>
+		<year>1983</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="exerion.01" size="8192" crc="5bb755cb" sha1="ec92c518c116a78dbb23381468cefb3f930212cc"/>
+		<rom name="exerion.02" size="8192" crc="a7ecbb70" sha1="3c359d5bb21290a45d3eb18fea2b1f9439b931be"/>
+		<rom name="exerion.03" size="8192" crc="790595b8" sha1="8016ac2394b25db38e962bcff4805380082f6683"/>
+		<rom name="exerion.04" size="8192" crc="d7abd0b9" sha1="ca6413ecd324cf84e11b703a4eda2c1e6d28ff15"/>
+		<rom name="exerion.05" size="8192" crc="32f6bff5" sha1="a4d0289f9d1d9eea7ca9a32a0616af48da74b401"/>
+		<rom name="exerion.06" size="8192" crc="435a85a4" sha1="f6846bfee11df754405d4d796e7d8ac0321b6eb6"/>
+		<rom name="exerion.07" size="8192" crc="4c78d57d" sha1="ac702e9ad2bc05493fb1355858667c31c36acfe4"/>
+		<rom name="exerion.08" size="8192" crc="dcadc1df" sha1="91388f617cfaa4289ca1c84c697fcfdd8834ae15"/>
+		<rom name="exerion.09" size="8192" crc="34cc4d14" sha1="511c9de038f7bcaf6f7c96f2cbbe50a80673fa72"/>
+		<rom name="exerion.10" size="8192" crc="80312de0" sha1="4fa3bb9d5c62e41a54e8909f8d3b47637137e913"/>
+		<rom name="exerion.11" size="8192" crc="f0633a09" sha1="8989bcb12abadde34777f7c189cfa6e2dfe92d62"/>
+		<rom name="exerion.e1" size="32" crc="2befcc20" sha1="a24d3f691413378fde545a6ddcef7e5118e74019"/>
+		<rom name="exerion.h10" size="256" crc="63b4c555" sha1="30243041be4fa77ada71e8b29d721cad51640c29"/>
+		<rom name="exerion.i3" size="256" crc="fe72ab79" sha1="048a72e6db4768df687df927acaa70ef906b3dc0"/>
+		<rom name="exerion.i8" size="256" crc="31db0e08" sha1="1041a778e86d3fe6f057cf40a0a08b30760f3887"/>
+		<rom name="exerion.k4" size="256" crc="ffc2ba43" sha1="03be1c41d6ac3fc11439caef04ef5ffa60d6aec4"/>
+	</game>
+
+	<game name="exerionb" sourcefile="exerion.c" cloneof="exerion" romof="exerion">
+		<description>Exerion (bootleg)</description>
+		<year>1983</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="eb5.bin" size="16384" crc="da175855" sha1="11ea46fd1d504e16e5ffc604d74c1ce210d6be1c"/>
+		<rom name="eb6.bin" size="8192" crc="0dbe2eff" sha1="5b0e5e8453619beec46c4350d1b2ed571fe3dc24"/>
+		<rom name="exerion.01" merge="exerion.01" size="8192" crc="5bb755cb" sha1="ec92c518c116a78dbb23381468cefb3f930212cc"/>
+		<rom name="exerion.02" merge="exerion.02" size="8192" crc="a7ecbb70" sha1="3c359d5bb21290a45d3eb18fea2b1f9439b931be"/>
+		<rom name="exerion.03" merge="exerion.03" size="8192" crc="790595b8" sha1="8016ac2394b25db38e962bcff4805380082f6683"/>
+		<rom name="exerion.04" merge="exerion.04" size="8192" crc="d7abd0b9" sha1="ca6413ecd324cf84e11b703a4eda2c1e6d28ff15"/>
+		<rom name="exerion.05" merge="exerion.05" size="8192" crc="32f6bff5" sha1="a4d0289f9d1d9eea7ca9a32a0616af48da74b401"/>
+		<rom name="exerion.06" merge="exerion.06" size="8192" crc="435a85a4" sha1="f6846bfee11df754405d4d796e7d8ac0321b6eb6"/>
+		<rom name="exerion.10" merge="exerion.10" size="8192" crc="80312de0" sha1="4fa3bb9d5c62e41a54e8909f8d3b47637137e913"/>
+		<rom name="exerion.11" merge="exerion.11" size="8192" crc="f0633a09" sha1="8989bcb12abadde34777f7c189cfa6e2dfe92d62"/>
+		<rom name="exerion.e1" merge="exerion.e1" size="32" crc="2befcc20" sha1="a24d3f691413378fde545a6ddcef7e5118e74019"/>
+		<rom name="exerion.h10" merge="exerion.h10" size="256" crc="63b4c555" sha1="30243041be4fa77ada71e8b29d721cad51640c29"/>
+		<rom name="exerion.i3" merge="exerion.i3" size="256" crc="fe72ab79" sha1="048a72e6db4768df687df927acaa70ef906b3dc0"/>
+		<rom name="exerion.i8" merge="exerion.i8" size="256" crc="31db0e08" sha1="1041a778e86d3fe6f057cf40a0a08b30760f3887"/>
+		<rom name="exerion.k4" merge="exerion.k4" size="256" crc="ffc2ba43" sha1="03be1c41d6ac3fc11439caef04ef5ffa60d6aec4"/>
+	</game>
+
+	<game name="exeriont" sourcefile="exerion.c" cloneof="exerion" romof="exerion">
+		<description>Exerion (Taito)</description>
+		<year>1983</year>
+		<manufacturer>Jaleco (Taito America license)</manufacturer>
+		<rom name="exerion.01" merge="exerion.01" size="8192" crc="5bb755cb" sha1="ec92c518c116a78dbb23381468cefb3f930212cc"/>
+		<rom name="exerion.02" merge="exerion.02" size="8192" crc="a7ecbb70" sha1="3c359d5bb21290a45d3eb18fea2b1f9439b931be"/>
+		<rom name="exerion.03" merge="exerion.03" size="8192" crc="790595b8" sha1="8016ac2394b25db38e962bcff4805380082f6683"/>
+		<rom name="exerion.04" merge="exerion.04" size="8192" crc="d7abd0b9" sha1="ca6413ecd324cf84e11b703a4eda2c1e6d28ff15"/>
+		<rom name="exerion.05" merge="exerion.05" size="8192" crc="32f6bff5" sha1="a4d0289f9d1d9eea7ca9a32a0616af48da74b401"/>
+		<rom name="exerion.06" merge="exerion.06" size="8192" crc="435a85a4" sha1="f6846bfee11df754405d4d796e7d8ac0321b6eb6"/>
+		<rom name="exerion.10" merge="exerion.10" size="8192" crc="80312de0" sha1="4fa3bb9d5c62e41a54e8909f8d3b47637137e913"/>
+		<rom name="exerion.11" merge="exerion.11" size="8192" crc="f0633a09" sha1="8989bcb12abadde34777f7c189cfa6e2dfe92d62"/>
+		<rom name="exerion.e1" merge="exerion.e1" size="32" crc="2befcc20" sha1="a24d3f691413378fde545a6ddcef7e5118e74019"/>
+		<rom name="exerion.h10" merge="exerion.h10" size="256" crc="63b4c555" sha1="30243041be4fa77ada71e8b29d721cad51640c29"/>
+		<rom name="exerion.i3" merge="exerion.i3" size="256" crc="fe72ab79" sha1="048a72e6db4768df687df927acaa70ef906b3dc0"/>
+		<rom name="exerion.i8" merge="exerion.i8" size="256" crc="31db0e08" sha1="1041a778e86d3fe6f057cf40a0a08b30760f3887"/>
+		<rom name="exerion.k4" merge="exerion.k4" size="256" crc="ffc2ba43" sha1="03be1c41d6ac3fc11439caef04ef5ffa60d6aec4"/>
+		<rom name="prom5.4p" size="16384" crc="58b4dc1b" sha1="3e34d1eda0b0537dac1062e96259d4cc7c64049c"/>
+		<rom name="prom6.4s" size="8192" crc="fca18c2d" sha1="31077dada3ed4aa2e26af933f589e01e0c71e5cd"/>
+	</game>
+
+	<game name="exerizrb" sourcefile="skyfox.c" cloneof="skyfox" romof="skyfox">
+		<description>Exerizer (Japan) (bootleg)</description>
+		<year>1987</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="1-a" size="32768" crc="5df72a5d" sha1="ca35ac06f3702fd650a584da2f442fbc61c00fce"/>
+		<rom name="1-c" size="65536" crc="450e9381" sha1="f99b2ca73f1e4ba91b8066bb6d28d33b66a3ee81"/>
+		<rom name="1-e" size="65536" crc="50a38c60" sha1="a4b8d530914d6c85b15940a7821b4365068de668"/>
+		<rom name="1-g" size="65536" crc="c9bbfe5c" sha1="ce3f7d32baa8bb0bfc110877b5b5f4648ee959ac"/>
+		<rom name="sfoxbprm.bin" merge="sfoxbprm.bin" size="256" crc="60d2ab41" sha1="e58a54f2aaee5c07136d5437e513d61fb18fbd9f"/>
+		<rom name="sfoxgprm.bin" merge="sfoxgprm.bin" size="256" crc="fb73d434" sha1="4a9bd61fbdce9441753c5921f95ead5c4655957e"/>
+		<rom name="sfoxrprm.bin" merge="sfoxrprm.bin" size="256" crc="79913c7f" sha1="e64e6a3eb55f37984cb2597c8ffba6bc3bad49c7"/>
+		<rom name="skyfox10.bin" merge="skyfox10.bin" size="32768" crc="19f58f9c" sha1="6887216243b47152129448cbb4c7d52309feed03"/>
+		<rom name="skyfox2.bin" merge="skyfox2.bin" size="32768" crc="e15e0263" sha1="005934327834aed46b17161aef82117ee508e9c4"/>
+		<rom name="skyfox4.bin" merge="skyfox4.bin" size="65536" crc="358053bb" sha1="589e3270eda0d44e73fbc7ac06e782f332920b39"/>
+		<rom name="skyfox6.bin" merge="skyfox6.bin" size="65536" crc="cc37e15d" sha1="80806df6185f7b8c2d3ab98420ca514df3e63c8d"/>
+		<rom name="skyfox8.bin" merge="skyfox8.bin" size="65536" crc="0e3edc49" sha1="3d1c59ecaabe1c9517203b7e814db41d5cff0cd4"/>
+		<rom name="skyfox9.bin" merge="skyfox9.bin" size="32768" crc="0b283bf5" sha1="5b14d0beea689ee7e9174017e5a127435df4fbe3"/>
+	</game>
+
+	<game name="f1gpstar" sourcefile="cischeat.c">
+		<description>Grand Prix Star</description>
+		<year>1991</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="90015-01.w06" size="524288" crc="ce4bfe6e" sha1="d428eb3d5da3bd080957c585c5b72b94a7849fca"/>
+		<rom name="90015-02.w07" size="524288" crc="fcbecc9b" sha1="0670c276730ee282ef8c9599c00571b8d97725ab"/>
+		<rom name="90015-03.w08" size="524288" crc="ccf5b158" sha1="06250762646e0da1fb71fd7b638492eaab3f5b7f"/>
+		<rom name="90015-04.w09" size="524288" crc="5b324c81" sha1="ce61f2ea29086a74bdcf9f4df8e2edb749e41da5"/>
+		<rom name="90015-05.w10" size="524288" crc="8eb48a23" sha1="e394eb013dd1fdc1c30616ce356bebd187453d08"/>
+		<rom name="90015-06.w11" size="524288" crc="32063a68" sha1="587d35edec2755df11f4d63ff7bfd134a0f9fb36"/>
+		<rom name="90015-07.w12" size="524288" crc="0d0d54f3" sha1="8040945ea8f9487f0527140c90d6a66965c27ff4"/>
+		<rom name="90015-08.w14" size="524288" crc="f48a42c5" sha1="5caf50fbde682d7d1e4ec0cceacf0db7682b72a9"/>
+		<rom name="90015-09.w13" size="524288" crc="55f49315" sha1="ad338cb53149ccea2dbe5ad890433c9f09a8211c"/>
+		<rom name="90015-10.w15" size="524288" crc="678be0cb" sha1="3857b549170b62b29644cf5ebdd4aac1afa9e420"/>
+		<rom name="90015-20.r45" size="524288" crc="9d428fb7" sha1="02f72938d73db932bd217620a175a05215f6016a"/>
+		<rom name="90015-21.r46" size="524288" crc="6f30211f" sha1="aedba39fc6aab7847a3a2314e152bc00615cbd72"/>
+		<rom name="90015-22.r47" size="524288" crc="05a9a5da" sha1="807c43c3ee76bce8e4874fa51d2453917b1e4f3b"/>
+		<rom name="90015-23.r48" size="524288" crc="58e9c6d2" sha1="b81208819dbc5887183855001c72d0d91d32fc4b"/>
+		<rom name="90015-24.r49" size="524288" crc="abd6c91d" sha1="ccbf47a37008a0ec64d7058225e6ba991b559a39"/>
+		<rom name="90015-25.r50" size="524288" crc="7ded911f" sha1="d0083c17266f03f70f2d4b2953237fed0cb0696c"/>
+		<rom name="90015-26.r51" size="524288" crc="18a6c663" sha1="b39cbb4b6d09150c7d1a8cf2cd3a96b61c265d83"/>
+		<rom name="90015-27.r52" size="524288" crc="7378c82f" sha1="3e65064a36393b5d6ecb118a560f3fccc5b3c3c2"/>
+		<rom name="90015-28.r53" size="524288" crc="9944dacd" sha1="722a0c152ef97830d5ab6251d5447293d951261f"/>
+		<rom name="90015-29.r54" size="524288" crc="2cdec370" sha1="9fd8e8d6783a6c820d1f580a8872b5cc59641aa9"/>
+		<rom name="90015-30.r55" size="524288" crc="47e37604" sha1="114eb01d3258bf481c01a8378f5f08b2bdeffbba"/>
+		<rom name="90015-31.r56" size="524288" crc="0c8f0e2b" sha1="6b0917a632c6beaca018146b6be66a3561b863b3"/>
+		<rom name="90015-32.r57" size="524288" crc="9c921cfb" sha1="006d4af6dbbc34bee05f3620ba0a947a568a2400"/>
+		<rom name="90015-33.w31" size="524288" crc="6121d247" sha1="213c7c45bc3d57c09778b1d58dbb5fe26d0b2477"/>
+		<rom name="90015-34.w32" size="524288" crc="2ca9b062" sha1="c01b8020b409d826c0ae69c153fdc5d89241771e"/>
+		<rom name="9188a-1.v10" size="131072" crc="109d2913" sha1="e117556481e801d51b8526a143bc202dda222f7f"/>
+		<rom name="9188a-11.v10" size="131072" crc="de292ea3" sha1="04ed19045edb4edfff2b8fedac37c4a3352dfa76"/>
+		<rom name="9188a-16.v10" size="131072" crc="ef0f7ca9" sha1="98ad687fdab67dd9f54b50cf21fd10ac34b61e7a"/>
+		<rom name="9188a-21.v10" size="262144" crc="3e098d77" sha1="0bf7e8ca36086a7ae3d44a10b4ca43f869403eb0"/>
+		<rom name="9188a-22.v20" size="262144" crc="de15c9ca" sha1="f356b02ca66b7e8ab0293e6e28fcd3f7996c80c8"/>
+		<rom name="9188a-26.v10" size="262144" crc="0b76673f" sha1="cf29333ffb51250ae2d5363d612260f536cd15af"/>
+		<rom name="9188a-27.v20" size="262144" crc="0a9d3896" sha1="5e3332a1b779dead1e4f9ef274a2f168721db0ed"/>
+		<rom name="9188a-30.v10" size="131072" crc="0ef1fbf1" sha1="28fa0b677e70833954a5fc2fdce233d0dec4f43c"/>
+		<rom name="9188a-6.v10" size="131072" crc="18ba0340" sha1="e46e10a350f18cf3a46c0d3a0cb08fc369fced6d"/>
+		<rom name="9190a-1.v11" size="131072" crc="7cccadaf" sha1="d1b79fbd0e27e8d479ef533fa00b18d1f2982dda"/>
+		<rom name="9190a-2.v11" size="131072" crc="acb2fd80" sha1="bbed505ce745490ae11df8efdd3633181cfd4dec"/>
+		<rom name="ch9072-4" size="4096" crc="5bc23535" sha1="2fd1b7184175c416b19e6570de7ecb0d897deb9a"/>
+		<rom name="ch9072-5" size="4096" crc="0efac5b4" sha1="a3e945aaf142bb62e0e791b8ca49a34891f31077"/>
+		<rom name="ch9072-6" size="4096" crc="76ff63c5" sha1="652754533cc14773f4d7590a65183349eed9eb62"/>
+		<rom name="ch9072-8" size="4096" crc="ca04bace" sha1="3771ef4bf7983e97e3346309fcb0271e17a6d359"/>
+		<rom name="pr88004q" size="512" crc="9327dc37" sha1="cfe7b144cdcd76170d47f1c4e0f72b6d4fca0c8d"/>
+		<rom name="pr88004w" size="256" crc="3d648467" sha1="bf8dbaa2176c801f7370313425c87f0eefe8a3a4"/>
+		<rom name="pr90015a" size="2048" crc="777583db" sha1="8fd060a68fbb6156feb55afcfc5afd95999a8a62"/>
+		<rom name="pr90015b" size="256" crc="be240dac" sha1="6203b73c1a5e09e525380a78b555c3818929d5eb"/>
+	</game>
+
+	<game name="f1gpstr2" sourcefile="cischeat.c">
+		<description>F-1 Grand Prix Star II</description>
+		<year>1993</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="90015-01.14" size="524288" crc="ce4bfe6e" sha1="d428eb3d5da3bd080957c585c5b72b94a7849fca"/>
+		<rom name="90015-01.79" size="524288" crc="ce4bfe6e" sha1="d428eb3d5da3bd080957c585c5b72b94a7849fca"/>
+		<rom name="90015-02.15" size="524288" crc="fcbecc9b" sha1="0670c276730ee282ef8c9599c00571b8d97725ab"/>
+		<rom name="90015-02.80" size="524288" crc="fcbecc9b" sha1="0670c276730ee282ef8c9599c00571b8d97725ab"/>
+		<rom name="90015-03.16" size="524288" crc="ccf5b158" sha1="06250762646e0da1fb71fd7b638492eaab3f5b7f"/>
+		<rom name="90015-03.81" size="524288" crc="ccf5b158" sha1="06250762646e0da1fb71fd7b638492eaab3f5b7f"/>
+		<rom name="90015-04.17" size="524288" crc="5b324c81" sha1="ce61f2ea29086a74bdcf9f4df8e2edb749e41da5"/>
+		<rom name="90015-04.82" size="524288" crc="5b324c81" sha1="ce61f2ea29086a74bdcf9f4df8e2edb749e41da5"/>
+		<rom name="90015-35.54" size="524288" crc="9d428fb7" sha1="02f72938d73db932bd217620a175a05215f6016a"/>
+		<rom name="90015-35.67" size="524288" crc="9d428fb7" sha1="02f72938d73db932bd217620a175a05215f6016a"/>
+		<rom name="9188a-1.2" size="131072" crc="e4d83b4f" sha1="4022521e43f6361c5e04a604f8a7fa1e60a2ac99"/>
+		<rom name="9188a-11.46" size="131072" crc="4d2afddf" sha1="108ddbb6a008d390e43d88efd10d99b599c1d75d"/>
+		<rom name="9188a-16.70" size="131072" crc="3b3d57a0" sha1="2ad367fc938c385160a014b994fe45d1791d4ddb"/>
+		<rom name="9188a-21.91" size="262144" crc="c5a5807e" sha1="15493030d154579d2095c7304dd843aed09a69ec"/>
+		<rom name="9188a-22.92" size="262144" crc="f229332b" sha1="f7037515d77a1f42ce555b8baa15075d7009a5c6"/>
+		<rom name="9188a-25.123" size="524288" crc="000c83d2" sha1="656e4553873ad945bbd770166cc3add287e525dd"/>
+		<rom name="9188a-26.124" size="262144" crc="8690bb79" sha1="8ef822cf8371cb209c30cfe5c4d5e8b36392f732"/>
+		<rom name="9188a-27.125" size="262144" crc="ee60b894" sha1="92247cd3b0e3fb2ed0ad27062d1cc13dadb21465"/>
+		<rom name="9188a-28.152" size="524288" crc="e734f8ea" sha1="efed2ce4a23d16a38872892c25fa9824ca0fed8e"/>
+		<rom name="9188a-30.174" size="131072" crc="c5906023" sha1="6006c86995abef1442232ff5fbd68c2a37038d1f"/>
+		<rom name="9188a-6.27" size="131072" crc="68faa23b" sha1="b18c407cc1273295ec9fc30af191fccd94447ae8"/>
+		<rom name="92021-01.14" size="524288" crc="06e50be4" sha1="60ced74d97ac5f641b7e721484abbe74522fe3ba"/>
+		<rom name="92021-02.15" size="524288" crc="d0582ad8" sha1="b343a6525bb9d7dbb288ddec392b23e85ae150bb"/>
+		<rom name="92021-03.16" size="524288" crc="1f041f65" sha1="cc4defe3675b30e7de4b3e1eb580a71af4c36bc6"/>
+		<rom name="92021-04.17" size="524288" crc="3a2e6b1e" sha1="350465ade24c16e4fe39613f89bf3e7277cdd31e"/>
+		<rom name="92021-05.61" size="524288" crc="88bb6db1" sha1="54413c41a4d02137aebc2a4866a38aadfe64825a"/>
+		<rom name="92021-06.62" size="524288" crc="f1423efe" sha1="bd45ba2b7908d10dc4df10b9c04dca6830894d2a"/>
+		<rom name="92021-07.63" size="524288" crc="258d524a" sha1="f2ba03b7fec81377b032476703cafe0fe79f6a2a"/>
+		<rom name="92021-08.64" size="524288" crc="54ff00c4" sha1="f86f16c77b211206fbe39efa278634db8a3eaf75"/>
+		<rom name="92021-11.1" size="1048576" crc="fec883a7" sha1="a17ca17fa37b35c5f28cede52efa91afe566a95a"/>
+		<rom name="92021-12.2" size="1048576" crc="df283a7e" sha1="4e9eed9475186e6f94d9ef84a798fa807fb37903"/>
+		<rom name="92021-13.11" size="1048576" crc="1ceb593a" sha1="e8428c42d10aa0d26717176b1bdea9a4a1d3e5f3"/>
+		<rom name="92021-14.12" size="1048576" crc="673c2c61" sha1="5e04ac452ffd0747beaa42daca873a09cf179b18"/>
+		<rom name="92021-15.21" size="1048576" crc="66e8b197" sha1="10f6c5beb4ab57fbd1940db0e15d07df486e4351"/>
+		<rom name="92021-16.22" size="1048576" crc="1f672dd8" sha1="f75b8f3f9512e2ef085170888e621f54ee94f9d5"/>
+		<rom name="92116-1.4" size="524288" crc="8da37b9d" sha1="ffc67901d087e63bfbb36d15d75c57f6847ef6ea"/>
+		<rom name="92116-2.18" size="524288" crc="8c06cded" sha1="789d620dddfebc1343d424fccd03dd51b58c50fa"/>
+		<rom name="92116-3.37" size="131072" crc="2a541095" sha1="934ef9b6bbe3f6e2e2649dde5671547b955ffc7c"/>
+		<rom name="92116-4.38" size="131072" crc="70da1825" sha1="7f2077e9b40d5acf4da3f6bcc5d7b92d6d08f861"/>
+		<rom name="92116-5.116" size="262144" crc="da16db49" sha1="a07fb706b0c93a83148a9fdaaca1bc5414bfe286"/>
+		<rom name="92116-6.117" size="262144" crc="1f1e147a" sha1="ebedcdad9cfda8fa3b5c2653232209da5be237e1"/>
+		<rom name="ch9072_4.39" size="8192" crc="b45b4dc0" sha1="b9fae0c9ac2d40f0a202c538d866d5f2941ba8dd"/>
+		<rom name="ch9072_5.33" size="8192" crc="e122916b" sha1="86d5ecc7ecc6f175ecb28459697ef33e1ee06860"/>
+		<rom name="ch9072_6.35" size="8192" crc="05d95bf7" sha1="78181cf71f22c090a1e62823a43757353a9ef6ab"/>
+		<rom name="ch9072_8.59" size="8192" crc="6bf52596" sha1="bf4e7e7df3daae4aa6a441b58b15a435aa45630e"/>
+		<rom name="pr88004q.105" size="512" crc="9327dc37" sha1="cfe7b144cdcd76170d47f1c4e0f72b6d4fca0c8d"/>
+		<rom name="pr88004w.66" size="256" crc="3d648467" sha1="bf8dbaa2176c801f7370313425c87f0eefe8a3a4"/>
+		<rom name="pr90015a.117" size="2048" crc="777583db" sha1="8fd060a68fbb6156feb55afcfc5afd95999a8a62"/>
+		<rom name="pr90015b.153" size="256" crc="be240dac" sha1="6203b73c1a5e09e525380a78b555c3818929d5eb"/>
+	</game>
+
+	<game name="f1superb" sourcefile="ms32.c">
+		<description>F1 Super Battle</description>
+		<year>1994</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="f1sb1.bin" size="2097152" crc="53a3a97b" sha1="c8cd501ae10d9eb48a02e4e59a1ce389a27afc44"/>
+		<rom name="f1sb10.bin" size="2097152" crc="893d7f4b" sha1="b2734f20f703a0dcf8b1fdaebf2b6198b2fb0f51"/>
+		<rom name="f1sb11.bin" size="2097152" crc="0b848bb5" sha1="e4c0e434add151112352d6068e5de1a7098e6346"/>
+		<rom name="f1sb12.bin" size="2097152" crc="edecd5f4" sha1="9b86802d08e5c8ec1a6dcea75dc8f050d3e96970"/>
+		<rom name="f1sb13.bin" size="2097152" crc="36565a99" sha1="db08ff3107dcc07ca31140715d7d4b7bd27fa4c5"/>
+		<rom name="f1sb14.bin" size="2097152" crc="c0c20490" sha1="9e93beae38c5cfca9f381b4d134c1d95cfa2223a"/>
+		<rom name="f1sb15.bin" size="2097152" crc="575a146e" sha1="bf67a89ac3145d38564b9dbc3c650c9d5f2bcd92"/>
+		<rom name="f1sb16.bin" size="2097152" crc="a2d017a1" sha1="6c1dd67a1c9c18d69f7dbf7d4637671809be5c89"/>
+		<rom name="f1sb17.bin" size="2097152" crc="2b9739d5" sha1="db9e93fe79dfa041584730df9cc678caad073251"/>
+		<rom name="f1sb18.bin" size="2097152" crc="c49055ff" sha1="6038dc497583229060ad686090d6940c0a3d1558"/>
+		<rom name="f1sb19.bin" size="2097152" crc="b7cacf0d" sha1="cea52b1062cf154ccba11640798902b0f9ddeb77"/>
+		<rom name="f1sb2.bin" size="2097152" crc="a452f50a" sha1="3782a37203b652ea5df5b04dc74a0fdace7b14cc"/>
+		<rom name="f1sb20.bin" size="2097152" crc="fa349897" sha1="31e08aa2821e409057e3094333b9ecbe04a6a38a"/>
+		<rom name="f1sb21.bin" size="262144" crc="e131e1c7" sha1="33f95a074930c49548069518d8c6dcde7fa25627"/>
+		<rom name="f1sb23.bin" size="2097152" crc="bfefa3ab" sha1="7770cc9b091e258ede7f2780df61a592cc008dd7"/>
+		<rom name="f1sb24.bin" size="2097152" crc="0fa26f65" sha1="e92b14862fbce33ea4ab4567ec48199bfcbbdd84"/>
+		<rom name="f1sb26.bin" size="524288" crc="042fccd5" sha1="4a69de3aef51adad502d54987468170b9e7bb8ac"/>
+		<rom name="f1sb27.bin" size="524288" crc="5f96cf32" sha1="c9c64576a8bb81a8e8bbe30b054ed33afd760b93"/>
+		<rom name="f1sb28.bin" size="524288" crc="cfda8003" sha1="460146556f606bf213d7e2ab29d2eb8827131bd0"/>
+		<rom name="f1sb29.bin" size="524288" crc="f21f1481" sha1="97a97ff3b9a71b1a024d8f2cfe57a1d02cec5ea4"/>
+		<rom name="f1sb2b.bin" size="2097152" crc="18d73b16" sha1="f06f4d31b15658cc1e1b559ae3b8a90b797546ca"/>
+		<rom name="f1sb3.bin" size="2097152" crc="265d068c" sha1="a2a7850fbc2a04e448f772544d2f6925f9aaf99c"/>
+		<rom name="f1sb31.bin" size="2097152" crc="1d0d2efd" sha1="e6446ef9c71be9316c286157f71e0043347c6a5c"/>
+		<rom name="f1sb32.bin" size="524288" crc="1b31fcce" sha1="354cc6f43cd3bf3ba921ac8c5631ab993bedf563"/>
+		<rom name="f1sb3b.bin" size="2097152" crc="ce728fe0" sha1="e0fd7b8f4d3dc9e2b15ddf027c61e67e5c1f22b5"/>
+		<rom name="f1sb4.bin" size="2097152" crc="0ccc66fd" sha1="07ffef821300386224a7743e8f83088e3437c6db"/>
+		<rom name="f1sb4b.bin" size="2097152" crc="077180c5" sha1="ab16739da709ecdbbb1264beba349ef6ecf3f8b1"/>
+		<rom name="f1sb5.bin" size="2097152" crc="bff4271b" sha1="dc5672f51348fe0a79352eeafaeeefd78428fe5a"/>
+		<rom name="f1sb5b.bin" size="2097152" crc="efabc47d" sha1="195afde8a1f45da4fc04c3080a3cf5fdfff7be5e"/>
+		<rom name="f1sb6.bin" size="2097152" crc="6caf48ec" sha1="18ea445970285950c61c8eff74a3ab6387816990"/>
+		<rom name="f1sb7.bin" size="2097152" crc="a5458947" sha1="7743d67a167f6eecfac6614d1336c6df425e5e95"/>
+		<rom name="f1sb8.bin" size="2097152" crc="ba3f1533" sha1="3ff1c4cca8358fc8daf0d2c381672569085ac9ae"/>
+		<rom name="f1sb9.bin" size="2097152" crc="66b12e1f" sha1="4dc3f162a5116403cc0c491af335208672c8e9af"/>
+	</game>
+
+	<game name="fcombat" sourcefile="fcombat.c">
+		<description>Field Combat</description>
+		<year>1985</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="fcomba10.d12" size="16384" crc="908f154c" sha1="b3761ee60d4a5ea36376759875105d23c57b4bf2"/>
+		<rom name="fcombat1.t5" size="16384" crc="a0cc1216" sha1="3a8963ffde2ff4a3f428369133f94bb37717cae5"/>
+		<rom name="fcombat2.t9" size="16384" crc="30cb0c14" sha1="8b5b6a4efaca2f138709184725e9e0e0b9cfc4c7"/>
+		<rom name="fcombat3.10t" size="16384" crc="e8511da0" sha1="bab5c9244c970b97c025381c37ad372aa3b5cddf"/>
+		<rom name="fcombat4.p3" size="16384" crc="efe098ab" sha1="fe64a5e9170835d242368109b1b221b0f8090e7e"/>
+		<rom name="fcombat5.l3" size="16384" crc="96194ca7" sha1="087d6ac8f93f087cb5e378dbe9a8cfcffa2cdddc"/>
+		<rom name="fcombat6.f3" size="16384" crc="97282729" sha1="72db0593551c2d15631341bf621b96013b46ce72"/>
+		<rom name="fcombat7.l11" size="8192" crc="54e978ef" sha1="834f428f8d3e6b2cd865db8d2a0e069484a98316" status="baddump"/>
+		<rom name="fcombat8.d10" size="16384" crc="e810941e" sha1="19ae85af0bf245caf3afe10d65e618cfb47d33c2"/>
+		<rom name="fcombat9.d11" size="16384" crc="f95988e6" sha1="25876652decca7ec1e9b37a16536c15ca2d1cb12"/>
+		<rom name="fcprom_a.c2" size="32" crc="7ac480f0" sha1="f491fe4da19d8c037e3733a5836de35cc438907e"/>
+		<rom name="fcprom_b.c4" size="256" crc="ac9049f6" sha1="57aa5b5df3e181bad76149745a422c3dd1edad49"/>
+		<rom name="fcprom_c.a9" size="256" crc="768ac120" sha1="ceede1d6cbeae08da96ef52bdca2718a839d88ab"/>
+		<rom name="fcprom_d.k12" size="256" crc="9a348250" sha1="faf8db4c42adee07795d06bea20704f8c51090ff"/>
+	</game>
+
+	<game name="formatz" sourcefile="aeroboto.c">
+		<description>Formation Z</description>
+		<year>1984</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="10a" size="256" crc="e8733c8f" sha1="105b44c9108ee173a417f8c79ec8381f824dd675"/>
+		<rom name="10b" size="256" crc="00df8809" sha1="f4539c052a5ce8a63662db070c3f52139afef23d"/>
+		<rom name="10c" size="256" crc="b756dd6d" sha1="ea79f87f84ded2f0a66458af24cbc792e5ff77e3"/>
+		<rom name="format_z.1" size="4096" crc="5739afd2" sha1="3a645bc8a5ac69f1dc878a589c580f2bf033d3cb"/>
+		<rom name="format_z.2" size="4096" crc="3a821391" sha1="476507ba5e5d64ca3729244590beadb9b3a6a018"/>
+		<rom name="format_z.3" size="4096" crc="7d1aec79" sha1="bb19d6c91a14df26706226cfe22853bb8383c63d"/>
+		<rom name="format_z.4" size="8192" crc="910375a0" sha1="1044e0f45ce34c15986d9ab520c0e7d08fd46dde"/>
+		<rom name="format_z.5" size="8192" crc="ba50be57" sha1="aa37b644e8c1944b4c0ba81164d5a52be8ab491f"/>
+		<rom name="format_z.6" size="16384" crc="baa0d745" sha1="72b6cf31c9bbf9b5c55ef3f4ca5877ce576beda9"/>
+		<rom name="format_z.7" size="16384" crc="986e6052" sha1="4d39eda38fa17695f8217b0032a750cbe71c5674"/>
+		<rom name="format_z.8" size="16384" crc="81a2416c" sha1="d43c6bcc079847cb4c8e77fdc4d9d5bb9c2cc41a"/>
+		<rom name="format_z.9" size="4096" crc="6b9215ad" sha1="3ab416d070bf6b9a8be3e19d4dbc3a399d9ab5cb"/>
+	</game>
+
+	<game name="gametngk" sourcefile="ms32.c">
+		<description>The Game Paradise - Master of Shooting! / Game Tengoku - The Game Paradise</description>
+		<year>1995</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="mr94041.01" size="2097152" crc="3f99adf7" sha1="cbb8d2fc253b0c58e7eb9286c66e6b36daf9d4af"/>
+		<rom name="mr94041.02" size="2097152" crc="c3c5ae69" sha1="5ed7f57a7139f87c680c68e44ea4022b917a9381"/>
+		<rom name="mr94041.03" size="2097152" crc="d858b6de" sha1="a06cf529c9508c8c8508894e2e004373edd9debf"/>
+		<rom name="mr94041.04" size="2097152" crc="8c96ca20" sha1="097cab64ef8e515c59178c36171f87bed4b3d1e5"/>
+		<rom name="mr94041.05" size="2097152" crc="ac664a0b" sha1="bd002822a38369599a1b5a7456957de1d9cd976e"/>
+		<rom name="mr94041.06" size="2097152" crc="70dd0dd4" sha1="da648c16ad0cb12ac66656522da14392be7772c9"/>
+		<rom name="mr94041.07" size="2097152" crc="a6966af5" sha1="3a65824f3f325af39d8e9932357ce9f8878f0321"/>
+		<rom name="mr94041.08" size="2097152" crc="d7d2f73a" sha1="0eb28f4cdea73aa8fed0b62cbac6cd7d7694c2ee"/>
+		<rom name="mr94041.09" size="2097152" crc="a33e6051" sha1="d6e34b022eb36dcfa8cfe6d6d1254f994b3b3dca"/>
+		<rom name="mr94041.10" size="2097152" crc="b3497147" sha1="df7d8ea7ec3e3df5e0c6658f14995df5479181bf"/>
+		<rom name="mr94041.11" size="2097152" crc="00dcdbc3" sha1="f7e34bc9f714ea81fc9855d90db792dd1e99bae8"/>
+		<rom name="mr94041.12" size="2097152" crc="0ce48329" sha1="9c198cef998eb3b9c33123bd8cc02210498f82d9"/>
+		<rom name="mr94041.13" size="2097152" crc="fba84caf" sha1="318270dbf825a8e0f315992c49a2dc34dd1df7c1"/>
+		<rom name="mr94041.14" size="2097152" crc="2d6308bd" sha1="600b6ccdbb976301075e0b287124a9fd5fe7fc1b"/>
+		<rom name="mr94041.21" size="262144" crc="38dcb837" sha1="29fdde54e52dec4ee39a6f2db8e0d67774320d15"/>
+		<rom name="mr94041.26" size="524288" crc="e622e774" sha1="203c2a3563a337af4cec92a66e0fa410d901b01f"/>
+		<rom name="mr94041.27" size="524288" crc="da862b9c" sha1="17dc6da08d7f5551c8f4bc4d9c416dbfc82d8397"/>
+		<rom name="mr94041.28" size="524288" crc="b3738934" sha1="cd07572e55e83807e76179cfc6b97e0410067911"/>
+		<rom name="mr94041.29" size="524288" crc="45154a45" sha1="4c7c2c6738fdfe54ebe41a0ac6222cbfce5d7757"/>
+		<rom name="mr94041.30" size="524288" crc="c0f27b7f" sha1="874fe80aa4b46520f844ef6efa61f28eabccbc4f"/>
+	</game>
+
+	<game name="gingania" sourcefile="ginganin.c" cloneof="ginganin" romof="ginganin">
+		<description>Ginga NinkyouDen (set 2)</description>
+		<year>1987</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="1.bin" size="65536" crc="0bd32d59" sha1="5ab2c0e4a1d9cafbd3448d981103508debd7ed96"/>
+		<rom name="10.bin" size="16384" crc="48a20745" sha1="69855b0402feca4ba9632142e569c652ca05b9fa"/>
+		<rom name="2.bin" size="65536" crc="6da1d8a3" sha1="ea81f2934fa7901563e886f3d600edd08ec0ea24"/>
+		<rom name="gn_03.bin" merge="gn_03.bin" size="65536" crc="f1ba222c" sha1="780c0bd0045bac1e1bb3209576383db90504fbf3"/>
+		<rom name="gn_04.bin" merge="gn_04.bin" size="65536" crc="0ed9133b" sha1="77f628e8ec28016efac2d906146865ca4ec54bd5"/>
+		<rom name="gn_05.bin" merge="gn_05.bin" size="65536" crc="e76e10e7" sha1="b16f10a1a01b7b04221c9bf1b0d157e936bc5fb5"/>
+		<rom name="gn_06.bin" merge="gn_06.bin" size="131072" crc="bdc65835" sha1="53222fc3ec15e641289abb754657b0d59b88b66b"/>
+		<rom name="gn_07.bin" merge="gn_07.bin" size="65536" crc="c2b8eafe" sha1="a042a200efd4e7361e9ab516085c9fc8067e28b4"/>
+		<rom name="gn_08.bin" merge="gn_08.bin" size="65536" crc="f7c73c18" sha1="102700e2217bcd1532af56ee6a00ad608c8217db"/>
+		<rom name="gn_09.bin" merge="gn_09.bin" size="65536" crc="a5e07c3b" sha1="cdda02cd847330575612cb33d1bb38a5d50a3e6d"/>
+		<rom name="gn_11.bin" merge="gn_11.bin" size="32768" crc="f0d0e605" sha1="0c541e8e036573be1d99ecb71fdb4568ca8cc269"/>
+		<rom name="gn_12.bin" merge="gn_12.bin" size="65536" crc="c134a1e9" sha1="8bace0f0169e61f1b7254393fa9cad6dca09c335"/>
+		<rom name="gn_13.bin" merge="gn_13.bin" size="65536" crc="1d3bec21" sha1="305823c78cad9288f918178e1c24cb0459ba2a6e"/>
+		<rom name="gn_14.bin" merge="gn_14.bin" size="65536" crc="e73fe668" sha1="fa39fddd7448d3fc6b539506e33b951db205afa1"/>
+		<rom name="gn_15.bin" merge="gn_15.bin" size="65536" crc="1b8ac9fb" sha1="1e5ee2a565fa262f1e48c1088d84c6f42d84b4e3"/>
+	</game>
+
+	<game name="ginganin" sourcefile="ginganin.c">
+		<description>Ginga NinkyouDen (set 1)</description>
+		<year>1987</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="gn_01.bin" size="65536" crc="30256fcb" sha1="dc15e0da88ae5cabe0150f7290508c3d58c06c11"/>
+		<rom name="gn_02.bin" size="65536" crc="4a4e012f" sha1="7c94a5b6b71e037af355f3aa4623be1f585db8dc"/>
+		<rom name="gn_03.bin" size="65536" crc="f1ba222c" sha1="780c0bd0045bac1e1bb3209576383db90504fbf3"/>
+		<rom name="gn_04.bin" size="65536" crc="0ed9133b" sha1="77f628e8ec28016efac2d906146865ca4ec54bd5"/>
+		<rom name="gn_05.bin" size="65536" crc="e76e10e7" sha1="b16f10a1a01b7b04221c9bf1b0d157e936bc5fb5"/>
+		<rom name="gn_06.bin" size="131072" crc="bdc65835" sha1="53222fc3ec15e641289abb754657b0d59b88b66b"/>
+		<rom name="gn_07.bin" size="65536" crc="c2b8eafe" sha1="a042a200efd4e7361e9ab516085c9fc8067e28b4"/>
+		<rom name="gn_08.bin" size="65536" crc="f7c73c18" sha1="102700e2217bcd1532af56ee6a00ad608c8217db"/>
+		<rom name="gn_09.bin" size="65536" crc="a5e07c3b" sha1="cdda02cd847330575612cb33d1bb38a5d50a3e6d"/>
+		<rom name="gn_10.bin" size="16384" crc="ae371b2d" sha1="d5e03b085586ed2bf40713f432bcf12e07318226"/>
+		<rom name="gn_11.bin" size="32768" crc="f0d0e605" sha1="0c541e8e036573be1d99ecb71fdb4568ca8cc269"/>
+		<rom name="gn_12.bin" size="65536" crc="c134a1e9" sha1="8bace0f0169e61f1b7254393fa9cad6dca09c335"/>
+		<rom name="gn_13.bin" size="65536" crc="1d3bec21" sha1="305823c78cad9288f918178e1c24cb0459ba2a6e"/>
+		<rom name="gn_14.bin" size="65536" crc="e73fe668" sha1="fa39fddd7448d3fc6b539506e33b951db205afa1"/>
+		<rom name="gn_15.bin" size="65536" crc="1b8ac9fb" sha1="1e5ee2a565fa262f1e48c1088d84c6f42d84b4e3"/>
+	</game>
+
+	<game name="gratia" sourcefile="ms32.c">
+		<description>Gratia - Second Earth (92047-01 version)</description>
+		<year>1996</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="92042.01" size="2097152" crc="0fa26f65" sha1="e92b14862fbce33ea4ab4567ec48199bfcbbdd84"/>
+		<rom name="94019.01" size="2097152" crc="92d8ae9b" sha1="02b36e6e14b28a9830e07fd328772dbb20b76889"/>
+		<rom name="94019.02" size="2097152" crc="f7bd9cc4" sha1="5658bfb4081439ab06c6ade2531581aa60d1c6be"/>
+		<rom name="94019.021" size="262144" crc="6e8dd039" sha1="f1e69c9b40b14ba0f8377a6d9b6c3933919bc803"/>
+		<rom name="94019.026" size="524288" crc="f398cba5" sha1="11e06abebfdfc8a99b5c56e9f6ed389f645b6c72"/>
+		<rom name="94019.027" size="524288" crc="ba3318c5" sha1="9b100988b998c39b586b51fe9fee874dbf711610"/>
+		<rom name="94019.028" size="524288" crc="e0762e89" sha1="a567c347e7f73f1ef1c753d14ac4f58311380fac"/>
+		<rom name="94019.029" size="524288" crc="8059800b" sha1="7548d01b6ea15e962353b3585db6515e5819e5ce"/>
+		<rom name="94019.03" size="2097152" crc="62a69590" sha1="d95cc1e1ec85161ee6cd1ae77b405cf8ef81217a"/>
+		<rom name="94019.04" size="2097152" crc="5a76a39b" sha1="fc7c1ff9a0a3c2639fc52720aefe8b2a9e5d2857"/>
+		<rom name="94019.05" size="2097152" crc="a16994df" sha1="9170b1fd9252d7a9601c3b2e6b1ba86686730b86"/>
+		<rom name="94019.06" size="2097152" crc="01d52ef1" sha1="1585c7eb3729bab78467f627b7b671d619451a74"/>
+		<rom name="94019.08" size="2097152" crc="abd124e0" sha1="2da1d818c909e4abbb79ed03f3dbf15d744439ce"/>
+		<rom name="94019.09" size="2097152" crc="711ab08b" sha1="185b80b965ac3aba4857b4f83637008c2c1cc6ff"/>
+		<rom name="94019.10" size="2097152" crc="a751e316" sha1="3d658370c71b83582fd132b3da441089df9bfd05"/>
+		<rom name="94019_2.030" size="524288" crc="f9543fcf" sha1="8466c7893bc6c43e2a80b8f91a776fd0a345ea6c"/>
+		<rom name="94019_2.07" size="2097152" crc="043f969b" sha1="ad10339e561c1a65451a2e9a8e79ceda3787674a"/>
+	</game>
+
+	<game name="gratiaa" sourcefile="ms32.c" cloneof="gratia" romof="gratia">
+		<description>Gratia - Second Earth (91022-10 version)</description>
+		<year>1996</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="92042.01" merge="92042.01" size="2097152" crc="0fa26f65" sha1="e92b14862fbce33ea4ab4567ec48199bfcbbdd84"/>
+		<rom name="94019.01" merge="94019.01" size="2097152" crc="92d8ae9b" sha1="02b36e6e14b28a9830e07fd328772dbb20b76889"/>
+		<rom name="94019.02" merge="94019.02" size="2097152" crc="f7bd9cc4" sha1="5658bfb4081439ab06c6ade2531581aa60d1c6be"/>
+		<rom name="94019.021" merge="94019.021" size="262144" crc="6e8dd039" sha1="f1e69c9b40b14ba0f8377a6d9b6c3933919bc803"/>
+		<rom name="94019.026" merge="94019.026" size="524288" crc="f398cba5" sha1="11e06abebfdfc8a99b5c56e9f6ed389f645b6c72"/>
+		<rom name="94019.027" merge="94019.027" size="524288" crc="ba3318c5" sha1="9b100988b998c39b586b51fe9fee874dbf711610"/>
+		<rom name="94019.028" merge="94019.028" size="524288" crc="e0762e89" sha1="a567c347e7f73f1ef1c753d14ac4f58311380fac"/>
+		<rom name="94019.029" merge="94019.029" size="524288" crc="8059800b" sha1="7548d01b6ea15e962353b3585db6515e5819e5ce"/>
+		<rom name="94019.03" merge="94019.03" size="2097152" crc="62a69590" sha1="d95cc1e1ec85161ee6cd1ae77b405cf8ef81217a"/>
+		<rom name="94019.030" size="524288" crc="026b5379" sha1="b9237477f1bf8ae83174e8231492fe667e6d6a13"/>
+		<rom name="94019.04" merge="94019.04" size="2097152" crc="5a76a39b" sha1="fc7c1ff9a0a3c2639fc52720aefe8b2a9e5d2857"/>
+		<rom name="94019.05" merge="94019.05" size="2097152" crc="a16994df" sha1="9170b1fd9252d7a9601c3b2e6b1ba86686730b86"/>
+		<rom name="94019.06" merge="94019.06" size="2097152" crc="01d52ef1" sha1="1585c7eb3729bab78467f627b7b671d619451a74"/>
+		<rom name="94019.07" size="2097152" crc="acb75824" sha1="3b43e00a2d240761565042c8feead25a83ef0eb1" status="baddump"/>
+		<rom name="94019.08" merge="94019.08" size="2097152" crc="abd124e0" sha1="2da1d818c909e4abbb79ed03f3dbf15d744439ce"/>
+		<rom name="94019.09" merge="94019.09" size="2097152" crc="711ab08b" sha1="185b80b965ac3aba4857b4f83637008c2c1cc6ff"/>
+		<rom name="94019.10" merge="94019.10" size="2097152" crc="a751e316" sha1="3d658370c71b83582fd132b3da441089df9bfd05"/>
+	</game>
+
+	<game name="hachoo" sourcefile="megasys1.c">
+		<description>Hachoo!</description>
+		<year>1989</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="hacho01.rom" size="131072" crc="97fc9515" sha1="192660061af6a5bddccf7cfffcbfa368c4030de9"/>
+		<rom name="hacho02.rom" size="131072" crc="49489c27" sha1="21c31e1b41ca6c7e78803e5a2e7c49f7b885d0e3"/>
+		<rom name="hacho05.rom" size="65536" crc="6271f74f" sha1="2fe0f8adf3cdafe13a9107c36f24f1a525d06a05"/>
+		<rom name="hacho06.rom" size="65536" crc="db9e743c" sha1="77a3691b48eed389bfcdead5f307415dce47247e"/>
+		<rom name="hacho07.rom" size="131072" crc="06e6ca7f" sha1="a15a1b754b0d47285a023ecfc4b762ab592f8262"/>
+		<rom name="hacho08.rom" size="131072" crc="888a6df1" sha1="71d70633ecf7255287e55e92f8d2f186fe58f4b4"/>
+		<rom name="hacho09.rom" size="131072" crc="e9f35c90" sha1="1a1dd6a7777bbad1475ad65f8797818c9b4f0937"/>
+		<rom name="hacho10.rom" size="131072" crc="1aeaa188" sha1="40827435c948a2fd448137eb3f8c33fc84da3b82"/>
+		<rom name="hacho14.rom" size="524288" crc="10188483" sha1="43bf08ac777c42351b04e2c35b1a119f524b4388"/>
+		<rom name="hacho15.rom" size="131072" crc="e559347e" sha1="1d71c83f4946af80083bbd059e55c2d57f2f9647"/>
+		<rom name="hacho16.rom" size="131072" crc="105fd8b5" sha1="41aafcf6e29417a39ca0945f47a90646da2cbf3c"/>
+		<rom name="hacho17.rom" size="131072" crc="77f46174" sha1="81d923069191c153773aaeb2d0eab6ab0076a386"/>
+		<rom name="hacho18.rom" size="131072" crc="0be21111" sha1="45beb7e9f6cfe56893e0c5b052a1922e3d73275b"/>
+		<rom name="hacho19.rom" size="131072" crc="33bc9de3" sha1="8bbfda0fea742177e00dd5fff226f85233537cb3"/>
+		<rom name="hacho20.rom" size="131072" crc="2ae2011e" sha1="f294ebfd87816c7b179fcaba3869e3402b2560a9"/>
+		<rom name="hacho21.rom" size="131072" crc="6dcfb8d5" sha1="a478fea81acf1f317fe82ec84d4d21227db7432b"/>
+		<rom name="hacho22.rom" size="131072" crc="ccabf0e0" sha1="3b9d95d8dee6155b484d85cc3f12e20a8ae3c9be"/>
+		<rom name="hacho23.rom" size="131072" crc="ff5f77aa" sha1="e9fc71ac3499ee5b4636a3bdf1f3fbbe2623b0db"/>
+		<rom name="ht.bin" size="512" crc="85302b15" sha1="8184c1184a71706cdb981e3c4f90a08521413e72"/>
+	</game>
+
+	<game name="hayaosi1" sourcefile="ms32.c">
+		<description>Hayaoshi Quiz Ouza Ketteisen</description>
+		<year>1994</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="mb93138a.15" size="524288" crc="a5f64d87" sha1="11bf017f700faba57a5a2edced7a5d81a581bc50"/>
+		<rom name="mb93138a.21" size="262144" crc="8e8048b0" sha1="93285a0570ed829b36f4e8c57d133a7dd14f123d"/>
+		<rom name="mb93138a.25" size="524288" crc="563c6f2f" sha1="bc2a61fd2e0adf58256feeef8491b67af6d6eacf"/>
+		<rom name="mb93138a.27" size="524288" crc="fe8e283a" sha1="fc6c06ae296110b1f5794187d5208b17541614cb"/>
+		<rom name="mb93138a.29" size="524288" crc="e6fe3d0d" sha1="9a0caab82b160991b4f2ac993e7e4b4c5d3bb15e"/>
+		<rom name="mb93138a.3" size="524288" crc="a2ae2b21" sha1="65cee4e5e0a9b8dcac578e34210e1af7d7b2e6f7"/>
+		<rom name="mb93138a.31" size="524288" crc="d944bf8c" sha1="ce93b5d2ebe886b38dc42b1e554b17dc951a51b4"/>
+		<rom name="mb93138a.32" size="524288" crc="f563a144" sha1="14d86e4992329811857e1faf282cd9ec530a364c"/>
+		<rom name="mr92042.01" size="2097152" crc="0fa26f65" sha1="e92b14862fbce33ea4ab4567ec48199bfcbbdd84"/>
+		<rom name="mr93038.01" size="2097152" crc="b8a38bfc" sha1="1aa7b69beebceb6f09a1ee006de054cb84002e94"/>
+		<rom name="mr93038.03" size="2097152" crc="6999dec9" sha1="eb4c6ba200cd08b41509314c659feb3af12117ee"/>
+		<rom name="mr93038.04" size="2097152" crc="ab5edb11" sha1="b7742aefbce9efc512c3526714b6f20a6c03af60"/>
+		<rom name="mr93038.05" size="2097152" crc="274522f1" sha1="717435d6bf1b2a2220a2f0a53b070bb81cc2ed2b"/>
+		<rom name="mr93038.06" size="2097152" crc="f9961ebf" sha1="e91b160cb5a76e3f6044cc71681dadf2fbff7e8b"/>
+		<rom name="mr93038.07" size="2097152" crc="1abef1c5" sha1="4b40adaebf9d9963493bfb285badbb19a5b181be"/>
+		<rom name="mr93038.08" size="1048576" crc="21282cb0" sha1="52ea94a6457f7684674783c362052bcc40086dd0"/>
+	</game>
+
+	<game name="homerun" sourcefile="homerun.c">
+		<description>Moero Pro Yakyuu Homerun</description>
+		<year>1988</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="homerun.120" size="131072" crc="52f0709b" sha1="19e675bcccadb774f60ec5929fc1fb5cf0d3f617"/>
+		<rom name="homerun.43" size="131072" crc="e759e476" sha1="ad4f356ff26209033320a3e6353e4d4d9beb59c1"/>
+		<rom name="homerun.60" size="65536" crc="69a720d1" sha1="0f0a4877578f358e9e829ece8c31e23f01adcf83"/>
+		<rom name="homerun.snd" size="4096" status="nodump"/>
+	</game>
+
+	<game name="iganinju" sourcefile="megasys1.c">
+		<description>Iga Ninjyutsuden (Japan)</description>
+		<year>1988</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="iga_01.bin" size="131072" crc="fa416a9e" sha1="c81405037366c93754d8eed1c70128091f9b3e3f"/>
+		<rom name="iga_02.bin" size="131072" crc="bd00c280" sha1="d4e074bb25fc7295b1a39aa22e966cf471a6789f"/>
+		<rom name="iga_03.bin" size="65536" crc="de5937ad" sha1="d3039e5391feb925ea10f33a1363bf3ffc1ebb3d"/>
+		<rom name="iga_04.bin" size="65536" crc="afaf0480" sha1="b8d0ec859a94941650bdd2b01e98d054d49fef67"/>
+		<rom name="iga_05.bin" size="65536" crc="13580868" sha1="bfcd11b294b64af81a0403a3e9370c42a9859b6b"/>
+		<rom name="iga_06.bin" size="65536" crc="7904d5dd" sha1="4cd9fdab601a90c997a041a9f7966a9a233e897b"/>
+		<rom name="iga_08.bin" size="262144" crc="857dbf60" sha1="e700b307aa481a57180a4529e2ce4326574e128e"/>
+		<rom name="iga_10.bin" size="262144" crc="67a89e0d" sha1="9c15e1b5e15f3f95f302d7223828bed0d0173347"/>
+		<rom name="iga_14.bin" size="262144" crc="c707d513" sha1="b0067a444385809a7dfd11fea27b1add318d5225"/>
+		<rom name="iga_18.bin" size="524288" crc="6c727519" sha1="5a05f82ff6fe2835f72607be52290b6ae32640c8"/>
+		<rom name="iga_19.bin" size="131072" crc="98a7e998" sha1="603ec7696cf50f873265a0956bc01aa2cf6448f7"/>
+		<rom name="iga_23.bin" size="524288" crc="fb58c5f4" sha1="530e32dbe46dfe7d19fc48b77c1544679d40ff59"/>
+		<rom name="prom" size="512" status="nodump"/>
+	</game>
+
+	<game name="jajamaru" sourcefile="vsnes.c">
+		<description>Vs. Ninja Jajamaru Kun (Japan)</description>
+		<year>1985</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="10.bin" size="8192" crc="16af1704" sha1="ebcf9ad06e302c51ee4432631a6b0fb85a9630ed"/>
+		<rom name="11.bin" size="8192" crc="f0034c04" sha1="402dcf6ad443baeee3038ecab12db008a1ad2787"/>
+		<rom name="12.bin" size="8192" crc="c91d536a" sha1="8cb4b0819652df484553b9dd1f82391d51c90fcc"/>
+		<rom name="7.bin" size="8192" crc="a406d0e4" sha1="1f67b58bacb145a3ff8b8380b44cd60251051c71"/>
+		<rom name="8.bin" size="8192" crc="ce263271" sha1="1e5e2a9e0dcebeccd7df59491ca0bc5ac4d0d42b"/>
+		<rom name="9.bin" size="8192" crc="db7d1814" sha1="6a0c9cf97006a8a41dc2f025a5f8acbb798dec60"/>
+	</game>
+
+	<game name="jitsupro" sourcefile="megasys1.c">
+		<description>Jitsuryoku!! Pro Yakyuu (Japan)</description>
+		<year>1989</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="bs.bpr" size="512" crc="85b30ac4" sha1="b03f577ceb0f26b67453ffa52ef61fea76a93184"/>
+		<rom name="jp_1.bin" size="131072" crc="0056edec" sha1="529a5181f7d791930e238bc115daeae1ab9a63ad"/>
+		<rom name="jp_10.bin" size="524288" crc="178e43c0" sha1="9c3d5a10f0f7a9d3f2d5dfaba6495d5cd8e94c4d"/>
+		<rom name="jp_14.bin" size="524288" crc="db112abf" sha1="fd8c510934241b7923660acca6122ca3e63bf934"/>
+		<rom name="jp_18.bin" size="524288" crc="3ed855e3" sha1="c68fffe42aa134480fce37d8d7e0aa336d97f898"/>
+		<rom name="jp_19.bin" size="131072" crc="ff59111f" sha1="caf78b5657c1b1f99b0de440862618d3d961ea18"/>
+		<rom name="jp_2.bin" size="131072" crc="5d842ff2" sha1="69032601c0e67c5c78fad1cb2bb4f1b59014fe5a"/>
+		<rom name="jp_23.bin" size="524288" crc="275f48bd" sha1="449c19247d4956f5eecdd5352e24e31685bd448d"/>
+		<rom name="jp_5.bin" size="65536" crc="84454e9e" sha1="a506d44349a670e57d9dba3ec6a9de2597ba2cdb"/>
+		<rom name="jp_6.bin" size="65536" crc="1fa9b75b" sha1="d0e3640333f737658542ed4a8758d62f6d64ae05"/>
+		<rom name="jp_8.bin" size="524288" crc="eca67632" sha1="9f91081a26bd98fd79d5ddc6413b8a32006bb05f"/>
+	</game>
+
+	<game name="kakumei" sourcefile="jalmah.c">
+		<description>Mahjong Kakumei</description>
+		<year>1990</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="mj-re-1.bin" size="131072" crc="b90215be" sha1="10384237f734836acefb4b5f53a6ddd9054d63ff"/>
+		<rom name="mj-re-2.bin" size="131072" crc="37eff266" sha1="1d9e88c0270daadfafff1f73eb617e77b1d199d6"/>
+		<rom name="mj15.bpr" size="256" crc="ebac41f9" sha1="9d1629d977849663392cbf03a3ddf76665f88608"/>
+		<rom name="mj16.bpr" size="256" crc="8d5dc1f6" sha1="9f723e7cd44f8c09ec30b04725644346484ec753"/>
+		<rom name="mj17.bpr" size="32" crc="a17c3e8a" sha1="d7969fad7cec9c792c53aa457f4ad764a727e0a5"/>
+		<rom name="rom10.bin" size="524288" crc="88366377" sha1="163a08415a631c8a09a0a55bc2819988d850f2ad"/>
+		<rom name="rom12.bin" size="262144" crc="31620a61" sha1="11593ca7760e1a628e63aa48d9ad3800cf7af275"/>
+		<rom name="rom13.bin" size="131072" crc="9bef4fc2" sha1="6598ab9dba513efcda01e47cc7752b47a97f2c6a"/>
+		<rom name="rom14.bin" size="131072" crc="63e88dd6" sha1="58734c8caf1b1ddc4cf0437ffd8109292b76c4e1"/>
+		<rom name="rom3.bin" size="262144" crc="c9b7a526" sha1="edec57e66d4ff601c8fdef7b1405af84a3f3d883"/>
+	</game>
+
+	<game name="kakumei2" sourcefile="jalmah.c">
+		<description>Mahjong Kakumei 2 - Princess League</description>
+		<year>1992</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="92000-01.3" size="524288" crc="4b0ed440" sha1="11961d217a41f92b60d5083a5e346c245f7db620"/>
+		<rom name="92000-02.10" size="524288" crc="338fa9b2" sha1="05ba4b3c44249cf92be238bf53d6345dc49b0881"/>
+		<rom name="mj-8956.1" size="262144" crc="db4ce32f" sha1="1ae13627b9922143f462b1c3bbed87374f6e1667"/>
+		<rom name="mj-8956.12" size="131072" crc="43f7853d" sha1="54fb523b27e79aa295900c478f09cc080fea0adf" status="baddump"/>
+		<rom name="mj-8956.13" size="131072" crc="afe93cf4" sha1="1973dc5821c6df68e20f8a84b5c9ae281dd3f85f"/>
+		<rom name="mj-8956.14" size="131072" crc="2b2fe999" sha1="d9d601e2c008791f5bff6e7b1340f754dd094201"/>
+		<rom name="mj-8956.2" size="262144" crc="0f942507" sha1="7ec2fbeb9a34dfc80c4df3de8397388db13f5c7c"/>
+		<rom name="mj15.bpr" size="256" crc="ebac41f9" sha1="9d1629d977849663392cbf03a3ddf76665f88608"/>
+		<rom name="mj16.bpr" size="256" crc="8d5dc1f6" sha1="9f723e7cd44f8c09ec30b04725644346484ec753"/>
+		<rom name="mj17.bpr" size="32" crc="a17c3e8a" sha1="d7969fad7cec9c792c53aa457f4ad764a727e0a5"/>
+	</game>
+
+	<game name="kickoff" sourcefile="megasys1.c">
+		<description>Kick Off (Japan)</description>
+		<year>1988</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="kick.bin" size="512" crc="85b30ac4" sha1="b03f577ceb0f26b67453ffa52ef61fea76a93184"/>
+		<rom name="kioff01.rom" size="65536" crc="ae6e68a1" sha1="aac54e13dd33420712a869e6f46fb9b94fde9e34"/>
+		<rom name="kioff03.rom" size="65536" crc="3b01be65" sha1="110b4e02053073c0315aba1eca8c19afe5fafb33"/>
+		<rom name="kioff05.rom" size="131072" crc="e7232103" sha1="4bb72fb835ab491cf5b58a34af4e2a767703320c"/>
+		<rom name="kioff06.rom" size="131072" crc="a0b3cb75" sha1="4840177d84e825c39e2e8252c75f0c1aab156b19"/>
+		<rom name="kioff07.rom" size="131072" crc="ed649919" sha1="e8955c0dc2d1546d875a16fc9d8595ed4a507539"/>
+		<rom name="kioff09.rom" size="65536" crc="1770e980" sha1="0c9dd30765432c64bc6c320c0948c471b52ae084"/>
+		<rom name="kioff10.rom" size="131072" crc="fd739fec" sha1="1442d5ef7b8fbaa0c9f71c12ce993626364d2e1a"/>
+		<rom name="kioff16.rom" size="131072" crc="22c46314" sha1="e56161d4145042fc2524b12c31c5b99166c1019b"/>
+		<rom name="kioff17.rom" size="131072" crc="f171559e" sha1="9052f0aff07f0c4a013766bda1f9fffcfa682b29"/>
+		<rom name="kioff18.rom" size="131072" crc="d7909ada" sha1="3bdbf21c2815f0242974e42d04c3b5e356ce583f"/>
+		<rom name="kioff19.rom" size="65536" crc="1b03bbe4" sha1="ef778712c293af15bda37f0425892023747ec479"/>
+		<rom name="kioff20.rom" size="131072" crc="5c28bd2d" sha1="95d70a30118dfd2649f8d1f726a89e61233b4ae1"/>
+		<rom name="kioff21.rom" size="131072" crc="195940cf" sha1="5b1880a576046dae32cf1fd48cd4e8830649b7f7"/>
+		<rom name="kioff26.rom" size="131072" crc="2a90df1b" sha1="518d959d9557afa05da8d7bce590ff46bd6fe367"/>
+		<rom name="kioff27.rom" size="131072" crc="ca221ae2" sha1="77ba20536620949f3a172205f4d7275c9771a5a9"/>
+	</game>
+
+	<game name="kirarast" sourcefile="ms32.c">
+		<description>Ryuusei Janshi Kirara Star</description>
+		<year>1996</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="mr95025.01" size="2097152" crc="02279069" sha1="fb3ce00701271d0163f72e4f2e56faa9f16d8fd0"/>
+		<rom name="mr95025.02" size="2097152" crc="885161d4" sha1="1bc82de0b2759758d437db3ef9f0f7805f759b59"/>
+		<rom name="mr95025.03" size="2097152" crc="1ae06df9" sha1="e1493a386fd8c54c88afab43d13d73869ae467ee"/>
+		<rom name="mr95025.04" size="2097152" crc="91ab7006" sha1="0b99c352a696e21b2f31207cbf9b4a64edf543ce"/>
+		<rom name="mr95025.05" size="2097152" crc="e61af029" sha1="685315e833a168383c4c5cdaf72de172f14995b6"/>
+		<rom name="mr95025.06" size="2097152" crc="63f64ffc" sha1="a2a109be24b5f1ec2e41e423d4194394ea8c3c8b"/>
+		<rom name="mr95025.07" size="2097152" crc="0263a010" sha1="b9c85647b406c89f0e839eac93eaf5d2e6963f7d"/>
+		<rom name="mr95025.08" size="2097152" crc="8efc00d6" sha1="f750e0e21310ceceeae3ad80eb2fe2920f5a0076"/>
+		<rom name="mr95025.09" size="2097152" crc="ca6cbd17" sha1="9d16ef187b062590315066218e89bdf33cfd9865"/>
+		<rom name="mr95025.10" size="2097152" crc="ba7ad413" sha1="b1f1c218dea3217f21d5e2f44db3786055ed879a"/>
+		<rom name="mr95025.11" size="2097152" crc="11557299" sha1="6efa56f897ab026f965376a0d4032f7a0d20cafe"/>
+		<rom name="mr95025.12" size="2097152" crc="1dd4f766" sha1="455befd3a216f2197cd2e7e4899d4f1af7d20bf7"/>
+		<rom name="mr95025.13" size="2097152" crc="0adfe5b8" sha1="02309e5789b58896e5f68603502c76d4a917bd91"/>
+		<rom name="mr95025.21" size="262144" crc="a6c70c7f" sha1="fe2108f3e8d46ed53d8c5c98e8d0fdb19b77075d"/>
+		<rom name="mr95025.26" size="524288" crc="eb7faf5f" sha1="5b79ff3043db5ef2622ae1665145462d949c9bb8"/>
+		<rom name="mr95025.27" size="524288" crc="80644d05" sha1="6da8bf8aeb1477112f9022c0c5f472cbcd27df8e"/>
+		<rom name="mr95025.28" size="524288" crc="6df8c384" sha1="3ad01d3d51cfc1f48029c16ee1cc74fc59d7603c"/>
+		<rom name="mr95025.29" size="524288" crc="3b6e681b" sha1="148fa10631db53a4ad1dcdfb60b4f0654e077396"/>
+		<rom name="mr95025.30" size="524288" crc="aee6e0c2" sha1="dee985f7a9773ba7a4d31a3833a7775d778bbe5a"/>
+	</game>
+
+	<game name="lomakai" sourcefile="megasys1.c">
+		<description>Legend of Makai (World)</description>
+		<year>1988</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="lom_01.rom" size="65536" crc="46e85e90" sha1="905899346f7cd91e76d0e303258149c3d16604e0"/>
+		<rom name="lom_05.rom" size="131072" crc="d04fc713" sha1="b04bf71b93aa7fe5680c9ab1bf346416d75b511f"/>
+		<rom name="lom_06.rom" size="131072" crc="f33b6eed" sha1="92da5b278c59bcbe4fdaf408bf1cfd8d6cafde85"/>
+		<rom name="lom_08.rom" size="65536" crc="bdb15e67" sha1="6f8e06d294cf7cfbbf77c4013a6e02a942300f72"/>
+		<rom name="lom_20.rom" size="131072" crc="56a00dc2" sha1="5d97f89d384e12d70cbb5aabd6ce309e5cfb5497"/>
+		<rom name="lom_30.rom" size="131072" crc="ba6d65b8" sha1="4c83e57c977b2be82a99a4a61ab8fd5f7099ae38"/>
+		<rom name="makaiden.10" size="256" crc="e6709c51" sha1="f5cd4f0454c1a71a5b0006b098f9e76c2d8a27d2"/>
+		<rom name="makaiden.9" size="256" crc="3567065d" sha1="e111e40f9400512b3e088842d87462b00b450b8d"/>
+	</game>
+
+	<game name="lordofk" sourcefile="megasys1.c" cloneof="astyanax" romof="astyanax">
+		<description>The Lord of King (Japan)</description>
+		<year>1989</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="astyan10.bin" merge="astyan10.bin" size="131072" crc="4f704e7a" sha1="10a3cabb087b065fb28d2838c476125e051cbbf8"/>
+		<rom name="astyan11.bin" merge="astyan11.bin" size="131072" crc="5593fec9" sha1="8fa5bfa8921c6f03ddf485276207978e345887d5"/>
+		<rom name="astyan12.bin" merge="astyan12.bin" size="131072" crc="e8b313ec" sha1="ee690e284ab05db858aad4f0a0b24681c14f93c8"/>
+		<rom name="astyan13.bin" merge="astyan13.bin" size="131072" crc="5f3496c6" sha1="56f2beb2a6224cd77ee7fb56ed2685b78271c27a"/>
+		<rom name="astyan14.bin" merge="astyan14.bin" size="131072" crc="29a09ec2" sha1="6eab93fdc3491da54ca4da8a2a04a095b85aee57"/>
+		<rom name="astyan15.bin" merge="astyan15.bin" size="131072" crc="0d316615" sha1="64e6c2a836ba91e17277c7a9fd65cfb6faa88c04"/>
+		<rom name="astyan16.bin" merge="astyan16.bin" size="131072" crc="ba96e8d9" sha1="da1e8bfc2861df267b11991ddc9329101a6ad0c8"/>
+		<rom name="astyan17.bin" merge="astyan17.bin" size="131072" crc="be60ba06" sha1="205fb6fe3fe27ef40346c2ccd61168477cd83ac1"/>
+		<rom name="astyan18.bin" merge="astyan18.bin" size="131072" crc="3668da3d" sha1="4e8328851b26985b3a2d56d398411fbaeae8012c"/>
+		<rom name="astyan19.bin" merge="astyan19.bin" size="131072" crc="98158623" sha1="e9088d0d4b8c07bd21398f68966cb8633716a9b7"/>
+		<rom name="astyan20.bin" merge="astyan20.bin" size="131072" crc="c1ad9aa0" sha1="b19bc564ccb3fdb06300a64ccd672aace734393f"/>
+		<rom name="astyan21.bin" merge="astyan21.bin" size="131072" crc="0bf498ee" sha1="9d7e25e97cec6056d7b9abd36f5a1e4c162b70a3"/>
+		<rom name="astyan22.bin" merge="astyan22.bin" size="131072" crc="5f04d9b1" sha1="1f58a49a01129f8ef921f3bc284c299393213af3"/>
+		<rom name="astyan23.bin" merge="astyan23.bin" size="131072" crc="7bd4d1e7" sha1="888a2224cca41db19d84da344db657d924dcc019"/>
+		<rom name="astyan5.bin" merge="astyan5.bin" size="65536" crc="11c74045" sha1="00310a08a1c9a08050004e39b111b940142f8dea"/>
+		<rom name="astyan6.bin" merge="astyan6.bin" size="65536" crc="eecd4b16" sha1="2078e900b53347aad008a8ce7191f4e5541d4df0"/>
+		<rom name="astyan7.bin" merge="astyan7.bin" size="131072" crc="319418cc" sha1="4056948e12f2191eecd2f4140a7de4340ab1554f"/>
+		<rom name="astyan8.bin" merge="astyan8.bin" size="131072" crc="5e5d2a22" sha1="fc039d804fdcb8ce089e4436260d64408640b264"/>
+		<rom name="astyan9.bin" merge="astyan9.bin" size="131072" crc="a10b3f17" sha1="6b548d99f0c10f15d14f1a14d494f3348ea8e484"/>
+		<rom name="lokj01.bin" size="131072" crc="bed3cb93" sha1="ad4dbdacded60289ebf245111ce4543151b9456a"/>
+		<rom name="lokj02.bin" size="131072" crc="0d7f9b4a" sha1="551f237cd60e3b9aa339e393a672b08645b043cc"/>
+		<rom name="lokj03.bin" size="131072" crc="d8702c91" sha1="bdf0ed1f116b0c8589a5b6c61e6f441b5afa38cb"/>
+		<rom name="lokj04.bin" size="131072" crc="eccbf8c9" sha1="f37fb6a536f6344d6d68c8193de4db5d70b29c0a"/>
+		<rom name="rd.bpr" merge="rd.bpr" size="512" crc="85b30ac4" sha1="b03f577ceb0f26b67453ffa52ef61fea76a93184"/>
+	</game>
+
+	<game name="makaiden" sourcefile="megasys1.c" cloneof="lomakai" romof="lomakai">
+		<description>Makai Densetsu (Japan)</description>
+		<year>1988</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="lom_01.rom" merge="lom_01.rom" size="65536" crc="46e85e90" sha1="905899346f7cd91e76d0e303258149c3d16604e0"/>
+		<rom name="lom_05.rom" merge="lom_05.rom" size="131072" crc="d04fc713" sha1="b04bf71b93aa7fe5680c9ab1bf346416d75b511f"/>
+		<rom name="lom_06.rom" merge="lom_06.rom" size="131072" crc="f33b6eed" sha1="92da5b278c59bcbe4fdaf408bf1cfd8d6cafde85"/>
+		<rom name="makaiden.10" merge="makaiden.10" size="256" crc="e6709c51" sha1="f5cd4f0454c1a71a5b0006b098f9e76c2d8a27d2"/>
+		<rom name="makaiden.2a" size="131072" crc="d40e0fea" sha1="0f8a0440f63f52508ab44c3a8eb5b7f03ccca49d"/>
+		<rom name="makaiden.3a" size="131072" crc="87cf81d1" sha1="c4410a86a01c683368dbc3daca61e21931885650"/>
+		<rom name="makaiden.8" size="65536" crc="a7f623f9" sha1="f893fcaedd9144823f3fa10706dd6cd8ac51cdb3"/>
+		<rom name="makaiden.9" merge="makaiden.9" size="256" crc="3567065d" sha1="e111e40f9400512b3e088842d87462b00b450b8d"/>
+	</game>
+
+	<game name="mjzoomin" sourcefile="jalmah.c">
+		<description>Mahjong Channel Zoom In</description>
+		<year>1990</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="mj15.bpr" size="256" crc="ebac41f9" sha1="9d1629d977849663392cbf03a3ddf76665f88608"/>
+		<rom name="mj16.bpr" size="256" crc="8d5dc1f6" sha1="9f723e7cd44f8c09ec30b04725644346484ec753"/>
+		<rom name="mj17.bpr" size="32" crc="a17c3e8a" sha1="d7969fad7cec9c792c53aa457f4ad764a727e0a5"/>
+		<rom name="zoomin-1.bin" size="131072" crc="b8b04d30" sha1="abb163a9965421b4d92114bba974ccb13bb57f5a"/>
+		<rom name="zoomin-2.bin" size="131072" crc="c7eb982c" sha1="9006ded2aa1fef38bde114110d76b20747c32658"/>
+		<rom name="zoomin-3.bin" size="524288" crc="07d7b8cd" sha1="e05ce80ffb945b04f93f8c49d0c840b0bff6310b"/>
+		<rom name="zoomin10.bin" size="524288" crc="40aec575" sha1="ef7a3c7a94523c5967ab774936b873c9629e0e44"/>
+		<rom name="zoomin12.bin" size="262144" crc="b0b94554" sha1="10490b7475810910140ce075e62f604b914e5511"/>
+		<rom name="zoomin13.bin" size="131072" crc="888d79fe" sha1="eb9671d4c7608edd1231dc0cae47aab2430cbd66"/>
+		<rom name="zoomin14.bin" size="131072" crc="4e32aa45" sha1="450a3449ca8b4f0dfe8b62cceaee9366eaf3dc3d"/>
+	</game>
+
+	<game name="momoko" sourcefile="momoko.c">
+		<description>Momoko 120%</description>
+		<year>1986</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="momoko-b.bin" size="32" crc="427b0e5c" sha1="aa2797b899571527cc96013fd3420b841954ee67"/>
+		<rom name="momoko-c.bin" size="256" crc="f35ccae0" sha1="60b99dd3c96637dacba7e96a143b1a2d6ffd28b9"/>
+		<rom name="momoko01.bin" size="32768" crc="e8a6673c" sha1="f8984b063929305c9058801202405e6d45254b5b"/>
+		<rom name="momoko02.bin" size="16384" crc="4255e351" sha1="27a0e8d8aea223d2128139582e3b66106f3608ef"/>
+		<rom name="momoko03.bin" size="32768" crc="386e26ed" sha1="ad746ed1b87bafc5b4df9a28aade58cf894f4e7b"/>
+		<rom name="momoko04.bin" size="32768" crc="3ab3c2c3" sha1="d4a0d7f83bf64769e90a2c264c6114ac308cb8b5"/>
+		<rom name="momoko05.bin" size="32768" crc="757cdd2b" sha1="3471b42dc6458a18894dbd0638f4fe43c86dd70d"/>
+		<rom name="momoko06.bin" size="32768" crc="20cacf8b" sha1="e2b39abfc960e1c472e2bcf0cf06825c39941c03"/>
+		<rom name="momoko07.bin" size="32768" crc="b94b38db" sha1="9c9e45bbeca7b6b8b0051b144fb31fceaf5d6906"/>
+		<rom name="momoko08.bin" size="8192" crc="69b41702" sha1="21b33b243dd6eaec8d41d9fd4d9e7faf2bd7f4d2"/>
+		<rom name="momoko09.bin" size="32768" crc="9f5847c7" sha1="6bc9a00622d8a23446294a8d5d467375c5719125"/>
+		<rom name="momoko10.bin" size="32768" crc="ae17e74b" sha1="f52657ea6b6ac518b70fd7b811d9699da27f67d9"/>
+		<rom name="momoko11.bin" size="32768" crc="9c9fbd43" sha1="7adfd7ea3dd6745c14e719883f1a86e0a3b3c0ff"/>
+		<rom name="momoko12.bin" size="32768" crc="1e29c9c4" sha1="d78f102cefc9852b529dd317a76c7003ec2ad3d5"/>
+		<rom name="momoko13.bin" size="8192" crc="2745cf5a" sha1="3db7c6319cac63df1620ef25508c5c45eaa4b141"/>
+		<rom name="momoko14.bin" size="8192" crc="cfccca05" sha1="4ecff488a37ac76ecb9ecf8980bea30dcc9c9951"/>
+		<rom name="momoko15.bin" size="16384" crc="8028f806" sha1="c7450d48803082f64af67fe752b6f49b71b6ff48"/>
+		<rom name="momoko16.bin" size="32768" crc="fc6876fc" sha1="b2d06bc01ef9f4db9bf8902d67f31ccbb0fea61a"/>
+		<rom name="momoko17.bin" size="32768" crc="45dc0247" sha1="1b2bd4197ab7d237966e037c249b5bd623646c0b"/>
+	</game>
+
+	<game name="naughtyb" sourcefile="naughtyb.c">
+		<description>Naughty Boy</description>
+		<year>1982</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="1.30" size="2048" crc="f6e1178e" sha1="5cd428e1f085ff82d7237b3e261b33ff876fd4cb"/>
+		<rom name="10.49" size="2048" crc="c97c97b9" sha1="5da7fb378e85b6c9d5ab6e75544f1e64fae9997a"/>
+		<rom name="11.48" size="2048" crc="75ec9710" sha1="b41606930eff79ccf5bfcad01362251d7bab114a"/>
+		<rom name="12.47" size="2048" crc="ef0706c3" sha1="0e0b82d29d710d1244384db84344bfba2e867b2e"/>
+		<rom name="13.46" size="2048" crc="c1669cd5" sha1="9b4370ed54424e3615fa2e4d07cadae37ab8cd10"/>
+		<rom name="14.45" size="2048" crc="eef2c8e5" sha1="5077c4052342958ee26c25047704c62eed44eb89"/>
+		<rom name="15.44" size="2048" crc="d692f9c7" sha1="3573c518868690b140340d19f88c670026a6696d"/>
+		<rom name="16.43" size="2048" crc="d3ba8b27" sha1="0ff14b8b983ab75870fb19b64327070ccd0888d6"/>
+		<rom name="2.29" size="2048" crc="b803eb8c" sha1="c21b781eb329195e36e6fd1d7467bd9b0d9cbc5b"/>
+		<rom name="3.28" size="2048" crc="004d0ba7" sha1="5c182fa6f65f7caa3459fcc5cdc3b7faa8b34769"/>
+		<rom name="4.27" size="2048" crc="3c7bcac6" sha1="ef291cd5b2f8a64999dc015e16d3ea479fefaf8f"/>
+		<rom name="5.26" size="2048" crc="ea80f39b" sha1="f05cc4ca48245053a8b35b594fb4c0c3b19304e0"/>
+		<rom name="6.25" size="2048" crc="66d9f942" sha1="756b188836e9e9d86f8be59c9505288339b91899"/>
+		<rom name="6301-1.63" size="256" crc="98ad89a1" sha1="ddee7dcb003b66fbc7d6d6e90d499ed090c59227"/>
+		<rom name="6301-1.64" size="256" crc="909107d4" sha1="138ace7845424bc3ca86b0889be634943c8c2d19"/>
+		<rom name="7.24" size="2048" crc="00caf9be" sha1="0599b28dfe8dd9c18564202af56ba8f272d7ac54"/>
+		<rom name="8.23" size="2048" crc="17c3b6fb" sha1="c01c8ae27f5b9be90778f7c459c5ba0dddf443ba"/>
+		<rom name="9.50" size="2048" crc="8c8db764" sha1="2641a1b8bc30896293ebd9396e304ce5eb7eb705"/>
+	</game>
+
+	<game name="naughtyc" sourcefile="naughtyb.c" cloneof="naughtyb" romof="naughtyb">
+		<description>Naughty Boy (Cinematronics)</description>
+		<year>1982</year>
+		<manufacturer>Jaleco (Cinematronics license)</manufacturer>
+		<rom name="10.49" merge="10.49" size="2048" crc="c97c97b9" sha1="5da7fb378e85b6c9d5ab6e75544f1e64fae9997a"/>
+		<rom name="12.47" merge="12.47" size="2048" crc="ef0706c3" sha1="0e0b82d29d710d1244384db84344bfba2e867b2e"/>
+		<rom name="13.46" merge="13.46" size="2048" crc="c1669cd5" sha1="9b4370ed54424e3615fa2e4d07cadae37ab8cd10"/>
+		<rom name="14.45" merge="14.45" size="2048" crc="eef2c8e5" sha1="5077c4052342958ee26c25047704c62eed44eb89"/>
+		<rom name="15.44" merge="15.44" size="2048" crc="d692f9c7" sha1="3573c518868690b140340d19f88c670026a6696d"/>
+		<rom name="16.43" merge="16.43" size="2048" crc="d3ba8b27" sha1="0ff14b8b983ab75870fb19b64327070ccd0888d6"/>
+		<rom name="6301-1.63" merge="6301-1.63" size="256" crc="98ad89a1" sha1="ddee7dcb003b66fbc7d6d6e90d499ed090c59227"/>
+		<rom name="6301-1.64" merge="6301-1.64" size="256" crc="909107d4" sha1="138ace7845424bc3ca86b0889be634943c8c2d19"/>
+		<rom name="nb11ic48" size="2048" crc="23271a13" sha1="ba46fe9af0f6b6ab366469b9058d95477620e05c"/>
+		<rom name="nb1ic30" size="2048" crc="3f482fa3" sha1="5c670ad37be5bed12a65b8b02330525cfe5ae303"/>
+		<rom name="nb2ic29" size="2048" crc="7ddea141" sha1="8a725614b156f1fdb249c2767ddb3f04681e7a3f"/>
+		<rom name="nb3ic28" size="2048" crc="8c72a069" sha1="648df992a5b118d0c48aa20e8621172f50ee5b4c"/>
+		<rom name="nb4ic27" size="2048" crc="30feae51" sha1="fa28942a58c2292147e33747feecad9817c2c8ea"/>
+		<rom name="nb5ic26" size="2048" crc="05242fd0" sha1="3436a18c021643959bd5d475eeb0b8ac6afaec74"/>
+		<rom name="nb6ic25" size="2048" crc="7a12ffea" sha1="4a34d6fcd0b6dc9319424d4122d88744ddc473c7"/>
+		<rom name="nb7ic24" size="2048" crc="9cc287df" sha1="507c551ca8044479e588bd2a3fff600c77ea2255"/>
+		<rom name="nb8ic23" size="2048" crc="4d84ff2c" sha1="66e51116bae787c67c10f282700a94069d7b9fe0"/>
+		<rom name="nb9ic50" size="2048" crc="d6949c27" sha1="2076e76ef9f8f4c9beb3dfe863608151ffae3f3c"/>
+	</game>
+
+	<game name="p47" sourcefile="megasys1.c">
+		<description>P-47 - The Phantom Fighter (World)</description>
+		<year>1988</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="p47j_10.bin" size="131072" crc="b9d79c1e" sha1="315dbed9b7cc289b383c95e6c94267682324154c"/>
+		<rom name="p47j_11.bin" size="131072" crc="fa0d1887" sha1="d24c17806669f5b12527b36bc9c10fd16222e23c"/>
+		<rom name="p47j_12.bin" size="131072" crc="5268395f" sha1="de0cba1e7a7d4acc27467d1b553e8f39bea7282e"/>
+		<rom name="p47j_18.bin" size="131072" crc="29d8f676" sha1="6af5ec9aa96ea67c2c95bcca2164afc128e84a31"/>
+		<rom name="p47j_19.bin" size="65536" crc="adb8c12e" sha1="31590b037133f81a52779dbd4f2b5ac5b59198ae"/>
+		<rom name="p47j_20.bin" size="131072" crc="2ed53624" sha1="2b8ed16cffb6179587e7f01fcbcc30ed436d7afa"/>
+		<rom name="p47j_21.bin" size="131072" crc="6f56b56d" sha1="30f386870411ff0e65684a8d8e6d4afb9125718a"/>
+		<rom name="p47j_23.bin" size="131072" crc="6e9bc864" sha1="f56ea2dd638a8f6952796535eb549ddd55573bcf"/>
+		<rom name="p47j_26.bin" size="131072" crc="4d07581a" sha1="768693e1fcb822b8284ba14c9a5c3d6b00f73383"/>
+		<rom name="p47j_27.bin" size="131072" crc="9e2bde8e" sha1="8cac74c8177a6953b78c6fbf734dfee5da8fc961"/>
+		<rom name="p47j_5.bin" size="131072" crc="fe65b65c" sha1="b13902bf3b469c06d0646c49ddf211f16cb5e5c3"/>
+		<rom name="p47j_6.bin" size="131072" crc="e191d2d2" sha1="d494c652953f5c8dcd8c8b696a011d085d335fea"/>
+		<rom name="p47j_7.bin" size="131072" crc="f77723b7" sha1="2f95ea5e55bc21c4e9a760f102f2dc13b9ca6cf1"/>
+		<rom name="p47j_9.bin" size="65536" crc="ffcf318e" sha1="c675968c931a7e8e00ae83e49e8cef3fd193da57"/>
+		<rom name="p47us1.bin" size="131072" crc="ed926bd8" sha1="5cf3e7b9b23667eaa8ebcff0803a7b881c7b83cf"/>
+		<rom name="p47us16.bin" size="65536" crc="5a682c8f" sha1="0910025e2ee068e5a1fe7f2daae64c9112ab1de6"/>
+		<rom name="p47us3.bin" size="131072" crc="022e58b8" sha1="87db59e409977358d9a7b689f2d69bef056328d9"/>
+		<rom name="prom.14m" size="512" crc="1d877538" sha1="a5be0dc65dcfc36fbba10d1fddbe155e24b6122f"/>
+	</game>
+
+	<game name="p47aces" sourcefile="ms32.c">
+		<description>P-47 Aces</description>
+		<year>1995</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="p47-01.bin" size="2097152" crc="28732d3c" sha1="15b2687bcad31793fc7d6a9dc3eccb7ad9b5f659"/>
+		<rom name="p47-02.bin" size="2097152" crc="128db576" sha1="f6561f54f6b95842a5f14d29682449bf0d837a85"/>
+		<rom name="p47-03.bin" size="2097152" crc="324cd504" sha1="79b3ef3ae0aa14d903113ccf5b57d459c329cf12"/>
+		<rom name="p47-04.bin" size="1048576" crc="4b3372be" sha1="cdc7d7615b6b5d45ca071b2967980dc6c6294ac0"/>
+		<rom name="p47-09.bin" size="2097152" crc="226014a6" sha1="090bdc1f6d2b9d33b431dbb49a457a4bb36cd3ad"/>
+		<rom name="p47-10.bin" size="2097152" crc="a44e9e06" sha1="ff51796e160d996e931b92049e6214982f270caa"/>
+		<rom name="p47-11.bin" size="2097152" crc="c1fe16b3" sha1="8b9d2483ba06ab8072676e73d949c696535b3d26"/>
+		<rom name="p47-12.bin" size="2097152" crc="75871325" sha1="9191263a52ec6ac325cf6130b35be7cdd1ec2f50"/>
+		<rom name="p47-13.bin" size="2097152" crc="a6ccf999" sha1="5d32fb6f6987ede6c125bec9581da4695ad64dff"/>
+		<rom name="p47-14.bin" size="2097152" crc="efc52b38" sha1="589caaaba4e3ddaf41e05f0f12b8d4bc6d63fa5c"/>
+		<rom name="p47-15.bin" size="2097152" crc="ca164b17" sha1="ea1cb0894632442f40d321b5843125f874768aae"/>
+		<rom name="p47-16.bin" size="1048576" crc="c23c5467" sha1="5ff51ecb86ccbae2af160599890e13a7cc70072d"/>
+		<rom name="p47-21.bin" size="262144" crc="f2d43927" sha1="69ac20f339a515d58cafbcd6f7d7982ca5cda681"/>
+		<rom name="p47-22.bin" size="2097152" crc="0fa26f65" sha1="e92b14862fbce33ea4ab4567ec48199bfcbbdd84"/>
+		<rom name="p47-23.bin" size="2097152" crc="547fa4d4" sha1="8a5ecb3300646762f63d37a27e643e1f6ce5e775"/>
+		<rom name="p47-26.bin" size="524288" crc="e017b819" sha1="942fb48e8bb3a263534a0351a1a9979d786bc475"/>
+		<rom name="p47-27.bin" size="524288" crc="bd1b81e0" sha1="b15f157fe3a30295f999a4c285da2d6f22d7fba6"/>
+		<rom name="p47-28.bin" size="524288" crc="4742a5f7" sha1="cd297aa150082c545647c9a755cf2cdbdc98c988"/>
+		<rom name="p47-29.bin" size="524288" crc="86e17d8b" sha1="73004f243c6dfb86ce4cc61475dc7caaf452750e"/>
+		<rom name="p47-30.bin" size="524288" crc="7ba90fad" sha1="c0a3d4458816f00b8f5eb4b6d4531d1abeaccbe5"/>
+	</game>
+
+	<game name="p47j" sourcefile="megasys1.c" cloneof="p47" romof="p47">
+		<description>P-47 - The Freedom Fighter (Japan)</description>
+		<year>1988</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="p47j_1.bin" size="131072" crc="0a5998de" sha1="9f474c6c9b125fc7c41a44dbaacf3ba3800df8b5"/>
+		<rom name="p47j_10.bin" merge="p47j_10.bin" size="131072" crc="b9d79c1e" sha1="315dbed9b7cc289b383c95e6c94267682324154c"/>
+		<rom name="p47j_11.bin" merge="p47j_11.bin" size="131072" crc="fa0d1887" sha1="d24c17806669f5b12527b36bc9c10fd16222e23c"/>
+		<rom name="p47j_12.bin" merge="p47j_12.bin" size="131072" crc="5268395f" sha1="de0cba1e7a7d4acc27467d1b553e8f39bea7282e"/>
+		<rom name="p47j_16.bin" size="65536" crc="30e44375" sha1="62a4bb217b6aad5fd4760a0f4999cb63559549a5"/>
+		<rom name="p47j_18.bin" merge="p47j_18.bin" size="131072" crc="29d8f676" sha1="6af5ec9aa96ea67c2c95bcca2164afc128e84a31"/>
+		<rom name="p47j_19.bin" merge="p47j_19.bin" size="65536" crc="adb8c12e" sha1="31590b037133f81a52779dbd4f2b5ac5b59198ae"/>
+		<rom name="p47j_20.bin" merge="p47j_20.bin" size="131072" crc="2ed53624" sha1="2b8ed16cffb6179587e7f01fcbcc30ed436d7afa"/>
+		<rom name="p47j_21.bin" merge="p47j_21.bin" size="131072" crc="6f56b56d" sha1="30f386870411ff0e65684a8d8e6d4afb9125718a"/>
+		<rom name="p47j_23.bin" merge="p47j_23.bin" size="131072" crc="6e9bc864" sha1="f56ea2dd638a8f6952796535eb549ddd55573bcf"/>
+		<rom name="p47j_26.bin" merge="p47j_26.bin" size="131072" crc="4d07581a" sha1="768693e1fcb822b8284ba14c9a5c3d6b00f73383"/>
+		<rom name="p47j_27.bin" merge="p47j_27.bin" size="131072" crc="9e2bde8e" sha1="8cac74c8177a6953b78c6fbf734dfee5da8fc961"/>
+		<rom name="p47j_3.bin" size="131072" crc="11c655e5" sha1="a2bfd6538ac81a5f20fa77460ba045584313413a"/>
+		<rom name="p47j_5.bin" merge="p47j_5.bin" size="131072" crc="fe65b65c" sha1="b13902bf3b469c06d0646c49ddf211f16cb5e5c3"/>
+		<rom name="p47j_6.bin" merge="p47j_6.bin" size="131072" crc="e191d2d2" sha1="d494c652953f5c8dcd8c8b696a011d085d335fea"/>
+		<rom name="p47j_7.bin" merge="p47j_7.bin" size="131072" crc="f77723b7" sha1="2f95ea5e55bc21c4e9a760f102f2dc13b9ca6cf1"/>
+		<rom name="p47j_9.bin" merge="p47j_9.bin" size="65536" crc="ffcf318e" sha1="c675968c931a7e8e00ae83e49e8cef3fd193da57"/>
+		<rom name="prom.14m" merge="prom.14m" size="512" crc="1d877538" sha1="a5be0dc65dcfc36fbba10d1fddbe155e24b6122f"/>
+	</game>
+
+	<game name="peekaboo" sourcefile="megasys1.c">
+		<description>Peek-a-Boo!</description>
+		<year>1993</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="1" size="524288" crc="5a444ecf" sha1="38a7a6e91d0635a7f82a1c9a04efe1586ed3d856"/>
+		<rom name="4" size="131072" crc="f037794b" sha1="235c278121921b234a27835284be80c136e6409b"/>
+		<rom name="5" size="524288" crc="34fa07bb" sha1="0f688acf302fd56701ee4fcc1d692adb7bf86ce4"/>
+		<rom name="j2" size="131072" crc="7b3d430d" sha1="8b48101929da4938a61dfd0eda845368c4184831"/>
+		<rom name="j3" size="131072" crc="f5f4cf33" sha1="f135f2b627347255bb0811e9a4a213e3b447c199"/>
+		<rom name="peeksamp.124" size="1048576" crc="e1206fa8" sha1="339d5a4fa2af7fb4ab2e9c6c66f4848fa8774832"/>
+		<rom name="priority.69" size="512" crc="b40bff56" sha1="39c95eed79328ef2df754988db83e07909e848f8"/>
+	</game>
+
+	<game name="phantasm" sourcefile="megasys1.c" cloneof="avspirit" romof="avspirit">
+		<description>Phantasm (Japan)</description>
+		<year>1990</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="ph.bin" merge="ph.bin" size="512" crc="8359650a" sha1="97d0105f06c64340fb19a541db03481a7e0b5e05"/>
+		<rom name="phntsm01.bin" size="131072" crc="a54b4b87" sha1="92745c53d8550189c3b0ce55be9027447817a2dc"/>
+		<rom name="phntsm02.bin" size="131072" crc="d96a3584" sha1="3ae62c5785b6249f1921d914c1f094bcf850d8d1"/>
+		<rom name="phntsm03.bin" size="65536" crc="1d96ce20" sha1="2fb79160ea0dd18b5713691e4cf195d27ac4e3c3"/>
+		<rom name="phntsm04.bin" size="65536" crc="dc0c4994" sha1="c3c72336b5032ef237490b095d3270de5803738c"/>
+		<rom name="phntsm05.bin" size="65536" crc="3b169b4a" sha1="81c46fc94887c0cea363848b5c831dcf3b5b76de"/>
+		<rom name="phntsm06.bin" size="65536" crc="df2dfb2e" sha1="b2542fa478917d44dffcf9e11ff7eaac6019676d"/>
+		<rom name="spirit09.rom" merge="spirit09.rom" size="131072" crc="0c37edf7" sha1="4074377f756b231b905b9b6a087c6d6ad3d49f52"/>
+		<rom name="spirit10.rom" merge="spirit10.rom" size="524288" crc="2b1180b3" sha1="6d62b6bd73b9dd23670a0683f28609be29ac1d98"/>
+		<rom name="spirit11.rom" merge="spirit11.rom" size="524288" crc="7896f6b0" sha1="f09c1592aaa34eb5b7fe096ad4ccdcb155a5cadd"/>
+		<rom name="spirit12.rom" merge="spirit12.rom" size="524288" crc="728335d4" sha1="bbf13378ac0bff5e732eb30081b421ed89d12fa2"/>
+		<rom name="spirit13.rom" merge="spirit13.rom" size="262144" crc="05bc04d9" sha1="b903edf39393cad2b4b6b58b10651304793aaa3e"/>
+		<rom name="spirit14.rom" merge="spirit14.rom" size="262144" crc="13be9979" sha1="828ae745867e25834e51d08308b4ab5d8e80f2c8"/>
+	</game>
+
+	<game name="pinbo" sourcefile="lasso.c">
+		<description>Pinbo (set 1)</description>
+		<year>1984</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="blue.n10" size="256" crc="e41250ad" sha1="2e9a2babbacb1753057d46cf1dd6dc183611747e"/>
+		<rom name="green.k10" size="256" crc="1bf2d335" sha1="dcb074d3de939dfc652743e25bc66bd6fbdc3289"/>
+		<rom name="red.l10" size="256" crc="e6c9ba52" sha1="6ea96f9bd71de6181d675b0f2d59a8c5e1be5aa3"/>
+		<rom name="rom1.s8" size="8192" crc="ca45a1be" sha1="d0b2d8f1e6d01b60cba83d2bd458a57548549b4b"/>
+		<rom name="rom2.b7" size="8192" crc="9a185338" sha1="4029cf927686b5e14ef7600b17ea3056cc58b15b"/>
+		<rom name="rom3.e7" size="8192" crc="1cd1b3bd" sha1="388ea72568f5bfd39856d872415327a2afaf7fad"/>
+		<rom name="rom4.h7" size="8192" crc="ba043fa7" sha1="ef3d67b6dab5c82035c58290879a3ca969a0256d"/>
+		<rom name="rom5.j7" size="8192" crc="e71046c4" sha1="f49133544c98df5f3e1a1d2ae92e17261b1504fc"/>
+		<rom name="rom6.a1" size="16384" crc="74fe8e98" sha1="3c9ac38d7054b2831a515786b6f204b1804aaea3"/>
+		<rom name="rom7.d1" size="16384" crc="327a3c21" sha1="e938915d28ac4ec033b20d33728788493e3f30f6"/>
+		<rom name="rom8.c1" size="16384" crc="5a800fe7" sha1="375269ec73fab7f0cf017a79e002e31b006f5ad7"/>
+	</game>
+
+	<game name="pinboa" sourcefile="lasso.c" cloneof="pinbo" romof="pinbo">
+		<description>Pinbo (set 2)</description>
+		<year>1984</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="2.bin" size="16384" crc="33cac92e" sha1="55d4ff3ae9c9519a59bd6021a53584c873b4d327"/>
+		<rom name="4.bin" size="8192" crc="d632b598" sha1="270a5a790a66eaf3d90bf8081ab144fd1af9db3d"/>
+		<rom name="5.bin" size="8192" crc="c57fe503" sha1="11b7371c07c9b2c73ab61420a2cc609653c48d37"/>
+		<rom name="6.bin" size="8192" crc="f80b204c" sha1="ee9b4ae1d8ea2fc062022fcfae67df87ed7aff41"/>
+		<rom name="8.bin" size="8192" crc="32d1df14" sha1="c0d4181378bbd6f2c594e923e2f8b21647c7fb0e"/>
+		<rom name="blue.n10" merge="blue.n10" size="256" crc="e41250ad" sha1="2e9a2babbacb1753057d46cf1dd6dc183611747e"/>
+		<rom name="green.k10" merge="green.k10" size="256" crc="1bf2d335" sha1="dcb074d3de939dfc652743e25bc66bd6fbdc3289"/>
+		<rom name="red.l10" merge="red.l10" size="256" crc="e6c9ba52" sha1="6ea96f9bd71de6181d675b0f2d59a8c5e1be5aa3"/>
+		<rom name="rom2.b7" merge="rom2.b7" size="8192" crc="9a185338" sha1="4029cf927686b5e14ef7600b17ea3056cc58b15b"/>
+		<rom name="rom6.a1" merge="rom6.a1" size="16384" crc="74fe8e98" sha1="3c9ac38d7054b2831a515786b6f204b1804aaea3"/>
+		<rom name="rom8.c1" merge="rom8.c1" size="16384" crc="5a800fe7" sha1="375269ec73fab7f0cf017a79e002e31b006f5ad7"/>
+	</game>
+
+	<game name="plusalph" sourcefile="megasys1.c">
+		<description>Plus Alpha</description>
+		<year>1989</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="pa-rom1.bin" size="131072" crc="a32fdcae" sha1="c2315a7142e5499e9325f5a8361cb25e83747a3e"/>
+		<rom name="pa-rom10.bin" size="131072" crc="395df3b2" sha1="6f69b573e997ba4bb5aabf745843921f0866d209"/>
+		<rom name="pa-rom11.bin" size="131072" crc="eb709ae7" sha1="434c9da3c79a97ddd9be77908ce65e9efe6c8106"/>
+		<rom name="pa-rom12.bin" size="131072" crc="cacbc350" sha1="328094a5d067775871f7d69b4c20c40e46b0eaba"/>
+		<rom name="pa-rom13.bin" size="131072" crc="fad093dd" sha1="98a42f91d66b990e18f845edc01c23568cbc7a83"/>
+		<rom name="pa-rom14.bin" size="131072" crc="d3676cd1" sha1="b805216af1a65c2f19a82aaf3775bbbceb065c7e"/>
+		<rom name="pa-rom15.bin" size="131072" crc="8787735b" sha1="9083061ce6de98a611558fc59d1ec37aefc2a2e0"/>
+		<rom name="pa-rom16.bin" size="131072" crc="a06b813b" sha1="de4fb0f92f9178c2b5f2750d17cfc3da126b23a4"/>
+		<rom name="pa-rom17.bin" size="131072" crc="c6b38a4b" sha1="2529ee47324edcdf4cd34c159524f37da08e1099"/>
+		<rom name="pa-rom19.bin" size="65536" crc="39ef193c" sha1="93f417a36732ca76d566f2ff2c9ff62e5679da08"/>
+		<rom name="pa-rom2.bin" size="131072" crc="33244799" sha1="686fb7fa8a6c25b5aff78bc509f35c69492d7d1e"/>
+		<rom name="pa-rom20.bin" size="131072" crc="86c557a8" sha1="a6dfb2aeda07639448a4135d1336019214030fc9"/>
+		<rom name="pa-rom21.bin" size="131072" crc="81140a88" sha1="f31ae208623bdb152888e1ebdd2515f9bcc2fb44"/>
+		<rom name="pa-rom22.bin" size="131072" crc="97e39886" sha1="89161ae647c835ff24fcb8676f6e1228f9a1fa10"/>
+		<rom name="pa-rom23.bin" size="131072" crc="0383fb65" sha1="31fa9c9ba57bf3c9ee8e3f5b1b4e28c1a3591a4b"/>
+		<rom name="pa-rom3.bin" size="65536" crc="1b739835" sha1="3aaa9545a7f578a9775311dcd44504870f3b1544"/>
+		<rom name="pa-rom4.bin" size="65536" crc="ff760e80" sha1="dd06306a516a2d5e49cf8f2343ddc26405b309a9"/>
+		<rom name="pa-rom5.bin" size="65536" crc="ddc2739b" sha1="dee31660428baea44c73dec238ed7f39a6771fe6"/>
+		<rom name="pa-rom6.bin" size="65536" crc="f6f8a167" sha1="60d5c9db18d8f6704b68ccde5d026174679cec36"/>
+		<rom name="pa-rom7.bin" size="131072" crc="9f5d800e" sha1="c0a7bdedc8a1294b8d29f7f6007542ea006e70cb"/>
+		<rom name="pa-rom8.bin" size="131072" crc="ae007750" sha1="b48784fd6bcf205296e3e5b59c258f76da5c2d1b"/>
+		<rom name="pa-rom9.bin" size="131072" crc="065364bd" sha1="bacb268b1c76c286e89eb823d8c3477ec5f2516c"/>
+		<rom name="prom.14m" size="512" crc="1d877538" sha1="a5be0dc65dcfc36fbba10d1fddbe155e24b6122f"/>
+	</game>
+
+	<game name="popflama" sourcefile="naughtyb.c" cloneof="popflame" romof="popflame">
+		<description>Pop Flamer (not protected)</description>
+		<year>1982</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="ic100.pop" merge="ic100.pop" size="4096" crc="f9f2343b" sha1="c019a5d838152417ec76be021d659f884928ef87"/>
+		<rom name="ic13.pop" merge="ic13.pop" size="4096" crc="2367131e" sha1="d7c15536e5e51f406f9b874333386251f4d3934f"/>
+		<rom name="ic29.pop" merge="ic29.pop" size="4096" crc="7b54f60f" sha1="9ec979e67313351dd1165ff6cf591aadead30770"/>
+		<rom name="ic3.pop" merge="ic3.pop" size="4096" crc="deed0a8b" sha1="1aaa854f5c6ca3847726cb8a2f2f37f3eb4f621b"/>
+		<rom name="ic38.pop" merge="ic38.pop" size="4096" crc="dd2d9601" sha1="7f495705d6b61c5416e87557a69da7e6457567ac"/>
+		<rom name="ic53" merge="ic53" size="256" crc="6e66057f" sha1="084d630f5e2f23e28a1f7839337ef608e086e8c4"/>
+		<rom name="ic54" merge="ic54" size="256" crc="236bc771" sha1="5c078eecdd9df2fbc791e440f96bc4c79476b211"/>
+		<rom name="ic80.pop" merge="ic80.pop" size="4096" crc="b77abf3d" sha1="8626af8fe7d10c52bea7570dd6237de60607bab6"/>
+		<rom name="ic86.pop" size="4096" crc="5e32bbdf" sha1="b75e3125301d05f5fb6bcef85d0028de2ee75fab"/>
+		<rom name="ic94.pop" size="4096" crc="945a3c0f" sha1="353fce8904d869bbf654b7be99e76cadf325b47d"/>
+	</game>
+
+	<game name="popflamb" sourcefile="naughtyb.c" cloneof="popflame" romof="popflame">
+		<description>Pop Flamer (hack?)</description>
+		<year>1982</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="ic13.pop" merge="ic13.pop" size="4096" crc="2367131e" sha1="d7c15536e5e51f406f9b874333386251f4d3934f"/>
+		<rom name="ic29.pop" merge="ic29.pop" size="4096" crc="7b54f60f" sha1="9ec979e67313351dd1165ff6cf591aadead30770"/>
+		<rom name="ic3.pop" merge="ic3.pop" size="4096" crc="deed0a8b" sha1="1aaa854f5c6ca3847726cb8a2f2f37f3eb4f621b"/>
+		<rom name="ic38.pop" merge="ic38.pop" size="4096" crc="dd2d9601" sha1="7f495705d6b61c5416e87557a69da7e6457567ac"/>
+		<rom name="ic53" merge="ic53" size="256" crc="6e66057f" sha1="084d630f5e2f23e28a1f7839337ef608e086e8c4"/>
+		<rom name="ic54" merge="ic54" size="256" crc="236bc771" sha1="5c078eecdd9df2fbc791e440f96bc4c79476b211"/>
+		<rom name="popflama.24" size="4096" crc="f399d553" sha1="c08c496fcb99370c344185af599e2ad57a327bc9"/>
+		<rom name="popflama.26" size="4096" crc="09df0d4d" sha1="ddc0227035edd11bec045c09c535ad7a375698f1"/>
+		<rom name="popflama.28" size="4096" crc="debe6d03" sha1="2365c57a0a08563bea31ab150934dcfc1e6eba58"/>
+		<rom name="popflama.30" size="4096" crc="a9bb0e8a" sha1="1948be9545401b8163e0f2fa8e962ea66c26d9e0"/>
+	</game>
+
+	<game name="popflame" sourcefile="naughtyb.c">
+		<description>Pop Flamer (protected)</description>
+		<year>1982</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="ic100.pop" size="4096" crc="f9f2343b" sha1="c019a5d838152417ec76be021d659f884928ef87"/>
+		<rom name="ic13.pop" size="4096" crc="2367131e" sha1="d7c15536e5e51f406f9b874333386251f4d3934f"/>
+		<rom name="ic29.pop" size="4096" crc="7b54f60f" sha1="9ec979e67313351dd1165ff6cf591aadead30770"/>
+		<rom name="ic3.pop" size="4096" crc="deed0a8b" sha1="1aaa854f5c6ca3847726cb8a2f2f37f3eb4f621b"/>
+		<rom name="ic38.pop" size="4096" crc="dd2d9601" sha1="7f495705d6b61c5416e87557a69da7e6457567ac"/>
+		<rom name="ic53" size="256" crc="6e66057f" sha1="084d630f5e2f23e28a1f7839337ef608e086e8c4"/>
+		<rom name="ic54" size="256" crc="236bc771" sha1="5c078eecdd9df2fbc791e440f96bc4c79476b211"/>
+		<rom name="ic80.pop" size="4096" crc="b77abf3d" sha1="8626af8fe7d10c52bea7570dd6237de60607bab6"/>
+		<rom name="ic86.bin" size="4096" crc="06397a4b" sha1="12ef8aa60033161479ba2239b61a318cbf15b3cf"/>
+		<rom name="ic94.bin" size="4096" crc="ae5248ae" sha1="39a7feb94d0392a0eeeb506d2f52299151521692"/>
+	</game>
+
+	<game name="psychic5" sourcefile="psychic5.c">
+		<description>Psychic 5</description>
+		<year>1987</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="p5a" size="32768" crc="50060ecd" sha1="e6051fb4a1fa9429cfb6084e8a5dfe994a08280b"/>
+		<rom name="p5b" size="65536" crc="7e3f87d4" sha1="b8e7fa3f96d2e3937e4cb530f105bb84d5743b43"/>
+		<rom name="p5c" size="65536" crc="8710fedb" sha1="c7e8dc6b733e4ecce37d56fc429c00ade8736ff3"/>
+		<rom name="p5d" size="32768" crc="90259249" sha1="ac2d8dd95f6c04b6ad726136931e37dcd537e977"/>
+		<rom name="p5e" size="65536" crc="72298f34" sha1="725be2fbf5f3622f646c0fb8e6677cbddf0b1fc2"/>
+		<rom name="p5f" size="32768" crc="04d7e21c" sha1="6046c506bdedc233e3730f90c7897e847bec8758"/>
+		<rom name="p5g" size="65536" crc="f9262f32" sha1="bae2dc77be7024bd85f213e4da746c5903db6ea5"/>
+		<rom name="p5h" size="65536" crc="c411171a" sha1="d5893563715ba231e42b084b88f5176bb94a4da9"/>
+	</game>
+
+	<game name="pturn" sourcefile="pturn.c">
+		<description>Parallel Turn</description>
+		<year>1984</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="prom1.8k" size="4096" crc="10aba36d" sha1="5f9ce00365b3be91f0942b282b3cfc0c791baf98"/>
+		<rom name="prom10.16d" size="8192" crc="a96e3c95" sha1="a3b1c1723fcda80c11d9858819659e5e9dfe5dd3"/>
+		<rom name="prom11.16f" size="4096" crc="129122c6" sha1="feb6d9abddb4d888b49861a32a063d009ca994aa"/>
+		<rom name="prom12.16h" size="4096" crc="69b09323" sha1="726749b625052984e1d8c71eb69511c35ca75f9c"/>
+		<rom name="prom13.16k" size="4096" crc="e9f67599" sha1="b2eb144c8ce9ff57bd66ba57705d5e242115ef41"/>
+		<rom name="prom14.16l" size="8192" crc="ffaa0b8a" sha1="20b1acc2562e493539fe34d056e6254e4b2458be"/>
+		<rom name="prom15.16m" size="8192" crc="41445155" sha1="36d81b411729447ca7ff712ac27d8a0f2015bcac"/>
+		<rom name="prom16.16p" size="8192" crc="94814c5d" sha1="e4ab6c0ae94184d5270cadb887f56e3550b6d9f2"/>
+		<rom name="prom2.7k" size="4096" crc="b8a4d94e" sha1="78f9db58ceb4a87ab2744529b0e7ad3eb826e627"/>
+		<rom name="prom3.6k" size="4096" crc="9f51185b" sha1="84690556da013567133b7d8fcda25b9fb831e4b0"/>
+		<rom name="prom4.8d" size="8192" crc="d3ae0840" sha1="5ac5f2626de7865cdf379cf15ae3872e798b7e25"/>
+		<rom name="prom5.7d" size="8192" crc="de48afb4" sha1="9412288b63cf3ae8c9522b1fcacc4aa36ac7a23c"/>
+		<rom name="prom6.8b" size="8192" crc="65f09c56" sha1="c0a7a1bfaacfc4af14d8485e2b5f2c604937a1e4"/>
+		<rom name="prom7.7b" size="8192" crc="bfaeff9f" sha1="63972c311f28971e121fbccd4c0d78edbdb6bdb4"/>
+		<rom name="prom9.5n" size="4096" crc="8b4d944e" sha1="6f956d972c2c2ef875378910b80ca59701710957"/>
+		<rom name="prom_blu.4r" size="256" crc="7b4c5788" sha1="ca02b12c19be7981daa070533455bd4d227d56cd"/>
+		<rom name="prom_grn.4p" size="256" crc="6a00199d" sha1="ff0ac7ae83d970778a756f7445afed3785fc1150"/>
+		<rom name="prom_red.3p" size="256" crc="505fd8c2" sha1="f2660fe512c76412a7b9f4be21fe549dd59fbda0"/>
+	</game>
+
+	<game name="rockn" sourcefile="tetrisp2.c">
+		<description>Rock&apos;n Tread (Japan)</description>
+		<year>1999</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="98344_1.bin" size="524288" crc="4cf79e58" sha1="f50e596d43c9ab2072ae0476169eee2a8512fd8d"/>
+		<rom name="98344_10.bin" size="524288" crc="918663a8" sha1="aedacb741c986ef8159385cfef866cb7e3ef6cb6"/>
+		<rom name="98344_13.bin" size="2097152" crc="261b99a0" sha1="7b3c768ae9d7429e2559fe32c1a4ff220d727e7e"/>
+		<rom name="98344_4.bin" size="524288" crc="caa33f79" sha1="8ccff67091dac5ad871cae6cdb31e1fc37c1a4c2"/>
+		<rom name="98344_6.bin" size="1048576" crc="5551717f" sha1="64943a9a68ad4074f3f5128d7796e4f03baa14d5"/>
+		<rom name="98344_8.bin" size="2097152" crc="fa3f6f9c" sha1="586dcc690a1a4aa7c97932ad496382def6a074a4"/>
+		<rom name="98344_9.bin" size="2097152" crc="3d12a688" sha1="356b2ea81d960838b604c5a17cc77e79fb0e40ce"/>
+		<rom name="audio" size="134217728" status="nodump"/>
+	</game>
+
+	<game name="rodland" sourcefile="megasys1.c">
+		<description>Rod-Land (World)</description>
+		<year>1990</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="rl.bin" size="512" crc="8914e72d" sha1="80a664471f14c8ed8544a5e226fdca425ab3c657"/>
+		<rom name="rl_01.rom" size="131072" crc="2e748ca1" sha1="285414af11aad36f3bd7020365ff90eb696d2de3"/>
+		<rom name="rl_02.rom" size="131072" crc="c7e00593" sha1="055b7bcabf90ed6d5edc2797d0f85a5d49b8693b"/>
+		<rom name="rl_03.rom" size="65536" crc="62fdf6d7" sha1="ffde7e7f5b3b548bc980b9dee767f693046ecab2"/>
+		<rom name="rl_04.rom" size="65536" crc="44163c86" sha1="1c56d79531af0312e7cd3dc66cf61b55dd1a6e51"/>
+		<rom name="rl_05.rom" size="65536" crc="c1617c28" sha1="1b3440055c083b74270fe06b5f42e7d1337efeca"/>
+		<rom name="rl_06.rom" size="65536" crc="663392b2" sha1="99052639e934d1ca18888c9c7fa061c1d3508fd4"/>
+		<rom name="rl_08.rom" size="262144" crc="8a49d3a7" sha1="68cb8cf2753b39c253d0edaa8ef2c54fd1f6ebe5"/>
+		<rom name="rl_10.rom" size="262144" crc="e1d1cd99" sha1="6604111d37455c1bd59c1469d9ee7841e7dec913"/>
+		<rom name="rl_14.rom" size="524288" crc="08d01bf4" sha1="b9333d11572f46992cdd668908fbc1c33d841f8d"/>
+		<rom name="rl_18.rom" size="524288" crc="f3b30ca6" sha1="f2f88c24a009b6695f7548aebd37b25d1fd19892"/>
+		<rom name="rl_19.bin" size="131072" crc="124d7e8f" sha1="d7885a10085cc3389bd0e26e9d54adb8929218c0"/>
+		<rom name="rl_23.rom" size="524288" crc="ac60e771" sha1="97c2ac1ed89c171a0db98befa6c3c10754d64880"/>
+	</game>
+
+	<game name="rodlandj" sourcefile="megasys1.c" cloneof="rodland" romof="rodland">
+		<description>Rod-Land (Japan)</description>
+		<year>1990</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="rl.bin" merge="rl.bin" size="512" crc="8914e72d" sha1="80a664471f14c8ed8544a5e226fdca425ab3c657"/>
+		<rom name="rl_05.rom" merge="rl_05.rom" size="65536" crc="c1617c28" sha1="1b3440055c083b74270fe06b5f42e7d1337efeca"/>
+		<rom name="rl_06.rom" merge="rl_06.rom" size="65536" crc="663392b2" sha1="99052639e934d1ca18888c9c7fa061c1d3508fd4"/>
+		<rom name="rl_08.rom" merge="rl_08.rom" size="262144" crc="8a49d3a7" sha1="68cb8cf2753b39c253d0edaa8ef2c54fd1f6ebe5"/>
+		<rom name="rl_1.bin" size="131072" crc="3c47c2a3" sha1="62e66a2f53aeacf92551ba64ae4ce14c2e982bb0"/>
+		<rom name="rl_10.rom" merge="rl_10.rom" size="262144" crc="e1d1cd99" sha1="6604111d37455c1bd59c1469d9ee7841e7dec913"/>
+		<rom name="rl_14.bin" size="524288" crc="8201e1bb" sha1="3304100dcab7b67cee021869a50f4295c8635814"/>
+		<rom name="rl_18.rom" merge="rl_18.rom" size="524288" crc="f3b30ca6" sha1="f2f88c24a009b6695f7548aebd37b25d1fd19892"/>
+		<rom name="rl_19.bin" merge="rl_19.bin" size="131072" crc="124d7e8f" sha1="d7885a10085cc3389bd0e26e9d54adb8929218c0"/>
+		<rom name="rl_2.bin" size="131072" crc="b1d2047e" sha1="75d282b7614c5f4b76ab44e34fea9e87ab8b992c"/>
+		<rom name="rl_23.bin" size="524288" crc="936db174" sha1="4dfb2c31bc4bbf659184fe18e320d19f326b3ec5"/>
+		<rom name="rl_3.bin" size="65536" crc="c5b1075f" sha1="a8bcc0e9dbb4b731bc0b7e5a8e0efc3d142505b9"/>
+		<rom name="rl_4.bin" size="65536" crc="9ec61048" sha1="71b6af054a528af04e23affff635a9358537cd3b"/>
+	</game>
+
+	<game name="rodlndjb" sourcefile="megasys1.c" cloneof="rodland" romof="rodland">
+		<description>Rod-Land (Japan bootleg)</description>
+		<year>1990</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="rl.bin" merge="rl.bin" size="512" crc="8914e72d" sha1="80a664471f14c8ed8544a5e226fdca425ab3c657"/>
+		<rom name="rl01.bin" size="65536" crc="04cf24bc" sha1="e754cce3c83a7088daf90e753fbb0df9ef7fc9be"/>
+		<rom name="rl02.bin" size="65536" crc="d26eae8f" sha1="1c6d514e6d006f78fa7b24d18a3eb4c5a4c5cbce"/>
+		<rom name="rl17.bin" size="65536" crc="9c720046" sha1="8543f0942863b4aa5329572dd1f374ea18c29851"/>
+		<rom name="rl18.bin" size="65536" crc="5aa61717" sha1="3292cdafc10b412c06addc3c6d4e39ee70ff06e8"/>
+		<rom name="rl19.bin" size="65536" crc="028de21f" sha1="04c88a0138dd119655b4a8a965617781a9a6ff71"/>
+		<rom name="rl20.bin" size="65536" crc="3f536d07" sha1="cfcf47c42677fae204b3a7d70786d157279ba6e5"/>
+		<rom name="rl_08.rom" merge="rl_08.rom" size="262144" crc="8a49d3a7" sha1="68cb8cf2753b39c253d0edaa8ef2c54fd1f6ebe5"/>
+		<rom name="rl_10.rom" merge="rl_10.rom" size="262144" crc="e1d1cd99" sha1="6604111d37455c1bd59c1469d9ee7841e7dec913"/>
+		<rom name="rl_14.rom" merge="rl_14.rom" size="524288" crc="08d01bf4" sha1="b9333d11572f46992cdd668908fbc1c33d841f8d"/>
+		<rom name="rl_18.rom" merge="rl_18.rom" size="524288" crc="f3b30ca6" sha1="f2f88c24a009b6695f7548aebd37b25d1fd19892"/>
+		<rom name="rl_19.bin" merge="rl_19.bin" size="131072" crc="124d7e8f" sha1="d7885a10085cc3389bd0e26e9d54adb8929218c0"/>
+		<rom name="rl_23.rom" merge="rl_23.rom" size="524288" crc="ac60e771" sha1="97c2ac1ed89c171a0db98befa6c3c10754d64880"/>
+		<rom name="rl_3.bin" size="65536" crc="c5b1075f" sha1="a8bcc0e9dbb4b731bc0b7e5a8e0efc3d142505b9"/>
+		<rom name="rl_4.bin" size="65536" crc="9ec61048" sha1="71b6af054a528af04e23affff635a9358537cd3b"/>
+	</game>
+
+	<game name="scudhamm" sourcefile="cischeat.c">
+		<description>Scud Hammer</description>
+		<year>1994</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="1.bot" size="524288" crc="46450d73" sha1="c9acdf1cef760e5194c346d721e859c61afbfce6"/>
+		<rom name="1.h" size="524288" crc="5caee787" sha1="267f4d3c28e71e53180a5d0ff27a6555ac6fa4a0"/>
+		<rom name="1.l" size="524288" crc="3c94aa90" sha1="f9278fec9d93dac0309f30e35c727bd481f347d4"/>
+		<rom name="10.bot" size="524288" crc="dab4528f" sha1="f5ddc37a2d106d5438ad1b7d23a2bbbce07f2c89"/>
+		<rom name="2.bot" size="524288" crc="fb7b66dd" sha1="ad6bbae4fa72f957e5c0fc7bf6199ac45f837dac"/>
+		<rom name="2.h" size="524288" crc="347928fc" sha1="36903c38b9f13594de40dfc697326327c7010d65"/>
+		<rom name="2.l" size="524288" crc="889311da" sha1="fcaee3e6c98a784cfde06fc2e0e8f5abbfb4df6c"/>
+		<rom name="3" size="262144" crc="a908e7bd" sha1="be0a8f959ab5c19122eee6c3def6137f37f1a9c6"/>
+		<rom name="3.bot" size="524288" crc="7d45960b" sha1="abf59cf85f28c90d4c08e3a1e5408a9a700071cc"/>
+		<rom name="4" size="262144" crc="981c8b02" sha1="db6c8993bf1c3993ab31dd649022ab76169975e1"/>
+		<rom name="4.bot" size="524288" crc="393b6a22" sha1="0d002a8c09de2fb8aaa7f5f020badc6fc096fa41"/>
+		<rom name="5" size="524288" crc="714c115e" sha1="c3e88b3972e3926f37968f3e84b932e1ac177142"/>
+		<rom name="5.bot" size="524288" crc="7a3c33ad" sha1="fe0e3722e15919ae3acfeeacae57716aae43647c"/>
+		<rom name="6" size="131072" crc="b39aab63" sha1="88275cce8b1323b2d835390a8fc2380b90d50d95"/>
+		<rom name="6.bot" size="524288" crc="d19c4bf7" sha1="b8aa21920d5a02f10a7ae65ade8a0a88ad23f373"/>
+		<rom name="7.bot" size="524288" crc="9e5edf59" sha1="fcd4136e39d40bcce365153c96e06181a24a480a"/>
+		<rom name="8.bot" size="524288" crc="4980051e" sha1="10de91239b5b4dab8e7fa4bf51d93356c5111ddf"/>
+		<rom name="9.bot" size="524288" crc="c1b301f1" sha1="776b9889703d73afc4fb0ff77498b98c943246d3"/>
+	</game>
+
+	<game name="sgt24h" sourcefile="model2.c">
+		<description>Super GT 24h</description>
+		<year>1996</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="ep18643a.7" size="131072" crc="b5e048ec" sha1="8182e05a2ffebd590a936c1359c81e60caa79c2a"/>
+		<rom name="ep19155.15" size="524288" crc="593952fd" sha1="1fc4afc6e3910cc8adb0688542e61a9efb442e56"/>
+		<rom name="ep19156.16" size="524288" crc="a91fc4ee" sha1="a37611da0295f7d7e5d2411c3f9b73140d311f74"/>
+		<rom name="ep19157.31" size="524288" crc="8ffea0cf" sha1="439e784081329db2fe03419681150f3216f4ccff"/>
+		<rom name="mp19146.11" size="4194304" crc="d66b5b0f" sha1="c2a5b83c9041d8f46dfac4a3ff8cfdefb96d02b3"/>
+		<rom name="mp19147.12" size="4194304" crc="d5558f48" sha1="c9f40328d6974b7767fa6ba719d0d2b7a173c210"/>
+		<rom name="mp19148.9" size="4194304" crc="a14c86db" sha1="66cd8672c00e4e2572de7c5648de595674ffa8f8"/>
+		<rom name="mp19149.10" size="4194304" crc="94ef5849" sha1="3e1748dc5e61c93eedbf0ca6b1946a30be722403"/>
+		<rom name="mp19150.17" size="4194304" crc="e0ad870e" sha1="3429d9f9434d75ddb5fa05d4b493828adfe826a4"/>
+		<rom name="mp19151.21" size="4194304" crc="e2a1b125" sha1="cc5c2d9ab8a01f52e66969464f53ae3cefca6a09"/>
+		<rom name="mp19152.25" size="2097152" crc="363769a2" sha1="51b2f11a01fb72e151025771f8a8496993e605c2"/>
+		<rom name="mp19153.27" size="2097152" crc="136adfd0" sha1="70ce4e609c8b003ff04518044c18d29089e6a353"/>
+		<rom name="mp19154.32" size="4194304" crc="7cd9e679" sha1="b9812c4f3042f95febc96bcdd46e3b0724ad4b4f"/>
+	</game>
+
+	<game name="skyfox" sourcefile="skyfox.c">
+		<description>Sky Fox</description>
+		<year>1987</year>
+		<manufacturer>Jaleco (Nichibutsu USA license)</manufacturer>
+		<rom name="sfoxbprm.bin" size="256" crc="60d2ab41" sha1="e58a54f2aaee5c07136d5437e513d61fb18fbd9f"/>
+		<rom name="sfoxgprm.bin" size="256" crc="fb73d434" sha1="4a9bd61fbdce9441753c5921f95ead5c4655957e"/>
+		<rom name="sfoxrprm.bin" size="256" crc="79913c7f" sha1="e64e6a3eb55f37984cb2597c8ffba6bc3bad49c7"/>
+		<rom name="skyfox1.bin" size="32768" crc="b4d4bb6f" sha1="ed1cf6d91ca7170cb7d1c80b586c11164430fd49"/>
+		<rom name="skyfox10.bin" size="32768" crc="19f58f9c" sha1="6887216243b47152129448cbb4c7d52309feed03"/>
+		<rom name="skyfox2.bin" size="32768" crc="e15e0263" sha1="005934327834aed46b17161aef82117ee508e9c4"/>
+		<rom name="skyfox3.bin" size="65536" crc="3a17a929" sha1="973fb36af416161e04a83d7869819d9b13df18cd"/>
+		<rom name="skyfox4.bin" size="65536" crc="358053bb" sha1="589e3270eda0d44e73fbc7ac06e782f332920b39"/>
+		<rom name="skyfox5.bin" size="65536" crc="c1215a6e" sha1="5ca30be8a68ac6a00907cc9e47ede0acec980f46"/>
+		<rom name="skyfox6.bin" size="65536" crc="cc37e15d" sha1="80806df6185f7b8c2d3ab98420ca514df3e63c8d"/>
+		<rom name="skyfox7.bin" size="65536" crc="fa2ab5b4" sha1="c0878b25dae28f7d49e14376ff885d1d4e3d5dfe"/>
+		<rom name="skyfox8.bin" size="65536" crc="0e3edc49" sha1="3d1c59ecaabe1c9517203b7e814db41d5cff0cd4"/>
+		<rom name="skyfox9.bin" size="32768" crc="0b283bf5" sha1="5b14d0beea689ee7e9174017e5a127435df4fbe3"/>
+	</game>
+
+	<game name="soldamj" sourcefile="megasys1.c">
+		<description>Soldam (Japan)</description>
+		<year>1992</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="soldam.m14" size="512" crc="8914e72d" sha1="80a664471f14c8ed8544a5e226fdca425ab3c657"/>
+		<rom name="soldam1.bin" size="131072" crc="e7cb0c20" sha1="7b1adf439cd4022ec110ec18359fb50ac137f253"/>
+		<rom name="soldam10.bin" size="262144" crc="8d5613bf" sha1="eee217dd2ab64d86b7f5eda55a3c331d862c079e"/>
+		<rom name="soldam14.bin" size="524288" crc="26cea54a" sha1="00beb1fe2973daf8bab288a0cb9d5fff26a00415"/>
+		<rom name="soldam18.bin" size="524288" crc="7d8e4712" sha1="d16455648dcba467336e51daac8b23e463a74230"/>
+		<rom name="soldam19.bin" size="131072" crc="38465da1" sha1="461fc0d81b711d0646dc366c057da66d4b8c6e23"/>
+		<rom name="soldam2.bin" size="131072" crc="c73d29e4" sha1="2a6bffd6835506a0a1449047dec69445d2242fca"/>
+		<rom name="soldam23.bin" size="524288" crc="0ca09432" sha1="c9b12d564032c2a668e18ba95fd71ab540e798ce"/>
+		<rom name="soldam3.bin" size="65536" crc="c5382a07" sha1="5342775f2925772e23bb460e88cd2b7e524e57fa"/>
+		<rom name="soldam4.bin" size="65536" crc="1df7816f" sha1="7c069470ec0e884eae5a52581f2be17d9e692105"/>
+		<rom name="soldam5.bin" size="65536" crc="d1019a67" sha1="32d77914a67c009bf1bb397772f195594f7cc03f"/>
+		<rom name="soldam6.bin" size="65536" crc="3ed219b4" sha1="afffa5596027181ae94488d54d6266f8a7ead180"/>
+		<rom name="soldam8.bin" size="262144" crc="fcd36019" sha1="f4edb55bd62b697c5a73c461008e764c2f16956b"/>
+	</game>
+
+	<game name="stdragon" sourcefile="megasys1.c">
+		<description>Saint Dragon</description>
+		<year>1989</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="jsd-01.bin" size="131072" crc="67429a57" sha1="f3c20fabed97ac5c2fe3e891f9c8c86478453a6c"/>
+		<rom name="jsd-02.bin" size="131072" crc="cc29ab19" sha1="e145eeb01fad313e300f0c614c0e7a5c1d75d7d9"/>
+		<rom name="jsd-05.bin" size="65536" crc="8c04feaa" sha1="57e86fd88dc72d123a41f0dee80a16be38ac2e81"/>
+		<rom name="jsd-06.bin" size="65536" crc="0bb62f3a" sha1="68d9f161ba2568f8e046b1a40127bbb973d7a884"/>
+		<rom name="jsd-07.bin" size="131072" crc="6a48e979" sha1="617281d9fe3c3927f94bf2f66d0a08923a92a6ab"/>
+		<rom name="jsd-08.bin" size="131072" crc="40704962" sha1="4efd8c4d406600aa486c8b84b6f9882cca5970a4"/>
+		<rom name="jsd-09.bin" size="131072" crc="e366bc5a" sha1="c97bc1f25357366b4ff1343dfc9d0808a2630b28"/>
+		<rom name="jsd-10.bin" size="131072" crc="4a8f4fe6" sha1="4f13f0149aa29b7cbddcd782f043bb71b3d27ede"/>
+		<rom name="jsd-11.bin" size="131072" crc="2783b7b1" sha1="4edde596cf26afb33b247cf5b1420d86f8f0c104"/>
+		<rom name="jsd-12.bin" size="131072" crc="89466ab7" sha1="8de42f2828e48e4fe3c6d078f6b9d48498933d72"/>
+		<rom name="jsd-13.bin" size="131072" crc="9896ae82" sha1="953e79558d66f7bfff893a7b69450ae23f8d16a4"/>
+		<rom name="jsd-14.bin" size="131072" crc="7e8da371" sha1="0bed102bdd4dfca23ca636c7de67da1a9107eb5a"/>
+		<rom name="jsd-15.bin" size="131072" crc="e296bf59" sha1="15361b2c2df391656e47b815731f5f03a6a8a7a6"/>
+		<rom name="jsd-16.bin" size="131072" crc="d8919c06" sha1="643f04911ea035db7ddb593f5bf1be364f645fe1"/>
+		<rom name="jsd-17.bin" size="131072" crc="4f7ad563" sha1="ef06e0c8dc29b75cc7c449a227576be442163a6e"/>
+		<rom name="jsd-18.bin" size="131072" crc="1f4da822" sha1="fe81fb93c1aa938425b6bfca2bb829dda2d86b4a"/>
+		<rom name="jsd-19.bin" size="65536" crc="25ce807d" sha1="64accb923e9727093790c8ae8296e9ff2d04af06"/>
+		<rom name="jsd-20.bin" size="131072" crc="2c6e93bb" sha1="6130611a0a4067ced1b646438c49387d8cea0c98"/>
+		<rom name="jsd-21.bin" size="131072" crc="864bcc61" sha1="21420a4804311fb381a9b05068d60d518fdc67db"/>
+		<rom name="jsd-22.bin" size="131072" crc="44fe2547" sha1="193f487993e10e4a00e50d7febc9e43f3d217038"/>
+		<rom name="jsd-23.bin" size="131072" crc="6b010e1a" sha1="7d056330a16725999c7b6662eb6ddeea0a4e446c"/>
+		<rom name="prom.14m" size="512" crc="1d877538" sha1="a5be0dc65dcfc36fbba10d1fddbe155e24b6122f"/>
+	</game>
+
+	<game name="suchipi" sourcefile="jalmah.c">
+		<description>Idol Janshi Su-Chi-Pie Special</description>
+		<year>1993</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="1.bin" size="262144" crc="e37cc745" sha1="73b3314d27a0332068e0d2bbc08d7401e371da1b"/>
+		<rom name="10.bin" size="524288" crc="2b0d1afd" sha1="40009b450901567052aa63c4629a2f7a10343e63"/>
+		<rom name="12.bin" size="262144" crc="146596eb" sha1="f85e92e6dc9ebef5e67d28f1d450225cd2a2abaa"/>
+		<rom name="13.bin" size="131072" crc="99466044" sha1="ca31b58a5d4656f95d80ddb9bc1f9a53f5f2446c"/>
+		<rom name="14.bin" size="131072" crc="e465a540" sha1="10e19599ab90b0c0b6ef6ee41f16620bd1ba6800"/>
+		<rom name="2.bin" size="262144" crc="42ecf88a" sha1="7bb85470bc9f94c867646afeb91c4730599ea299"/>
+		<rom name="3.bin" size="524288" crc="691b5387" sha1="b8bc9f904eab7653566042b18d89276d537ba586"/>
+		<rom name="4.bin" size="524288" crc="3fe932a1" sha1="9e768b901738ee9eba207a67c4fd19efb0035a68"/>
+		<rom name="7.bin" size="524288" crc="18caf6f3" sha1="3df6b257867487adcba1a05c8745413d9a15c3d7"/>
+		<rom name="8.bin" size="524288" crc="0403399a" sha1="8d39a68b3a1a431afe93ff485e837389a4502d0c"/>
+		<rom name="9.bin" size="524288" crc="8a348246" sha1="13516c48bdbe8d78e7517473ef2835a4dea2ce93"/>
+		<rom name="mj15.bpr" size="256" crc="ebac41f9" sha1="9d1629d977849663392cbf03a3ddf76665f88608"/>
+		<rom name="mj16.bpr" size="256" crc="8d5dc1f6" sha1="9f723e7cd44f8c09ec30b04725644346484ec753"/>
+		<rom name="mj17.bpr" size="32" crc="a17c3e8a" sha1="d7969fad7cec9c792c53aa457f4ad764a727e0a5"/>
+	</game>
+
+	<game name="teplus2j" sourcefile="tetrisp2.c" cloneof="tetrisp2" romof="tetrisp2">
+		<description>Tetris Plus 2 (Japan)</description>
+		<year>1997</year>
+		<manufacturer>Jaleco / The Tetris Company</manufacturer>
+		<rom name="96019-01.9" merge="96019-01.9" size="4194304" crc="06f7dc64" sha1="722c51b707b9854c0293afdff18b27ec7cae6719"/>
+		<rom name="96019-02.8" merge="96019-02.8" size="4194304" crc="3e613bed" sha1="038b5e43fa3d69654107c8093126eeb2e8fa4ddc"/>
+		<rom name="96019-04.6" merge="96019-04.6" size="1048576" crc="b849dec9" sha1="fa7ac00fbe587a74c3fb8c74a0f91f7afeb8682f"/>
+		<rom name="96019-06.13" merge="96019-06.13" size="4194304" crc="16f7093c" sha1="2be77c6a692c5d762f5553ae24e8c415ab194cc6"/>
+		<rom name="96019-07.7" merge="96019-07.7" size="4194304" crc="a8a61954" sha1="86c3db10b348ba1f44ff696877b8b20845fa53de"/>
+		<rom name="tet2-1v2.2" size="524288" crc="919116d0" sha1="3e1c0fd4c9175b2900a4717fbb9e8b591c5f534d"/>
+		<rom name="tet2-4v2.2" size="524288" crc="5bfa32c8" sha1="55fb2872695fcfbad13f5c0723302e72da69e44a"/>
+		<rom name="tetp2-10.bin" merge="tetp2-10.bin" size="524288" crc="34dd1bad" sha1="9bdf1dde11f82839676400de5dd7acb06ea8cdb2"/>
+	</game>
+
+	<game name="tetrisp" sourcefile="ms32.c">
+		<description>Tetris Plus</description>
+		<year>1995</year>
+		<manufacturer>Jaleco / BPS</manufacturer>
+		<rom name="mr95024.01" size="2097152" crc="cb0e92b9" sha1="179cc9e2d819d7f6238e924184e8a383d172aa72"/>
+		<rom name="mr95024.10" size="2097152" crc="a03e4a8d" sha1="d52c78d5e9d874dce514ffb035f2424409d8fb7a"/>
+		<rom name="mr95024.11" size="2097152" crc="c0d5246f" sha1="413285f6b40001281c4fcec1ce73400c3ae610ed"/>
+		<rom name="mr95024.13" size="2097152" crc="4a825990" sha1="f99ba9f88f5582259ba0e50480451d4e9d1d03b7"/>
+		<rom name="mr95024.21" size="262144" crc="5c565e3b" sha1="d349a8ca50d03c06d8978e6d3632b624f019dee4"/>
+		<rom name="mr95024.22" size="2097152" crc="0fa26f65" sha1="e92b14862fbce33ea4ab4567ec48199bfcbbdd84"/>
+		<rom name="mr95024.23" size="2097152" crc="57502a17" sha1="ce880188854dc17d9ebbfa3c373469cf5e6858c2"/>
+		<rom name="mr95024.26" size="524288" crc="d318a9ba" sha1="cae86d86518fdfeb736e7b2040277c76cc3b4017"/>
+		<rom name="mr95024.27" size="524288" crc="2d69b6d3" sha1="f0a513f449aa25808672fb27e3691ccabfba48a1"/>
+		<rom name="mr95024.28" size="524288" crc="87522e16" sha1="4f0d8abec046884d89c559e3a4a5ac9e0e47a0dc"/>
+		<rom name="mr95024.29" size="524288" crc="43a61941" sha1="a097c88c45d8486eb6ffdd13904b6eb2a3fa45b9"/>
+		<rom name="mr95024.30" size="524288" crc="cea7002d" sha1="5462edaeb9339790b95ed15a4bfaab8fae655b12"/>
+	</game>
+
+	<game name="tetrisp2" sourcefile="tetrisp2.c">
+		<description>Tetris Plus 2 (World?)</description>
+		<year>1997</year>
+		<manufacturer>Jaleco / The Tetris Company</manufacturer>
+		<rom name="96019-01.9" size="4194304" crc="06f7dc64" sha1="722c51b707b9854c0293afdff18b27ec7cae6719"/>
+		<rom name="96019-02.8" size="4194304" crc="3e613bed" sha1="038b5e43fa3d69654107c8093126eeb2e8fa4ddc"/>
+		<rom name="96019-04.6" size="1048576" crc="b849dec9" sha1="fa7ac00fbe587a74c3fb8c74a0f91f7afeb8682f"/>
+		<rom name="96019-06.13" size="4194304" crc="16f7093c" sha1="2be77c6a692c5d762f5553ae24e8c415ab194cc6"/>
+		<rom name="96019-07.7" size="4194304" crc="a8a61954" sha1="86c3db10b348ba1f44ff696877b8b20845fa53de"/>
+		<rom name="t2p_01.rom" size="524288" crc="5020a4ed" sha1="9c0f02fe3700761771ac026a2e375144e86e5eb7"/>
+		<rom name="t2p_04.rom" size="524288" crc="e67f9c51" sha1="d8b2937699d648267b163c7c3f591426877f3701"/>
+		<rom name="tetp2-10.bin" size="524288" crc="34dd1bad" sha1="9bdf1dde11f82839676400de5dd7acb06ea8cdb2"/>
+	</game>
+
+	<game name="tp2m32" sourcefile="ms32.c" cloneof="tetrisp2" romof="tetrisp2">
+		<description>Tetris Plus 2 (MegaSystem 32 Version)</description>
+		<year>1997</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="96019-01.9" merge="96019-01.9" size="4194304" crc="06f7dc64" sha1="722c51b707b9854c0293afdff18b27ec7cae6719"/>
+		<rom name="96019-02.8" merge="96019-02.8" size="4194304" crc="3e613bed" sha1="038b5e43fa3d69654107c8093126eeb2e8fa4ddc"/>
+		<rom name="tp2m3203.10" size="4194304" crc="94af8057" sha1="e3bc6e02fe4c503ae51284770a76abbeff989147"/>
+		<rom name="tp2m3204.11" size="2097152" crc="b5a03129" sha1="a50d8b70615c49216f647534d1658c1a6d58a783"/>
+		<rom name="tp2m3205.22" size="2097152" crc="74aa5c31" sha1="7e3f86198fb678244fab76bee9c72bbdfc818118"/>
+		<rom name="tp2m3221.21" size="262144" crc="2bcc4176" sha1="74740fa13ab81b9819b4cfbe9d34a0749ba23b8f"/>
+		<rom name="tp2m3226.26" size="524288" crc="152f0ccf" sha1="1e318e125a54216ebf3f85740db1dd85aacac819"/>
+		<rom name="tp2m3227.27" size="524288" crc="d89468d0" sha1="023fbc13b0f6332217904c89225b330aa5742f20"/>
+		<rom name="tp2m3228.28" size="524288" crc="041aac23" sha1="3f7863ffa897978493e98445fe020dccbe521752"/>
+		<rom name="tp2m3229.29" size="524288" crc="4e83b2ca" sha1="2766793f050a6952f4f53a763686f95bd7544f3f"/>
+		<rom name="tp2m3230.30" size="524288" crc="6845e476" sha1="61c33714db2e2b5ccdcef0e0d3efdc391fe6aba2"/>
+	</game>
+
+	<game name="tshingen" sourcefile="megasys1.c">
+		<description>Takeda Shingen (Japan, Japanese)</description>
+		<year>1988</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="shing_07.rom" size="131072" crc="c37ecbdc" sha1="fcae2bbc4a10ee0fa18c9a850ae451c0600ea98c"/>
+		<rom name="shing_08.rom" size="131072" crc="36d56c8c" sha1="391f8c6b3ee605ce846f1862b0d3b14694dbd556"/>
+		<rom name="takeda1.bin" size="131072" crc="1afc6b7d" sha1="b56da1b8c5b417a88a2952491c2d5472bb783945"/>
+		<rom name="takeda10.bin" size="131072" crc="c9959d71" sha1="afbb756b3b4730262055f80995bd4ba5f9031d26"/>
+		<rom name="takeda11.bin" size="131072" crc="bf0b40a6" sha1="3634b8700b6cfb71d3796847eab50fd2714d4726"/>
+		<rom name="takeda12.bin" size="131072" crc="07987d89" sha1="54f0fcbac6ec9c27b70a04a192db2874d38e91d8"/>
+		<rom name="takeda15.bin" size="131072" crc="4c316b79" sha1="1e17cb061e3d06427bef3e8c222f2a7cc80743ff"/>
+		<rom name="takeda16.bin" size="131072" crc="ceda9dd6" sha1="2339cbb3d10fae6cba32b6455511aad60f4e481a"/>
+		<rom name="takeda17.bin" size="131072" crc="3d4371dc" sha1="2a6c34eb9952492f9554e5c810f015496ac205c1"/>
+		<rom name="takeda19.bin" size="65536" crc="2ca2420d" sha1="0e9f2f3d8ea2be07193e5a5fd37256a3887e7a2f"/>
+		<rom name="takeda2.bin" size="131072" crc="6ddfc9f3" sha1="0ce1b8eae31453db0b2081717d7dbda9ea7d5a60"/>
+		<rom name="takeda20.bin" size="131072" crc="1bfd636f" sha1="d56eb7538195930ea3cf16788e3128a6262675e3"/>
+		<rom name="takeda21.bin" size="131072" crc="12fb006b" sha1="1dae7f3bdbfefb3424d07572c398e4edd274a4ae"/>
+		<rom name="takeda22.bin" size="131072" crc="b165b6ae" sha1="b987cdb5a71882d2495ac449a78705ba996943a7"/>
+		<rom name="takeda23.bin" size="131072" crc="37cb9214" sha1="b98c361cd8b19b85cd16f040c415550b3750ab9e"/>
+		<rom name="takeda5.bin" size="65536" crc="fbdc51c0" sha1="bc6036c556275f7eccd7741d23437a98b0aa13bb"/>
+		<rom name="takeda6.bin" size="65536" crc="8fa65b69" sha1="23a2d60435f235366f877ac79ac1506a99cfae9c"/>
+		<rom name="takeda9.bin" size="131072" crc="db7f3f4f" sha1="2667bab60abe49b3a9ce4ff63948e274578062b7"/>
+		<rom name="ts.bpr" size="512" crc="85b30ac4" sha1="b03f577ceb0f26b67453ffa52ef61fea76a93184"/>
+	</game>
+
+	<game name="tshingna" sourcefile="megasys1.c" cloneof="tshingen" romof="tshingen">
+		<description>Shingen Samurai-Fighter (Japan, English)</description>
+		<year>1988</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="shing_01.rom" size="131072" crc="a9d2de20" sha1="b53205722ae19305a1c373abbbac4fbcbcb0b0f0"/>
+		<rom name="shing_02.rom" size="131072" crc="d9ab5b78" sha1="c7622ec11a636dc7a6bcad02556a98aa0a9fb043"/>
+		<rom name="shing_07.rom" merge="shing_07.rom" size="131072" crc="c37ecbdc" sha1="fcae2bbc4a10ee0fa18c9a850ae451c0600ea98c"/>
+		<rom name="shing_08.rom" merge="shing_08.rom" size="131072" crc="36d56c8c" sha1="391f8c6b3ee605ce846f1862b0d3b14694dbd556"/>
+		<rom name="shing_12.rom" size="131072" crc="5e4adedb" sha1="0b67af2913e1f15d0a9d81e7b22d26a1011fa160"/>
+		<rom name="shing_15.rom" size="131072" crc="9db18233" sha1="d323035505159e420430d178b4fa3a972aed80cd"/>
+		<rom name="shing_19.rom" size="65536" crc="97282d9d" sha1="c977fb6cebbb9f4097b3c25f2b7f5cb2440c191b"/>
+		<rom name="shing_20.rom" size="131072" crc="7f6f8384" sha1="77ccd8ca3cf35040e9cc8c78b2489864f60be699"/>
+		<rom name="takeda10.bin" merge="takeda10.bin" size="131072" crc="c9959d71" sha1="afbb756b3b4730262055f80995bd4ba5f9031d26"/>
+		<rom name="takeda11.bin" merge="takeda11.bin" size="131072" crc="bf0b40a6" sha1="3634b8700b6cfb71d3796847eab50fd2714d4726"/>
+		<rom name="takeda16.bin" merge="takeda16.bin" size="131072" crc="ceda9dd6" sha1="2339cbb3d10fae6cba32b6455511aad60f4e481a"/>
+		<rom name="takeda17.bin" merge="takeda17.bin" size="131072" crc="3d4371dc" sha1="2a6c34eb9952492f9554e5c810f015496ac205c1"/>
+		<rom name="takeda21.bin" merge="takeda21.bin" size="131072" crc="12fb006b" sha1="1dae7f3bdbfefb3424d07572c398e4edd274a4ae"/>
+		<rom name="takeda22.bin" merge="takeda22.bin" size="131072" crc="b165b6ae" sha1="b987cdb5a71882d2495ac449a78705ba996943a7"/>
+		<rom name="takeda23.bin" merge="takeda23.bin" size="131072" crc="37cb9214" sha1="b98c361cd8b19b85cd16f040c415550b3750ab9e"/>
+		<rom name="takeda5.bin" merge="takeda5.bin" size="65536" crc="fbdc51c0" sha1="bc6036c556275f7eccd7741d23437a98b0aa13bb"/>
+		<rom name="takeda6.bin" merge="takeda6.bin" size="65536" crc="8fa65b69" sha1="23a2d60435f235366f877ac79ac1506a99cfae9c"/>
+		<rom name="takeda9.bin" merge="takeda9.bin" size="131072" crc="db7f3f4f" sha1="2667bab60abe49b3a9ce4ff63948e274578062b7"/>
+		<rom name="ts.bpr" merge="ts.bpr" size="512" crc="85b30ac4" sha1="b03f577ceb0f26b67453ffa52ef61fea76a93184"/>
+	</game>
+
+	<game name="wildplt" sourcefile="cischeat.c">
+		<description>Wild Pilot</description>
+		<year>1992</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="ch9072_4.bin" size="8192" crc="b45b4dc0" sha1="b9fae0c9ac2d40f0a202c538d866d5f2941ba8dd"/>
+		<rom name="ch9072_5.bin" size="8192" crc="e122916b" sha1="86d5ecc7ecc6f175ecb28459697ef33e1ee06860"/>
+		<rom name="ch9072_6.bin" size="8192" crc="05d95bf7" sha1="78181cf71f22c090a1e62823a43757353a9ef6ab"/>
+		<rom name="ch9072_8.bin" size="8192" crc="6bf52596" sha1="bf4e7e7df3daae4aa6a441b58b15a435aa45630e"/>
+		<rom name="gp-9188a_01_ver1-0.bin" size="131072" crc="2c3d7ec4" sha1="30215b2ea106aa3c8069fef9411e5f41be5645f6"/>
+		<rom name="gp-9188a_06_ver1-0.bin" size="131072" crc="99139696" sha1="4f8c96012a8214ed952aa44d65ff92e9b3adcf73"/>
+		<rom name="gp-9188a_11_ver1-0.bin" size="131072" crc="8174e65b" sha1="2c35ae0d04fc4a075c297fe69c429f57457348e1"/>
+		<rom name="gp-9188a_16_ver1-0.bin" size="131072" crc="75e48920" sha1="2344c1f394aa1199169e75b2f998e89648a39100"/>
+		<rom name="gp-9188a_21_ver1-0.bin" size="262144" crc="c3192fbe" sha1="c4a82a9174f6dc48946925ab94f81162632f58b0"/>
+		<rom name="gp-9188a_22_ver1-4.bin" size="262144" crc="9e099111" sha1="11b17d77dfe6315105e8297b8f5f7c8d93b18ac0"/>
+		<rom name="gp-9188a_25_ver1-0.bin" size="524288" crc="e69d3ccc" sha1="10ab3d1980c571a478625ec4e505d711d90670cf"/>
+		<rom name="gp-9188a_26_ver1-0.bin" size="262144" crc="bc48db69" sha1="d66fa43347b991b899e086bfcf9ceb6277b859a9"/>
+		<rom name="gp-9188a_27_ver1-4.bin" size="262144" crc="4754f023" sha1="32865343d633fef7d3e081d52b423fbf4e5f2053"/>
+		<rom name="gp-9188a_28_ver1-0.bin" size="524288" crc="2166c803" sha1="14b3446fbd9e6d65cdcc20e8e0820008d561894b"/>
+		<rom name="gp-9188a_30_ver1-0.bin" size="131072" crc="35478ed9" sha1="4090ad8c529c1295799a0fe6d7b05d68ec2cf584"/>
+		<rom name="gp-9189_10_ver1-0.bin" size="524288" crc="9240969c" sha1="1f7995349787792a759b1ba60673f28d0fe15cfe"/>
+		<rom name="gp-9189_7_ver1-0.bin" size="524288" crc="1ea6a85d" sha1="2c8e7cf18219bb0a0f212234f967a89510c6e21f"/>
+		<rom name="gp-9189_8_ver1-0.bin" size="524288" crc="d9822da0" sha1="9a4059727d1ed5a2dd09bde5131ff8f47348109c"/>
+		<rom name="gp-9189_9_ver1-0.bin" size="524288" crc="0d4f6b5e" sha1="92412590d17b7297188678a2b64c1b0ee7b00622"/>
+		<rom name="mr90015-01_w06.bin" size="524288" crc="ce4bfe6e" sha1="d428eb3d5da3bd080957c585c5b72b94a7849fca"/>
+		<rom name="mr90015-02_w07.bin" size="524288" crc="fcbecc9b" sha1="0670c276730ee282ef8c9599c00571b8d97725ab"/>
+		<rom name="mr90015-03_w08.bin" size="524288" crc="ccf5b158" sha1="06250762646e0da1fb71fd7b638492eaab3f5b7f"/>
+		<rom name="mr90015-04_w09.bin" size="524288" crc="5b324c81" sha1="ce61f2ea29086a74bdcf9f4df8e2edb749e41da5"/>
+		<rom name="mr90015_35_w33.bin" size="524288" crc="9d428fb7" sha1="02f72938d73db932bd217620a175a05215f6016a"/>
+		<rom name="mr92020-01_c46.bin" size="524288" crc="f908c6e0" sha1="40c50a01b8b3fb184b8fa9824f95652399d479e2"/>
+		<rom name="mr92020-02_c53.bin" size="524288" crc="da961dd4" sha1="fa36ee94d0a40a0e6e7201df2b74413f23e02ae0"/>
+		<rom name="mr92020-03_c52.bin" size="524288" crc="985b5fe0" sha1="a28eb20d37f171241fd0be702f2db12be1329836"/>
+		<rom name="mr92020-04_c47.bin" size="524288" crc="c752f467" sha1="9faa15567677dd5cc141727b182ba8d6de08329d"/>
+		<rom name="mr92020-05_c48.bin" size="524288" crc="74ef3306" sha1="9c22250df5bd14d50bb27728fe40b7f9ec283c24"/>
+		<rom name="mr92020-06_c51.bin" size="524288" crc="c00f1245" sha1="11b9f6acbdf7094debb5a7a897afeb6a63b84103"/>
+		<rom name="mr92020-07_c49.bin" size="524288" crc="48d8ecb2" sha1="dee5c274576c4463d33895a12e01b1b30a6daa58"/>
+		<rom name="mr92020-08_c50.bin" size="524288" crc="5e840567" sha1="26e0278f455013600d37fc89eb83ce8bf11bb39d"/>
+		<rom name="mr92020-11_w65.bin" size="524288" crc="585448cb" sha1="578d241b928cc5b531c63b118fd1e7f1b864d5f3"/>
+		<rom name="mr92020-12_w66.bin" size="524288" crc="07104f78" sha1="757fa1e0722533f42f12c7e030a283b7e90fc225"/>
+		<rom name="mr92020-13_w67.bin" size="524288" crc="c4afa3dc" sha1="deda215a72914c61d500fee82e108997990d4057"/>
+		<rom name="mr92020-14_w68.bin" size="524288" crc="c8676eca" sha1="268cb259a974ca3f6bece090a53b1334ce77ac17"/>
+		<rom name="mr92020-15_w69.bin" size="524288" crc="cc24a3d7" sha1="5cfce80677a6bd0d787e0d1b9175ceb2662c3ffd"/>
+		<rom name="mr92020-16_w70.bin" size="524288" crc="6f4c9d4e" sha1="56bd05f4f80c544dce919d548be0b05cd0454582"/>
+		<rom name="pr88004q.bin" size="512" crc="9327dc37" sha1="cfe7b144cdcd76170d47f1c4e0f72b6d4fca0c8d"/>
+		<rom name="pr88004w.bin" size="256" crc="3d648467" sha1="bf8dbaa2176c801f7370313425c87f0eefe8a3a4"/>
+		<rom name="pr90015a.bin" size="2048" crc="777583db" sha1="8fd060a68fbb6156feb55afcfc5afd95999a8a62"/>
+		<rom name="pr90015b.bin" size="256" crc="be240dac" sha1="6203b73c1a5e09e525380a78b555c3818929d5eb"/>
+		<rom name="wp-92116_1_ver1-0.bin" size="524288" crc="559bafc3" sha1="612fa66b02e72a93ea5e89b40426b6ffb2a2a373"/>
+		<rom name="wp-92116_2_ver1-0.bin" size="524288" crc="95237bd0" sha1="45780d587565edf8ee0b6443bdc44db72fe65a86"/>
+		<rom name="wp-92116_3_ver1-1.bin" size="131072" crc="51dd594b" sha1="3fbec13c1d2942797267820157180d374b38347c"/>
+		<rom name="wp-92116_4_ver1-1.bin" size="131072" crc="9ba3cb7b" sha1="6f55e2675bde2756a2996e6ab6aaef4c9d3f4724"/>
+		<rom name="wp-92116_5_ver1-0.bin" size="131072" crc="8952e07c" sha1="9025954c09c20dfe910a83283cfe010a5e898f38"/>
+		<rom name="wp-92116_6_ver1-0.bin" size="131072" crc="2c8108c2" sha1="759ab884a09669c8cb532f72aa14a3df2806c5f2"/>
+	</game>
+
+	<game name="wpksoc" sourcefile="m107.c">
+		<description>World PK Soccer</description>
+		<year>1995</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="pk.da0" size="524288" crc="26a34cf4" sha1="a8a7cd91cdc6d644ee02ca16e7fdc8debf8f3a5f"/>
+		<rom name="pk.o00" size="524288" crc="165ce027" sha1="3510b323c683ade4dd7307b539072bb342b6796d"/>
+		<rom name="pk.o01" size="524288" crc="e2745147" sha1="99026525449c2ca84e054a7d633c400e0e836461"/>
+		<rom name="pk.o10" size="524288" crc="6c171b73" sha1="a99c9f012f21373daea08d28554cc36170f4e1fa"/>
+		<rom name="pk.o11" size="524288" crc="471c0bf4" sha1="1cace5ffd5db91850662de929cb9086dc154d662"/>
+		<rom name="pk.o20" size="524288" crc="c886dad1" sha1="9b58a2f108547c3f55399932a7e56031c5658737"/>
+		<rom name="pk.o21" size="524288" crc="91e877ff" sha1="3df095632728ab16ab229d592ab12d3df44b2629"/>
+		<rom name="pk.o30" size="524288" crc="3390621c" sha1="4138c690666f78b1c5cf83d815ed6b37239a94b4"/>
+		<rom name="pk.o31" size="524288" crc="4d322804" sha1="b5e2b40e3ce83b6f97b2b57edaa79df6968d0997"/>
+		<rom name="pkeurd.h0" size="262144" crc="b4917788" sha1="673294c518eaf28354fa6a3058f9325c6d9ddde6"/>
+		<rom name="pkeurd.l0" size="262144" crc="03816bae" sha1="832e2ec722b41d41626fec583fc11e9ff62cdaa0"/>
+		<rom name="pkos.c00" size="524288" crc="42ae3d73" sha1="e4777066155c9882695ebff0412bd879b8d6f716"/>
+		<rom name="pkos.c01" size="524288" crc="b0d33f87" sha1="f2c0e3a10615c6861a3f6fd82a3f066e8e264233"/>
+		<rom name="pkos.c10" size="524288" crc="86acf45c" sha1="3b3d2abcf8000161a37d5e2619df529533aea47d"/>
+		<rom name="pkos.c11" size="524288" crc="19de7d63" sha1="6d0633e412b47accaecc887a5c39f542eda49e81"/>
+		<rom name="pkos.sh0" size="65536" crc="1145998c" sha1="cdb2a428e0f35302b81696dab02d3dd2c433f6e5"/>
+		<rom name="pkos.sl0" size="65536" crc="542ee1c7" sha1="b934adeecbba17cf96b06a2b1dc1ceaebdf9ad10"/>
+	</game>
+
+	<game name="wwjgtin" sourcefile="lasso.c">
+		<description>Wai Wai Jockey Gate-In!</description>
+		<year>1984</year>
+		<manufacturer>Jaleco / Casio</manufacturer>
+		<rom name="1.bpr" size="32" crc="c1a93cc8" sha1="805641ea2ce86589b968f1ff44e5d3ab9377769d"/>
+		<rom name="2.bpr" size="32" crc="79adda5d" sha1="e54de3eb02f744d49f524cd81e1cf993338916e3"/>
+		<rom name="ic2.6" size="16384" crc="744ba45b" sha1="cccf3e2dd3c27bf54d2abd366cd9a044311aa031"/>
+		<rom name="ic46.4" size="8192" crc="d1921348" sha1="8b5506ff80a31ce721aed515cad1b4a7e52e47a2"/>
+		<rom name="ic47.3" size="8192" crc="40594c59" sha1="94533be8e267d9aa5bcdd52b45f6974436d3fed5"/>
+		<rom name="ic48.2" size="8192" crc="a4a7df77" sha1="476aab702346a402169ab404a8b06589e4932d37"/>
+		<rom name="ic49.1" size="8192" crc="e480fbba" sha1="197c86747ef8477040169f90eb6e04d928aedbe5"/>
+		<rom name="ic5.5" size="16384" crc="af751614" sha1="fc0f0a3967524b1743a182c1da4f9b0c3097a157"/>
+		<rom name="ic59.9" size="16384" crc="2ecb4d98" sha1="d5b0d447b24f64fca452dc13e6ff95b090fce2d7"/>
+		<rom name="ic81.7" size="16384" crc="a27f1a63" sha1="3c770424bd4996f648687afce4aecea252da83a7"/>
+		<rom name="ic82.8" size="16384" crc="ea2862b3" sha1="f7604fd324560c54311c35f806a17e30e018032a"/>
+	</game>
+
+</datafile>
