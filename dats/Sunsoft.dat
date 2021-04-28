@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>MAME</name>
+		<description>MAME 0.97 (Jun 2 2005)</description>
+		<category>Emulation</category>
+		<version>0.97</version>
+		<date>02/06/2005</date>
+		<author>AntoPISA</author>
+		<email>progettosnaps@gmail.com</email>
+		<homepage>http://www.progettosnaps.net/</homepage>
+		<url>http://www.progettosnaps.net/dats/MAME/</url>
+		<comment>-not specified-</comment>
+		<clrmamepro/>
+	</header>
+
+	<game name="bayrout1" sourcefile="segas16b.c" cloneof="bayroute" romof="bayroute">
+		<description>Bay Route (set 1, US, unprotected)</description>
+		<year>1989</year>
+		<manufacturer>Sunsoft / Sega</manufacturer>
+		<rom name="br.a1" size="65536" crc="76954bf3" sha1="bd617c6ddaf1e7760479b17205388c201fb67662"/>
+		<rom name="br.a2" size="65536" crc="5ca1e3d2" sha1="51ce67ed0a0054f9c9c4ac56c5775716c44d74b1"/>
+		<rom name="br.a3" size="65536" crc="0d362905" sha1="04cb35aa44cc1d9ead44c5a7b4f838efec453c85"/>
+		<rom name="br.a4" size="65536" crc="91c6424b" sha1="79a968ade7690d5944ee815e19586cb82c3aa562"/>
+		<rom name="br.a5" size="65536" crc="9d6fd183" sha1="5ae78d33c0e929886d84a25c0fbd62ab45dcbff4"/>
+		<rom name="br.a6" size="65536" crc="ed97ad4c" sha1="6c7d671c3046f1adb486f053acdd2be0c981c68b"/>
+		<rom name="br.b8" size="65536" crc="d8de78ff" sha1="110661ab8008543b47629722b98d0470f73a48c5"/>
+		<rom name="br_obj0e.b5" size="65536" crc="85238af9" sha1="39989a8d9b60c6d55272b5e2c213341a563dd993"/>
+		<rom name="br_obj0o.b1" size="65536" crc="098a5e82" sha1="c5922f418773bc3629071e584457839d67a370e9"/>
+		<rom name="br_obj1e.b6" size="65536" crc="d3123315" sha1="16a87caed1cabb080d4f35935910b38797344ca5"/>
+		<rom name="br_obj1o.b2" size="65536" crc="cc641da1" sha1="28f8a6502702cb9e2cc7f3e98f6c5d201f462fa3"/>
+		<rom name="br_obj2e.b7" size="65536" crc="b73b12cb" sha1="e8265ae90aabf1ee0522dbc6541a0f82fec97c7a"/>
+		<rom name="br_obj2o.b3" size="65536" crc="84efac1f" sha1="41c43d70dc7ae7e361d6fa12c5790ea7ebf13ca8"/>
+		<rom name="br_obj3o.b4" size="65536" crc="a2e238ac" sha1="c854774c0ffd1ccf6e46591a8fa3c80a4630e007"/>
+		<rom name="opr12462.a14" merge="opr12462.a14" size="65536" crc="a19943b5" sha1="95cd95223ea76677227b807a7c4eff120e690d37"/>
+		<rom name="opr12463.a15" merge="opr12463.a15" size="65536" crc="62f8200d" sha1="a5a0035249f339396b33f8a908d393777e8951c4"/>
+		<rom name="opr12464.a16" merge="opr12464.a16" size="65536" crc="c8c59703" sha1="3a4f45b88990d27c55ddfde5fc93496954868200"/>
+		<rom name="sound.a10" size="65536" status="nodump"/>
+		<rom name="sound.a11" size="65536" status="nodump"/>
+		<rom name="sound.a7" size="32768" status="nodump"/>
+		<rom name="sound.a8" size="65536" status="nodump"/>
+		<rom name="sound.a9" size="65536" status="nodump"/>
+	</game>
+
+	<game name="bayroute" sourcefile="segas16b.c">
+		<description>Bay Route (set 3, World, FD1094 317-0116)</description>
+		<year>1989</year>
+		<manufacturer>Sunsoft / Sega</manufacturer>
+		<rom name="317-0116.key" size="8192" crc="8778ee49" sha1="870923d8380199edfe91bbc407631d72c864de68"/>
+		<rom name="epr12456.a6" size="131072" crc="25dc2eaf" sha1="dda300840b9a90bcce7be16ff1904a7a0456c396"/>
+		<rom name="epr12458.a8" size="131072" crc="e7c7476a" sha1="7b724d76bdc1978ddf78489edfda14533905a360"/>
+		<rom name="epr12459.a10" size="32768" crc="3e1d29d0" sha1="fe3d985983e5132e8a26a02a3f2d8d420cbf1a49"/>
+		<rom name="epr12516.a5" size="131072" crc="4ff0353f" sha1="f5960f9e80e42d0a3f82d6670b1f2e39b51ffcef"/>
+		<rom name="epr12517.a7" size="131072" crc="436728a9" sha1="0f6753493ad2c1776880862b462f10ef936a9ee5"/>
+		<rom name="mpr12460.a11" size="131072" crc="0bae570d" sha1="05fa4a3405666342ab66e696a7344cca97569f19"/>
+		<rom name="mpr12461.a12" size="131072" crc="b03b8b46" sha1="b0283ac377d464f3d9374a992192ec6c515a3c2f"/>
+		<rom name="mpr12465.b1" size="131072" crc="11d61b45" sha1="01678e07ffcafb8c161b52763f2183dc281c7578"/>
+		<rom name="mpr12466.b2" size="131072" crc="a57f236f" sha1="c83219cdfcee10a4fdffcbf410808f161a2b1aef"/>
+		<rom name="mpr12467.b5" size="131072" crc="c3b4e4c0" sha1="2d8dbea5278b3fac03c7ad8749f931d36cc8f341"/>
+		<rom name="mpr12468.b6" size="131072" crc="d89c77de" sha1="0e903bf57a7515291dda7e11bdef982a1417043a"/>
+		<rom name="opr12462.a14" size="65536" crc="a19943b5" sha1="95cd95223ea76677227b807a7c4eff120e690d37"/>
+		<rom name="opr12463.a15" size="65536" crc="62f8200d" sha1="a5a0035249f339396b33f8a908d393777e8951c4"/>
+		<rom name="opr12464.a16" size="65536" crc="c8c59703" sha1="3a4f45b88990d27c55ddfde5fc93496954868200"/>
+	</game>
+
+	<game name="bayroutj" sourcefile="segas16b.c" cloneof="bayroute" romof="bayroute">
+		<description>Bay Route (set 2, Japan, FD1094 317-0115)</description>
+		<year>1989</year>
+		<manufacturer>Sunsoft / Sega</manufacturer>
+		<rom name="317-0115.key" size="8192" crc="75a55614" sha1="2cc33a0442e64c94e85f933008f79a1e3a71f1ae"/>
+		<rom name="epr12455.a5" size="131072" crc="b6a722eb" sha1="a8cb3ae6a9a7dc7b64be452a64566878e1a54722"/>
+		<rom name="epr12456.a6" merge="epr12456.a6" size="131072" crc="25dc2eaf" sha1="dda300840b9a90bcce7be16ff1904a7a0456c396"/>
+		<rom name="epr12457.a7" size="131072" crc="bc726255" sha1="2fcf190dab944ea09e7e7574c0dda101bb55424e"/>
+		<rom name="epr12458.a8" merge="epr12458.a8" size="131072" crc="e7c7476a" sha1="7b724d76bdc1978ddf78489edfda14533905a360"/>
+		<rom name="epr12459.a10" merge="epr12459.a10" size="32768" crc="3e1d29d0" sha1="fe3d985983e5132e8a26a02a3f2d8d420cbf1a49"/>
+		<rom name="mpr12460.a11" merge="mpr12460.a11" size="131072" crc="0bae570d" sha1="05fa4a3405666342ab66e696a7344cca97569f19"/>
+		<rom name="mpr12461.a12" merge="mpr12461.a12" size="131072" crc="b03b8b46" sha1="b0283ac377d464f3d9374a992192ec6c515a3c2f"/>
+		<rom name="mpr12465.b1" merge="mpr12465.b1" size="131072" crc="11d61b45" sha1="01678e07ffcafb8c161b52763f2183dc281c7578"/>
+		<rom name="mpr12466.b2" merge="mpr12466.b2" size="131072" crc="a57f236f" sha1="c83219cdfcee10a4fdffcbf410808f161a2b1aef"/>
+		<rom name="mpr12467.b5" merge="mpr12467.b5" size="131072" crc="c3b4e4c0" sha1="2d8dbea5278b3fac03c7ad8749f931d36cc8f341"/>
+		<rom name="mpr12468.b6" merge="mpr12468.b6" size="131072" crc="d89c77de" sha1="0e903bf57a7515291dda7e11bdef982a1417043a"/>
+		<rom name="opr12462.a14" merge="opr12462.a14" size="65536" crc="a19943b5" sha1="95cd95223ea76677227b807a7c4eff120e690d37"/>
+		<rom name="opr12463.a15" merge="opr12463.a15" size="65536" crc="62f8200d" sha1="a5a0035249f339396b33f8a908d393777e8951c4"/>
+		<rom name="opr12464.a16" merge="opr12464.a16" size="65536" crc="c8c59703" sha1="3a4f45b88990d27c55ddfde5fc93496954868200"/>
+	</game>
+
+	<game name="heberpop" sourcefile="shangha3.c">
+		<description>Hebereke no Popoon (Japan)</description>
+		<year>1994</year>
+		<manufacturer>Sunsoft / Atlus</manufacturer>
+		<rom name="hbpic100.bin" size="524288" crc="05a0f765" sha1="4f44cf367c3697eb6c245297c9d05160d7d94e24"/>
+		<rom name="hbpic101.bin" size="524288" crc="151ba025" sha1="b6ebe60872957a2625e666d53a5a4bc941a1f21c"/>
+		<rom name="hbpic102.bin" size="524288" crc="2b5e341a" sha1="c7ad2dafb3433296c117978434e1699290267891"/>
+		<rom name="hbpic103.bin" size="524288" crc="efa0e745" sha1="fc1d52d35b3c902d8b25403b0e13f86a04039bc4"/>
+		<rom name="hbpic104.bin" size="524288" crc="bb896bbb" sha1="4311876628beb82cbacdab4d055c3738e74241b0"/>
+		<rom name="hbpic31.bin" size="524288" crc="c430d264" sha1="4be12b1fa90da09047db3a31171ffda8ab8bd851"/>
+		<rom name="hbpic32.bin" size="524288" crc="bfa555a8" sha1="754f581554022b98ba8e78ee96f846faa2cedc69"/>
+		<rom name="hbpic34.bin" size="65536" crc="0cf056c6" sha1="9992cd3879d9a57fcb784fc1e11d6b6d87e5a366"/>
+		<rom name="hbpic53.bin" size="524288" crc="a4483aa0" sha1="be301d8ac6d69f5c3fdbcb85bd557090e46da1ff"/>
+		<rom name="hbpic98.bin" size="524288" crc="a599100a" sha1="f2e517256a42b3fa4a047bbe742d714f568cc117"/>
+		<rom name="hbpic99.bin" size="524288" crc="fb8bb12f" sha1="78c1fec1371d312e113d92803dd59acc36604989"/>
+	</game>
+
+	<game name="oisipuzl" sourcefile="seta.c">
+		<description>Oishii Puzzle Ha Irimasenka</description>
+		<year>1993</year>
+		<manufacturer>Sunsoft + Atlus</manufacturer>
+		<rom name="ss1u200.v10" size="524288" crc="f5e53baf" sha1="057e8b35bc6f65634685b5d0cf38e12f2e62d72c"/>
+		<rom name="ss1u201.v10" size="524288" crc="7a7ff5ae" sha1="9e4da7ecc4d833c3ba4ddc6e5870fad53b9b2d2b"/>
+		<rom name="ss1u23.v10" size="524288" crc="9fa60901" sha1="3d42e4174ad566b6eeb488c7a4c51db9c1fef7af"/>
+		<rom name="ss1u24.v10" size="524288" crc="c10eb4b3" sha1="70a82a750b1d9c849cd92d4f73769bbf5962c771"/>
+		<rom name="ss1u25.v10" size="524288" crc="56840728" sha1="db61539fd84f0de35ee2077238ba3646c4960cc6"/>
+		<rom name="ss1u26.v10" size="524288" crc="d452336b" sha1="d3bf3cb383c40911758a60546f121c48087868e3"/>
+		<rom name="ss1u27.v10" size="524288" crc="17fe921d" sha1="7fc176b8eefad4f2b8532bfe62e7852d2be185ca"/>
+		<rom name="ss1u304.v10" size="524288" crc="546ab541" sha1="aa96a79e3b0ba71f5e0fbb15e190d219630c2ba3"/>
+		<rom name="ss1u305.v10" size="524288" crc="2a33e08b" sha1="780cfe44a4d57b254bd0cfae8727dc77358027a8"/>
+		<rom name="ss1u306.v10" size="524288" crc="ce43a754" sha1="3991042678badafee716b084c1768a794f144b1e"/>
+		<rom name="ss1u307.v10" size="524288" crc="2170b7ec" sha1="c9f3d12646d4e877bc2b656f977e21d927f241f6"/>
+	</game>
+
+	<game name="shangha2" sourcefile="shanghai.c">
+		<description>Shanghai II (Japan)</description>
+		<year>1989</year>
+		<manufacturer>Sunsoft</manufacturer>
+		<rom name="sht-26j" size="131072" crc="4bf01ab4" sha1="6928374db080212a371991ee98cd563e158907f0"/>
+		<rom name="sht-27j" size="131072" crc="969cbf00" sha1="350025f4e39c7d89cb72e46b52fb467e3e9056f4"/>
+		<rom name="sht-30j" size="131072" crc="2861a894" sha1="6da99d15f41e900735f8943f2710487817f98579"/>
+		<rom name="sht-31j" size="131072" crc="312e3b9d" sha1="f15f76a087d4972aa72145eced8d1fb15329b359"/>
+	</game>
+
+	<game name="shangha3" sourcefile="shangha3.c">
+		<description>Shanghai III (Japan)</description>
+		<year>1993</year>
+		<manufacturer>Sunsoft</manufacturer>
+		<rom name="s3j_ic2.v11" size="262144" crc="09174620" sha1="1d1639c07895f715facfe153fbdb6ae0f3cdd876"/>
+		<rom name="s3j_ic3.v11" size="262144" crc="e98ce9c8" sha1="359e117aebb644d7b235add7e71ed6891243d451"/>
+		<rom name="s3j_ic43.chr" size="2097152" crc="2dbf9d17" sha1="dd94ddc4bb02ab544aa3f89b614afc46678cc48d"/>
+		<rom name="s3j_ic75.v10" size="262144" crc="f0cdc86a" sha1="b1017a9841a56e0f5d2714f550f64ed1f4e238e6"/>
+	</game>
+
+	<game name="shanghai" sourcefile="shanghai.c">
+		<description>Shanghai (Japan)</description>
+		<year>1988</year>
+		<manufacturer>Sunsoft</manufacturer>
+		<rom name="shg-21a.rom" size="65536" crc="4ab06d32" sha1="02667d1270b101386b947d5b9bfe64052e498041"/>
+		<rom name="shg-22a.rom" size="65536" crc="e0a085be" sha1="e281043f97c4cd34a33eb1ec7154abbe67a9aa03"/>
+		<rom name="shg-27a.rom" size="65536" crc="41af0945" sha1="dfc4638a17f716ccc8e59f275571d6dc1093a745"/>
+		<rom name="shg-28a.rom" size="65536" crc="983ec112" sha1="110e120e35815d055d6108a7603e83d2d990c666"/>
+		<rom name="shg-36b.rom" size="65536" crc="a1d6af96" sha1="01c4c22bf03b3d260fffcbc6dfc5f2dd2bcba14a"/>
+		<rom name="shg-37b.rom" size="65536" crc="3f192da0" sha1="e70d5da5d702e9bf9ac6b77df62bcf51894aadcf"/>
+	</game>
+
+</datafile>
