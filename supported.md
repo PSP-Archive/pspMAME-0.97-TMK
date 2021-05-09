@@ -1593,55 +1593,54 @@ Go with Yuyu's quiz! Go! (Japan version)
 
 # Technos
 
-```
-Batten O'Hara's Scharaka Aerial Battle / Acrobatic Dog-Fight
-Battle lane! Vol.5 (set 1)
-Battle lane! Vol.5 (set 2)
-Battle lane! Vol.5 (set 3)
-Block out (Japan version)
-Block out (set 1)
-Block out (set 2)
-Boogie manners
-Nishiyu Demon Record-Ryubo Witchcraft Nosho / China Gate (USA version)
-Batten O'Hara's Scharaka Aerial Battle (Japan Version)
-Domy
-Ryu Sojo <Double Dragon> (Japan Version)
-Ryu Sojo <Double Dragon> (USA version set 1)
-Ryu Sojo <Double Dragon> (Overseas version set 1)
-Ryu Sojo 3 <Double Dragon 3> -The Rosetta Stone (USA version)
-Double Dragon II <Double Dragon II> -The Revenge (USA Version)
-Double Dragon II <Double Dragon II> -The Revenge (Overseas Version)
-Scrambled eggs / Eggs
-Exciting Hour-The Pro Wrestling Network
-Hyper Duel (Japanese version set 1)
-Hyper Duel (Japanese version set 2)
-Mania Challenge (set 1)
-Mania Challenge (set 2)
-Exciting Hour-The Prowrestling Network / Mat Mania -The Prowrestling Network
-Minky Monkey
-Mysterious Stones -Dr. John's Adventure
-Mysterious Stones-Dr. Kick's Adventure
-Renegade Kunio-kun (Japan version)
-Hot Blood High School Dodge Ball Club (Japan Version) (Pirate Version)
-Renegade Kunio-kun (USA version)
-Nishiyu Demon Record-Ryubo Witchcraft Nosho (Japan Version)
-Scrambled eggs
-Shadow Force-Transformation Ninja (USA version ver 2)
-Zaind Slina / Solar Warrior
-Super Dodge Ball (USA version)
-Arcade Archives (Japan Version)
-The Big Pro Wrestling / Tag Team Wrestling
-The Big Pro Wrestling
-The Combatribes (USA version)
-V'Ball -U.S. Championship (Japan Version)
-V'Ball -U.S. Championship (set 1)
-WWF Superstars (European version)
-WWF Wrestle Fest (Japan Version)
-WWF Wrestle Fest (USA version set 1)
-WWF Wrestle Fest (USA version Tecmo)
-Zaind Slina
-
-```
+| Game     | Description                                                                    | Description (Japanese)                                                                           |
+|----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| dogfgt   | Batten O'Hara's Scharaka Aerial Battle / Acrobatic Dog-Fight                   | バッテンオハラのスチャラカ空中戦 / Acrobatic Dog-Fight                                           |
+| battlane | Battle lane! Vol.5 (set 1)                                                     | バトルレーン！ Vol.5 (set 1)                                                                     |
+| battlan2 | Battle lane! Vol.5 (set 2)                                                     | バトルレーン！ Vol.5 (set 2)                                                                     |
+| battlan3 | Battle lane! Vol.5 (set 3)                                                     | バトルレーン！ Vol.5 (set 3)                                                                     |
+| blckoutj | Block out (Japanese version)                                                   | ブロックアウト (日本版)                                                                          |
+| blockout | Block out (set 1)                                                              | ブロックアウト (set 1)                                                                           |
+| blckout2 | Block out (set 2)                                                              | ブロックアウト (set 2)                                                                           |
+| bogeyman | Boogie manners                                                                 | ブギーマナー                                                                                     |
+| chinagat | Nishiyu Demon Record-Ryubo Witchcraft Nosho / China Gate (USA Version)         | 西遊降魔録 -流棒妖技ノ章 / China Gate (USA版)                                                    |
+| dogfgtj  | Batten O'Hara's Scharaka Aerial Battle (Japan Version)                         | バッテンオハラのスチャラカ空中戦 (日本版)                                                        |
+| dommy    | Domy                                                                           | ドミー                                                                                           |
+| ddragon  | Ryu Sojo <Double Dragon> (Japanese version)                                    | 双截龍 <ダブルドラゴン> (日本版)                                                                 |
+| ddragonu | Ryu Sojo <Double Dragon> (USA version set 1)                                   | 双截龍 <ダブルドラゴン> (USA版 set 1)                                                            |
+| ddragonw | Ryu Sojo <Double Dragon> (Overseas version set 1)                              | 双截龍 <ダブルドラゴン> (海外版 set 1)                                                           |
+| ddragon3 | Double Dragon 3 <Double Dragon 3> -The Rosetta Stone (USA Version)             | 双截龍3 <ダブルドラゴン3> -ザ・ロゼッタストーン (USA版)                                          |
+| ddragn2u | Double Dragon II <Double Dragon II> -The Revenge (USA Version)                 | 双截龍II <ダブルドラゴンII> -ザ・リベンジ (USA版)                                                |
+| ddragon2 | Double Dragon II <Double Dragon II> -The Revenge (Overseas Version)            | 双截龍II <ダブルドラゴンII> -ザ・リベンジ (海外版)                                               |
+| eggs     | Scrambled eggs / Eggs                                                          | スクランブルエッグ / Eggs                                                                        |
+| excthour | Exciting Hour-The Pro Wrestling Network                                        | エキサイティング・アワー -ザ・プロレスリング・ネットワーク                                       |
+| hyprduel | Hyper Duel (Japanese version set 1)                                            | ハイパーデュエル (日本版 set 1)                                                                  |
+| hyprdelj | Hyper Duel (Japanese version set 2)                                            | ハイパーデュエル (日本版 set 2)                                                                  |
+| maniach  | Mania Challenge (set 1)                                                        | マニアチャレンジ (set 1)                                                                         |
+| maniach2 | Mania Challenge (set 2)                                                        | マニアチャレンジ (set 2)                                                                         |
+| matmania | Exciting Hour-The Prowrestling Network / Mat Mania -The Prowrestling   Network | エキサイティング・アワー -ザ・プロレスリング・ネットワーク / Mat Mania -The Prowrestling Network |
+| mmonkey  | Minky Monkey                                                                   | ミンキーモンキー                                                                                 |
+| mystston | Mysterious Stones -Dr. John's Adventure                                        | ミステリアスストーンズ -Dr.キックの大冒険 / Mysterious Stones -Dr. John's Adventure              |
+| myststno | Mysterious Stones-Dr. Kick's Adventure                                         | ミステリアスストーンズ -Dr.キックの大冒険                                                        |
+| kuniokun | Renegade Kunio-kun (Japanese version)                                          | 熱血硬派くにおくん (日本版)                                                                      |
+| nkdodgeb | Hot Blood High School Dodge Ball Club (Japanese Version) (Pirate Version)      | 熱血高校ドッジボール部 (日本版) (海賊版)                                                         |
+| renegade | Renegade (USA version)                                                         | 熱血硬派くにおくん / Renegade (USA版)                                                            |
+| saiyugou | Nishiyu Demon Record-Ryubo Witchcraft Nosho (Japanese version)                 | 西遊降魔録 -流棒妖技ノ章 (日本版)                                                                |
+| scregg   | Scrambled eggs                                                                 | スクランブルエッグ                                                                               |
+| shadfrce | Shadow Force-Transformation Ninja (USA version ver 2)                          | シャドーフォース -変身忍者 (USA版 ver 2)                                                         |
+| solarwar | Zaind Srina / Solar Warrior                                                    | ザインド・スリーナ / Solar Warrior                                                               |
+| spdodgeb | Super Dodge Ball (USA version)                                                 | 熱血高校ドッジボール部 / Super Dodge Ball (USA版)                                                |
+| ssozumo  | Arcade Archives (Japan Version)                                                | 出世大相撲 (日本版)                                                                              |
+| tagteam  | The Big Pro Wrestling / Tag Team Wrestling                                     | ザ・ビッグ・プロレスリング / Tag Team Wrestling                                                  |
+| bigprowr | The Big Pro Wrestling                                                          | ザ・ビッグ・プロレスリング                                                                       |
+| ctribe   | The Combatribes (USA version)                                                  | ザ・コンバットライブス (USA版)                                                                   |
+| vball2pj | V'Ball -U.S. Championship (Japan Version)                                      | V'Ball -U.S.チャンピオンシップ (日本版)                                                          |
+| vball    | V'Ball -U.S. Championship (set 1)                                              | V'Ball -U.S.チャンピオンシップ (set 1)                                                           |
+| wwfsstar | WWF Superstars (European version)                                              | WWFスーパースターズ (欧州版)                                                                     |
+| wwfwfstj | WWF Wrestle Fest (Japan Version)                                               | WWFレッスルフェスト (日本版)                                                                     |
+| wwfwfest | WWF Wrestle Fest (USA version set 1)                                           | WWFレッスルフェスト (USA版 set 1)                                                                |
+| wwfwfsta | WWF Wrestle Fest (USA version Tecmo)                                           | WWFレッスルフェスト (USA版 Tecmo)                                                                |
+| xsleena  | Zaind Slina                                                                    | ザインド・スリーナ                                                                               |
 
 # Tecmo
 
@@ -1685,85 +1684,85 @@ Wild Fang
 
 # Universal
 
-```
-Pleiades / Capitol
-Cheeky mouse
-Cosmic aliens
-Cosmic Alien (older)
-Cosmic Avenger
-Cosmic guerrilla
-Space Invaders / Cosmic Monsters
-Space Invaders / Cosmic Monsters 2
-Devil zone
-Devil zone (easier)
-Super Clown / Do! Run Run (Do's Castle hardware set 1)
-Super Clown / Do! Run Run (set 1)
-Super Clown / Do! Run Run (set 2)
-Galaxy Wars (Universal set 1)
-Galaxy Wars (Universal set 2)
-Indoor soccer
-Jumping jack
-Kick rider
-Ready bug
-Magical spot
-Magical Spot II
-Mighty Monkey
-Mr.Do! VS Unicorn
-Mr.Do!
-Mr.Do! (bugfixed)
-Mr.Do! (prototype)
-Mr.Do! (Taito)
-Mr.Do! VS Unicorn / Mr. Do's Castle (older)
-Mr.Do! VS Unicorn / Mr. Do's Castle (set 1)
-Mr.Do! VS Unicorn / Mr. Do's Castle (set 2)
-Mr.Do's Wild Ride
-Sengoku Self-Defense Force / No Man's Land
-Sengoku Self-Defense Force / No Man's Land (Gottlieb)
-Snap jack
-Space Panic (German version)
-Space panic (harder)
-Space Panic (set 2)
-Space Panic (set 3)
-Space Panic (ver E)
-Space Raider
-Super Clown (Japan Version)
-Zero hour
-```
+| Game     | Description                                              | Description (Japanese)                                    |
+|----------|----------------------------------------------------------|-----------------------------------------------------------|
+| capitol  | Pleiades / Capitol                                       | プレアデス / Capitol                                      |
+| cheekyms | Cheeky mouse                                             | チーキーマウス                                            |
+| cosmica  | Cosmic Alien                                             | コスミックエイリアン                                      |
+| cosmica2 | Cosmic Alien (older)                                     | コスミックエイリアン (older)                              |
+| cavenger | Cosmic Avenger                                           | コスミックアベンジャー                                    |
+| cosmicg  | Cosmic guerrilla                                         | コスミックゲリラ                                          |
+| cosmicmo | Space Invader / Cosmic Monsters                          | スペースインベーダー / Cosmic Monsters                    |
+| cosmicm2 | Space Invader / Cosmic Monsters 2                        | スペースインベーダー / Cosmic Monsters 2                  |
+| devzone  | Devil zone                                               | デビルゾーン                                              |
+| devzone2 | Devil zone (easier)                                      | デビルゾーン (easier)                                     |
+| dorunruc | Super Pierrot / Do! Run Run (Do's Castle hardware set 1) | スーパーピエロ / Do! Run Run (Do's Castle hardware set 1) |
+| dorunrun | Super Pierrot / Do! Run Run (set 1)                      | スーパーピエロ / Do! Run Run (set 1)                      |
+| dorunru2 | Super Pierrot / Do! Run Run (set 2)                      | スーパーピエロ / Do! Run Run (set 2)                      |
+| galxwars | Galaxy Wars (Universal set 1)                            | ギャラクシーウォーズ (Universal set 1)                    |
+| galxwar2 | Galaxy Wars (Universal set 2)                            | ギャラクシーウォーズ (Universal set 2)                    |
+| idsoccer | Indoor soccer                                            | インドアサッカー                                          |
+| jjack    | Jumping jack                                             | ジャンピングジャック                                      |
+| kickridr | Kick rider                                               | キックライダー                                            |
+| ladybug  | Ready bug                                                | レディーバグ                                              |
+| magspot  | Magical spot                                             | マジカルスポット                                          |
+| magspot2 | Magical Spot II                                          | マジカルスポットII                                        |
+| mimonkey | Mighty Monkey                                            | マイティモンキー                                          |
+| douni    | Mr.Do! VS Unicorn                                        | Mr.Do！ VS ユニコーン                                     |
+| mrdo     | Mr.Do!                                                   | Mr.Do！                                                   |
+| mrdofix  | Mr.Do! (bugfixed)                                        | Mr.Do！ (bugfixed)                                        |
+| mrdoy    | Mr.Do! (prototype)                                       | Mr.Do！ (prototype)                                       |
+| mrdot    | Mr.Do! (Taito)                                           | Mr.Do！ (Taito)                                           |
+| docastlo | Mr.Do! VS Unicorn / Mr. Do's Castle (older)              | Mr.Do！ VS ユニコーン / Mr. Do's Castle (older)           |
+| docastle | Mr.Do! VS Unicorn / Mr. Do's Castle (set 1)              | Mr.Do！ VS ユニコーン / Mr. Do's Castle (set 1)           |
+| docastl2 | Mr.Do! VS Unicorn / Mr. Do's Castle (set 2)              | Mr.Do！ VS ユニコーン / Mr. Do's Castle (set 2)           |
+| dowild   | Mr.Do's Wild Ride                                        | Mr.Do's ワイルドライド                                    |
+| nomnlnd  | Sengoku Self-Defense Force / No Man's Land               | 戦国の自衛隊 / No Man's Land                              |
+| nomnlndg | Sengoku Self-Defense Force / No Man's Land (Gottlieb)    | 戦国の自衛隊 / No Man's Land (Gottlieb)                   |
+| snapjack | Snap jack                                                | スナップジャック                                          |
+| panicger | Space Panic (German version)                             | スペースパニック (ドイツ版)                               |
+| panich   | Space panic (harder)                                     | スペースパニック (harder)                                 |
+| panic2   | Space Panic (set 2)                                      | スペースパニック (set 2)                                  |
+| panic3   | Space Panic (set 3)                                      | スペースパニック (set 3)                                  |
+| panic    | Space Panic (ver E)                                      | スペースパニック (ver E)                                  |
+| sraider  | Space Raider                                             | スペースレイダー                                          |
+| spiero   | Super Clown (Japanese version)                           | スーパーピエロ (日本版)                                   |
+| zerohour | Zero hour                                                | ゼロアワー                                                |
 
 # Up!
 
-```
-Acrobat mission
-Ark area
-Atomic Robokid
-Atomic Robokid (Japanese version set 1)
-Bio-ship Paladin
-black Heart
-Black Heart (Japan Version)
-Koutetsu Yousai Strahl (Japanese version set 1)
-Koutetsu Yousai Strahl (Japanese version set 2)
-Mouser
-Mouser (Cosmos)
-Mutant Night
-Ninja-Kid-Ashura no Sho (set 1)
-Ninja-Kid-Ashura no Sho (set 2)
-Ninja-Kid-Ashura no Sho (set 3)
-Ninja-Kid-Adventure of Majo
-Nova 2001 (Japan Version)
-Nova 2001 (USA version)
-Omega Fighter
-Omega Fighter Special
-Penguin Wars (Japan Version)
-Penguin Wars (USA version)
-Ninja-Kid-Ashura no Sho / Rad Action
-Raiders 5
-Raiders 5 (Japan Version)
-Task force harrier
-Task Force Harrier (Japan Version)
-Otogi Zoshi Urashima Well
-US AAF Mustang (Japan Version)
-US AAF Mustang (Seoul Trading)
-Bandaik (Jaleco set 1)
-Bandaik (Japan version)
-XX mission
-```
+| Game     | Description                                     | Description (Japanese)              |
+|----------|-------------------------------------------------|-------------------------------------|
+| acrobatm | Acrobat mission                                 | アクロバットミッション              |
+| arkarea  | Ark area                                        | アークエリア                        |
+| robokid  | Atomic Robokid                                  | アトミックロボキッド                |
+| robokidj | Atomic Robokid (Japanese version set 1)         | アトミックロボキッド (日本版 set 1) |
+| bioship  | Bio-ship Paladin                                | 宇宙戦艦ゴモラ / Bio-ship Paladin   |
+| blkheart | black Heart                                     | ブラックハート                      |
+| blkhearj | Black Heart (Japanese version)                  | ブラックハート (日本版)             |
+| strahl   | Koutetsu Yousai Strahl (Japanese version set 1) | 鋼鉄要塞シュトラール (日本版 set 1) |
+| strahla  | Koutetsu Yousai Strahl (Japanese version set 2) | 鋼鉄要塞シュトラール (日本版 set 2) |
+| mouser   | Mouser                                          | マウサー                            |
+| mouserc  | Mouser (Cosmos)                                 | マウサー (Cosmos)                   |
+| mnight   | Mutant Night                                    | ミュータントナイト                  |
+| ninjakd2 | Ninja-Kid-Ashura no Sho (set 1)                 | 忍者くん -阿修羅ノ章 (set 1)        |
+| ninjak2a | Ninja-Kid-Ashura no Sho (set 2)                 | 忍者くん -阿修羅ノ章 (set 2)        |
+| ninjak2b | Ninja-Kid-Ashura no Sho (set 3)                 | 忍者くん -阿修羅ノ章 (set 3)        |
+| ninjakun | Ninja-Kid-Adventure of Majo                     | 忍者くん -魔城の冒険                |
+| nova2001 | Nova 2001 (Japanese version)                    | ノバ2001 (日本版)                   |
+| nov2001u | Nova 2001 (USA version)                         | ノバ2001 (USA版)                    |
+| omegaf   | Omega Fighter                                   | オメガファイター                    |
+| omegafs  | Omega Fighter Special                           | オメガファイタースペシャル          |
+| pkunwarj | Penguin Wars (Japanese version)                 | ぺんぎんくんウォーズ (日本版)       |
+| pkunwar  | Penguin Wars (USA version)                      | ぺんぎんくんウォーズ (USA版)        |
+| rdaction | Ninja-Kid-Ashura no Sho / Rad Action            | 忍者くん -阿修羅ノ章 / Rad Action   |
+| raiders5 | Raiders 5                                       | レイダース5                         |
+| raidrs5t | Raiders 5 (Japanese version)                    | レイダース5 (日本版)                |
+| tharrier | Task force harrier                              | タスクフォースハリアー              |
+| tharierj | Task Force Harrier (Japan Version)              | タスクフォースハリアー (日本版)     |
+| urashima | Otogi Soshi Urashima Well                       | お伽草子 浦島まあじゃん             |
+| mustang  | US AAF Mustang (Japanese version)               | US AAF ムスタング (日本版)          |
+| mustangs | US AAF Mustang (Seoul Trading)                  | US AAF ムスタング (Seoul Trading)   |
+| vandyjal | Bandaik (Jaleco set 1)                          | バンダイク (Jaleco set 1)           |
+| vandyke  | Bandaik (Japanese version)                      | バンダイク (日本版)                 |
+| xxmissio | XX mission                                      | XXミッション                        |
