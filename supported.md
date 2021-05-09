@@ -548,133 +548,133 @@ World PK Soccer
 
 # Konami
 
-```
-Turpin / 600
-Amidar
-Amidar (Olympia)
-Amidar (Scramble hardware)
-Amidar (Stern)
-Battlantis
-Battlantis (Japan Version)
-Blaze of Steel -The Supreme Hockey Challenge (ver E)
-Blaze of Steel -The Supreme Hockey Challenge (ver T)
-Combat School / Boot Camp
-Main Stadium / Bottom of the Ninth (ver N)
-Main Stadium / Bottom of the Ninth (ver T)
-Circus Charlie (Selectable level set 1)
-Circus Charlie (Centuri)
-Circus Charlie (Centuri earlier)
-Circus Charlie (Selectable level set 2)
-Combat School (Japanese trackball)
-Combat school (joystick)
-Combat school (trackball)
-Contra (Japan Version)
-Contra / Contra (USA version)
-Contra III -The Alien Wars (Nintendo Super System)
-Large train robbery (Japan version)
-Devastators (ver V)
-Devastators (ver X)
-Devastators (ver Z)
-Double Dribble -The Ultimate Basketball Game
-Fast lane
-Finalizer-Super Transformation
-Flak Attack (Japan Version)
-Frogger
-Frogger (Sega set 1)
-Frogger (Sega set 2)
-Devastators (Japanese version ver W)
-Green beret
-Contra / Gryzor (set 1)
-Gattan Gotton
-Gyruss (Centuri)
-Gyrus (Konami)
-Hexion (Japan version)
-Hyper Olympics
-Hyper Olympics '84
-Hyper Olympic '84 / Hyper Sports
-Iron Horse
-Special Force Jackal (Overseas Version)
-Manhattan 24th Branch -N.Y.151 / West / 100th Street / Jail Break
-Jungle
-Jungle (Stern)
-Juno First
-Juno First (Gottlieb)
-Road to Shaolin Temple / Kicker
-Koi no Hot Rock -John, Rick & She-na (Japan Version)
-Labyrinth Runner (Japan Version)
-Labyrinth Runner (overseas version ver K)
-Lethal Enforcers (ver JAD 12/04/92 17:16)
-Lethal Enforcers (ver UAE 11/19/92 15:04)
-Gattan Gotton / Loco-Motion
-Main stadium (Japan version)
-Manhattan 24 Branch -N.Y.151 / West / 100th Street (Japan Version)
-Megazone (Interlogic + Kosuka)
-Megazone (Konami set 1)
-Megazone (Konami set 2)
-Megazone (Kosuka set 1)
-Megazone (Kosuka set 2)
-New employee Toru-kun / Mikie
-Mikie -High School Graffiti
-Mogradesse
-Mr. Goemon (Japan version)
-Flak Attack / MX5000
-Pandora's Palace
-Konami's Ping Pong
-Pooyan
-Pooyan (Stern)
-The Hustler / Rack'em Up
-King of the Ring (Japanese version 2 players ver N)
-Road fighter (set 1)
-Road fighter (set 2)
-Koi no Hot Rock -John, Rick & She-na / Rock'n Rage (prototype?)
-Koi no Hot Rock -John, Rick & She-na / Rock'n Rage (Overseas Version?)
-Roc'n Rope
-Roc'n Rope (Kosuka)
-Rush'n Attack (USA version)
-S.P.Y. <Special Project Y> (USA version ver M)
-S.P.Y. <Special Project Y> (Overseas version ver N)
-Speeder Bike / Scooter Shooter
-scramble
-Scramble
-Shao-Lin's Road
-New employee and Mikie
-Space Invaders / Space King 2
-Strategy X
-Strategy X (Stern)
-Super basketball (not encrypted)
-Super basketball (ver E)
-Super basketball (ver G)
-Super cobra
-Super Cobra (Sega)
-Super Cobra (Stern)
-Tactician (set 1)
-Tactician (set 2)
-The End
-The End (Stern)
-The Hustler (Japanese version ver J)
-The Hustler (Japanese version ver M)
-The King of the Ring / The Main Event (2 players ver X)
-The Main Event (4 players ver F)
-The Main Event (4 players ver Y)
-Time pilot
-Time Pilot (Atari)
-Time Pilot (Centuri)
-Time Pilot '84 -Further into unknown world. (Set 1)
-Time Pilot '84 -Further into unknown world. (Set 2)
-Special Force Jackal (Japan Version)
-Jackal / Top Gunner (USA version)
-Hyper Olympics / Track & Field
-Hyper Olympics / Track & Field (Centuri)
-Labyrinth Runner / Trick Trap (Overseas Version?)
-Turpin
-Turtles
-Tutankham
-Tutankham (Stern)
-Video hustler
-With quiz (Konami ver)
-Yie Ar Kung Fu (set 1)
-Yie Ar Kung Fu (set 2)
-```
+| Game     | Description                                                              | Description (Japanese)                                                |
+|----------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| 600      | Turpin / 600                                                             | ターピン / 600                                                        |
+| amidar   | Amidar                                                                   | アミダー                                                              |
+| amidaro  | Amidar (Olympia)                                                         | アミダー (Olympia)                                                    |
+| amidars  | Amidar (Scramble hardware)                                               | アミダー (Scramble hardware)                                          |
+| amidaru  | Amidar (Stern)                                                           | アミダー (Stern)                                                      |
+| battlnts | Battlantis                                                               | バトランティス                                                        |
+| battlntj | Battlantis (Japanese version)                                            | バトランティス (日本版)                                               |
+| bladstle | Blaze of Steel -The Supreme Hockey Challenge (ver E)                     | ブレイズオブスティール -The Supreme Hockey Challenge (ver E)          |
+| bladestl | Blaze of Steel -The Supreme Hockey Challenge (ver T)                     | ブレイズオブスティール -The Supreme Hockey Challenge (ver T)          |
+| bootcamp | Combat School / Boot Camp                                                | コンバットスクール / Boot Camp                                        |
+| bottom9n | Main Stadium / Bottom of the Ninth (ver N)                               | メインスタジアム / Bottom of the Ninth (ver N)                        |
+| bottom9  | Main Stadium / Bottom of the Ninth (ver T)                               | メインスタジアム / Bottom of the Ninth (ver T)                        |
+| circusc  | Circus Charlie (Selectable level set 1)                                  | サーカスチャーリー (Selectable level set 1)                           |
+| circuscc | Circus Charlie (Centuri)                                                 | サーカスチャーリー (Centuri)                                          |
+| circusce | Circus Charlie (Centuri earlier)                                         | サーカスチャーリー (Centuri earlier)                                  |
+| circusc2 | Circus Charlie (Selectable level set 2)                                  | サーカスチャーリー (Selectable level set 2)                           |
+| combascj | Combat School (Japanese trackball)                                       | コンバットスクール (日本版 trackball)                                 |
+| combasc  | Combat school (joystick)                                                 | コンバットスクール (joystick)                                         |
+| combasct | Combat school (trackball)                                                | コンバットスクール (trackball)                                        |
+| contraj  | Contra (Japanese version)                                                | 魂斗羅 (日本版)                                                       |
+| contra   | Contra / Contra (USA version)                                            | 魂斗羅 / Contra (USA版)                                               |
+| nss_con3 | Contra III -The Alien Wars (Nintendo Super System)                       | 魂斗羅スピリッツ / Contra III -The Alien Wars (Nintendo Super System) |
+| dairesya | Large train robbery (Japanese version)                                   | 大列車強盗 (日本版)                                                   |
+| devstor3 | Devastators (ver V)                                                      | 餓流禍 / Devastators (ver V)                                          |
+| devstor2 | Devastators (ver X)                                                      | 餓流禍 / Devastators (ver X)                                          |
+| devstors | Devastators (ver Z)                                                      | 餓流禍 / Devastators (ver Z)                                          |
+| ddribble | Double Dribble -The Ultimate Basketball Game                             | ダブルドリブル -The Ultimate Basketball Game                          |
+| fastlane | Fast lane                                                                | ファスト・レーン                                                      |
+| finalizr | Finalizer-Super Transformation                                           | ファイナライザー -スーパートランスフォーメーション                    |
+| flkatck  | Flak Attack (Japanese version)                                           | フラックアタック (日本版)                                             |
+| frogger  | Frogger                                                                  | フロッガー                                                            |
+| frogseg1 | Frogger (Sega set 1)                                                     | フロッガー (Sega set 1)                                               |
+| frogseg2 | Frogger (Sega set 2)                                                     | フロッガー (Sega set 2)                                               |
+| garuka   | Devastators (Japanese version ver W)                                     | 餓流禍 (日本版 ver W)                                                 |
+| gberet   | Green beret                                                              | グリーンベレー                                                        |
+| gryzor   | Contra / Gryzor (set 1)                                                  | 魂斗羅 / Gryzor (set 1)                                               |
+| gutangtn | Gattan Gotton                                                            | ガッタンゴットン                                                      |
+| gyrussce | Gyruss (Centuri)                                                         | ジャイラス (Centuri)                                                  |
+| gyruss   | Gyruss (Konami)                                                          | ジャイラス (Konami)                                                   |
+| hexion   | Hexion (Japanese version)                                                | ヘクシオン (日本版)                                                   |
+| hyprolym | Hyper Olympics                                                           | ハイパーオリンピック                                                  |
+| hpolym84 | Hyper Olympics '84                                                       | ハイパーオリンピック '84                                              |
+| hyperspt | Hyper Olympic '84 / Hyper Sports                                         | ハイパーオリンピック '84 / Hyper Sports                               |
+| ironhors | Iron Horse                                                               | 大列車強盗 / Iron Horse                                               |
+| jackal   | Special Forces Jackal (Overseas Version)                                 | 特殊部隊ジャッカル / Jackal (海外版)                                  |
+| jailbrek | Manhattan 24th Branch -N.Y.151 / West / 100th Street / Jail   Break      | マンハッタン24分署 -N.Y.151・西・第100ストリート / Jail Break         |
+| jungler  | Jungle                                                                   | ジャングラー                                                          |
+| junglers | Jungle (Stern)                                                           | ジャングラー (Stern)                                                  |
+| junofrst | Juno First                                                               | ジュノファースト                                                      |
+| junofstg | Juno First (Gottlieb)                                                    | ジュノファースト (Gottlieb)                                           |
+| kicker   | Road to Shaolin Temple / Kicker                                          | 少林寺への道 / Kicker                                                 |
+| rockragj | Koi no Hot Rock -John, Rick & She-na (Japanese version)                  | 恋のホットロック -John, Rick & She-na (日本版)                        |
+| labyrunr | Labyrinth Runner (Japan Version)                                         | ラビリンスランナー (日本版)                                           |
+| labyrunk | Labyrinth Runner (overseas version ver K)                                | ラビリンスランナー (海外版 ver K)                                     |
+| lethalej | Lethal Enforcers (ver JAD 12/04/92 17:16)                                | リーサルエンフォーサーズ (ver JAD 12/04/92 17:16)                     |
+| lethalen | Lethal Enforcers (ver UAE 11/19/92 15:04)                                | リーサルエンフォーサーズ (ver UAE 11/19/92 15:04)                     |
+| locomotn | Gattan Gotton / Loco-Motion                                              | ガッタンゴットン / Loco-Motion                                        |
+| mstadium | Main stadium (Japanese version)                                          | メインスタジアム (日本版)                                             |
+| manhatan | Manhattan 24 Branch -N.Y.151 / West / 100th Street (Japan   Version)     | マンハッタン24分署 -N.Y.151・西・第100ストリート (日本版)             |
+| megaznik | Megazone (Interlogic + Kosuka)                                           | メガゾーン (Interlogic + Kosuka)                                      |
+| megazone | Megazone (Konami set 1)                                                  | メガゾーン (Konami set 1)                                             |
+| megazona | Megazone (Konami set 2)                                                  | メガゾーン (Konami set 2)                                             |
+| megazonb | Megazone (Kosuka set 1)                                                  | メガゾーン (Kosuka set 1)                                             |
+| megazonc | Megazone (Kosuka set 2)                                                  | メガゾーン (Kosuka set 2)                                             |
+| mikie    | New employee Toru-kun / Mikie                                            | 新入社員とおるくん / Mikie                                            |
+| mikiehs  | Mikie -High School Graffiti                                              | 新入社員とおるくん / Mikie -High School Graffiti                      |
+| mogura   | Mogradesse                                                               | モグラデッセ                                                          |
+| mrgoemon | Mr. Goemon (Japanese version)                                            | Mr.五右衛門 (日本版)                                                  |
+| mx5000   | Flak Attack / MX5000                                                     | フラックアタック / MX5000                                             |
+| pandoras | Pandora's Palace                                                         | パンドラズパレス                                                      |
+| pingpong | Konami's Ping Pong                                                       | コナミのピンポン                                                      |
+| pooyan   | Pooyan                                                                   | プーヤン                                                              |
+| pooyans  | Pooyan (Stern)                                                           | プーヤン (Stern)                                                      |
+| rackemup | The Husler / Rack'em Up                                                  | ザ・ハスラー / Rack 'em Up                                            |
+| ringohja | King of the Ring (Japanese version 2 players ver N)                      | リングの王者 (日本版 2 players ver N)                                 |
+| roadf    | Road fighter (set 1)                                                     | ロードファイター (set 1)                                              |
+| roadf2   | Road fighter (set 2)                                                     | ロードファイター (set 2)                                              |
+| rockraga | Koi no Hot Rock -John, Rick & She-na / Rock'n Rage (prototype?)          | 恋のホットロック -John, Rick & She-na / Rock 'n Rage (prototype?)     |
+| rockrage | Koi no Hot Rock -John, Rick & She-na / Rock'n Rage (Overseas   Version?) | 恋のホットロック -John, Rick & She-na / Rock 'n Rage (海外版?)        |
+| rocnrope | Roc'n Rope                                                               | ロックンロープ                                                        |
+| rocnropk | Roc'n Rope (Kosuka)                                                      | ロックンロープ (Kosuka)                                               |
+| rushatck | Rush'n Attack (USA version)                                              | グリーンベレー / Rush'n Attack (USA版)                                |
+| spyu     | S.P.Y. <Special Project Y> (USA version ver M)                           | S.P.Y. <Special Project Y> (USA版 ver M)                              |
+| spy      | S.P.Y. <Special Project Y> (Overseas version ver N)                      | S.P.Y. <Special Project Y> (海外版 ver N)                             |
+| scotrsht | Speeder Bike / Scooter Shooter                                           | スピーダーバイク / Scooter Shooter                                    |
+| scramble | scramble                                                                 | スクランブル                                                          |
+| scrambls | Scramble                                                                 | スクランブル (Stern)                                                  |
+| shaolins | Shao-Lin's Road                                                          | 少林寺への道 / Shao-Lin's Road                                        |
+| mikiej   | New employee and Mikie                                                   | 新入社員とおるくん                                                    |
+| spcking2 | Space Invader / Space King 2                                             | スペースインベーダー / Space King 2                                   |
+| stratgyx | Strategy X                                                               | ストラテジーX                                                         |
+| stratgys | Strategy X (Stern)                                                       | ストラテジーX (Stern)                                                 |
+| sbasketu | Super basketball (not encrypted)                                         | スーパーバスケットボール (not encrypted)                              |
+| sbasketo | Super basketball (ver E)                                                 | スーパーバスケットボール (ver E)                                      |
+| sbasketb | Super basketball (ver G)                                                 | スーパーバスケットボール (ver G)                                      |
+| scobra   | Super cobra                                                              | スーパーコブラ                                                        |
+| scobrase | Super Cobra (Sega)                                                       | スーパーコブラ (Sega)                                                 |
+| scobras  | Super Cobra (Stern)                                                      | スーパーコブラ (Stern)                                                |
+| tactcian | Tactician (set 1)                                                        | タクティシャン (set 1)                                                |
+| tactcan2 | Tactician (set 2)                                                        | タクティシャン (set 2)                                                |
+| theend   | The End                                                                  | ジ・エンド                                                            |
+| theends  | The End (Stern)                                                          | ジ・エンド (Stern)                                                    |
+| thehustj | The Hustler (Japanese version ver J)                                     | ザ・ハスラー (日本版 ver J)                                           |
+| thehustl | The Hustler (Japanese version ver M)                                     | ザ・ハスラー (日本版 ver M)                                           |
+| mainev2p | The Main Event (2 players ver X)                                         | リングの王者 / The Main Event (2 players ver X)                       |
+| mainevto | The Main Event (4 players ver F)                                         | リングの王者 / The Main Event (4 players ver F)                       |
+| mainevt  | The Main Event (4 players ver Y)                                         | リングの王者 / The Main Event (4 players ver Y)                       |
+| timeplt  | Time pilot                                                               | タイムパイロット                                                      |
+| timeplta | Time Pilot (Atari)                                                       | タイムパイロット (Atari)                                              |
+| timepltc | Time Pilot (Centuri)                                                     | タイムパイロット (Centuri)                                            |
+| tp84     | Time Pilot '84 -Further into unknown world. (Set 1)                      | タイムパイロット'84 -Further into unknown world. (set 1)              |
+| tp84a    | Time Pilot '84 -Further into unknown world. (Set 2)                      | タイムパイロット'84 -Further into unknown world. (set 2)              |
+| jackalj  | Special Force Jackal (Japanese version)                                  | 特殊部隊ジャッカル (日本版)                                           |
+| topgunr  | Jackal / Top Gunner (USA version)                                        | 特殊部隊ジャッカル / Top Gunner (USA版)                               |
+| trackfld | Hyper Olympics / Track & Field                                           | ハイパーオリンピック / Track & Field                                  |
+| trackflc | Hyper Olympics / Track & Field (Centuri)                                 | ハイパーオリンピック / Track & Field (Centuri)                        |
+| tricktrp | Labyrinth Runner / Trick Trap (Overseas Version?)                        | ラビリンスランナー / Trick Trap (海外版?)                             |
+| turpin   | Turpin                                                                   | ターピン                                                              |
+| turtles  | Turtles                                                                  | ターピン / Turtles                                                    |
+| tutankhm | Tutankham                                                                | ツタンカーム                                                          |
+| tutankst | Tutankham (Stern)                                                        | ツタンカーム (Stern)                                                  |
+| hustler  | Video hustler                                                            | ビデオハスラー                                                        |
+| wizzquiz | With quiz (Konami ver)                                                   | ウィズクイズ (Konami ver)                                             |
+| yiear    | Yie Ar Kung Fu (set 1)                                                   | イー・アル・カンフー (set 1)                                          |
+| yiear2   | Yie Ar Kung Fu (set 2)                                                   | イー・アル・カンフー (set 2)                                          |
 
 # Namco
 
