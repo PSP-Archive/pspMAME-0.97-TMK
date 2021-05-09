@@ -36,85 +36,85 @@ Ultraman-Fantasy Tokusatsu Series (Japan Version)
 
 # Capcom
 
-```
-1942 (set 1)
-1942 (set 2)
-1942 (set 3)
-1943 Kai: Midway Battle of Midway (Japan Version)
-1943 -The Battle of the Midway (Japan Version)
-1943 -The Battle of Midway (USA version)
-Adventure Quiz 2 Hatena? Adventure (Japanese version 900228)
-Legendary Wings -The Legendary Soldiers (Japan Version)
-Deadly Unrequited Fist / Avengers (USA version set 1)
-Deadly Unrequited Fist / Avengers (USA version set 2)
-Top Secret / Bionic Commando (European version)
-Top Secret / Bionic Commando (USA version set 2)
-Black dragon
-Black Tiger
-Block block (Japanese version 910910)
-Block block (overseas version 910910)
-Buster Bros. (USA version)
-Capcom Baseball (Japan Version)
-Adventure Quiz Capcom World (Japan Version)
-Commando (USA version)
-Commando on the battlefield (overseas version)
-Dokaben (Japan Version)
-Exed Exes
-F-1 dream
-Ghosts'n Goblins (USA version)
-Ghosts'n Goblins (overseas version? Set 1)
-Ghosts'n Goblins (overseas version? Set 2)
-Ghouls'n Ghosts (Mega-Tech)
-Gunsmoke (Japan version)
-Gun Smoke (USA version set 1)
-Gun Smoke (USA version set 2)
-Gun Smoke (Overseas Version)
-Deadly Unrequited Fist (Japan Version)
-Last Duel (USA version set 1)
-Last Duel (USA version set 2)
-Mad Gear / Led Storm (USA Edition)
-Legendary Wings -The Legendary Soldiers / Legendary Wings (USA version set 1)
-Legendary Wings -The Legendary Soldiers / Legendary Wings (USA version set 2)
-Mad Gear (Japan Version)
-Mad Gear (USA version)
-Ghosts'n Goblins (Japanese version rev C)
-Ghosts'n Goblins (Japanese version rev G)
-Ghosts'n Goblins (Japan Version)
-Higemaru
-Quiz Sangokushi-Champion of Wisdom (Japan Version)
-Quiz-sama's Ambition (Japan Version)
-Rush & Crash (Japan Version)
-Exed Exes / Savage Bees
-Section Z (set 1)
-Section Z (set 2)
-Commando on the battlefield
-Side Arm -Hyper Dyne (Japan Version)
-Side Arm -Hyper Dyne (USA Edition)
-Side Arm -Hyper Dyne (Overseas Version)
-Slipstream
-Sonson
-Sonson (Japan version)
-Battlefield Wolf / Space Invasion (European version)
-Street Fighter (Japan Version)
-Street fighter (prototype)
-Street Fighter (USA version)
-Street Fighter (overseas version)
-Street Fighter The Movie (ver 1.10)
-Street Fighter The Movie (ver 1.11)
-Street Fighter The Movie (ver 1.12)
-Street Fighter The Movie (Japanese version ver 1.12N)
-Trojan (Japanese version)
-Rush & Crash / The Speed ​​Rumbler (set 1)
-Rush & Crash / The Speed ​​Rumbler (set 2)
-Tiger Road (USA version)
-Top Secret (Japan Version)
-Road to Tiger (Japan Version)
-Trojan (Romstar)
-Trojan / Trojan (USA version)
-Vargas (Japanese version?)
-Vargas (set 1)
-Vargas (set 2)
-```
+| Rom      | Game                                                                            |
+|----------|---------------------------------------------------------------------------------|
+| 1942     | 1942 (set 1)                                                                    |
+| 1942a    | 1942 (set 2)                                                                    |
+| 1942b    | 1942 (set 3)                                                                    |
+| 1943kai  | 1943 Kai: Midway Battle of Midway (Japan Version)                               |
+| 1943j    | 1943 -The Battle of the Midway (Japan Version)                                  |
+| 1943     | 1943 -The Battle of Midway (USA version)                                        |
+| hatena   | Adventure Quiz 2 Hatena? Adventure (Japanese version 900228)                    |
+| lwingsjp | Legendary Wings -The Legendary Soldiers (Japan Version)                         |
+| avengers | Deadly Unrequited Fist / Avengers (USA version set 1)                           |
+| avenger2 | Deadly Unrequited Fist / Avengers (USA version set 2)                           |
+| bionicc  | Top Secret / Bionic Commando (European version)                                 |
+| bionicc2 | Top Secret / Bionic Commando (USA version set 2)                                |
+| blkdrgon | Black dragon                                                                    |
+| blktiger | Black Tiger                                                                     |
+| blockj   | Block block (Japanese version 910910)                                           |
+| blocka   | Block block (overseas version 910910)                                           |
+| bbros    | Buster Bros. (USA version)                                                      |
+| cbasebal | Capcom Baseball (Japan Version)                                                 |
+| cworld   | Adventure Quiz Capcom World (Japan Version)                                     |
+| commandu | Commando (USA version)                                                          |
+| commando | Commando on the battlefield (overseas version)                                  |
+| dokaben  | Dokaben (Japan Version)                                                         |
+| exedexes | Exed Exes                                                                       |
+| f1dream  | F-1 dream                                                                       |
+| gngt     | Ghosts'n Goblins (USA version)                                                  |
+| gng      | Ghosts'n Goblins (overseas version? Set 1)                                      |
+| gnga     | Ghosts'n Goblins (overseas version? Set 2)                                      |
+| gng      | Ghouls'n Ghosts (Mega-Tech)                                                     |
+| gunsmokj | Gunsmoke (Japan version)                                                        |
+| gunsmoku | Gun Smoke (USA version set 1)                                                   |
+| gunsmoka | Gun Smoke (USA version set 2)                                                   |
+| gunsmoke | Gun Smoke (Overseas Version)                                                    |
+| buraiken | Deadly Unrequited Fist (Japan Version)                                          |
+| lastduel | Last Duel (USA version set 1)                                                   |
+| lstduela | Last Duel (USA version set 2)                                                   |
+| ledstorm | Mad Gear / Led Storm (USA Edition)                                              |
+| lwings   | Legendary Wings -The Legendary Soldiers / Legendary Wings (USA   version set 1) |
+| lwings2  | Legendary Wings -The Legendary Soldiers / Legendary Wings (USA   version set 2) |
+| madgearj | Mad Gear (Japan Version)                                                        |
+| madgear  | Mad Gear (USA version)                                                          |
+| makaimuc | Ghosts'n Goblins (Japanese version rev C)                                       |
+| makaimug | Ghosts'n Goblins (Japanese version rev G)                                       |
+| makaimur | Ghosts'n Goblins (Japan Version)                                                |
+| higemaru | Higemaru                                                                        |
+| qsangoku | Quiz Sangokushi-Champion of Wisdom (Japan Version)                              |
+| qtono1   | Quiz-sama's Ambition (Japan Version)                                            |
+| rushcrsh | Rush & Crash (Japan Version)                                                    |
+| savgbees | Exed Exes / Savage Bees                                                         |
+| sectionz | Section Z (set 1)                                                               |
+| sctionza | Section Z (set 2)                                                               |
+| commandj | Commando on the battlefield                                                     |
+| sidearjp | Side Arm -Hyper Dyne (Japan Version)                                            |
+| sidearmr | Side Arm -Hyper Dyne (USA Edition)                                              |
+| sidearms | Side Arm -Hyper Dyne (Overseas Version)                                         |
+| slipstrm | Slipstream                                                                      |
+| sonson   | Sonson                                                                          |
+| sonsonj  | Sonson (Japan version)                                                          |
+| sinvasn  | Battlefield Wolf / Space Invasion (European version)                            |
+| sfjp     | Street Fighter (Japan Version)                                                  |
+| sfp      | Street fighter (prototype)                                                      |
+| sfus     | Street Fighter (USA version)                                                    |
+| sf       | Street Fighter (overseas version)                                               |
+| sftm110  | Street Fighter The Movie (ver 1.10)                                             |
+| sftm111  | Street Fighter The Movie (ver 1.11)                                             |
+| sftm     | Street Fighter The Movie (ver 1.12)                                             |
+| sftmj    | Street Fighter The Movie (Japanese version ver 1.12N)                           |
+| trojanj  | Trojan (Japanese version)                                                       |
+| srumbler | Rush & Crash / The Speed Rumbler (set 1)                                        |
+| srumblr2 | Rush & Crash / The Speed Rumbler (set 2)                                        |
+| tigeroad | Tiger Road (USA version)                                                        |
+| topsecrt | Top Secret (Japan Version)                                                      |
+| toramich | Road to Tiger (Japan Version)                                                   |
+| trojanr  | Trojan (Romstar)                                                                |
+| trojan   | Trojan / Trojan (USA version)                                                   |
+| vulgusj  | Vargas (Japanese version?)                                                      |
+| vulgus   | Vargas (set 1)                                                                  |
+| vulgus2  | Vargas (set 2)                                                                  |
 
 # Deco
 
