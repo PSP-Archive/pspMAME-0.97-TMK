@@ -1063,85 +1063,85 @@ Zoom 909
 
 # SNK
 
-```
-ASO <Armored Scrum Object> / Alpha Mission
-ASO <Armored Scrum Object>
-Athena
-Beast Busters (overseas version?)
-Bermuda Triangle (Japanese version old ver)
-Bermuda Triangle (Japan Version)
-Bermuda Triangle (USA version older ver)
-Buriki ONE -World Grapple Tournament '99 in Tokyo (rev B)
-Chopper I -The Legend of Air Cavalry / Chopper I (USA version set 1)
-Chopper I -The Legend of Air Cavalry / Chopper I (USA version set 2)
-Chopper I -The Legend of Air Cavalry / Chopper I (USA version set 3)
-Fighting Golf / Country Club
-Jailbreak -Prisoners of War (Japan Version)
-Ikari Warriors
-Fantasy (Japan version)
-Fantasy (USA version)
-Fantasy (overseas version)
-Fatal Fury: Wild Ambition (rev A)
-Fighting Golf (USA Version)
-Fighting Golf (Overseas Version?)
-Fighting soccer
-Primitive Isle-1930's
-Gladiator
-Gold medalist
-Gold medalist (alt)
-Guerrilla War (USA version)
-Guerrilla War (ver 1)
-Guevara (Japan version)
-Hull 21
-Hull 21 (Japan version)
-Anger (Japan version)
-Anger III -The Rescue (rotary joystick)
-Ikari Warriors (USA version)
-Joyful Road (Japan Version)
-Jumping cloth
-Chopper I -The Legend of Air Cavalry (Japan Version)
-Lasso
-Mad crusher
-Mahjong Block Jumbow (Japan Version)
-Main event
-Marvin's Maze
-Mechaized Attack (Overseas Version)
-Meijin
-Joyful Road / Munch Mobile (USA version)
-Ozma Wars (set 1)
-Ozma Wars (set 2)
-Jailbreak -Prisoners of War / P.O.W.-Prisoners of War (USA version)
-Paddle mania
-Pioneer balloon
-Primitive Island -1930's / Prehistoric Isle in 1930 (USA version)
-Primitive Island -1930's / Prehistoric Isle in 1930 (overseas version)
-Psycho Soldier (Japan Version)
-Psycho Soldier (USA version)
-Round trip RV (rev B)
-Safari Rally (Japan Version)
-Samurai Soul 2 <Samurai Spirits 2> -Asura Zanmaden
-SAR <Search and Rescue> (USA version)
-SAR <Search and Rescue> (Overseas Version)
-Sasuke vs Commander
-Satan of Satan
-Street smart (Japanese version ver 1)
-Street smart (USA version ver 1)
-Street smart (USA version ver 2)
-Street smart (overseas version ver 1)
-T.A.N.K (Japan version)
-T.A.N.K / TNK III (USA version)
-The Next Space
-Touch down fever
-Touch Down Fever (Japan Version)
-Touch Down Fever II
-Vanguard (Centuri)
-Vanguard (Japan version)
-Vanguard (SNK)
-Vanguard II
-Ikari Warriors / Victory Road
-World Wars (overseas version)
-Satan of Satan / Zarzon
-```
+| Game     | Description                                                            | Description (Japanese)                                            |
+|----------|------------------------------------------------------------------------|-------------------------------------------------------------------|
+| alphamis | ASO <Armored Scrum Object> / Alpha Mission                             | ASO <Armored Scrum Object> / Alpha Mission                        |
+| aso      | ASO <Armored Scrum Object>                                             | ASO <Armored Scrum Object>                                        |
+| athena   | Athena                                                                 | アテナ                                                            |
+| bbusters | Beast Busters (overseas version?)                                      | ビーストバスターズ (海外版?)                                      |
+| bermudao | Bermuda Triangle (Japanese version old ver)                            | バミューダトライアングル (日本版 old ver)                         |
+| bermudat | Bermuda Triangle (Japanese version)                                    | バミューダトライアングル (日本版)                                 |
+| bermudaa | Bermuda Triangle (USA version older ver)                               | バミューダトライアングル (USA版 older ver)                        |
+| buriki   | Buriki ONE -World Grapple Tournament '99 in Tokyo (rev B)              | 武力ONE -World Grapple Tournament '99 in Tokyo (rev B)            |
+| chopper  | Chopper I -The Legend of Air Cavalry / Chopper I (USA version set 1)   | 航空騎兵物語 -The Legend of Air Cavalry / Chopper I (USA版 set 1) |
+| choppera | Chopper I -The Legend of Air Cavalry / Chopper I (USA version set 2)   | 航空騎兵物語 -The Legend of Air Cavalry / Chopper I (USA版 set 2) |
+| chopperb | Chopper I -The Legend of Air Cavalry / Chopper I (USA version set 3)   | 航空騎兵物語 -The Legend of Air Cavalry / Chopper I (USA版 set 3) |
+| countryc | Fighting Golf / Country Club                                           | ファイティングゴルフ / Country Club                               |
+| powj     | Jailbreak -Prisoners of War (Japanese version)                         | 脱獄 -Prisoners of War (日本版)                                   |
+| dogosoke | Ikari Warriors                                                         | 怒号層圏                                                          |
+| fantasyj | Fantasy (Japanese version)                                             | ファンタジー (日本版)                                             |
+| fantasyu | Fantasy (USA version)                                                  | ファンタジー (USA版)                                              |
+| fantasy  | Fantasy (overseas version)                                             | ファンタジー (海外版)                                             |
+| fatfurwa | Fatal Fury: Wild Ambition (rev A)                                      | 餓狼伝説 -ワイルドアンビション (rev A)                            |
+| fitegol2 | Fighting Golf (USA Version)                                            | ファイティングゴルフ (USA版)                                      |
+| fitegolf | Fighting Golf (Overseas Version?)                                      | ファイティングゴルフ (海外版?)                                    |
+| ftsoccer | Fighting soccer                                                        | ファイティングサッカー                                            |
+| gensitou | Primitive Isle-1930's                                                  | 原始島 -1930's                                                    |
+| sgladiat | Gladiator                                                              | グラディエイター                                                  |
+| goldmedl | Gold medalist                                                          | ゴールドメダリスト                                                |
+| goldmeda | Gold medalist (alt)                                                    | ゴールドメダリスト (alt)                                          |
+| gwar     | Guerrilla War (USA version)                                            | ゲバラ / Guerrilla War (USA版)                                    |
+| gwara    | Guerrilla War (ver 1)                                                  | ゲバラ / Guerrilla War (ver 1)                                    |
+| gwarj    | Guevara (Japanese version)                                             | ゲバラ (日本版)                                                   |
+| hal21    | Hull 21                                                                | ハル21                                                            |
+| hal21j   | Hull 21 (Japanese version)                                             | ハル21 (日本版)                                                   |
+| ikarijp  | Anger (Japanese version)                                               | 怒 (日本版)                                                       |
+| ikari3   | Anger III -The Rescue (rotary joystick)                                | 怒III -The Rescue (rotary joystick)                               |
+| ikari    | Ikari Warriors (USA version)                                           | 怒 / Ikari Warriors (USA版)                                       |
+| joyfulr  | Joyful Road (Japanese version)                                         | ジョイフルロード (日本版)                                         |
+| jcross   | Jumping cloth                                                          | ジャンピングクロス                                                |
+| legofair | Chopper I -The Legend of Air Cavalry (Japanese Version)                | 航空騎兵物語 -The Legend of Air Cavalry (日本版)                  |
+| lasso    | Lasso                                                                  | ラッソ                                                            |
+| madcrash | Mad crusher                                                            | マッドクラッシャー                                                |
+| jongbou  | Mahjong Block Jumbo (Japan Version)                                    | マージャンブロック ジャンボウ (日本版)                            |
+| mainsnk  | Main event                                                             | メインイベント                                                    |
+| marvins  | Marvin's Maze                                                          | マービンズメイズ                                                  |
+| mechatt  | Mechaized Attack (Overseas Version)                                    | メカナイズドアタック (海外版)                                     |
+| meijinsn | Master Battle                                                          | 名人戦                                                            |
+| mnchmobl | Joyful Road / Munch Mobile (USA version)                               | ジョイフルロード / Munch Mobile (USA版)                           |
+| ozmawars | Ozma Wars (set 1)                                                      | オズマウォーズ (set 1)                                            |
+| ozmawar2 | Ozma Wars (set 2)                                                      | オズマウォーズ (set 2)                                            |
+| pow      | Jailbreak -Prisoners of War / P.O.W.-Prisoners of War (USA version)    | 脱獄 -Prisoners of War / P.O.W. -Prisoners of War (USA版)         |
+| paddlema | Paddle mania                                                           | パドルマニア                                                      |
+| pballoon | Pioneer balloon                                                        | パイオニアバルーン                                                |
+| prehislu | Primitive Island -1930's / Prehistoric Isle in 1930 (USA version)      | 原始島 -1930's / Prehistoric Isle in 1930 (USA版)                 |
+| prehisle | Primitive Island -1930's / Prehistoric Isle in 1930 (overseas version) | 原始島 -1930's / Prehistoric Isle in 1930 (海外版)                |
+| psychosj | Psycho Soldier (Japanese version)                                      | サイコ・ソルジャー (日本版)                                       |
+| psychos  | Psycho Soldier (USA version)                                           | サイコ・ソルジャー (USA版)                                        |
+| roadedge | Round trip RV (rev B)                                                  | ラウンドトリップRV (rev B)                                        |
+| safarir  | Safari Rally (Japanese version)                                        | サファリラリー (日本版)                                           |
+| sams64_2 | Samurai Soul 2 <Samurai Spirits 2> -Asura Zanmaden                     | 侍魂2 <サムライスピリッツ2> -アスラ斬魔伝                         |
+| sercharu | SAR <Search And Rescue> (USA version)                                  | SAR <サーチアンドレスキュー> (USA版)                              |
+| searchar | SAR <Search And Rescue> (Overseas Version)                             | SAR <サーチアンドレスキュー> (海外版)                             |
+| sasuke   | Sasuke vs Commander                                                    | サスケVSコマンダ                                                  |
+| satansat | Satan of Satan                                                         | サタンオブサターン                                                |
+| streetsj | Street smart (Japanese version ver 1)                                  | ストリートスマート (日本版 ver 1)                                 |
+| streets1 | Street Smart (USA version ver 1)                                       | ストリートスマート (USA版 ver 1)                                  |
+| streetsm | Street Smart (USA version ver 2)                                       | ストリートスマート (USA版 ver 2)                                  |
+| streetsw | Street smart (overseas version ver 1)                                  | ストリートスマート (海外版 ver 1)                                 |
+| tnk3j    | T.A.N.K (Japanese version)                                             | T.A.N.K (日本版)                                                  |
+| tnk3     | T.A.N.K / TNK III (USA version)                                        | T.A.N.K / TNK III (USA版)                                         |
+| tnexspce | The Next Space                                                         | ザ・ネクストスペース                                              |
+| tdfever  | Touch down fever                                                       | タッチダウンフィーバー                                            |
+| tdfeverj | Touch Down Fever (Japanese version)                                    | タッチダウンフィーバー (日本版)                                   |
+| tdfever2 | Touch Down Fever II                                                    | タッチダウンフィーバーII                                          |
+| vangrdce | Vanguard (Centuri)                                                     | ヴァンガード (Centuri)                                            |
+| vanguarj | Vanguard (Japanese version)                                            | ヴァンガード (日本版)                                             |
+| vanguard | Vanguard (SNK)                                                         | ヴァンガード (SNK)                                                |
+| vangrd2  | Vanguard II                                                            | ヴァンガードII                                                    |
+| victroad | Ikari Warriors / Victory Road                                          | 怒号層圏 / Victory Road                                           |
+| worldwar | World Wars (overseas version)                                          | ワールドウォーズ (海外版)                                         |
+| zarzon   | Satan of Satan / Zarzon                                                | サタンオブサターン / Zarzon                                       |
 
 # Sunsoft
 
