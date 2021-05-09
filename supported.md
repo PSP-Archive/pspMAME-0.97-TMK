@@ -685,101 +685,101 @@ World PK Soccer
 
 # Namco
 
-```
-Baraduke (set 1)
-Baraduke (set 2)
-Bomb Bee
-Bosconian (Midway new ver)
-Bosconian (Midway old ver)
-Bosconian (new ver)
-Bosconian (old ver)
-Bosconian (older ver)
-Cutie Q
-Dig Dug (Atari rev 1)
-Dig Dug (Atari rev 2)
-Dig Dug (rev 1)
-Dig Dug (rev 2)
-Dig Dug II (new ver)
-Dig Dug II (old ver)
-Dragon Buster
-Galaga (Midway set 1)
-Galaga (Midway set 2)
-Galaga (Namco rev B)
-Galaga (Namco)
-Gaplus / Galaga 3 (rev C)
-Gaplus / Galaga 3 (set 2)
-Gaplus / Galaga 3 (set 3)
-Galaxian (Midway)
-Galaxian (Midway old rev)
-Galaxian (Namco set 1)
-Galaxian (Namco set 2)
-Gaplus (alt hardware)
-Gaplus (rev B)
-Gaplus (rev D)
-Gee Bee
-Gremlin
-Genpei Tomaden
-Grobda (new ver)
-Grobda (old ver set 1)
-Grobda (old ver set 2)
-Hopping Mappy
-Undersea treasure hunt
-King & Balloon (Japan Version)
-King & Balloon (USA version)
-Mappy (Japan version)
-Mappy (USA version)
-Metro-Cross (set 1)
-Metro-Cross (set 2)
-Motos
-Navalon
-New Rally X
-Pac & Pal
-Pac & Pal (older)
-Pac-Land (Midway)
-Pac-Land (set 1)
-Pac-Land (set 2)
-Pac-Land (set 3)
-Pac-Man & Chomp Chomp
-Pacman (Midway)
-Pacman (Midway harder)
-Pacman (Midway with speedup hack)
-Pac-Man Plus
-Phozon (Japan version)
-Pole position
-Pole position (Atari ver 1)
-Pole position (Atari ver 2)
-Pole position II
-Pole Position II (Atari)
-Pac-Man (Japanese version set 1 with speedup hack)
-Pac-Man (Japanese version set 1 Probably Bootleg)
-Pac-Man (Japanese version set 2)
-Pac-Man (Japanese version set 3)
-rally-X
-Rally X (Midway)
-Rolling Thunder (new ver)
-Rolling Thunder (old ver)
-Sky Kid (CUS60 ver)
-Sky Kid (new ver)
-Sky Kid (old ver)
-Sky Kid DX (set 1)
-Sky Kid DX (set 2)
-SOS
-Super Pac-Man
-Super Pac-Man (Midway)
-Super Xevious
-Tank battalion
-The Return of Ishtar
-Tower of Druaga (new ver)
-Tower of Druaga (old ver)
-Warp & Warp
-Warp & Warp (Rock-ola set 1)
-Warp & Warp (Rock-ola set 2)
-Wonder Momo
-Xevious (Atari set 1)
-Xevious (Atari set 2)
-Xevious (Atari set 3)
-Xevious (Namco)
-```
+| Game     | Description                                        | Description (Japanese)                      |
+|----------|----------------------------------------------------|---------------------------------------------|
+| baraduke | Baraduke (set 1)                                   | バラデューク (set 1)                        |
+| baraduka | Baraduke (set 2)                                   | バラデューク (set 2)                        |
+| bombbee  | Bomb Bee                                           | ボムビー                                    |
+| boscomd  | Bosconian (Midway new ver)                         | ボスコニアン (Midway new ver)               |
+| boscomdo | Bosconian (Midway old ver)                         | ボスコニアン (Midway old ver)               |
+| bosco    | Bosconian (new ver)                                | ボスコニアン (new ver)                      |
+| boscoo   | Bosconian (old ver)                                | ボスコニアン (old ver)                      |
+| boscoo2  | Bosconian (older ver)                              | ボスコニアン (older ver)                    |
+| cutieq   | Cutie Q                                            | キューティーQ                               |
+| digduga1 | Dig Dug (Atari rev 1)                              | ディグダグ (Atari rev 1)                    |
+| digdugat | Dig Dug (Atari rev 2)                              | ディグダグ (Atari rev 2)                    |
+| digdugb  | Dig Dug (rev 1)                                    | ディグダグ (rev 1)                          |
+| digdug   | Dig Dug (rev 2)                                    | ディグダグ (rev 2)                          |
+| digdug2  | Dig Dug II (new ver)                               | ディグダグII (new ver)                      |
+| digdug2o | Dig Dug II (old ver)                               | ディグダグII (old ver)                      |
+| drgnbstr | Dragon Buster                                      | ドラゴンバスター                            |
+| galagamw | Galaga (Midway set 1)                              | ギャラガ (Midway set 1)                     |
+| galagamk | Galaga (Midway set 2)                              | ギャラガ (Midway set 2)                     |
+| galaga   | Galaga (Namco rev B)                               | ギャラガ (Namco rev B)                      |
+| galagao  | Galaga (Namco)                                     | ギャラガ (Namco)                            |
+| galaga3  | Gaplus / Galaga 3 (rev C)                          | ギャプラス / Galaga 3 (rev C)               |
+| galaga3a | Gaplus / Galaga 3 (set 2)                          | ギャプラス / Galaga 3 (set 2)               |
+| galaga3m | Gaplus / Galaga 3 (set 3)                          | ギャプラス / Galaga 3 (set 3)               |
+| galmidw  | Galaxian (Midway)                                  | ギャラクシアン (Midway)                     |
+| galmidwo | Galaxian (Midway old rev)                          | ギャラクシアン (Midway old rev)             |
+| galaxian | Galaxian (Namco set 1)                             | ギャラクシアン (Namco set 1)                |
+| galaxiaj | Galaxian (Namco set 2)                             | ギャラクシアン (Namco set 2)                |
+| gaplusa  | Gaplus (alt hardware)                              | ギャプラス (alt hardware)                   |
+| gapluso  | Gaplus (rev B)                                     | ギャプラス (rev B)                          |
+| gaplus   | Gaplus (rev D)                                     | ギャプラス (rev D)                          |
+| geebee   | BB                                                 | ジービー                                    |
+| geebeeg  | Gremlin                                            | ジービー (Gremlin)                          |
+| genpeitd | Genpei Tomaden                                     | 源平討魔伝                                  |
+| grobda   | Grobda (new ver)                                   | グロブダー (new ver)                        |
+| grobda2  | Grobda (old ver set 1)                             | グロブダー (old ver set 1)                  |
+| grobda3  | Grobda (old ver set 2)                             | グロブダー (old ver set 2)                  |
+| hopmappy | Hopping Mappy                                      | ホッピングマッピー                          |
+| kaitei   | Undersea treasure hunt                             | 海底宝探し                                  |
+| kingbalj | King & Balloon (Japanese version)                  | キング&バルーン (日本版)                    |
+| kingball | King & Balloon (USA version)                       | キング&バルーン (USA版)                     |
+| mappyj   | Mappy (Japanese version)                           | マッピー (日本版)                           |
+| mappy    | Mappy (USA version)                                | マッピー (USA版)                            |
+| metrocrs | Metro-Cross (set 1)                                | メトロクロス (set 1)                        |
+| metrocra | Metro-Cross (set 2)                                | メトロクロス (set 2)                        |
+| motos    | Motos                                              | モトス                                      |
+| navarone | Navalon                                            | ナバロン                                    |
+| nrallyx  | New Rally X                                        | ニューラリーX                               |
+| pacnpal  | Pac & Pal                                          | パック&パル                                 |
+| pacnpal2 | Pac & Pal (older)                                  | パック&パル (older)                         |
+| paclandm | Pac-Land (Midway)                                  | パックランド (Midway)                       |
+| pacland  | Pac-Land (set 1)                                   | パックランド (set 1)                        |
+| pacland2 | Pac-Land (set 2)                                   | パックランド (set 2)                        |
+| pacland3 | Pac-Land (set 3)                                   | パックランド (set 3)                        |
+| pacnchmp | Pac-Man & Chomp Chomp                              | パック&パル / Pac-Man & Chomp Chomp         |
+| pacman   | Pacman (Midway)                                    | パックマン (Midway)                         |
+| pacmod   | Pac-Man (Midway harder)                            | パックマン (Midway harder)                  |
+| pacmanf  | Pac-Man (Midway with speedup hack)                 | パックマン (Midway with speedup hack)       |
+| pacplus  | Pac-Man Plus                                       | パックマン / Pac-Man Plus                   |
+| phozon   | Phozon (Japanese version)                          | フォゾン (日本版)                           |
+| polepos  | Pole position                                      | ポールポジション                            |
+| polepos1 | Pole position (Atari ver 1)                        | ポールポジション (Atari ver 1)              |
+| poleposa | Pole position (Atari ver 2)                        | ポールポジション (Atari ver 2)              |
+| polepos2 | Pole position II                                   | ポールポジションII                          |
+| poleps2a | Pole Position II (Atari)                           | ポールポジションII (Atari)                  |
+| puckmanf | Pac-Man (Japanese version set 1 with speedup hack) | パックマン (日本版 set 1 with speedup hack) |
+| puckman  | Pac-Man (Japanese version set 1 Probably Bootleg)  | パックマン (日本版 set 1 Probably Bootleg)  |
+| puckmana | Pac-Man (Japanese version set 2)                   | パックマン (日本版 set 2)                   |
+| puckmod  | Pac-Man (Japanese version set 3)                   | パックマン (日本版 set 3)                   |
+| rallyx   | rally-X                                            | ラリーX                                     |
+| rallyxm  | Rally X (Midway)                                   | ラリーX (Midway)                            |
+| rthunder | Rolling Thunder (new ver)                          | ローリングサンダー (new ver)                |
+| rthundro | Rolling Thunder (old ver)                          | ローリングサンダー (old ver)                |
+| skykidd  | Sky Kid (CUS60 ver)                                | スカイキッド (CUS60 ver)                    |
+| skykid   | Sky Kid (new ver)                                  | スカイキッド (new ver)                      |
+| skykido  | Sky Kid (old ver)                                  | スカイキッド (old ver)                      |
+| skykiddx | Sky Kid DX (set 1)                                 | スカイキッドDX (set 1)                      |
+| skykiddo | Sky Kid DX (set 2)                                 | スカイキッドDX (set 2)                      |
+| sos      | SOS                                                | SOS                                         |
+| superpac | Super Pac-Man                                      | スーパーパックマン                          |
+| superpcm | Super Pac-Man (Midway)                             | スーパーパックマン (Midway)                 |
+| sxevious | Super Xevious                                      | スーパーゼビウス                            |
+| tankbatt | Tank battalion                                     | タンクバタリアン                            |
+| roishtar | The Return of Ishtar                               | イシターの復活                              |
+| todruaga | Tower of Druaga (new ver)                          | ドルアーガの塔 (new ver)                    |
+| todruago | Tower of Druaga (old ver)                          | ドルアーガの塔 (old ver)                    |
+| warpwarp | Warp & Warp                                        | ワープ&ワープ                               |
+| warpwarr | Warp & Warp (Rock-ola set 1)                       | ワープ&ワープ (Rock-ola set 1)              |
+| warpwar2 | Warp & Warp (Rock-ola set 2)                       | ワープ&ワープ (Rock-ola set 2)              |
+| wndrmomo | Wonder Momo                                        | ワンダーモモ                                |
+| xeviousa | Xevious (Atari set 1)                              | ゼビウス (Atari set 1)                      |
+| xeviousb | Xevious (Atari set 2)                              | ゼビウス (Atari set 2)                      |
+| xeviousc | Xevious (Atari set 3)                              | ゼビウス (Atari set 3)                      |
+| xevious  | Xevious (Namco)                                    | ゼビウス (Namco)                            |
 
 # Nichibutsu
 
@@ -1162,434 +1162,434 @@ Shanghai III (Japan version)
 
 # Taito
 
-```
-Alpine skiing (set 1)
-Alpine skiing (set 2)
-American Horseshoes (USA Version)
-Arkanoid-Revenge of DOH (Japan Version)
-Arkanoid-Revenge of DOH (USA version)
-Arkanoid-Revenge of DOH (Overseas Version)
-Arkanoid (Japan version)
-Arkanoid (USA version)
-Arkanoid (USA version older)
-Arkanoid (overseas version)
-Balloon Bomber
-Ben Bero Beh (Japan Version)
-Big event golf
-Bio-Attack
-Birdie King
-Birdie King 2
-Birdie King 3
-Bubble bobble
-Bubble bobble (older)
-Bubble Bobble (USA version with mode select)
-Bubble Bobble (USA version)
-Buggy Challenge
-Buggy Challenge (Tecfri)
-Kachat (Japan Version)
-Chack'n Pop
-Champion Wrestler (Japan Version)
-Champion Wrestler (USA version)
-Champion Wrestler (overseas version)
-Change lane
-Cloud Master (Japan Version)
-Cloud Master (USA version)
-Cloud Master (Overseas Version)
-Colony 7 (set 1)
-Colony 7 (set 2)
-Complex X
-Crazy balloon (set 1)
-Crazy balloon (set 2)
-Cubby Bop (Location Test)
-Violent Shooting / Cycle Shooting
-Dockman
-Dr. Toppel's Adventure (USA version)
-Dr. Toppel's Adventure (Overseas Version)
-Dr. Toppel Expedition (Japan Version)
-Elevator action
-Extermination (USA version)
-Exzisus (Japan Version)
-The Athletic Meet / Field Day
-Fighting Hawk (Japan Version)
-Fighting Hawk (overseas version)
-Fire battle
-Fitter
-40-0
-Front line
-Lunar Rescue / Galaxy Rescue
-Galaxy Wars (Taito?)
-Get Star (Japan Version)
-Golden Castle / Gladiator (USA version)
-Desperate Exploration Survival Yukeyuke! Mr. Yamaguchi
-Grand Champion
-Golden Castle / Great Gurianos (Japanese version?)
-Great Swordsman (Japanese version?)
-Great Swordsman (overseas version?)
-Getstar / Guardian
-Gyrodine
-Gyrodine (Crux)
-Halley's Comet (Japanese version newer)
-Halley's Comet (Japanese version older)
-Halley's Comet (USA version)
-Highway race
-Insector X (overseas version)
-Women's volleyball
-Jump coaster (Taito)
-Jungle Hunt (Brazil version)
-Jungle Hunt (USA version)
-Jungle King (Japan Version)
-Jungle King (Japanese version earlier)
-Kabuki Z (Japan Version)
-Kabuki Z (overseas version)
-Fire (Japanese version)
-Fire (USA version)
-Kick & run
-Kick start
-Bizarre mysterious world
-Clam (encrypted)
-Clam (set 1)
-Clam (set 2)
-Kuri Kinton (Japan Version)
-Kuri Kinton (USA version)
-Kuri Kinton (overseas version)
-Kuri Kinton (overseas version prototype?)
-Grass baseball
-Land, sea and air-front line (set 1)
-Lunar Rescue
-Lupin III
-T.T Mahjong
-Marine date
-Metal Soldier Isaac II
-Mini Vader
-NY Captor
-Lady Master / Nunchackun
-Golden Castle (Japan Version)
-Onna Sanshiro -Typhoon Gal (set 1)
-Onna Sanshiro -Typhoon Gal (set 2)
-Palamedes (Japan version)
-Phoenix (Taito)
-Ping pong king
-Jungle King / Pirate Pete
-Pit & Run -F-1 Race (set 1)
-Pit & Run -F-1 Race (set 2)
-Plotting -An Exciting Cube Game / Plotting (overseas version set 1)
-Plotting -An Exciting Cube Game / Plotting (overseas version set 2)
-Plump Pop (Japan Version)
-Polaris (set 1)
-Polaris (set 2)
-Power Blade (PlayChoice-10)
-Previlian
-Puzznic (overseas version)
-Qix (set 1)
-Qix (set 2)
-Qix (set 3)
-Qix II (Tournament)
-Raimais (overseas version)
-Return of the Invaders
-Ring Fighter (set 1)
-Ring Fighter (set 2)
-Rock climber
-S.R.D.Mission
-The best samurai in Japan (set 1)
-The best samurai in Japan (set 2)
-Sea Fighter Poseidon
-Slap Fight (set 1)
-Space chaser
-Space Chaser (CV ver)
-Space cruiser
-Space dungeon
-Space Invaders (CV ver)
-Space Invaders (SV ver 2)
-Space Invaders (SV ver)
-Space Invaders (TV ver)
-Space Invaders Part II (Taito)
-Space seeker
-Land, sea and air-front line (set 2)
-Straight flush
-Strike bowling
-Sub hunter
-Funny Mouse / Super Mouse
-Super QIX (set 1)
-Super QIX (set 2)
-Super Speed ​​Race Jr. (Japan Version)
-Electric yo-yo (set 1)
-Electric yo-yo (set 2)
-Fairyland Story
-Fairyland Story (Japan Version)
-The Legend of Kage
-Dark mist
-New Zealand Story (Japan Version)
-New Zealand Story (Overseas Version newer)
-New Zealand Story (overseas version older)
-The Tin Star
-The Athletic Meet (Japan Version)
-Tiger Heli (Japanese version set 1)
-Tiger Heli (Japanese version set 2)
-Tiger Heli (USA version)
-Time tunnel
-Scramble formation
-Arkanoid / Tournament Arkanoid (USA version)
-Kachat / Tube-It
-Victoria Snine
-Hot smash
-Water ski
-Wild Western (set 1)
-Wild Western (set 2)
-Zookeeper (set 1)
-Zookeeper (set 2)
-Zookeeper (set 3)
-```
+| Game     | Description                                                         | Description (Japanese)                                      |
+|----------|---------------------------------------------------------------------|-------------------------------------------------------------|
+| alpine   | Alpine skiing (set 1)                                               | アルペンスキー (set 1)                                      |
+| alpinea  | Alpine skiing (set 2)                                               | アルペンスキー (set 2)                                      |
+| horshoes | American Horseshoes (USA Version)                                   | アメリカンホースシューズ (USA版)                            |
+| arknid2j | Arkanoid-Revenge of DOH (Japanese version)                          | アルカノイド -リベンジオブDOH (日本版)                      |
+| arknid2u | Arkanoid-Revenge of DOH (USA version)                               | アルカノイド -リベンジオブDOH (USA版)                       |
+| arknoid2 | Arkanoid-Revenge of DOH (Overseas Version)                          | アルカノイド -リベンジオブDOH (海外版)                      |
+| arknoidj | Arkanoid (Japanese version)                                         | アルカノイド (日本版)                                       |
+| arknoidu | Arkanoid (USA version)                                              | アルカノイド (USA版)                                        |
+| arknoiuo | Arkanoid (USA version older)                                        | アルカノイド (USA版 older)                                  |
+| arkanoid | Arkanoid (overseas version)                                         | アルカノイド (海外版)                                       |
+| ballbomb | Balloon Bomber                                                      | バルーンボンバー                                            |
+| benberob | Ben Bero Beh (Japanese version)                                     | べんべろべえ (日本版)                                       |
+| bigevglf | Big event golf                                                      | ビッグイベントゴルフ                                        |
+| bioatack | Bio-Attack                                                          | バイオアタック                                              |
+| bking    | Birdie King                                                         | バーディーキング                                            |
+| bking2   | Birdie King 2                                                       | バーディーキング2                                           |
+| bking3   | Birdie King 3                                                       | バーディーキング3                                           |
+| bublbobl | Bubble bobble                                                       | バブルボブル                                                |
+| bublbob1 | Bubble bobble (older)                                               | バブルボブル (older)                                        |
+| bublbobr | Bubble Bobble (USA version with mode select)                        | バブルボブル (USA版 with mode select)                       |
+| bubbobr1 | Bubble Bobble (USA version)                                         | バブルボブル (USA版)                                        |
+| buggychl | Buggy Challenge                                                     | バギーチャレンジ                                            |
+| buggycht | Buggy Challenge (Tecfri)                                            | バギーチャレンジ (Tecfri)                                   |
+| cachat   | Kachat (Japanese version)                                           | カチャット (日本版)                                         |
+| chaknpop | Chack'n Pop                                                         | ちゃっくんぽっぷ                                            |
+| champwrj | Champion Wrestler (Japanese version)                                | チャンピオンレスラー (日本版)                               |
+| champwru | Champion Wrestler (USA version)                                     | チャンピオンレスラー (USA版)                                |
+| champwr  | Champion Wrestler (overseas version)                                | チャンピオンレスラー (海外版)                               |
+| changela | Change lane                                                         | チェンジレーン                                              |
+| chukataj | Cloud Master (Japanese version)                                     | 中華大仙 (日本版)                                           |
+| chukatau | Cloud Master (USA version)                                          | 中華大仙 (USA版)                                            |
+| chukatai | Cloud Master (Overseas Version)                                     | 中華大仙 (海外版)                                           |
+| colony7  | Colony 7 (set 1)                                                    | コロニー7 (set 1)                                           |
+| colony7a | Colony 7 (set 2)                                                    | コロニー7 (set 2)                                           |
+| complexx | Complex X                                                           | コンプレックスX                                             |
+| crbaloon | Crazy balloon (set 1)                                               | クレージーバルーン (set 1)                                  |
+| crbalon2 | Crazy balloon (set 2)                                               | クレージーバルーン (set 2)                                  |
+| cubybop  | Cubby Bop (Location Test)                                           | キュービーボップ (Location Test)                            |
+| cyclshtg | Violent Shooting / Cycle Shooting                                   | バイオレントシューティング / Cycle Shooting                 |
+| dockman  | Dockman                                                             | ドックマン                                                  |
+| drtopplu | Dr. Toppel's Adventure (USA version)                                | Dr.トッペル探検隊 / Dr. Toppel's Adventure (USA版)          |
+| drtoppel | Dr. Toppel's Adventure (Overseas Version)                           | Dr.トッペル探検隊 / Dr. Toppel's Adventure (海外版)         |
+| drtopplj | Dr. Toppel Expedition (Japanese version)                            | Dr.トッペル探検隊 (日本版)                                  |
+| elevator | Elevator action                                                     | エレベーターアクション                                      |
+| extrmatn | Extermination (USA version)                                         | エクスターミネーション (USA版)                              |
+| exzisus  | Exzisus (Japanese version)                                          | イグジーザス (日本版)                                       |
+| fieldday | The Athletic Meet / Field Day                                       | ザ・運動会 / Field Day                                      |
+| fhawkj   | Fighting Hawk (Japanese version)                                    | ファイティングホーク (日本版)                               |
+| fhawk    | Fighting Hawk (overseas version)                                    | ファイティングホーク (海外版)                               |
+| firebatl | Fire battle                                                         | ファイヤーバトル                                            |
+| fitter   | Fitter                                                              | フィッター                                                  |
+| 40love   | 40-0                                                                | 40-0                                                        |
+| frontlin | Front line                                                          | フロントライン                                              |
+| grescue  | Lunar Rescue / Galaxy Rescue                                        | ルナレスキュー / Galaxy Rescue                              |
+| galxwart | Galaxy Wars (Taito?)                                                | ギャラクシーウォーズ (Taito?)                               |
+| getstarj | Get Star (Japanese version)                                         | ゲットスター (日本版)                                       |
+| gladiatr | Golden Castle / Gladiator (USA version)                             | 黄金の城 / Gladiator (USA版)                                |
+| yamagchi | Desperate Exploration Survival Yukeyuke! Mr. Yamaguchi              | 決死の探検サバイバル ゆけゆけ！山口君                       |
+| grchamp  | Grand Champion                                                      | グランドチャンピオン                                        |
+| greatgur | Golden Castle / Great Gurianos (Japanese version?)                  | 黄金の城 / Great Gurianos (日本版?)                         |
+| gsword2  | Great Swordsman (Japanese version?)                                 | グレートソードマン (日本版?)                                |
+| gsword   | Great Swordsman (overseas version?)                                 | グレートソードマン (海外版?)                                |
+| getstar  | Getstar / Guardian                                                  | ゲットスター / Guardian                                     |
+| gyrodine | Gyrodine                                                            | ジャイロダイン                                              |
+| gyrodinc | Gyrodine (Crux)                                                     | ジャイロダイン (Crux)                                       |
+| halleysc | Halley's Comet (Japanese version newer)                             | ハレーズコメット (日本版 newer)                             |
+| halleycj | Halley's Comet (Japanese version older)                             | ハレーズコメット (日本版 older)                             |
+| halleys  | Halley's Comet (USA version)                                        | ハレーズコメット (USA版)                                    |
+| hwrace   | Highway race                                                        | ハイウェイレース                                            |
+| insectx  | Insector X (overseas version)                                       | インセクターX (海外版)                                      |
+| josvolly | Women's volleyball                                                  | 女子バレーボール                                            |
+| jumpcoat | Jump coaster (Taito)                                                | ジャンプコースター (Taito)                                  |
+| junglhbr | Jungle Hunt (Brazil version)                                        | ジャングルキング / Jungle Hunt (ブラジル版)                 |
+| jungleh  | Jungle Hunt (USA version)                                           | ジャングルキング / Jungle Hunt (USA版)                      |
+| junglek  | Jungle King (Japanese version)                                      | ジャングルキング (日本版)                                   |
+| junglkj2 | Jungle King (Japanese version earlier)                              | ジャングルキング (日本版 earlier)                           |
+| kabukizj | Kabuki Z (Japanese version)                                         | 歌舞伎Z (日本版)                                            |
+| kabukiz  | Kabuki Z (overseas version)                                         | 歌舞伎Z (海外版)                                            |
+| kagekij  | Fire (Japanese version)                                             | 火激 (日本版)                                               |
+| kageki   | Fiery (USA version)                                                 | 火激 (USA版)                                                |
+| kicknrun | Kick and run                                                        | キック&ラン                                                 |
+| kikstart | Kick start                                                          | キックスタート                                              |
+| kikikai  | Bizarre mysterious world                                            | 奇々怪界                                                    |
+| kram3    | Clam (encrypted)                                                    | クラム (encrypted)                                          |
+| kram     | Clam (set 1)                                                        | クラム (set 1)                                              |
+| kram2    | Clam (set 2)                                                        | クラム (set 2)                                              |
+| kurikinj | Kuri Kinton (Japanese version)                                      | 功里金団 (日本版)                                           |
+| kurikinu | Kuri Kinton (USA version)                                           | 功里金団 (USA版)                                            |
+| kurikint | Kuri Kinton (overseas version)                                      | 功里金団 (海外版)                                           |
+| kurikina | Kuri Kinton (overseas version prototype?)                           | 功里金団 (海外版 prototype?)                                |
+| ksayakyu | Grass baseball                                                      | 草野球                                                      |
+| lsasquad | Land, sea and air-front line (set 1)                                | 陸海空 -最前線 (set 1)                                      |
+| lrescue  | Lunar Rescue                                                        | ルナレスキュー                                              |
+| lupin3   | Lupin III                                                           | ルパン三世                                                  |
+| ttmahjng | T.T Mahjong                                                         | T.T マージャン                                              |
+| marinedt | Marine date                                                         | マリンデート                                                |
+| msisaac  | Metal Soldier Isaac II                                              | メタルソルジャーアイザックII                                |
+| minivadr | Mini Vader                                                          | ミニベーダー                                                |
+| nycaptor | NY Captor                                                           | N.Y.キャプター                                              |
+| nunchaku | Lady Master / Nunchackun                                            | レディーマスター / Nunchackun                               |
+| ogonsiro | Golden Castle (Japanese version)                                    | 黄金の城 (日本版)                                           |
+| onna34ro | Onna Sanshiro -Typhoon Gal (set 1)                                  | 女三四郎 -Typhoon Gal (set 1)                               |
+| onna34ra | Onna Sanshiro -Typhoon Gal (set 2)                                  | 女三四郎 -Typhoon Gal (set 2)                               |
+| palamed  | Palamedes (Japanese version)                                        | パラメデス (日本版)                                         |
+| phoenixt | Phoenix (Taito)                                                     | フェニックス (Taito)                                        |
+| ppking   | Ping pong king                                                      | ピンポンキング                                              |
+| piratpet | Jungle King / Pirate Pete                                           | ジャングルキング / Pirate Pete                              |
+| pitnrun  | Pit & Run -F-1 Race (set 1)                                         | ピット&ラン -F-1レース (set 1)                              |
+| pitnruna | Pit & Run -F-1 Race (set 2)                                         | ピット&ラン -F-1レース (set 2)                              |
+| plotting | Plotting -An Exciting Cube Game / Plotting (overseas version set 1) | フリップル -An Exciting Cube Game / Plotting (海外版 set 1) |
+| plottina | Plotting -An Exciting Cube Game / Plotting (overseas version set 2) | フリップル -An Exciting Cube Game / Plotting (海外版 set 2) |
+| plumppop | Plump Pop (Japanese version)                                        | プランプポップ (日本版)                                     |
+| polaris  | Polaris (set 1)                                                     | ポラリス (set 1)                                            |
+| polarisa | Polaris (set 2)                                                     | ポラリス (set 2)                                            |
+| pc_pwbld | Power Blade (PlayChoice-10)                                         | パワー・ブレイザー / Power Blade (PlayChoice-10)            |
+| pbillian | Previlian                                                           | プレビリアン                                                |
+| puzznic  | Puzznic (overseas version)                                          | パズニック (海外版)                                         |
+| qix      | Qix (set 1)                                                         | クイックス (set 1)                                          |
+| qixa     | Qix (set 2)                                                         | クイックス (set 2)                                          |
+| qixb     | Qix (set 3)                                                         | クイックス (set 3)                                          |
+| qix2     | Qix II (Tournament)                                                 | クイックスII (Tournament)                                   |
+| raimais  | Raimais (overseas version)                                          | レイメイズ (海外版)                                         |
+| retofinv | Return of the Invaders                                              | リターン・オブ・ザ・インベーダーズ                          |
+| ringfgt  | Ring Fighter (set 1)                                                | リングファイター (set 1)                                    |
+| ringfgt2 | Ring Fighter (set 2)                                                | リングファイター (set 2)                                    |
+| rockclim | Rock climber                                                        | ロッククライマー                                            |
+| srdmissn | S.R.D.Mission                                                       | S.R.D.ミッション                                            |
+| tsamurai | The best samurai in Japan (set 1)                                   | 侍日本一 (set 1)                                            |
+| tsamura2 | The best samurai in Japan (set 2)                                   | 侍日本一 (set 2)                                            |
+| sfposeid | Sea Fighter Poseidon                                                | シーファイターポセイドン                                    |
+| slapfigh | Slap Fight (set 1)                                                  | スラップファイト (set 1)                                    |
+| schaser  | Space chaser                                                        | スペースチェイサー                                          |
+| schasrcv | Space Chaser (CV ver)                                               | スペースチェイサー (CV ver)                                 |
+| spacecr  | Space cruiser                                                       | スペースクルーザー                                          |
+| sdungeon | Space dungeon                                                       | スペースダンジョン                                          |
+| sicv     | Space Invader (CV ver)                                              | スペースインベーダー (CV ver)                               |
+| sisv2    | Space Invader (SV ver 2)                                            | スペースインベーダー (SV ver 2)                             |
+| sisv     | Space Invader (SV ver)                                              | スペースインベーダー (SV ver)                               |
+| sitv     | Space Invader (TV ver)                                              | スペースインベーダー (TV ver)                               |
+| invadpt2 | Space Invader Part II (Taito)                                       | スペースインベーダー パートII (Taito)                       |
+| spaceskr | Space seeker                                                        | スペースシーカー                                            |
+| storming | Land, sea and air-front line (set 2)                                | 陸海空 -最前線 (set 2)                                      |
+| sflush   | Straight flush                                                      | ストレートフラッシュ                                        |
+| sbowling | Strike bowling                                                      | ストライクボウリング                                        |
+| subhunt  | Sub hunter                                                          | サブハンター                                                |
+| suprmous | Funny Mouse / Super Mouse                                           | ファニーマウス / Super Mouse                                |
+| sqix     | Super QIX (set 1)                                                   | スーパークイックス (set 1)                                  |
+| sqixa    | Super QIX (set 2)                                                   | スーパークイックス (set 2)                                  |
+| ssrj     | Super Speed Race Jr. (Japan Version)                                | スーパースピードレースJr. (日本版)                          |
+| elecyoyo | Electric yo-yo (set 1)                                              | エレクトリックヨーヨー (set 1)                              |
+| elecyoy2 | Electric yo-yo (set 2)                                              | エレクトリックヨーヨー (set 2)                              |
+| flstory  | Fairyland Story                                                     | フェアリーランドストーリー                                  |
+| flstoryj | Fairyland Story (Japanese version)                                  | フェアリーランドストーリー (日本版)                         |
+| lkage    | The Legend of Kage                                                  | 影の伝説                                                    |
+| darkmist | Dark mist                                                           | ダークミスト                                                |
+| tnzsj    | New Zealand Story (Japan Version)                                   | ニュージーランドストーリー (日本版)                         |
+| tnzs     | New Zealand Story (Overseas Version newer)                          | ニュージーランドストーリー (海外版 newer)                   |
+| tnzso    | New Zealand Story (overseas version older)                          | ニュージーランドストーリー (海外版 older)                   |
+| tinstar  | The Tin Star                                                        | ザ・ティンスター                                            |
+| undoukai | The Athletic Meet (Japanese version)                                | ザ・運動会 (日本版)                                         |
+| tigerh2  | Tiger Heli (Japanese version set 1)                                 | タイガーヘリ (日本版 set 1)                                 |
+| tigerhj  | Tiger Heli (Japanese version set 2)                                 | タイガーヘリ (日本版 set 2)                                 |
+| tigerh   | Tiger Heli (USA version)                                            | タイガーヘリ (USA版)                                        |
+| timetunl | Time tunnel                                                         | タイムトンネル                                              |
+| tokio    | Scramble formation                                                  | スクランブルフォーメーション                                |
+| arkatour | Arkanoid / Tournament Arkanoid (USA version)                        | アルカノイド / Tournament Arkanoid (USA版)                  |
+| tubeit   | Kachat / Tube-It                                                    | カチャット / Tube-It                                        |
+| victnine | Victoria Snine                                                      | ビクトリアスナイン                                          |
+| hotsmash | Hot smash                                                           | ホットスマッシュ                                            |
+| waterski | Water skiing                                                        | ウォータースキー                                            |
+| wwestern | Wild Western (set 1)                                                | ワイルドウエスタン (set 1)                                  |
+| wwester1 | Wild Western (set 2)                                                | ワイルドウエスタン (set 2)                                  |
+| zookeep  | Zookeeper (set 1)                                                   | ズーキーパー (set 1)                                        |
+| zookeep2 | Zookeeper (set 2)                                                   | ズーキーパー (set 2)                                        |
+| zookeep3 | Zookeeper (set 3)                                                   | ズーキーパー (set 3)                                        |
 
 # Taito2
 
-```
-Ah Eikou Glory Koshien (Japan Version)
-Air Inferno (USA version)
-Akanbeda ~ (ver 2.5J 1995/06/14)
-Aqua Jack (Japan Version)
-Aqua Jack (overseas version)
-Arabian Magic (ver 1.0J 1992/07/06)
-Arabian Magic (ver 1.0A 1992/07/06)
-Arabian Magic (ver 1.0O 1992/07/06)
-Arkanoid Returns (ver 2.02J 1997/02/10)
-Ashura Blaster (Japan Version)
-Ashura Blaster (USA version)
-Asuka & Asuka (Japan Version)
-Battle Shark (Japan Version)
-Battle Shark (USA version)
-Hell Tour / Bonze Adventure (USA Version)
-Hell Tour / Bonze Adventure (overseas version newer)
-Bubble Symphony / Bubble Bobble II (ver 2.5O 1994/10/05)
-Bubble Memories-The Story of Bubble Bobble III (ver 2.3J 1996/02/07)
-Bubble Memories-The Story of Bubble Bobble III (ver 2.4O 1996/02/15)
-Bubble Symphony (ver 2.5O 1994/10/05)
-Bubble Symphony (ver 2.5J 1994/10/05)
-Bubble Symphony (ver 2.5A 1994/10/05)
-Puzzle Bobble 2 / Bust-A-Move Again (ver 2.3A 1995/07/31)
-Cadash (France version)
-Cadash (Italian version)
-Cadash (Japan version)
-Cadash (USA version)
-Cadash (overseas version)
-Cameltry (Japan version)
-Cameltry (USA version)
-Cameltry (USA version alt sound)
-Chase H.Q. (Japan version)
-Chase H.Q. (Overseas version)
-Cleopatra Fortune (ver 2.1J 1996/09/05)
-Command War-Clear Commander (ver 0.0J) (prototype)
-Continental Circus (USA version set 1)
-Continental Circus (USA version set 2)
-Continental Circus (overseas version)
-Crayon Shin-chan-Play with Ora (Japan Version)
-Clime City (Japan Version)
-Clime City (USA version)
-Clime City (overseas version)
-Twin Hawk (Japan Version)
-Fang (ver 0.0J 1994/12/13) (prototype)
-Darius (Japanese version Extra ver)
-Darius (Japanese version old ver)
-Darius (Japan Version)
-Darius (overseas version)
-Darius Gaiden-Silver Hawk Extra Version (ver 2.7J 1995/03/06) (Official Hack)
-Darius Gaiden-Silver Hawk (ver 2.5J 1994/09/19)
-Darius Gaiden-Silver Hawk (ver 2.5A 1994/09/19)
-Darius Gaiden-Silver Hawk (ver 2.5O 1994/09/19)
-Darius II (Japanese version dual screen old ver)
-Darius II (Japanese version dual screen)
-Darius II (Japan Version)
-Dead Connection (Japan Version)
-Dead Connection (Overseas Version)
-GO by train!
-GO by train! 2-High-speed edition
-GO by train! 2-High-speed edition 3000 series
-GO by train! EX
-Dynolex (Japan version)
-Dynolex (USA version)
-Dynolex (overseas version)
-Dondokodon (Japan version)
-Dondokodon (USA version)
-Dondokodon (overseas version)
-Power Wheels / Double Axle (USA version)
-Dungeon Magic (ver 2.1A 1994/02/18)
-Dungeon Magic (ver 2.1O 1994/02/18)
-Dynamite League (Japan Version)
-Elevator Action II (ver 2.2A 1995/02/20)
-Elevator Action Returns (ver 2.2J 1995/02/20)
-Elevator Action Returns (ver 2.2O 1995/02/20)
-Enforce (Japan Version)
-Hat Trick Hero / Euro Champ '92 (Overseas Version)
-Field goal
-Field goal (different)
-Final Blow (Japan Version)
-Final Blow (USA version)
-Final Blow (overseas version)
-Hat Trick Hero / Football Champ (Overseas Version)
-Full throttle (Japan version)
-Gekirindan (ver 2.3J 1995/09/21)
-Kaiser Knuckle / Global Champion (ver 2.1A 1994/07/29)
-Grid Seeker -Project Storm Hammer (ver 1.3J)
-Grid Seeker -Project Storm Hammer (ver 1.3A)
-Grid Seeker -Project Storm Hammer (ver 1.3O)
-Grand Effect / Super Grand Effect (Japan Version)
-Growl (USA version)
-Growl (overseas version)
-Gun & Frontier (overseas version)
-Gun Frontier (Japan Version)
-Gunbuster (Japan Version)
-Rayforce / Gunlock (ver 2.3O 1994/01/20)
-Hat Trick Hero (Japan Version)
-Hat Trick Hero '93 (ver 1.0J 1993/02/28)
-Hat Trick Hero '94 (ver 2.2A 1994/05/26)
-Hat Trick Hero '95 (ver 2.5J 1994/11/03)
-Hat Trick Hero '95 (ver 2.5A 1994/11/03)
-Hat Trick Hero '94 / International Cup '94 (ver 2.2O 1994/05/26)
-Hell Tour (Japan Version)
-Kaiser Knuckle (ver 2.1J 1994/07/29)
-Kaiser Knuckle (ver 2.1O 1994/07/29)
-Glitter Star Road-Intro Club (ver 2.10J 1997/08/29)
-Ultimate Tiger II (ver 2.1J 1995/11/30)
-Landmaker (ver 2.01J 1998/06/01)
-Landmaker (ver 2.02O 1998/06/02) (prototype)
-Landing gear
-Light Bringer (ver 2.1J 1994/02/18)
-Liquid Kids (USA version)
-Liquid Kids (Overseas Version)
-Mahjong Quest (Japan Version)
-Mahjong Quest (No Nudity)
-Majestic Twelve-Space Invaders Part IV (Japan Version)
-Master of Weapon (overseas version)
-Maze of Flot (Japan Version)
-Megablast (Japan version)
-Megablast (overseas version)
-Metal Black (Japan Version)
-Metal Black (overseas version)
-Liquid Kids Adventure (Japan Version)
-Hugh with Hiroko Moriguchi's quiz! Hugh! (ver 2.2J 1995/05/25)
-Rastan Saga II / Nastar (Overseas Version)
-Rastan Saga II / Nastar Warrior (USA version)
-Night Striker (USA version)
-Operation Thunderbolt (Japan Version)
-Operation Thunderbolt (USA version)
-Operation Thunderbolt (USA version older)
-Operation Thunderbolt (overseas version)
-Operation Wolf (USA version)
-Operation Wolf (overseas version)
-Operation Wolf 3 (USA version)
-Operation Wolf 3 (Overseas Version)
-Pop'n Pop (ver 2.07J 1998/02/09)
-Pop'n Pop (ver 2.07A 1998/02/09)
-Pop'n Pop (ver 2.07O 1998/02/09)
-Power Wheels (Japan Version)
-Top Ranking Stars / Prime Time Fighter (ver 2.1A 1993/05/21) (new ver)
-Top Ranking Stars / Prime Time Fighter (ver 2.1A 1993/05/21) (old ver)
-Puchi Carat-The World of the Kingdom of Gemstones (ver 2.02J 1997/10/29)
-Puchi Carat-The World of the Kingdom of Gemstones / Puchi Carat (ver 2.02O 1997/10/29)
-Puri La (Japan Version)
-Puri La (overseas version)
-Puzzle Bobble (Japanese version B-System)
-Puzzle Bobble 2 (ver 2.2J 1995/07/20)
-Puzzle Bobble 2 (ver 2.2O 1995/07/20)
-Puzzle Bobble 2X (ver 2.2J 1995/11/11)
-Puzzle Bobble 3 (ver 2.1J 1996/09/27)
-Puzzle Bobble 3 (ver 2.1A 1996/09/27)
-Puzzle Bobble 3 (ver 2.1O 1996/09/27)
-Puzzle Bobble 4 (ver 2.04J 1997/12/19)
-Puzzle Bobble 4 (ver 2.04A 1997/12/19)
-Puzzle Bobble 4 (ver 2.04O 1997/12/19)
-Quiz Global Defense Force (Japan Version)
-Quiz Crayon Shin-chan (Japan Version)
-Quiz H.Q. (Japan version)
-Quiz Life Theater (Japan Version)
-Quiz Quest-The Story of a Princess and a Hero (Japan Version)
-The quiz world is SHOW by show by! !! (Japan version)
-Quiz Theater-Three Stories (ver 2.3J 1994/11/10)
-Stomach head catch book (Japan version)
-Racing beat (overseas version)
-Rainbow Island Extras-The Story of Bubble Bobble 2
-Rainbow Island-The Story of Bubble Bobble 2 (new ver)
-Rainbow Island-The Story of Bubble Bobble 2 (old ver)
-Rambo III (European version set 1)
-Rambo III (European version set 2)
-Rambo III (USA version)
-Rastan (USA version set 1)
-Rastan (USA version set 2)
-Rastan (overseas version)
-Rastan Saga (Japan Version)
-Rastan Saga II (Japan Version)
-Rayforce (ver 2.3J 1994/01/20)
-Rayforce (ver 2.3A 1994/01/20)
-Rical Horn (ver 1.42J 1994/5/11) (prototype)
-Go for the Gold / Recordbreaker (Overseas Version)
-Riding Fight (ver 1.0J)
-Riding Fight (ver 1.0A)
-Riding Fight (ver 1.0O)
-Ring Rage (ver 2.3J 1992/08/09)
-Ring Rage (ver 2.3A 1992/08/09)
-Ring Rage (ver 2.3O 1992/08/09)
-Growl (Japan Version)
-Ryujin (Japan version)
-Side by side
-Side by Side 2 -Evolzione
-Silent Dragon (Japan Version)
-Silent Dragon (overseas version)
-Slap shot (Japan version)
-Solitary Fighter (Overseas Version)
-Sonic Blast Man (Japan Version)
-Space gun (overseas version)
-Akanbeda ~ / Space Invaders '95 -Attack Of The Lunar Loonies (ver 2.5A 1995/06/14)
-Akanbeda ~ / Space Invaders '95 -Attack Of The Lunar Loonies (ver 2.5O 1995/06/14)
-Space Invaders DX (ver 2.6J 1994/09/14) (F3 ver)
-Space Invaders DX (Japanese version ver 2.0)
-Space Invaders DX (Japanese version ver 2.1)
-Space Invaders DX (USA version ver 2.1)
-S.C.I. <Special Criminal Investigation> (USA version)
-S.C.I. <Special Criminal Investigation> (overseas version set 1)
-S.C.I. <Special Criminal Investigation> (overseas version set 2)
-Super Chase-Criminal Termination (USA version)
-Hat Trick Hero '93 / Super Cup Finals (ver 2.1O 1993/11/19)
-Majestic Twelve-Space Invaders Part IV / Super Space Invaders '91 (Overseas Version)
-Superman
-Superman (Japan version)
-Syvalion (Japan version)
-Hat Trick Hero '93 / Taito Cup Finals (ver 1.0O 1993/02/28)
-Hat Trick Hero '95 / Taito Power Goal (ver 2.5O 1994/11/03)
-Ninja Kids (Japan Version)
-Ninja Kids (overseas version)
-Ninja Warriors (Japan Version)
-Ninja Warriors (Overseas Version)
-Thunder Fox (Japan Version)
-Thunder Fox (USA version)
-Thunder Fox (overseas version)
-Top Landing (overseas version)
-Top Ranking Stars (ver 2.1J 1993/05/21) (new ver)
-Top Ranking Stars (ver 2.1J 1993/05/21) (old ver)
-Top Ranking Stars (ver 2.1O 1993/05/21) (new ver)
-Top Ranking Stars (ver 2.1O 1993/05/21) (old ver)
-Full throttle / Top Speed ​​(USA version)
-Full throttle / Top Speed ​​(overseas version)
-Ultimate Tiger II / Twin Cobra II (ver 2.1A 1995/11/30)
-Ultimate Tiger II / Twin Cobra II (ver 2.1O 1995/11/30)
-Twin Hawk (USA version)
-Twin Hawk (Overseas Version)
-Tsukinkuikusu (ver 1.0A 1995/01/17) (prototype)
-Underfire (Japan version)
-Underfire (USA version)
-Underfire (overseas version)
-Violence Fight (USA version)
-Violence Fight (overseas version)
-Volfied (Japan Version)
-Volfied (USA version)
-Volfied (overseas version)
-Warrior Blade-Rastan Saga Episode III (Japan Version)
-WGP -Real Race Feeling (Japan Version)
-WGP -Real Race Feeling (Japanese version joystick ver set 1)
-WGP -Real Race Feeling (Japanese version joystick ver set 2)
-WGP-Real Race Feeling (USA Version)
-WGP2-Real Race Feeling (Japan Version)
-Yes.No Psychological Tokimeki Chart
-Go with Yuyu's quiz! Go! (Japan version)
-```
+| Game     | Description                                                                              | Description (Japanese)                                                                           |
+|----------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| koshien  | Ah Eikou Glory Koshien (Japanese version)                                                | 嗚呼栄光の甲子園 (日本版)                                                                        |
+| ainferno | Air Inferno (USA version)                                                                | エア・インフェルノ (USA版)                                                                       |
+| akkanvdr | Akanbeda ~ (ver 2.5J 1995/06/14)                                                         | あっかんべぇだぁ～ (ver 2.5J 1995/06/14)                                                         |
+| aquajckj | Aqua Jack (Japanese version)                                                             | アクアジャック (日本版)                                                                          |
+| aquajack | Aqua Jack (overseas version)                                                             | アクアジャック (海外版)                                                                          |
+| arabiamj | Arabian Magic (ver 1.0J 1992/07/06)                                                      | アラビアンマジック (ver 1.0J 1992/07/06)                                                         |
+| arabiamu | Arabian Magic (ver 1.0A 1992/07/06)                                                      | アラビアンマジック (ver 1.0A 1992/07/06)                                                         |
+| arabianm | Arabian Magic (ver 1.0O 1992/07/06)                                                      | アラビアンマジック (ver 1.0O 1992/07/06)                                                         |
+| arkretrn | Arkanoid Returns (ver 2.02J 1997/02/10)                                                  | アルカノイドリターンズ (ver 2.02J 1997/02/10)                                                    |
+| ashura   | Ashura Blaster (Japanese version)                                                        | 阿修羅ブラスター (日本版)                                                                        |
+| ashurau  | Ashura Blaster (USA version)                                                             | 阿修羅ブラスター (USA版)                                                                         |
+| asuka    | Asuka & Asuka (Japanese version)                                                         | 飛鳥&飛鳥 (日本版)                                                                               |
+| bsharkj  | Battle Shark (Japanese version)                                                          | バトルシャーク (日本版)                                                                          |
+| bshark   | Battle Shark (USA version)                                                               | バトルシャーク (USA版)                                                                           |
+| bonzeadu | Hell Tour / Bonze Adventure (USA Version)                                                | 地獄めぐり / Bonze Adventure (USA版)                                                             |
+| bonzeadv | Hell Tour / Bonze Adventure (overseas version newer)                                     | 地獄めぐり / Bonze Adventure (海外版 newer)                                                      |
+| bublbob2 | Bubble Symphony / Bubble Bobble II (ver 2.5O 1994/10/05)                                 | バブルシンフォニー / Bubble Bobble II (ver 2.5O 1994/10/05)                                      |
+| bubblemj | Bubble Memories-The Story of Bubble Bobble III (ver 2.3J 1996/02/07)                     | バブルメモリーズ -ザ・ストーリー・オブ・バブルボブルIII (ver 2.3J 1996/02/07)                    |
+| bubblem  | Bubble Memories-The Story of Bubble Bobble III (ver 2.4O 1996/02/15)                     | バブルメモリーズ -ザ・ストーリー・オブ・バブルボブルIII (ver 2.4O 1996/02/15)                    |
+| bubsympe | Bubble Symphony (ver 2.5O 1994/10/05)                                                    | バブルシンフォニー (ver 2.5O 1994/10/05)                                                         |
+| bubsymph | Bubble Symphony (ver 2.5J 1994/10/05)                                                    | バブルシンフォニー (ver 2.5J 1994/10/05)                                                         |
+| bubsympu | Bubble Symphony (ver 2.5A 1994/10/05)                                                    | バブルシンフォニー (ver 2.5A 1994/10/05)                                                         |
+| pbobbl2u | Puzzle Bobble 2 / Bust-A-Move Again (ver 2.3A 1995/07/31)                                | パズルボブル2 / Bust-A-Move Again (ver 2.3A 1995/07/31)                                          |
+| cadashf  | Cadash (French version)                                                                  | カダッシュ (フランス版)                                                                          |
+| cadashi  | Cadash (Italian version)                                                                 | カダッシュ (イタリア版)                                                                          |
+| cadashj  | Cadash (Japanese version)                                                                | カダッシュ (日本版)                                                                              |
+| cadashu  | Cadash (USA version)                                                                     | カダッシュ (USA版)                                                                               |
+| cadash   | Cadash (overseas version)                                                                | カダッシュ (海外版)                                                                              |
+| cameltrj | Cameltry (Japanese version)                                                              | キャメルトライ (日本版)                                                                          |
+| cameltry | Cameltry (USA version)                                                                   | キャメルトライ (USA版)                                                                           |
+| camltrua | Cameltry (USA version alt sound)                                                         | キャメルトライ (USA版 alt sound)                                                                 |
+| chasehqj | Chase H.Q. (Japanese version)                                                            | チェイスH.Q. (日本版)                                                                            |
+| chasehq  | Chase H.Q. (Overseas version)                                                            | チェイスH.Q. (海外版)                                                                            |
+| cleopatr | Cleopatra Fortune (ver 2.1J 1996/09/05)                                                  | クレオパトラフォーチュン (ver 2.1J 1996/09/05)                                                   |
+| commandw | Command War-Clear Commander (ver 0.0J) (prototype)                                       | コマンドウォー -明晰なる指揮官 (ver 0.0J) (prototype)                                            |
+| contcrcu | Continental Circus (USA version set 1)                                                   | コンチネンタルサーカス (USA版 set 1)                                                             |
+| contcrua | Continental Circus (USA version set 2)                                                   | コンチネンタルサーカス (USA版 set 2)                                                             |
+| contcirc | Continental Circus (overseas version)                                                    | コンチネンタルサーカス (海外版)                                                                  |
+| qcrayon2 | Crayon Shin-chan-Play with Ora (Japanese version)                                        | クレヨンしんちゃん -オラと遊ぼ (日本版)                                                          |
+| crimecj  | Crime City (Japanese version)                                                            | クライムシティ (日本版)                                                                          |
+| crimecu  | Crime City (USA version)                                                                 | クライムシティ (USA版)                                                                           |
+| crimec   | Crime City (overseas version)                                                            | クライムシティ (海外版)                                                                          |
+| daisenpu | Twin Hawk (Japanese version)                                                             | 大旋風 (日本版)                                                                                  |
+| dankuga  | Fang (ver 0.0J 1994/12/13) (prototype)                                                   | 断仇牙 (ver 0.0J 1994/12/13) (prototype)                                                         |
+| dariuse  | Darius (Japanese version Extra ver)                                                      | ダライアス (日本版 Extra ver)                                                                    |
+| dariuso  | Darius (Japanese version old ver)                                                        | ダライアス (日本版 old ver)                                                                      |
+| dariusj  | Darius (Japanese version)                                                                | ダライアス (日本版)                                                                              |
+| darius   | Darius (overseas version)                                                                | ダライアス (海外版)                                                                              |
+| dariusgx | Darius Gaiden-Silver Hawk Extra Version (ver 2.7J 1995/03/06) (Official   Hack)          | ダライアス外伝 -シルバーホーク エクストラバージョン (ver 2.7J 1995/03/06) (Official Hack)        |
+| dariusgj | Darius Gaiden-Silver Hawk (ver 2.5J 1994/09/19)                                          | ダライアス外伝 -シルバーホーク (ver 2.5J 1994/09/19)                                             |
+| dariusgu | Darius Gaiden-Silver Hawk (ver 2.5A 1994/09/19)                                          | ダライアス外伝 -シルバーホーク (ver 2.5A 1994/09/19)                                             |
+| dariusg  | Darius Gaiden-Silver Hawk (ver 2.5O 1994/09/19)                                          | ダライアス外伝 -シルバーホーク (ver 2.5O 1994/09/19)                                             |
+| drius2do | Darius II (Japanese version dual screen old ver)                                         | ダライアスII (日本版 dual screen old ver)                                                        |
+| darius2d | Darius II (Japanese version dual screen)                                                 | ダライアスII (日本版 dual screen)                                                                |
+| darius2  | Darius II (Japan Version)                                                                | ダライアスII (日本版)                                                                            |
+| deadconj | Dead Connection (Japanese version)                                                       | デッドコネクション (日本版)                                                                      |
+| deadconx | Dead Connection (Overseas Version)                                                       | デッドコネクション (海外版)                                                                      |
+| dendeg   | GO by train!                                                                             | 電車でGO！                                                                                       |
+| dendeg2  | GO by train! 2-High-speed edition                                                        | 電車でGO！2 -高速編                                                                              |
+| dendeg2x | GO by train! 2-High-speed edition 3000 series                                            | 電車でGO！2 -高速編3000番台                                                                      |
+| dendegx  | GO by train! EX                                                                          | 電車でGO！EX                                                                                     |
+| dinorexj | Dynolex (Japanese version)                                                               | ダイノレックス (日本版)                                                                          |
+| dinorexu | Dynolex (USA version)                                                                    | ダイノレックス (USA版)                                                                           |
+| dinorex  | Dynolex (overseas version)                                                               | ダイノレックス (海外版)                                                                          |
+| dondokdj | Dondcodon (Japanese version)                                                             | ドンドコドン (日本版)                                                                            |
+| dondokdu | Dondcodon (USA version)                                                                  | ドンドコドン (USA版)                                                                             |
+| dondokod | Dondcodon (overseas version)                                                             | ドンドコドン (海外版)                                                                            |
+| dblaxle  | Power Wheels / Double Axle (USA version)                                                 | パワーホイールズ / Double Axle (USA版)                                                           |
+| dungenmu | Dungeon Magic (ver 2.1A 1994/02/18)                                                      | ライトブリンガー / Dungeon Magic (ver 2.1A 1994/02/18)                                           |
+| dungeonm | Dungeon Magic (ver 2.1O 1994/02/18)                                                      | ライトブリンガー / Dungeon Magic (ver 2.1O 1994/02/18)                                           |
+| dleague  | Dynamite League (Japan Version)                                                          | ダイナマイトリーグ (日本版)                                                                      |
+| elvact2u | Elevator Action II (ver 2.2A 1995/02/20)                                                 | エレベーターアクションリターンズ / Elevator Action II (ver 2.2A 1995/02/20)                      |
+| elvactrj | Elevator Action Returns (ver 2.2J 1995/02/20)                                            | エレベーターアクションリターンズ (ver 2.2J 1995/02/20)                                           |
+| elvactr  | Elevator Action Returns (ver 2.2O 1995/02/20)                                            | エレベーターアクションリターンズ (ver 2.2O 1995/02/20)                                           |
+| enforce  | Enforce (Japanese version)                                                               | エンフォース (日本版)                                                                            |
+| euroch92 | Hat Trick Hero / Euro Champ '92 (Overseas Version)                                       | ハットトリックヒーロー / Euro Champ '92 (海外版)                                                 |
+| fgoal    | Field goal                                                                               | フィールドゴール                                                                                 |
+| fgoala   | Field goal (different)                                                                   | フィールドゴール (different)                                                                     |
+| finalbj  | Final Blow (Japanese version)                                                            | ファイナルブロー (日本版)                                                                        |
+| finalbu  | Final Blow (USA version)                                                                 | ファイナルブロー (USA版)                                                                         |
+| finalb   | Final Blow (overseas version)                                                            | ファイナルブロー (海外版)                                                                        |
+| footchmp | Hat Trick Hero / Football Champ (Overseas Version)                                       | ハットトリックヒーロー / Football Champ (海外版)                                                 |
+| fullthrl | Full throttle (Japanese version)                                                         | フルスロットル (日本版)                                                                          |
+| gekirido | Gekirindan (ver 2.3J 1995/09/21)                                                         | 逆鱗弾 (ver 2.3J 1995/09/21)                                                                     |
+| gblchmp  | Kaiser Knuckle / Global Champion (ver 2.1A 1994/07/29)                                   | カイザーナックル / Global Champion (ver 2.1A 1994/07/29)                                         |
+| gseekerj | Grid Seeker -Project Storm Hammer (ver 1.3J)                                             | グリッドシーカー -Project Storm Hammer (ver 1.3J)                                                |
+| gseekeru | Grid Seeker -Project Storm Hammer (ver 1.3A)                                             | グリッドシーカー -Project Storm Hammer (ver 1.3A)                                                |
+| gseeker  | Grid Seeker -Project Storm Hammer (ver 1.3O)                                             | グリッドシーカー -Project Storm Hammer (ver 1.3O)                                                |
+| groundfx | Grand Effect / Super Grand Effect (Japan Version)                                        | グランドエフェクト / スーパーグランドエフェクト (日本版)                                         |
+| growlu   | Growl (USA version)                                                                      | ルナーク / Growl (USA版)                                                                         |
+| growl    | Growl (overseas version)                                                                 | ルナーク / Growl (海外版)                                                                        |
+| gunfront | Gun & Frontier (overseas version)                                                        | ガン・フロンティア / Gun & Frontier (海外版)                                                     |
+| gunfronj | Gun Frontier (Japanese version)                                                          | ガン・フロンティア (日本版)                                                                      |
+| gunbustr | Gunbuster (Japanese version)                                                             | ガンバスター (日本版)                                                                            |
+| gunlock  | Rayforce / Gunlock (ver 2.3O 1994/01/20)                                                 | レイフォース / Gunlock (ver 2.3O 1994/01/20)                                                     |
+| hthero   | Hat Trick Hero (Japanese version)                                                        | ハットトリックヒーロー (日本版)                                                                  |
+| hthero93 | Hat Trick Hero '93 (ver 1.0J 1993/02/28)                                                 | ハットトリックヒーロー'93 (ver 1.0J 1993/02/28)                                                  |
+| hthero94 | Hat Trick Hero '94 (ver 2.2A 1994/05/26)                                                 | ハットトリックヒーロー'94 (ver 2.2A 1994/05/26)                                                  |
+| hthero95 | Hat Trick Hero '95 (ver 2.5J 1994/11/03)                                                 | ハットトリックヒーロー'95 (ver 2.5J 1994/11/03)                                                  |
+| hthro95u | Hat Trick Hero '95 (ver 2.5A 1994/11/03)                                                 | ハットトリックヒーロー'95 (ver 2.5A 1994/11/03)                                                  |
+| intcup94 | Hat Trick Hero '94 / International Cup '94 (ver 2.2O 1994/05/26)                         | ハットトリックヒーロー'94 / International Cup '94 (ver 2.2O 1994/05/26)                          |
+| jigkmgri | Hell Tour (Japan Version)                                                                | 地獄めぐり (日本版)                                                                              |
+| kaiserkj | Kaiser Knuckle (ver 2.1J 1994/07/29)                                                     | カイザーナックル (ver 2.1J 1994/07/29)                                                           |
+| kaiserkn | Kaiser Knuckle (ver 2.1O 1994/07/29)                                                     | カイザーナックル (ver 2.1O 1994/07/29)                                                           |
+| kirameki | Glitter Star Road-Intro Club (ver 2.10J 1997/08/29)                                      | きらめきスターロード -イントロ倶楽部 (ver 2.10J 1997/08/29)                                      |
+| ktiger2  | Ultimate Tiger II (ver 2.1J 1995/11/30)                                                  | 究極タイガーII (ver 2.1J 1995/11/30)                                                             |
+| landmakr | Landmaker (ver 2.01J 1998/06/01)                                                         | ランドメーカー (ver 2.01J 1998/06/01)                                                            |
+| landmkrp | Landmaker (ver 2.02O 1998/06/02) (prototype)                                             | ランドメーカー (ver 2.02O 1998/06/02) (prototype)                                                |
+| landgear | Landing gear                                                                             | ランディングギア                                                                                 |
+| lightbr  | Dungeon Magic (ver 2.1J 1994/02/18)                                                      | ライトブリンガー (ver 2.1J 1994/02/18)                                                           |
+| liquidku | Liquid Kids (USA Version)                                                                | ミズバク大冒険 / Liquid Kids (USA版)                                                             |
+| liquidk  | Liquid Kids (Overseas Version)                                                           | ミズバク大冒険 / Liquid Kids (海外版)                                                            |
+| mjnquest | Mahjong Quest (Japanese version)                                                         | マージャンクエスト (日本版)                                                                      |
+| mjnquesb | Mahjong Quest (No Nudity)                                                                | マージャンクエスト (No Nudity)                                                                   |
+| majest12 | Majestic Twelve-Space Invader Part IV (Japan Version)                                    | マジェスティック・トゥエルヴ -スペースインベーダー・パートIV (日本版)                            |
+| masterw  | Master of Weapon (overseas version)                                                      | マスターオブウェポン (海外版)                                                                    |
+| mofflott | Maze of Flot (Japanese version)                                                          | メイズオブフロット (日本版)                                                                      |
+| megabj   | Megablast (Japanese version)                                                             | メガブラスト (日本版)                                                                            |
+| megab    | Megablast (overseas version)                                                             | メガブラスト (海外版)                                                                            |
+| metalbj  | Metal Black (Japanese version)                                                           | メタルブラック (日本版)                                                                          |
+| metalb   | Metal Black (overseas version)                                                           | メタルブラック (海外版)                                                                          |
+| mizubaku | Liquid Kids Adventure (Japan Version)                                                    | ミズバク大冒険 (日本版)                                                                          |
+| quizhuhu | Hugh with Hiroko Moriguchi's quiz! Hugh! (ver 2.2J 1995/05/25)                           | 森口博子のクイズでヒュー！ヒュー！ (ver 2.2J 1995/05/25)                                         |
+| nastar   | Rastan Saga II / Nastar (Overseas Version)                                               | ラスタンサーガII / Nastar (海外版)                                                               |
+| nastarw  | Rastan Saga II / Nastar Warrior (USA version)                                            | ラスタンサーガII / Nastar Warrior (USA版)                                                        |
+| nightstr | Night Striker (USA version)                                                              | ナイトストライカー (USA版)                                                                       |
+| othundrj | Operation Thunderbolt (Japanese version)                                                 | オペレーションサンダーボルト (日本版)                                                            |
+| othundu  | Operation Thunderbolt (USA version)                                                      | オペレーションサンダーボルト (USA版)                                                             |
+| othunduo | Operation Thunderbolt (USA version older)                                                | オペレーションサンダーボルト (USA版 older)                                                       |
+| othunder | Operation Thunderbolt (overseas version)                                                 | オペレーションサンダーボルト (海外版)                                                            |
+| opwolfu  | Operation Wolf (USA version)                                                             | オペレーションウルフ (USA版)                                                                     |
+| opwolf   | Operation Wolf (overseas version)                                                        | オペレーションウルフ (海外版)                                                                    |
+| opwolf3u | Operation Wolf 3 (USA version)                                                           | オペレーションウルフ3 (USA版)                                                                    |
+| opwolf3  | Operation Wolf 3 (Overseas Version)                                                      | オペレーションウルフ3 (海外版)                                                                   |
+| popnpopj | Pop'n Pop (ver 2.07J 1998/02/09)                                                         | ぽっぷんぽっぷ (ver 2.07J 1998/02/09)                                                            |
+| popnpopu | Pop'n Pop (ver 2.07A 1998/02/09)                                                         | ぽっぷんぽっぷ (ver 2.07A 1998/02/09)                                                            |
+| popnpop  | Pop'n Pop (ver 2.07O 1998/02/09)                                                         | ぽっぷんぽっぷ (ver 2.07O 1998/02/09)                                                            |
+| pwheelsj | Power Wheels (Japan Version)                                                             | パワーホイールズ (日本版)                                                                        |
+| prmtmfgt | Top Ranking Stars / Prime Time Fighter (ver 2.1A 1993/05/21) (new ver)                   | トップランキングスターズ / Prime Time Fighter (ver 2.1A 1993/05/21) (new ver)                    |
+| prmtmfgo | Top Ranking Stars / Prime Time Fighter (ver 2.1A 1993/05/21) (old ver)                   | トップランキングスターズ / Prime Time Fighter (ver 2.1A 1993/05/21) (old ver)                    |
+| puchicrj | Puchi Carat-The World of the Kingdom of Gemstone (ver 2.02J 1997/10/29)                  | プチカラット -ジェムストーン王国の世界 (ver 2.02J 1997/10/29)                                    |
+| puchicar | Puchi Carat-The World of the Kingdom of Gemstones / Puchi Carat (ver   2.02O 1997/10/29) | プチカラット -ジェムストーン王国の世界 / Puchi Carat (ver 2.02O 1997/10/29)                      |
+| pulirulj | Puri La (Japanese version)                                                               | プリルラ (日本版)                                                                                |
+| pulirula | Puri La (overseas version)                                                               | プリルラ (海外版)                                                                                |
+| pbobble  | Puzzle Bobble (Japanese version B-System)                                                | パズルボブル (日本版 B-System)                                                                   |
+| pbobbl2j | Puzzle Bobble 2 (ver 2.2J 1995/07/20)                                                    | パズルボブル2 (ver 2.2J 1995/07/20)                                                              |
+| pbobble2 | Puzzle Bobble 2 (ver 2.2O 1995/07/20)                                                    | パズルボブル2 (ver 2.2O 1995/07/20)                                                              |
+| pbobbl2x | Puzzle Bobble 2X (ver 2.2J 1995/11/11)                                                   | パズルボブル2X (ver 2.2J 1995/11/11)                                                             |
+| pbobbl3j | Puzzle Bobble 3 (ver 2.1J 1996/09/27)                                                    | パズルボブル3 (ver 2.1J 1996/09/27)                                                              |
+| pbobbl3u | Puzzle Bobble 3 (ver 2.1A 1996/09/27)                                                    | パズルボブル3 (ver 2.1A 1996/09/27)                                                              |
+| pbobble3 | Puzzle Bobble 3 (ver 2.1O 1996/09/27)                                                    | パズルボブル3 (ver 2.1O 1996/09/27)                                                              |
+| pbobbl4j | Puzzle Bobble 4 (ver 2.04J 1997/12/19)                                                   | パズルボブル4 (ver 2.04J 1997/12/19)                                                             |
+| pbobbl4u | Puzzle Bobble 4 (ver 2.04A 1997/12/19)                                                   | パズルボブル4 (ver 2.04A 1997/12/19)                                                             |
+| pbobble4 | Puzzle Bobble 4 (ver 2.04O 1997/12/19)                                                   | パズルボブル4 (ver 2.04O 1997/12/19)                                                             |
+| qzchikyu | Quiz Global Defense Force (Japanese version)                                             | クイズ地球防衛軍 (日本版)                                                                        |
+| qcrayon  | Quiz Crayon Shin-chan (Japanese version)                                                 | クイズクレヨンしんちゃん (日本版)                                                                |
+| quizhq   | Quiz H.Q. (Japanese version)                                                             | クイズH.Q. (日本版)                                                                              |
+| qjinsei  | Quiz Life Theater (Japan Version)                                                        | クイズ人生劇場 (日本版)                                                                          |
+| qzquest  | Quiz Quest-The Story of a Princess and a Hero (Japanese Version)                         | クイズクエスト -姫と勇者の物語 (日本版)                                                          |
+| qzshowby | The quiz world is SHOW by show by! !! (Japanese version)                                 | クイズ世界は SHOW by ショーバイ！！ (日本版)                                                     |
+| qtheater | Quiz Theater-Three Stories (ver 2.3J 1994/11/10)                                         | クイズシアター -3つの物語 (ver 2.3J 1994/11/10)                                                  |
+| qtorimon | Stomach head catch book (Japanese version)                                               | 苦胃頭捕物帳 (日本版)                                                                            |
+| racingb  | Racing beat (overseas version)                                                           | レーシングビート (海外版)                                                                        |
+| rainbowe | Rainbow Island Extras-The Story of Bubble Bobble 2                                       | レインボーアイランドエキストラ -ザ・ストーリー・オブ・バブルボブル2                              |
+| rainbow  | Rainbow Island-The Story of Bubble Bobble 2 (new ver)                                    | レインボーアイランド -ザ・ストーリー・オブ・バブルボブル2 (new ver)                              |
+| rainbowo | Rainbow Island-The Story of Bubble Bobble 2 (old ver)                                    | レインボーアイランド -ザ・ストーリー・オブ・バブルボブル2 (old ver)                              |
+| rambo3   | Rambo III (European version set 1)                                                       | ランボーIII (欧州版 set 1)                                                                       |
+| rambo3ae | Rambo III (European version set 2)                                                       | ランボーIII (欧州版 set 2)                                                                       |
+| rambo3a  | Rambo III (USA version)                                                                  | ランボーIII (USA版)                                                                              |
+| rastanu  | Rastan (USA version set 1)                                                               | ラスタンサーガ / Rastan (USA版 set 1)                                                            |
+| rastanu2 | Rastan (USA version set 2)                                                               | ラスタンサーガ / Rastan (USA版 set 2)                                                            |
+| rastan   | Rastan (overseas version)                                                                | ラスタンサーガ / Rastan (海外版)                                                                 |
+| rastsaga | Rastan Saga (Japanese version)                                                           | ラスタンサーガ (日本版)                                                                          |
+| rastsag2 | Rastan Saga II (Japanese version)                                                        | ラスタンサーガII (日本版)                                                                        |
+| rayforcj | Rayforce (ver 2.3J 1994/01/20)                                                           | レイフォース (ver 2.3J 1994/01/20)                                                               |
+| rayforce | Rayforce (ver 2.3A 1994/01/20)                                                           | レイフォース (ver 2.3A 1994/01/20)                                                               |
+| recalh   | Rical Horn (ver 1.42J 1994/5/11) (prototype)                                             | リカルホーン (ver 1.42J 1994/5/11) (prototype)                                                   |
+| recordbr | Go for the Gold / Recordbreaker (Overseas Version)                                       | ゴー フォー ザ ゴールド / Recordbreaker (海外版)                                                 |
+| ridefgtj | Riding Fight (ver 1.0J)                                                                  | ライディングファイト (ver 1.0J)                                                                  |
+| ridefgtu | Riding Fight (ver 1.0A)                                                                  | ライディングファイト (ver 1.0A)                                                                  |
+| ridingf  | Riding Fight (ver 1.0O)                                                                  | ライディングファイト (ver 1.0O)                                                                  |
+| ringragj | Ring Rage (ver 2.3J 1992/08/09)                                                          | リングレイジ (ver 2.3J 1992/08/09)                                                               |
+| ringragu | Ring Rage (ver 2.3A 1992/08/09)                                                          | リングレイジ (ver 2.3A 1992/08/09)                                                               |
+| ringrage | Ring Rage (ver 2.3O 1992/08/09)                                                          | リングレイジ (ver 2.3O 1992/08/09)                                                               |
+| runark   | Growl (Japanese version)                                                                 | ルナーク (日本版)                                                                                |
+| ryujin   | Ryujin (Japanese version)                                                                | 龍神 (日本版)                                                                                    |
+| sidebs   | Side by side                                                                             | サイドバイサイド                                                                                 |
+| sidebs2  | Side by Side 2 -Evolzione                                                                | サイドバイサイド2 -エボルツィオーネ                                                              |
+| silentdj | Silent Dragon (Japanese version)                                                         | サイレントドラゴン (日本版)                                                                      |
+| silentd  | Silent Dragon (overseas version)                                                         | サイレントドラゴン (海外版)                                                                      |
+| slapshot | Slap shot (Japanese version)                                                             | スラップショット (日本版)                                                                        |
+| solfigtr | Solitary Fighter (Overseas Version)                                                      | ソリテリーファイター (海外版)                                                                    |
+| sbm      | Sonic Blast Man (Japanese version)                                                       | ソニックブラストマン (日本版)                                                                    |
+| spacegun | Space gun (overseas version)                                                             | スペースガン (海外版)                                                                            |
+| spcnv95u | Akanbeda ~ / Space Invaders '95 -Attack Of The Lunar Loonies (ver 2.5A   1995/06/14)     | あっかんべぇだぁ～ / Space Invaders '95 -Attack Of The Lunar Loonies (ver 2.5A   1995/06/14)     |
+| spcinv95 | Akanbeda ~ / Space Invaders '95 -Attack Of The Lunar Loonies (ver 2.5O   1995/06/14)     | あっかんべぇだぁ～ / Space Invaders '95 -Attack Of The Lunar Loonies (ver 2.5O   1995/06/14)     |
+| spcinvdj | Space Invader DX (ver 2.6J 1994/09/14) (F3 ver)                                          | スペースインベーダーDX (ver 2.6J 1994/09/14) (F3 ver)                                            |
+| spacedxo | Space Invader DX (Japanese version ver 2.0)                                              | スペースインベーダーDX (日本版 ver 2.0)                                                          |
+| spacedxj | Space Invader DX (Japanese version ver 2.1)                                              | スペースインベーダーDX (日本版 ver 2.1)                                                          |
+| spacedx  | Space Invader DX (USA version ver 2.1)                                                   | スペースインベーダーDX (USA版 ver 2.1)                                                           |
+| sciu     | S.C.I. <Special Criminal Investigation> (USA version)                                    | S.C.I. <Special Criminal Investigation> (USA版)                                                  |
+| sci      | S.C.I. <Special Criminal Investigation> (overseas version set 1)                         | S.C.I. <Special Criminal Investigation> (海外版 set 1)                                           |
+| scia     | S.C.I. <Special Criminal Investigation> (overseas version set 2)                         | S.C.I. <Special Criminal Investigation> (海外版 set 2)                                           |
+| superchs | Super Chase-Criminal Termination (USA Version)                                           | スーパーチェイス -クリミナルターミネーション (USA版)                                             |
+| scfinals | Hat Trick Hero '93 / Super Cup Finals (ver 2.1O 1993/11/19)                              | ハットトリックヒーロー'93 / Super Cup Finals (ver 2.1O 1993/11/19)                               |
+| ssi      | Majestic Twelve-Space Invaders Part IV / Super Space Invaders '91   (Overseas Version)   | マジェスティック・トゥエルヴ -スペースインベーダー・パートIV / Super Space Invaders '91 (海外版) |
+| superman | Superman                                                                                 | スーパーマン                                                                                     |
+| suprmanj | Superman (Japanese version)                                                              | スーパーマン (日本版)                                                                            |
+| syvalion | Syvalion (Japanese version)                                                              | サイバリオン (日本版)                                                                            |
+| cupfinal | Hat Trick Hero '93 / Taito Cup Finals (ver 1.0O 1993/02/28)                              | ハットトリックヒーロー'93 / Taito Cup Finals (ver 1.0O 1993/02/28)                               |
+| pwrgoal  | Hat Trick Hero '95 / Taito Power Goal (ver 2.5O 1994/11/03)                              | ハットトリックヒーロー'95 / Taito Power Goal (ver 2.5O 1994/11/03)                               |
+| ninjakj  | Ninja Kids (Japanese version)                                                            | ニンジャキッズ (日本版)                                                                          |
+| ninjak   | Ninja Kids (overseas version)                                                            | ニンジャキッズ (海外版)                                                                          |
+| ninjawj  | Ninja Warriors (Japanese version)                                                        | ニンジャウォーリアーズ (日本版)                                                                  |
+| ninjaw   | Ninja Warriors (Overseas Version)                                                        | ニンジャウォーリアーズ (海外版)                                                                  |
+| thndfoxj | Thunder Fox (Japanese version)                                                           | サンダーフォックス (日本版)                                                                      |
+| thndfoxu | Thunder Fox (USA version)                                                                | サンダーフォックス (USA版)                                                                       |
+| thundfox | Thunder Fox (overseas version)                                                           | サンダーフォックス (海外版)                                                                      |
+| topland  | Top Landing (overseas version)                                                           | トップランディング (海外版)                                                                      |
+| trstarj  | Top Ranking Stars (ver 2.1J 1993/05/21) (new ver)                                        | トップランキングスターズ (ver 2.1J 1993/05/21) (new ver)                                         |
+| trstaroj | Top Ranking Stars (ver 2.1J 1993/05/21) (old ver)                                        | トップランキングスターズ (ver 2.1J 1993/05/21) (old ver)                                         |
+| trstar   | Top Ranking Stars (ver 2.1O 1993/05/21) (new ver)                                        | トップランキングスターズ (ver 2.1O 1993/05/21) (new ver)                                         |
+| trstaro  | Top Ranking Stars (ver 2.1O 1993/05/21) (old ver)                                        | トップランキングスターズ (ver 2.1O 1993/05/21) (old ver)                                         |
+| topspedu | Full throttle / Top Speed (USA version)                                                  | フルスロットル / Top Speed (USA版)                                                               |
+| topspeed | Full throttle / Top Speed (overseas version)                                             | フルスロットル / Top Speed (海外版)                                                              |
+| tcobra2u | Ultimate Tiger II / Twin Cobra II (ver 2.1A 1995/11/30)                                  | 究極タイガーII / Twin Cobra II (ver 2.1A 1995/11/30)                                             |
+| tcobra2  | Ultimate Tiger II / Twin Cobra II (ver 2.1O 1995/11/30)                                  | 究極タイガーII / Twin Cobra II (ver 2.1O 1995/11/30)                                             |
+| twinhwku | Twin Hawk (USA version)                                                                  | 大旋風 / Twin Hawk (USA版)                                                                       |
+| twinhawk | Twin Hawk (Overseas Version)                                                             | 大旋風 / Twin Hawk (海外版)                                                                      |
+| twinqix  | Tsukinkuikusu (ver 1.0A 1995/01/17) (prototype)                                          | ついんくいっくす (ver 1.0A 1995/01/17) (prototype)                                               |
+| undrfirj | Under Fire (Japanese version)                                                            | アンダーファイアー (日本版)                                                                      |
+| undrfiru | Under Fire (USA version)                                                                 | アンダーファイアー (USA版)                                                                       |
+| undrfire | Under Fire (overseas version)                                                            | アンダーファイアー (海外版)                                                                      |
+| viofighu | Violence Fight (USA version)                                                             | バイオレンスファイト (USA版)                                                                     |
+| viofight | Violence Fight (overseas version)                                                        | バイオレンスファイト (海外版)                                                                    |
+| volfiedj | Volfied (Japanese version)                                                               | ヴォルフィード (日本版)                                                                          |
+| volfiedu | Volfied (USA version)                                                                    | ヴォルフィード (USA版)                                                                           |
+| volfied  | Volfied (overseas version)                                                               | ヴォルフィード (海外版)                                                                          |
+| warriorb | Warrior Blade-Rastan Saga Episode III (Japan Version)                                    | ウォリアーブレード -ラスタンサーガエピソードIII (日本版)                                         |
+| wgpj     | WGP -Real Race Feeling (Japan Version)                                                   | WGP -リアルレースフィーリング (日本版)                                                           |
+| wgpjoy   | WGP -Real Race Feeling (Japanese version joystick ver set 1)                             | WGP -リアルレースフィーリング (日本版 joystick ver set 1)                                        |
+| wgpjoya  | WGP -Real Race Feeling (Japanese version joystick ver set 2)                             | WGP -リアルレースフィーリング (日本版 joystick ver set 2)                                        |
+| wgp      | WGP-Real Race Feeling (USA Version)                                                      | WGP -リアルレースフィーリング (USA版)                                                            |
+| wgp2     | WGP2-Real Race Feeling (Japan Version)                                                   | WGP2 -リアルレースフィーリング (日本版)                                                          |
+| yesnoj   | Yes.No Psychological Tokimeki Chart                                                      | Yes.No心理トキメキチャート                                                                       |
+| yuyugogo | Go with Yuyu's quiz! Go! (Japanese version)                                              | ゆうゆのクイズでGo！Go！ (日本版)                                                                |
 
 # Technos
 
