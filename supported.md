@@ -351,112 +351,116 @@ Ultraman-Fantasy Tokusatsu Series (Japan Version)
 
 # Irem
 
-```
-Air Duel (Japan Version)
-Andromeda SS (Japanese version?)
-Wily Tower / Atomic Boy
-Bomberman / Atomic Punk (USA version)
-Mr. HELI's Adventure / Battle Chopper
-Cross Blaze / Blade Master (overseas version)
-Bomberman (Japan version)
-Bomberman World (Japan Version)
-Bomberman World / New Dyna Blaster -Global Quest
-Gallop -Armed Police Unit / Cosmic Cop (overseas version)
-Hammerin'Harry-Beramme Town Uproar (Japan Version)
-Hammerin'Harry-Beramme Town Uproar (Japanese version M72)
-Demon Eye-X
-Dragon Breed (M81 PCB ver)
-Dream Soccer '94
-Dream Soccer '94 (Japan Version)
-Bomberman / Dynablaster
-Fire barrel (Japan version)
-Gallop -Armed Police Unit (Japan Version)
-Geostorm (Japan Version)
-Galactic Empire Counterattack
-Green beret (Irem)
-Magic Guard Gun Hoki (Japan Version)
-GunForce -Battle Fire Engulfed Terror Island (Japan Version)
-GunForce -Battle Fire Engulfed Terror Island (USA version)
-GunForce -Battle Fire Engulfed Terror Island (Overseas Version)
-Geostorm / Gun Force II (USA version)
-Gussun Oyoyo (Japan Version)
-Hammerin'Harry (USA version)
-Hammerin'Harry (Overseas Version)
-Hasamu (Japan Version)
-Head on (Irem M-15 Hardware)
-Hook (Japan version)
-Hook (USA version)
-Hook (overseas version)
-Armadillo / Horizon
-Image Fight (Japan Version)
-In the Hunt -In The Hunt / In The Hunt (USA version)
-In the Hunt -In The Hunt / In The Hunt (Overseas Version)
-IPM Invaders
-Kid Niki Yancha Maru (Japan Version)
-In the Hunt -In The Hunt (Japan Version)
-Swordsman
-Kid Niki -Radical Ninja (Overseas Version)
-Spartan X / Kung Fu Master
-Spartan X / Kung Fu Master (Data East)
-Legend of Hero Tomma
-Thunder Blaster / Lethal Thunder (Overseas Version)
-Road runner (set 1)
-Road runner (set 2)
-Lode Runner-Bangering Empire's Counterattack
-Road Runner-Resurrection of the Genie
-Lode Runner -Golden Labyrinth
-Roadrunner-Escape from the Empire
-Lot lot
-Major title (Japan version)
-Major Title 2-Tournament Leader (Overseas Version)
-Kickle Cubicle (Japan Version)
-Moon Patrol
-Moon Patrol (Williams)
-MotoRace USA
-Mr. HELI's Great Adventure
-Magic Guard Gun Hoki / Mystic Riders (Overseas Version)
-Bomberman World / New Atomic Punk -Global Quest (USA version)
-Baseball Fighting Leagueman / Ninja Baseball Batman (USA version)
-Ninja Spirit
-Punching Kid / Oli-Boo-Chu
-Perfect Soldiers (Japan Version)
-Pound for Pound (USA version)
-Pound for Pound (overseas version)
-Quiz F1 One Two Finish
-WW-III / Red Alert
-Gussun Oyoyo / Risky Challenge
-R-type (overseas version)
-R-type (USA version)
-R-type II
-R-Type II (Japan Version)
-R-type LEO (Japan version)
-R-type LEO (overseas version)
-Ninja Spirit (Japan Version)
-Major Title / Skins Game (Nintendo Super System)
-Sky shooter
-Space beam
-Spartan X (Japan Version)
-Spelunker
-Spelunker (Japan version)
-Spelunker II -23 Key
-Superior Soldiers (USA Edition)
-The Battle Road
-Major Title 2-Tournament Leader / The Irem Skins Game (USA version set 1)
-Major Title 2-Tournament Leader / The Irem Skins Game (USA version set 2)
-Thunder Blaster (Japan Version)
-Zippy lace
-Tropical angel
-Undercover Cops (Japan Version)
-Undercover Cops (overseas version)
-Galactic Empire Counterattack / UniWar S
-Vigilante (Japan version)
-Vigilante (USA version)
-Vigilante (overseas version)
-Wily Tower
-X Multiply (Japan Version)
-Baseball Fighting League Man (Japan Version)
-Youjuden (Japan Version)
-```
+| Game     | Description                                                               | Description (Japanese)                                                      |
+|----------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| yard     |                                                                           |                                                                             |
+| airduel  | Air Duel (Japanese version)                                               | エア・デュエル (日本版)                                                     |
+| andromed | Andromeda SS (Japanese version?)                                          | アンドロメダSS (日本版?)                                                    |
+| atomboy  | Wily Tower / Atomic Boy                                                   | ワイリータワー / Atomic Boy                                                 |
+| atompunk | Bomberman / Atomic Punk (USA version)                                     | ボンバーマン / Atomic Punk (USA版)                                          |
+| bchopper | Mr. HELI's Adventure / Battle Chopper                                     | Mr.HELIの大冒険 / Battle Chopper                                            |
+| bmaster  | Cross Blaze / Blade Master (overseas version)                             | クロス・ブレイズ / Blade Master (海外版)                                    |
+| bombrman | Bomberman (Japanese version)                                              | ボンバーマン (日本版)                                                       |
+| bbmanwj  | Bomberman World (Japanese version)                                        | ボンバーマンワールド (日本版)                                               |
+| bbmanw   | Bomberman World / New Dyna Blaster -Global Quest                          | ボンバーマンワールド / New Dyna Blaster -Global Quest                       |
+| cosmccop | Gallop -Armed Police Unit / Cosmic Cop (overseas version)                 | ギャロップ -Armed Police Unit / Cosmic Cop (海外版)                         |
+| dkgensan | Hammerin'Harry-Beramme Town Uproar (Japan Version)                        | 大工の源さん -べらんめ町騒動記 (日本版)                                     |
+| dkgenm72 | Hammerin'Harry-Beramme Town Uproar (Japanese version M72)                 | 大工の源さん -べらんめ町騒動記 (日本版 M72)                                 |
+| demoneye | Demon Eye-X                                                               | デモンアイ-X                                                                |
+| dbreed   | Dragon Breed (M81 PCB ver)                                                | ドラゴンブリード (M81 PCB ver)                                              |
+| dsoccr94 | Dream Soccer '94                                                          | ドリームサッカー'94                                                         |
+| dsccr94j | Dream Soccer '94 (Japan Version)                                          | ドリームサッカー'94 (日本版)                                                |
+| dynablst | Bomberman / Dynablaster                                                   | ボンバーマン / Dynablaster                                                  |
+| firebarr | Fire barrel (Japanese version)                                            | ファイアーバレル (日本版)                                                   |
+| gallop   | Gallop -Armed Police Unit (Japanese version)                              | ギャロップ -Armed Police Unit (日本版)                                      |
+| geostorm | Geostorm (Japanese version)                                               | ジオストーム (日本版)                                                       |
+| gteikoku | Galactic Empire Counterattack                                             | 銀河帝国の逆襲                                                              |
+| greenber | Green beret (Irem)                                                        | グリーンベレー (Irem)                                                       |
+| gunhohki | Magic Guard Gun Hoki (Japanese version)                                   | 魔法警備隊ガンホーキ (日本版)                                               |
+| gunforcj | GunForce -Battle Fire Engulfed Terror Island (Japanese version)           | ガンフォース -Battle Fire Engulfed Terror Island (日本版)                   |
+| gunforcu | GunForce -Battle Fire Engulfed Terror Island (USA Edition)                | ガンフォース -Battle Fire Engulfed Terror Island (USA版)                    |
+| gunforce | GunForce -Battle Fire Engulfed Terror Island (Overseas Version)           | ガンフォース -Battle Fire Engulfed Terror Island (海外版)                   |
+| gunforc2 | Geostorm / Gun Force II (USA version)                                     | ジオストーム / Gun Force II (USA版)                                         |
+| gussun   | Gussun Oyoyo (Japanese version)                                           | ぐっすんおよよ (日本版)                                                     |
+| hharryu  | Hammerin'Harry (USA version)                                              | 大工の源さん -べらんめ町騒動記 / Hammerin' Harry (USA版)                    |
+| hharry   | Hammerin'Harry (Overseas Version)                                         | 大工の源さん -べらんめ町騒動記 / Hammerin' Harry (海外版)                   |
+| hasamu   | Hasamu (Japanese version)                                                 | 覇沙夢 (日本版)                                                             |
+| headoni  | Head on (Irem M-15 Hardware)                                              | ヘッドオン (Irem M-15 Hardware)                                             |
+| hookj    | Hook (Japanese version)                                                   | フック (日本版)                                                             |
+| hooku    | Hook (USA version)                                                        | フック (USA版)                                                              |
+| hook     | Hook (overseas version)                                                   | フック (海外版)                                                             |
+| horizon  | Armadillo / Horizon                                                       | アルマジロ / Horizon                                                        |
+| imgfight | Image Fight (Japanese version)                                            | イメージファイト (日本版)                                                   |
+| inthuntu | In the Hunt -In The Hunt / In The Hunt (USA Version)                      | 海底大戦争 -In The Hunt / In The Hunt (USA版)                               |
+| inthunt  | In the Hunt -In The Hunt / In The Hunt (Overseas Version)                 | 海底大戦争 -In The Hunt / In The Hunt (海外版)                              |
+| ipminvad | IPM Invader                                                               | IPMインベーダー                                                             |
+| yanchamr | Kid Niki Yancha Maru (Japanese version)                                   | 快傑ヤンチャ丸 (日本版)                                                     |
+| kaiteids | In the Hunt -In The Hunt (Japanese version)                               | 海底大戦争 -In The Hunt (日本版)                                            |
+| kengo    | Swordsman                                                                 | 剣豪                                                                        |
+| kidniki  | Kid Niki -Radical Ninja (Overseas Version)                                | 快傑ヤンチャ丸 / Kid Niki -Radical Ninja (海外版)                           |
+| kungfum  | Spartan X / Kung Fu Master                                                | スパルタンX / Kung Fu Master                                                |
+| kungfud  | Spartan X / Kung Fu Master (Data East)                                    | スパルタンX / Kung Fu Master (Data East)                                    |
+| loht     | Legend of Hero Tomma                                                      | レジェンドオブヒーロー トンマ                                               |
+| lethalth | Thunder Blaster / Lethal Thunder (overseas version)                       | サンダーブラスター / Lethal Thunder (海外版)                                |
+| ldrun    | Road runner (set 1)                                                       | ロードランナー (set 1)                                                      |
+| ldruna   | Road runner (set 2)                                                       | ロードランナー (set 2)                                                      |
+| ldrun2   | Lode Runner-Bangering Empire's Counterattack                              | ロードランナー -バンゲリング帝国の逆襲                                      |
+| ldrun3jp | Road Runner-Resurrection of the Genie                                     | ロードランナー -魔神の復活                                                  |
+| ldrun3   | Lode Runner -Golden Labyrinth                                             | ロードランナー -魔神の復活 / Lode Runner -Golden Labyrinth                  |
+| ldrun4   | Road Runner-Escape from the Empire                                        | ロードランナー -帝国からの脱出                                              |
+| lotlot   | Lot lot                                                                   | ロットロット                                                                |
+| majtitle | Major title (Japanese version)                                            | メジャータイトル (日本版)                                                   |
+| majtitl2 | Major Title 2-Tournament Leader (Overseas Version)                        | メジャータイトル2 -トーナメントリーダー (海外版)                            |
+| kikcubic | Kickle Cubicle (Japanese version)                                         | 迷宮島 (日本版)                                                             |
+| mpatrol  | Moon Patrol                                                               | ムーンパトロール                                                            |
+| mpatrolw | Moon Patrol (Williams)                                                    | ムーンパトロール (Williams)                                                 |
+| motorace | MotoRace USA                                                              | ジッピーレース / MotoRace USA                                               |
+| mrheli   | Mr. HELI's Great Adventure                                                | Mr.HELIの大冒険                                                             |
+| mysticri | Magic Guard Gun Hoki / Mystic Riders (Overseas Version)                   | 魔法警備隊ガンホーキ / Mystic Riders (海外版)                               |
+| newapunk | Bomberman World / New Atomic Punk -Global Quest (USA Version)             | ボンバーマンワールド / New Atomic Punk -Global Quest (USA版)                |
+| nbbatman | Baseball Fighting Leagueman / Ninja Baseball Batman (USA version)         | 野球格闘リーグマン / Ninja Baseball Batman (USA版)                          |
+| nspirit  | Ninja Spirit                                                              | 最後の忍道 / Ninja Spirit                                                   |
+| olibochu | Punching Kid / Oli-Boo-Chu                                                | パンチングキッド / Oli-Boo-Chu                                              |
+| psoldier | Perfect Soldiers (Japanese version)                                       | パーフェクトソルジャーズ (日本版)                                           |
+| poundfou | Pound for Pound (USA version)                                             | パウンド・フォー・パウンド (USA版)                                          |
+| poundfor | Pound for Pound (overseas version)                                        | パウンド・フォー・パウンド (海外版)                                         |
+| quizf1   | Quiz F1 One Two Finish                                                    | クイズF1 ワンツーフィニッシュ                                               |
+| redalert | WW-III / Red Alert                                                        | WW-III / Red Alert                                                          |
+| riskchal | Gussun Oyoyo / Risky Challenge                                            | ぐっすんおよよ / Risky Challenge                                            |
+| rtypepj  |                                                                           |                                                                             |
+| rtype    | R-type (overseas version)                                                 | R-タイプ (海外版)                                                           |
+| rtypeu   | R-type (USA version)                                                      | R-タイプ (USA版)                                                            |
+| rtype2   | R-type II                                                                 | R-タイプII                                                                  |
+| rtype2j  | R-Type II (Japanese version)                                              | R-タイプII (日本版)                                                         |
+| rtypelej | R-type LEO (Japanese version)                                             | R-タイプLEO (日本版)                                                        |
+| rtypeleo | R-type LEO (overseas version)                                             | R-タイプLEO (海外版)                                                        |
+| nspiritj | Ninja Spirit (Japanese version)                                           | 最後の忍道 (日本版)                                                         |
+| nss_skin | Major Title / Skins Game (Nintendo Super System)                          | メジャータイトル / Skins Game (Nintendo Super System)                       |
+| skychut  | Sky shooter                                                               | スカイシューター                                                            |
+| spacbeam | Space beam                                                                | スペースビーム                                                              |
+| spartanx | Spartan X (Japanese version)                                              | スパルタンX (日本版)                                                        |
+| spelunkr | Spelunker                                                                 | スペランカー                                                                |
+| spelnkrj | Spelunker (Japanese version)                                              | スペランカー (日本版)                                                       |
+| spelunk2 | Spelunker II -23 Key                                                      | スペランカーII -23の鍵                                                      |
+| ssoldier | Superior Soldiers (USA Edition)                                           | パーフェクトソルジャーズ / Superior Soldiers (USA版)                        |
+| battroad | The Battle Road                                                           | ザ・バトルロード                                                            |
+| skingame | Major Title 2-Tournament Leader / The Irem Skins Game (USA version set 1) | メジャータイトル2 -トーナメントリーダー / The Irem Skins Game (USA版 set 1) |
+| skingam2 | Major Title 2-Tournament Leader / The Irem Skins Game (USA version set 2) | メジャータイトル2 -トーナメントリーダー / The Irem Skins Game (USA版 set 2) |
+| thndblst | Thunder Blaster (Japanese version)                                        | サンダーブラスター (日本版)                                                 |
+| travrusa | Zippy lace                                                                | ジッピーレース                                                              |
+| troangel | Tropical angel                                                            | トロピカルエンジェル                                                        |
+| uccopsj  | Undercover Cops (Japanese version)                                        | アンダーカバーコップス (日本版)                                             |
+| uccops   | Undercover Cops (overseas version)                                        | アンダーカバーコップス (海外版)                                             |
+| uniwars  | Galactic Empire Counterattack / UniWar S                                  | 銀河帝国の逆襲 / UniWar S                                                   |
+| vigilntj | Vigilante (Japanese version)                                              | ビジランテ (日本版)                                                         |
+| vigilntu | Vigilante (USA version)                                                   | ビジランテ (USA版)                                                          |
+| vigilant | Vigilante (overseas version)                                              | ビジランテ (海外版)                                                         |
+| vsyard2  |                                                                           |                                                                             |
+| vsyard   |                                                                           |                                                                             |
+| wilytowr | Wily Tower                                                                | ワイリータワー                                                              |
+| xmultipl | X Multiply (Japanese version)                                             | Xマルチプライ (日本版)                                                      |
+| leaguemn | Baseball Fighting League Man (Japan Version)                              | 野球格闘リーグマン (日本版)                                                 |
+| youjyudn | Youjuden (Japanese version)                                               | 妖獣伝 (日本版)                                                             |
 
 # Jaleco
 
