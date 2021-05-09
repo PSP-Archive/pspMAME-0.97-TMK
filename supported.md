@@ -36,85 +36,85 @@ Ultraman-Fantasy Tokusatsu Series (Japan Version)
 
 # Capcom
 
-| Rom      | Game                                                                            |
-|----------|---------------------------------------------------------------------------------|
-| 1942     | 1942 (set 1)                                                                    |
-| 1942a    | 1942 (set 2)                                                                    |
-| 1942b    | 1942 (set 3)                                                                    |
-| 1943kai  | 1943 Kai: Midway Battle of Midway (Japan Version)                               |
-| 1943j    | 1943 -The Battle of the Midway (Japan Version)                                  |
-| 1943     | 1943 -The Battle of Midway (USA version)                                        |
-| hatena   | Adventure Quiz 2 Hatena? Adventure (Japanese version 900228)                    |
-| lwingsjp | Legendary Wings -The Legendary Soldiers (Japan Version)                         |
-| avengers | Deadly Unrequited Fist / Avengers (USA version set 1)                           |
-| avenger2 | Deadly Unrequited Fist / Avengers (USA version set 2)                           |
-| bionicc  | Top Secret / Bionic Commando (European version)                                 |
-| bionicc2 | Top Secret / Bionic Commando (USA version set 2)                                |
-| blkdrgon | Black dragon                                                                    |
-| blktiger | Black Tiger                                                                     |
-| blockj   | Block block (Japanese version 910910)                                           |
-| blocka   | Block block (overseas version 910910)                                           |
-| bbros    | Buster Bros. (USA version)                                                      |
-| cbasebal | Capcom Baseball (Japan Version)                                                 |
-| cworld   | Adventure Quiz Capcom World (Japan Version)                                     |
-| commandu | Commando (USA version)                                                          |
-| commando | Commando on the battlefield (overseas version)                                  |
-| dokaben  | Dokaben (Japan Version)                                                         |
-| exedexes | Exed Exes                                                                       |
-| f1dream  | F-1 dream                                                                       |
-| gngt     | Ghosts'n Goblins (USA version)                                                  |
-| gng      | Ghosts'n Goblins (overseas version? Set 1)                                      |
-| gnga     | Ghosts'n Goblins (overseas version? Set 2)                                      |
-| gng      | Ghouls'n Ghosts (Mega-Tech)                                                     |
-| gunsmokj | Gunsmoke (Japan version)                                                        |
-| gunsmoku | Gun Smoke (USA version set 1)                                                   |
-| gunsmoka | Gun Smoke (USA version set 2)                                                   |
-| gunsmoke | Gun Smoke (Overseas Version)                                                    |
-| buraiken | Deadly Unrequited Fist (Japan Version)                                          |
-| lastduel | Last Duel (USA version set 1)                                                   |
-| lstduela | Last Duel (USA version set 2)                                                   |
-| ledstorm | Mad Gear / Led Storm (USA Edition)                                              |
-| lwings   | Legendary Wings -The Legendary Soldiers / Legendary Wings (USA   version set 1) |
-| lwings2  | Legendary Wings -The Legendary Soldiers / Legendary Wings (USA   version set 2) |
-| madgearj | Mad Gear (Japan Version)                                                        |
-| madgear  | Mad Gear (USA version)                                                          |
-| makaimuc | Ghosts'n Goblins (Japanese version rev C)                                       |
-| makaimug | Ghosts'n Goblins (Japanese version rev G)                                       |
-| makaimur | Ghosts'n Goblins (Japan Version)                                                |
-| higemaru | Higemaru                                                                        |
-| qsangoku | Quiz Sangokushi-Champion of Wisdom (Japan Version)                              |
-| qtono1   | Quiz-sama's Ambition (Japan Version)                                            |
-| rushcrsh | Rush & Crash (Japan Version)                                                    |
-| savgbees | Exed Exes / Savage Bees                                                         |
-| sectionz | Section Z (set 1)                                                               |
-| sctionza | Section Z (set 2)                                                               |
-| commandj | Commando on the battlefield                                                     |
-| sidearjp | Side Arm -Hyper Dyne (Japan Version)                                            |
-| sidearmr | Side Arm -Hyper Dyne (USA Edition)                                              |
-| sidearms | Side Arm -Hyper Dyne (Overseas Version)                                         |
-| slipstrm | Slipstream                                                                      |
-| sonson   | Sonson                                                                          |
-| sonsonj  | Sonson (Japan version)                                                          |
-| sinvasn  | Battlefield Wolf / Space Invasion (European version)                            |
-| sfjp     | Street Fighter (Japan Version)                                                  |
-| sfp      | Street fighter (prototype)                                                      |
-| sfus     | Street Fighter (USA version)                                                    |
-| sf       | Street Fighter (overseas version)                                               |
-| sftm110  | Street Fighter The Movie (ver 1.10)                                             |
-| sftm111  | Street Fighter The Movie (ver 1.11)                                             |
-| sftm     | Street Fighter The Movie (ver 1.12)                                             |
-| sftmj    | Street Fighter The Movie (Japanese version ver 1.12N)                           |
-| trojanj  | Trojan (Japanese version)                                                       |
-| srumbler | Rush & Crash / The Speed Rumbler (set 1)                                        |
-| srumblr2 | Rush & Crash / The Speed Rumbler (set 2)                                        |
-| tigeroad | Tiger Road (USA version)                                                        |
-| topsecrt | Top Secret (Japan Version)                                                      |
-| toramich | Road to Tiger (Japan Version)                                                   |
-| trojanr  | Trojan (Romstar)                                                                |
-| trojan   | Trojan / Trojan (USA version)                                                   |
-| vulgusj  | Vargas (Japanese version?)                                                      |
-| vulgus   | Vargas (set 1)                                                                  |
-| vulgus2  | Vargas (set 2)                                                                  |
+| Game     | Description                                                                     | Description (Japanese)                                             |
+|----------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| 1942     | 1942 (set 1)                                                                    | 1942 (set 1)                                                       |
+| 1942a    | 1942 (set 2)                                                                    | 1942 (set 2)                                                       |
+| 1942b    | 1942 (set 3)                                                                    | 1942 (set 3)                                                       |
+| 1943kai  | 1943 Kai: Midway Battle of Midway (Japanese Version)                            | 1943改 -ミッドウェイ海戦 (日本版)                                  |
+| 1943j    | 1943 --Midway Battle (Japan Version)                                            | 1943 -ミッドウェイ海戦 (日本版)                                    |
+| 1943     | 1943 -The Battle of Midway (USA version)                                        | 1943 -ミッドウェイ海戦 / 1943 -The Battle of Midway (USA版)        |
+| hatena   | Adventure Quiz 2 Hatena? Adventure (Japanese version 900228)                    | アドベンチャークイズ2 ハテナ？の大冒険 (日本版 900228)             |
+| lwingsjp | Legendary Wings -The Legendary Soldiers (Japanese Version)                      | アレスの翼 -The Legendary Soldiers (日本版)                        |
+| avengers | Deadly Unrequited Fist / Avengers (USA version set 1)                           | 必殺 無頼拳 / Avengers (USA版 set 1)                               |
+| avenger2 | Deadly Unrequited Fist / Avengers (USA version set 2)                           | 必殺 無頼拳 / Avengers (USA版 set 2)                               |
+| bionicc  | Top Secret / Bionic Commando (European version)                                 | トップ・シークレット / Bionic Commando (欧州版)                    |
+| bionicc2 | Top Secret / Bionic Commando (USA version set 2)                                | トップ・シークレット / Bionic Commando (USA版 set 2)               |
+| blkdrgon | Black dragon                                                                    | ブラックドラゴン                                                   |
+| blktiger | Black Tiger                                                                     | ブラックドラゴン / Black Tiger                                     |
+| blockj   | Block block (Japanese version 910910)                                           | ブロックブロック (日本版 910910)                                   |
+| blocka   | Block block (overseas version 910910)                                           | ブロックブロック (海外版 910910)                                   |
+| bbros    | Pumping World / Buster Bros. (USA version)                                      | ポンピングワールド / Buster Bros. (USA版)                          |
+| cbasebal | Capcom Baseball (Japan Version)                                                 | カプコンベースボール (日本版)                                      |
+| cworld   | Adventure Quiz Capcom World (Japan Version)                                     | アドベンチャークイズ カプコンワールド (日本版)                     |
+| commandu | Commando on the battlefield (USA version)                                       | 戦場の狼 / Commando (USA版)                                        |
+| commando | Commando on the battlefield (overseas version)                                  | 戦場の狼 / Commando (海外版)                                       |
+| dokaben  | Dokaben (Japanese version)                                                      | ドカベン (日本版)                                                  |
+| exedexes | Exed Exes                                                                       | エグゼドエグゼス                                                   |
+| f1dream  | F-1 dream                                                                       | F-1ドリーム                                                        |
+| gngt     | Ghosts'n Goblins (USA version)                                                  | 魔界村 / Ghosts'n Goblins (USA版)                                  |
+| gng      | Ghosts'n Goblins (overseas version? Set 1)                                      | 魔界村 / Ghosts'n Goblins (海外版? set 1)                          |
+| gnga     | Ghosts'n Goblins (overseas version? Set 2)                                      | 魔界村 / Ghosts'n Goblins (海外版? set 2)                          |
+| gng      | Ghouls'n Ghosts (Mega-Tech)                                                     | 大魔界村 / Ghouls'n Ghosts (Mega-Tech)                             |
+| gunsmokj | Gun Smoke (Japanese version)                                                    | ガンスモーク (日本版)                                              |
+| gunsmoku | Gun Smoke (USA version set 1)                                                   | ガンスモーク (USA版 set 1)                                         |
+| gunsmoka | Gun Smoke (USA version set 2)                                                   | ガンスモーク (USA版 set 2)                                         |
+| gunsmoke | Gun Smoke (Overseas Version)                                                    | ガンスモーク (海外版)                                              |
+| buraiken | Deadly Unrequited Fist (Japanese version)                                       | 必殺 無頼拳 (日本版)                                               |
+| lastduel | Last Duel (USA version set 1)                                                   | ラスト・デュエル (USA版 set 1)                                     |
+| lstduela | Last Duel (USA version set 2)                                                   | ラスト・デュエル (USA版 set 2)                                     |
+| ledstorm | Mad Gear / Led Storm (USA Edition)                                              | マッド・ギア / Led Storm (USA版)                                   |
+| lwings   | Legendary Wings -The Legendary Soldiers / Legendary Wings (USA   version set 1) | アレスの翼 -The Legendary Soldiers / Legendary Wings (USA版 set 1) |
+| lwings2  | Legendary Wings -The Legendary Soldiers / Legendary Wings (USA   version set 2) | アレスの翼 -The Legendary Soldiers / Legendary Wings (USA版 set 2) |
+| madgearj | Mad Gear (Japan Version)                                                        | マッド・ギア (日本版)                                              |
+| madgear  | Mad Gear (USA Version)                                                          | マッド・ギア (USA版)                                               |
+| makaimuc | Ghosts'n Goblins (Japanese version rev C)                                       | 魔界村 (日本版 rev C)                                              |
+| makaimug | Ghosts'n Goblins (Japanese version rev G)                                       | 魔界村 (日本版 rev G)                                              |
+| makaimur | Ghosts'n Goblins (Japanese version)                                             | 魔界村 (日本版)                                                    |
+| higemaru | Higemaru                                                                        | ひげ丸                                                             |
+| qsangoku | Quiz Sangokushi-Champion of Wisdom (Japan Version)                              | クイズ三國志 -知略の覇者 (日本版)                                  |
+| qtono1   | Quiz-sama's ambition (Japanese version)                                         | クイズ殿様の野望 (日本版)                                          |
+| rushcrsh | Rush & Crash (Japanese version)                                                 | ラッシュ&クラッシュ (日本版)                                       |
+| savgbees | Exed Exes / Savage Bees                                                         | エグゼドエグゼス / Savage Bees                                     |
+| sectionz | Section Z (set 1)                                                               | セクションZ (set 1)                                                |
+| sctionza | Section Z (set 2)                                                               | セクションZ (set 2)                                                |
+| commandj | Commando on the battlefield                                                     | 戦場の狼                                                           |
+| sidearjp | Side Arm -Hyper Dyne (Japanese version)                                         | サイドアーム -Hyper Dyne (日本版)                                  |
+| sidearmr | Side Arm -Hyper Dyne (USA Edition)                                              | サイドアーム -Hyper Dyne (USA版)                                   |
+| sidearms | Side Arm -Hyper Dyne (Overseas Version)                                         | サイドアーム -Hyper Dyne (海外版)                                  |
+| slipstrm | Slipstream                                                                      | スリップストリーム                                                 |
+| sonson   | Sonson                                                                          | ソンソン                                                           |
+| sonsonj  | Song Son (Japanese version)                                                     | ソンソン (日本版)                                                  |
+| sinvasn  | Commando / Space Invasion (European version)                                    | 戦場の狼 / Space Invasion (欧州版)                                 |
+| sfjp     | Street Fighter (Japan Version)                                                  | ストリートファイター (日本版)                                      |
+| sfp      | Street fighter (prototype)                                                      | ストリートファイター (prototype)                                   |
+| sfus     | Street Fighter (USA version)                                                    | ストリートファイター (USA版)                                       |
+| sf       | Street Fighter (overseas version)                                               | ストリートファイター (海外版)                                      |
+| sftm110  | Street Fighter The Movie (ver 1.10)                                             | ストリートファイター ザ・ムービー (ver 1.10)                       |
+| sftm111  | Street Fighter The Movie (ver 1.11)                                             | ストリートファイター ザ・ムービー (ver 1.11)                       |
+| sftm     | Street Fighter The Movie (ver 1.12)                                             | ストリートファイター ザ・ムービー (ver 1.12)                       |
+| sftmj    | Street Fighter The Movie (Japanese version ver 1.12N)                           | ストリートファイター ザ・ムービー (日本版 ver 1.12N)               |
+| trojanj  | Trojan (Japanese version)                                                       | 闘いの挽歌 (日本版)                                                |
+| srumbler | Rush & Crash / The Speed Rumbler (set 1)                                        | ラッシュ&クラッシュ / The Speed Rumbler (set 1)                    |
+| srumblr2 | Rush & Crash / The Speed Rumbler (set 2)                                        | ラッシュ&クラッシュ / The Speed Rumbler (set 2)                    |
+| tigeroad | Tiger Road (USA version)                                                        | 虎への道 / Tiger Road (USA版)                                      |
+| topsecrt | Top Secret (Japanese version)                                                   | トップ・シークレット (日本版)                                      |
+| toramich | Road to Tiger (Japanese version)                                                | 虎への道 (日本版)                                                  |
+| trojanr  | Trojan (Romstar)                                                                | 闘いの挽歌 / Trojan (Romstar)                                      |
+| trojan   | Trojan / Trojan (USA version)                                                   | 闘いの挽歌 / Trojan (USA版)                                        |
+| vulgusj  | Vargas (Japanese version?)                                                      | バルガス (日本版?)                                                 |
+| vulgus   | Vargas (set 1)                                                                  | バルガス (set 1)                                                   |
+| vulgus2  | Vargas (set 2)                                                                  | バルガス (set 2)                                                   |
 
 # Deco
 
