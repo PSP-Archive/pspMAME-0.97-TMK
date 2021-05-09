@@ -783,287 +783,287 @@ Xevious (Namco)
 
 # Nichibutsu
 
-```
-Armed F
-Youth Mahjong Bijin Gakuen (Japan Version 880116)
-Beautiful girl dream story (Japanese version 870925)
-City Love (Japanese version 860908)
-City Love [BET] (Japanese version 860904)
-Cup 01 (set 1)
-Cup 01 (set 2)
-Crazy Climber (Japan Version)
-Crazy Climber (USA version)
-Crazy Climber 2 (Japanese version harder)
-Crazy Climber 2 (Japan Version)
-Crystal Gal (Japanese version 860512)
-Crystal Gal II (Japanese version 860620)
-Dacholar
-UFO Robo Dangar (12/1/1986)
-UFO Robo Dangar (9/26/1986)
-Frisky Tom (set 1)
-Frisky Tom (set 2)
-Cosmo Police Galivan (12/11/1985)
-Cosmo Police Galivan (12/16/1985)
-Gion Flower (Japanese version 890120)
-Gion Flower [BET] (Japanese version 890207)
-Gomoku-Renju
-Flower and Uncle [BET] (Japanese version 911209)
-Anti-household hemp wet feeling <House Manukan> -Temptation Diary (Japanese version 870217)
-Anti-household hemp wet feeling <House Manukan> -Roppongi live edition (Japan version 870418)
-Iemoto (Japanese version 871020)
-Iemoto [BET] (Japanese version 871118)
-Kickboy
-Kid's Booby Kids Operation
-Lone Wolf and Cub (Japan Version)
-Super Time Labyrinth Region (ver 1.05)
-Super Time Labyrinth Region (ver 2.03)
-Magmax
-Mahjong Bakuhatsu Junjoden (Japan Version)
-Mahjong Silence Formation (Japanese version 900511)
-Mahjong Circuit Woman Leopard (Japan Version)
-Mahjong Club 90's (Japanese version set 1 900919)
-Mahjong Club 90's (Japanese version set 2 900919)
-Final Bani ~ [BET] (Japan Version)
-Mahjong Focus (Japanese version 890313)
-Mahjong Focus [BET] (Japanese version 890510)
-Flowering of gals (Japan version)
-Gal Confession (Japan Version)
-Mahjong G Men '89 -Killed OL (Japanese version 890425)
-It feels like mahjong! (Japan version)
-Mahjong Thug Gaiden Flower Momoko Gumi! (Japanese version 881201)
-Mahjong Broadcasting Station During Production (Japan Version)
-Hyoban Musume [BET] (Japan Version)
-Mahjong Jean Jean Bali Bali (Japan Version)
-Mahjong Experiment Love Story (Japan Version)
-Majan Horse Racing King (Japan Version)
-Mahjong Koi no Magic Portion (Japan Version)
-Mahjong love fortune-telling (Japan version)
-Mahjong love fortune-telling (Japanese version set 2)
-Mahjong Raman (Japan Version)
-Mahjong Love House [BET] (Japanese version 901024)
-Aim! Top Star-Entertainer Survival Mahjong (Japan Version)
-Mahjong Pachinko Story (Japan Version)
-Panick Stadium (Japan Version)
-Mahjong Triple Wars Extra Edition Sailor Wars (Japan Version)
-Mahjong Triple Wars Extra Edition Sailor Wars (Japanese version set 2)
-Mahjong Triple Wars Extra Edition Sailor Wars R-Return as a medal! !! [BET] (Japan version)
-Mahjong Murder Case (Japanese version 881017)
-Mahjong thug (Japanese version 880722)
-Mahjong thug (Japanese version 880802)
-Mahjong thug (Japanese version 880806)
-Mahjong thug (Japanese version 880908)
-Mahjong thug [BET] (Japanese version 880929)
-Mahjong Lady Hunter-Phantom Thief Black Cat Federation Edition (Japan Version 900509)
-Mahjong Triple Wars (Japan Version)
-Mahjong Triple Wars 2 (Japan Version)
-With love from space (Japan version)
-Mahjong Fortune-telling Legend (Japan Version)
-Mahjong Vanilla Syndrome (Japan Version)
-Mahjong Waku Waku Catcher (Japan Version)
-Mahjong Yoshimoto Theater (Japan Version)
-Mahjong lovers (Japanese version 880425)
-Mahjong lovers [BET] (Japanese version 880920)
-Maiko Flower (Japanese version 900802)
-Maiko Flower [BET] (Japanese version 900911)
-Medal Mahjong Circuit Woman Leopard [BET] (Japan Version)
-It feels like a medal mahjong! [BET] (Japan version)
-Medal Mahjong Jean Jean Bali Bali [BET] (Japan Version)
-Medal Mahjong Pachislot Heaven [BET] (Japan Version)
-Mighty Guy
-Miss Mahjong Contest in Yakuman University (Japan Version)
-Moon alien
-Moon Alien Part2
-Moon Alien Part2 (older ver)
-Moon base
-Moon Cresta (pirated set 2)
-Moon Cresta (Nichibutsu)
-Moon Cresta (Nichibutsu old rev)
-Moon Cresta (Nichibutsu unencrypted)
-Moon quasar
-Moon Shuttle (Japanese version set 2)
-Moon Shuttle (Japan Version)
-Moon Shuttle (USA version?)
-Yumesohana (Japan version)
-Hot Blood Grand Prix Gal (Japan Version)
-Youma Ninja Emaki / Ninja Emaki (USA version)
-Daughter tile (Japan version)
-Young lady (Japanese version 871204)
-Young lady [BET] (Japanese version 870108)
-Cranial nerve weakness Pears (Nichibutsu) (Japanese version 890822)
-Pastel Gal (Japanese version 851224)
-Quiz Mahjong! Get it fast (Japan version)
-Radial
-Roller jammer
-Rolling Crash / Moon Base
-Wiping / Rug Rats
-Scandal Mahjong (Japanese version 890213)
-Scandal Mahjong [BET] (Japanese version 890217)
-Second Love (Japanese version 861201)
-Sector zone
-Soldier Girl Amazon
-Sector zone / Seicross
-Conquer (Japanese version 870725)
-Conquer [BET] (Japanese version 870723)
-SF-X -Space Fighter X
-SF-X -Space Fighter X / Skelagon
-Soldier Girl Amazon
-Moon Alien Part2 / Super GX
-Quick Push Battle Quiz Hiho (Japan Version)
-Fast Push Battle Quiz Hiho 2 (Japan Version)
-fight! Big fighter
-Telephone Mahjong (Japanese version 890111)
-Terra Cresta (YM2203)
-Terra Cresta (YM3526 set 1)
-Terra Cresta (YM3526 set 2)
-Terra force
-Terra Force (USA version)
-Toki Me Ki Bishoujo [BET] (Japan Version)
-Tokyo Gal Encyclopedia (Japan Version)
-Tube panic
-Wiping
-Youma Ninpocho (Japan Version)
-```
+| Game     | Description                                                                                      | Description (Japanese)                                                                        |
+|----------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| armedf   | Armed F                                                                                          | アームドF                                                                                     |
+| bijokkog | Youth Mahjong Beauty Girl Academy (Japanese version 880116)                                      | 青春麻雀 美女っ子学園 (日本版 880116)                                                         |
+| bijokkoy | Beautiful girl dream story (Japanese version 870925)                                             | 美女っ子夢物語 (日本版 870925)                                                                |
+| citylove | City Lab (Japanese version 860908)                                                               | シティラブ (日本版 860908)                                                                    |
+| mcitylov | City Lab [BET] (Japanese version 860904)                                                         | シティラブ [BET] (日本版 860904)                                                              |
+| cop01    | Cup 01 (set 1)                                                                                   | コップ01 (set 1)                                                                              |
+| cop01a   | Cup 01 (set 2)                                                                                   | コップ01 (set 2)                                                                              |
+| cclimbrj | Crazy Climber (Japanese version)                                                                 | クレイジークライマー (日本版)                                                                 |
+| cclimber | Crazy Climber (USA version)                                                                      | クレイジークライマー (USA版)                                                                  |
+| cclmbr2a | Crazy Climber 2 (Japanese harder)                                                                | クレイジークライマー2 (日本版 harder)                                                         |
+| cclimbr2 | Crazy Climber 2 (Japanese version)                                                               | クレイジークライマー2 (日本版)                                                                |
+| crystalg | Crystal Gal (Japanese version 860512)                                                            | クリスタルギャル (日本版 860512)                                                              |
+| crystal2 | Crystal Gal II (Japanese version 860620)                                                         | クリスタルギャルII (日本版 860620)                                                            |
+| dacholer | Dacholar                                                                                         | ダチョラー                                                                                    |
+| dangar   | UFO Robo Dangar (12/1/1986)                                                                      | UFOロボ ダンガー (12/1/1986)                                                                  |
+| dangar2  | UFO Robo Dangar (9/26/1986)                                                                      | UFOロボ ダンガー (9/26/1986)                                                                  |
+| friskyt  | Frisky Tom (set 1)                                                                               | フリスキートム (set 1)                                                                        |
+| friskyta | Frisky Tom (set 2)                                                                               | フリスキートム (set 2)                                                                        |
+| galivan2 | Cosmo Police Galivan (12/11/1985)                                                                | コスモポリスギャリバン (12/11/1985)                                                           |
+| galivan  | Cosmo Police Galivan (12/16/1985)                                                                | コスモポリスギャリバン (12/16/1985)                                                           |
+| gionbana | Gion Flower (Japanese version 890120)                                                            | 祇園花 (日本版 890120)                                                                        |
+| mgion    | Gion Hana [BET] (Japanese version 890207)                                                        | 祇園花 [BET] (日本版 890207)                                                                  |
+| gomoku   | Gomoku-Renju                                                                                     | 五目並べ -連珠                                                                                |
+| hanaoji  | Flower and Uncle [BET] (Japanese version 911209)                                                 | 花とおじさん [BET] (日本版 911209)                                                            |
+| housemnq | Feeling wet with hemp <House Manukan> -Temptation Diary (Japanese   version 870217)              | 対家麻濡感 <ハウスマヌカン> -誘惑日記編 (日本版 870217)                                       |
+| housemn2 | Feeling wet with hemp <House Manukan> -Roppongi Live Edition   (Japanese version 870418)         | 対家麻濡感 <ハウスマヌカン> -六本木ライヴ編 (日本版 870418)                                   |
+| iemoto   | Iemoto (Japanese version 871020)                                                                 | 家元 (日本版 871020)                                                                          |
+| iemotom  | Iemoto [BET] (Japanese version 871118)                                                           | 家元 [BET] (日本版 871118)                                                                    |
+| kickboy  | Kickboy                                                                                          | キックボーイ                                                                                  |
+| horekid  | Kid's Booby Kids Operation                                                                       | キッドのホレホレ大作戦                                                                        |
+| kodure   | Lone Wolf and Cub (Japan Version)                                                                | 子連れ狼 (日本版)                                                                             |
+| legiono  | Super Time Labyrinth Region (ver 1.05)                                                           | 超時迷宮レジオン (ver 1.05)                                                                   |
+| legion   | Super Time Labyrinth Region (ver 2.03)                                                           | 超時迷宮レジオン (ver 2.03)                                                                   |
+| magmax   | Magmax                                                                                           | マグマックス                                                                                  |
+| bakuhatu | Mahjong Bakuhatsu Junjoden (Japanese version)                                                    | 麻雀バクハツ純情伝 (日本版)                                                                   |
+| chinmoku | Mahjong Silence Formation (Japanese version 900511)                                              | マージャン沈黙の編隊 (日本版 900511)                                                          |
+| cmehyou  | Mahjong Circuit Female Leopard (Japanese Version)                                                | 麻雀サーキットの女豹 (日本版)                                                                 |
+| club90s  | Mahjong Club 90's (Japanese version set 1 900919)                                                | 麻雀クラブ90's (日本版 set 1 900919)                                                          |
+| club90sa | Mahjong Club 90's (Japanese version set 2 900919)                                                | 麻雀クラブ90's (日本版 set 2 900919)                                                          |
+| finalbny | Final Bani ~ [BET] (Japanese version)                                                            | ファイナルバニ～ [BET] (日本版)                                                               |
+| mjfocus  | Mahjong Focus (Japanese version 890313)                                                          | 麻雀フォーカス (日本版 890313)                                                                |
+| mjfocusm | Mahjong Focus [BET] (Japanese version 890510)                                                    | 麻雀フォーカス [BET] (日本版 890510)                                                          |
+| galkaika | Flowering of gals (Japanese version)                                                             | ギャルの開花 (日本版)                                                                         |
+| galkoku  | Gal Confession (Japanese Version)                                                                | ギャルの告白 (日本版)                                                                         |
+| mgmen89  | Mahjong G Men '89 -Killed OL (Japanese version 890425)                                           | マージャンGメン'89 -殺されたOL (日本版 890425)                                                |
+| mjgottsu | It feels like mahjong! (Japanese version)                                                        | 麻雀ごっつええ感じ！ (日本版)                                                                 |
+| hanamomo | Mahjong Thug Gaiden Hana no Momoko Gumi! (Japanese version 881201)                               | 麻雀刺客外伝 花のももこ組！ (日本版 881201)                                                   |
+| mhhonban | Mahjong Broadcasting Station During Production (Japan Version)                                   | 麻雀放送局 本番中 (日本版)                                                                    |
+| hyouban  | Hyoban Musume [BET] (Japanese version)                                                           | ひょうばん娘 [BET] (日本版)                                                                   |
+| janbari  | Mahjong Jean Jean Bali Bali (Japanese version)                                                   | 麻雀ジャンジャンバリバリ (日本版)                                                             |
+| mjlstory | Mahjong Experiment Love Story (Japan Version)                                                    | マージャン実験ラブストーリー (日本版)                                                         |
+| mkeibaou | Majan Horse Racing King (Japanese version)                                                       | まーじゃん競馬王 (日本版)                                                                     |
+| koinomp  | Mahjong Koi no Magic Portion (Japanese version)                                                  | マージャン恋のマジックポーション (日本版)                                                     |
+| mjkoiura | Mahjong love fortune-telling (Japanese version)                                                  | 麻雀恋占い (日本版)                                                                           |
+| mkoiuraa | Mahjong love fortune-telling (Japanese version set 2)                                            | 麻雀恋占い (日本版 set 2)                                                                     |
+| mjlaman  | Mahjong Raman (Japan Version)                                                                    | 麻雀ラマン (日本版)                                                                           |
+| lovehous | Mahjong Love House [BET] (Japanese version 901024)                                               | 麻雀ラブハウス [BET] (日本版 901024)                                                          |
+| ntopstar | Aim! Top Star-Entertainment World Survival Mahjong (Japan Version)                               | ねらえ！トップスター -芸能界サバイバル麻雀 (日本版)                                           |
+| patimono | Mahjong Pachinko Story (Japanese version)                                                        | 麻雀パチンコ物語 (日本版)                                                                     |
+| pstadium | Panick Stadium (Japanese version)                                                                | ぱにっくスタジアム (日本版)                                                                   |
+| sailorws | Mahjong Triple Wars Extra Edition Sailor Wars (Japan Version)                                    | マージャントリプルウォーズ番外編 セーラーウォーズ (日本版)                                    |
+| sailorwa | Mahjong Triple Wars Extra Edition Sailor Wars (Japanese version set 2)                           | マージャントリプルウォーズ番外編 セーラーウォーズ (日本版 set 2)                              |
+| sailorwr | Mahjong Triple Wars Extra Edition Sailor Wars R-Return as a medal! !!   [BET] (Japanese version) | マージャントリプルウォーズ番外編 セーラーウォーズR -メダルになってリターン！！ [BET] (日本版) |
+| msjiken  | Mahjong Murder Case (Japanese version 881017)                                                    | 麻雀殺人事件 (日本版 881017)                                                                  |
+| mjsikakb | Mahjong thug (Japanese version 880722)                                                           | 麻雀刺客 (日本版 880722)                                                                      |
+| mjsikakd | Mahjong thug (Japanese version 880802)                                                           | 麻雀刺客 (日本版 880802)                                                                      |
+| mjsikakc | Mahjong thug (Japanese version 880806)                                                           | 麻雀刺客 (日本版 880806)                                                                      |
+| mjsikaku | Mahjong thug (Japanese version 880908)                                                           | 麻雀刺客 (日本版 880908)                                                                      |
+| mmsikaku | Mahjong thug [BET] (Japanese version 880929)                                                     | 麻雀刺客 [BET] (日本版 880929)                                                                |
+| mladyhtr | Mahjong Lady Hunter-Phantom Thief Black Cat Federation (Japanese version   900509)               | マージャンレディーハンター -怪盗黒猫連盟編 (日本版 900509)                                    |
+| triplew1 | Mahjong Triple Wars (Japan Version)                                                              | マージャントリプルウォーズ (日本版)                                                           |
+| triplew2 | Mahjong Triple Wars 2 (Japan Version)                                                            | マージャントリプルウォーズ2 (日本版)                                                          |
+| uchuuai  | With love from space (Japanese version)                                                          | 宇宙より愛をこめて (日本版)                                                                   |
+| mjuraden | Mahjong Fortune-telling Legend (Japan Version)                                                   | 麻雀占い伝説 (日本版)                                                                         |
+| vanilla  | Mahjong Vanilla Syndrome (Japanese version)                                                      | ま～じゃんバニラシンドローム (日本版)                                                         |
+| wcatcher | Mahjong Waku Waku Catcher (Japanese version)                                                     | 麻雀わくわくキャッチャー (日本版)                                                             |
+| yosimoto | Mahjong Yoshimoto Theater (Japanese version)                                                     | ま～じゃん吉本劇場 (日本版)                                                                   |
+| korinai  | Mahjong lovers (Japanese version 880425)                                                         | 麻雀好きの懲りない面々 (日本版 880425)                                                        |
+| korinaim | Mahjong lovers [BET] (Japanese version 880920)                                                   | 麻雀好きの懲りない面々 [BET] (日本版 880920)                                                  |
+| maiko    | Maiko Flower (Japanese version 900802)                                                           | 舞妓花 (日本版 900802)                                                                        |
+| mmaiko   | Maiko Flower [BET] (Japanese version 900911)                                                     | 舞妓花 [BET] (日本版 900911)                                                                  |
+| mmehyou  | Medal Mahjong Circuit Female Leopard [BET] (Japan Version)                                       | メダル麻雀サーキットの女豹 [BET] (日本版)                                                     |
+| mjgottub | It feels like a medal mahjong! [BET] (Japanese version)                                          | メダル麻雀ごっつええ感じ！ [BET] (日本版)                                                     |
+| mjanbari | Medal Mahjong Jean Jean Bali Bali [BET] (Japan Version)                                          | メダル麻雀ジャンジャンバリバリ [BET] (日本版)                                                 |
+| pachiten | Medal Mahjong Pachislot Heaven [BET] (Japan Version)                                             | メダル麻雀パチスロ天国 [BET] (日本版)                                                         |
+| mightguy | Mighty Guy                                                                                       | マイティガイ                                                                                  |
+| mcontest | Miss Mahjong Contest in Yakuman University (Japanese version)                                    | ミス麻雀コンテスト in 役満大学 (日本版)                                                       |
+| moonaln  | Moon alien                                                                                       | ムーンエイリアン                                                                              |
+| moonal2  | Moon Alien Part2                                                                                 | ムーンエイリアン Part2                                                                        |
+| moonal2b | Moon Alien Part2 (older ver)                                                                     | ムーンエイリアン Part2 (older ver)                                                            |
+| moonbase | Moon base                                                                                        | ムーンベース                                                                                  |
+| mooncrs2 | Moon Cresta (pirated set 2)                                                                      | ムーンクレスタ (海賊版 set 2)                                                                 |
+| mooncrst | Moon Cresta (Nichibutsu)                                                                         | ムーンクレスタ (Nichibutsu)                                                                   |
+| mooncrsa | Moon Cresta (Nichibutsu old rev)                                                                 | ムーンクレスタ (Nichibutsu old rev)                                                           |
+| mooncrsu | Moon Cresta (Nichibutsu unencrypted)                                                             | ムーンクレスタ (Nichibutsu unencrypted)                                                       |
+| moonqsr  | Moon quasar                                                                                      | ムーンクエーサー                                                                              |
+| mshutlj2 | Moon Shuttle (Japanese version set 2)                                                            | ムーンシャトル (日本版 set 2)                                                                 |
+| mshuttlj | Moon Shuttle (Japanese version)                                                                  | ムーンシャトル (日本版)                                                                       |
+| mshuttle | Moon Shuttle (USA version?)                                                                      | ムーンシャトル / Moon Shuttle (USA版?)                                                        |
+| musobana | Yumesohana (Japanese version)                                                                    | 夢想花 (日本版)                                                                               |
+| ngpgal   | Hot Blood Grand Prix Gal (Japan Version)                                                         | 熱血グランプリギャル (日本版)                                                                 |
+| ninjemak | Youma Ninja Emaki / Ninja Emaki (USA version)                                                    | 妖魔忍法帖 / Ninja Emaki (USA版)                                                              |
+| niyanpai | Daughter tiles (Japanese version)                                                                | 娘牌 (日本版)                                                                                 |
+| ojousan  | Young lady (Japanese version 871204)                                                             | お嬢さん (日本版 871204)                                                                      |
+| ojousanm | Young lady [BET] (Japanese version 870108)                                                       | お嬢さん [BET] (日本版 870108)                                                                |
+| pairsnb  | Cranial nerve weakness Pears (Nichibutsu) (Japanese version 890822)                              | 電脳神経衰弱 ペアーズ (Nichibutsu) (日本版 890822)                                            |
+| pastelg  | Pastel Gal (Japanese version 851224)                                                             | パステルギャル (日本版 851224)                                                                |
+| qmhayaku | Quiz Mahjong! Get it fast (Japanese version)                                                     | クイズ麻雀！早くヤッてよ (日本版)                                                             |
+| radrad   | Radial                                                                                           | ラジカル・ラジアル                                                                            |
+| rjammer  | Roller jammer                                                                                    | ローラージャマー                                                                              |
+| rollingc | Rolling Crash / Moon Base                                                                        | ローリングクラッシュ／ムーンベース                                                            |
+| rugrats  | Wiping / Rug Rats                                                                                | ワイピング / Rug Rats                                                                         |
+| scandal  | Scandal Mahjong (Japanese version 890213)                                                        | スキャンダル麻雀 (日本版 890213)                                                              |
+| scandalm | Scandal Mahjong [BET] (Japanese version 890217)                                                  | スキャンダル麻雀 [BET] (日本版 890217)                                                        |
+| secolove | Second Love (Japanese version 861201)                                                            | セカンドラブ (日本版 861201)                                                                  |
+| sectrzon | Sector zone                                                                                      | セクターゾーン                                                                                |
+| amatelas | Soldier Girl Amazon                                                                              | 聖戦士アマテラス                                                                              |
+| seicross | Sector zone / Seicross                                                                           | セクターゾーン / Seicross                                                                     |
+| seiha    | Conquer (Japanese version 870725)                                                                | 制覇 (日本版 870725)                                                                          |
+| seiham   | Conquer [BET] (Japanese version 870723)                                                          | 制覇 [BET] (日本版 870723)                                                                    |
+| sfx      | SF-X -Space Fighter X                                                                            | SF-X -スペースファイターX                                                                     |
+| skelagon | SF-X -Space Fighter X / Skelagon                                                                 | SF-X -スペースファイターX / Skelagon                                                          |
+| amazon   | Soldier Girl Amazon                                                                              | 聖戦士アマテラス / Soldier Girl Amazon                                                        |
+| supergx  | Moon Alien Part2 / Super GX                                                                      | ムーンエイリアン Part2 / Super GX                                                             |
+| hyhoo    | Quick Push Battle Quiz Hiho (Japan Version)                                                      | 早押し対戦クイズ ハイホー (日本版)                                                            |
+| hyhoo2   | Fast Push Battle Quiz Hiho 2 (Japan Version)                                                     | 早押し対戦クイズ ハイホー2 (日本版)                                                           |
+| bigfghtr | fight! Big fighter                                                                               | 戦え！ビッグファイター                                                                        |
+| telmahjn | Telephone Mahjong (Japanese version 890111)                                                      | テレフォン麻雀 (日本版 890111)                                                                |
+| terracra | Terra Cresta (YM2203)                                                                            | テラクレスタ (YM2203)                                                                         |
+| terracre | Terra Cresta (YM3526 set 1)                                                                      | テラクレスタ (YM3526 set 1)                                                                   |
+| terracrb | Terra Cresta (YM3526 set 2)                                                                      | テラクレスタ (YM3526 set 2)                                                                   |
+| terraf   | Terra force                                                                                      | テラフォース                                                                                  |
+| terrafu  | Terra Force (USA version)                                                                        | テラフォース (USA版)                                                                          |
+| tokimbsj | Toki Me Ki Bishoujo [BET] (Japanese version)                                                     | と・き・め・き美少女 [BET] (日本版)                                                           |
+| tokyogal | Tokyo Gal Encyclopedia (Japanese version)                                                        | 東京ギャル図鑑 (日本版)                                                                       |
+| tubep    | Tube panic                                                                                       | チューブパニック                                                                              |
+| wiping   | Wiping                                                                                           | ワイピング                                                                                    |
+| youma    | Youma Ninpocho (Japanese version)                                                                | 妖魔忍法帖 (日本版)                                                                           |
 
 # Sega
 
-```
-005
-4-D Warriors
-Ali Baba and 40 Thieves
-Angel Kids (Japan Version)
-Appoooh
-Astro Blaster (ver 1)
-Astro Blaster (ver 2)
-Astro Blaster (ver 2a)
-Astro Blaster (ver 3)
-TransBot (Japan Version)
-Bank panic
-Block gal
-Borderline
-Brain
-Zoom 909 / Buck Rogers -Planet of Zoom
-Zoom 909 / Buck Rogers -Planet of Zoom (not encrypted)
-The Bullfight
-Calorie-kun VS Mogranian
-Carnival (cocktail)
-Carnival (upright)
-Champion baseball
-Champion Baseball II (set 1)
-Champion boxing
-Champion wrestling
-Choplifter
-Choplifter (alt)
-Command (Sega)
-Tip Tap / Congo Bongo
-Deko-chan Mahjong-so
-Digger
-Dottori-kun (new ver)
-Dottori-kun (old ver)
-Fantasy Zone II
-Flashgal (set 1)
-Flashgal (set 2)
-Flicky (128k ver)
-Flicky (64k ver)
-Future spy
-Gardia
-I'm Sorry Aim Sorry (Japan Version)
-Hang-on Jr.
-Head on 2
-Heavy metal
-Hopper Robo
-I'm Sorry- (USA version)
-Space Inbinco
-Space Inbinco / Deep Scan
-Space Inbinco / Head On 2
-Ixion (prototype)
-KO punch
-legend
-Mr. Viking
-Mr. Viking (Japan Version)
-Monster bash
-Monster bash (2 board ver)
-My Hero / My Hero (Korean version)
-Youth Scandal / My Hero (USA Version)
-Ninja Princess / Ninja
-Ninja Princess (128k ver)
-Ninja Princess (64k ver not encrypted)
-N-Sub (upright)
-Opaopa
-Pengo (set 1 rev c)
-Pengo (set 2 not encrypted)
-Pengo (set 2)
-Pengo (set 3 not encrypted)
-Pengo (set 4)
-Pig Newton (ver A)
-Pig Newton (ver C)
-Pitfall II -The Lost Caverns
-Pitfall II -The Lost Caverns (not encrypted)
-Pulsar
-Rafflesia
-RAZZ MA TAZZ
-Regulus (new ver)
-Regulus (not encrypted)
-Regulus (old ver)
-Repulse
-The mystery of Pythagoras (Japan version)
-Robotless 2001
-Samurai
-Miwa San-chan (Japan version)
-Ninja Princess / Sega Ninja
-Ninja Princess / Sega Ninja (not encrypted)
-Youth Scandal (Japan Version)
-Shooting master
-Sinbad Mystery
-Space attack (cocktail)
-Space attack (upright set 1)
-Space attack (upright set 2)
-Space attack (upright set 3)
-Space Attack / Head On
-Space Fury (rev A)
-Space Fury (rev C)
-Space Odyssey (ver 2)
-Space position (Japan version)
-Space tactics
-Space trek (cocktail)
-Space trek (upright)
-Miwa San-chan / Spatter
-Starjacker (Sega)
-Star Trek
-SubRoc-3D
-Super Locomotive
-Super zaxxon
-Swat
-Tack scan
-Teddy Boy Blues (new ver)
-Teddy Boy Blues (old ver)
-The Bull Fighting (Japan Version)
-Tip tap
-Warrior of Time
-Tranquilizer gun
-Transbot / Transformer
-turbo
-Turbo (encrypted set 1)
-Turbo (encrypted set 2)
-UFO Warrior Yoko-chan
-Up'n down
-Up'n down (not encrypted)
-Water match
-Wonder Boy (not encrypted)
-Wonder Boy (set 1 new encryption)
-Wonder Boy (set 1 old encryption)
-Wonder Boy (set 2 not encrypted)
-Wonder Boy (set 2)
-Wonder Boy (set 3)
-Wonder Boy Deluxe
-Wonder Boy Monster Land (Japanese version new ver)
-Wonder Boy Monster Land (Japanese version old ver)
-Yamato (USA version)
-Yamato (overseas version?)
-Zaxxon (set 1)
-Zaxxon (set 2)
-Zector (rev B)
-Zoom 909
-```
+| Game     | Description                                            | Description (Japanese)                                  |
+|----------|--------------------------------------------------------|---------------------------------------------------------|
+| 005      | 005                                                    | 005                                                     |
+| 4dwarrio | 4-D Warriors                                           | 4-D ウォーリアーズ                                      |
+| alibaba  | Ali Baba and 40 Thieves                                | アリババと40人の盗賊 / Ali Baba and 40 Thieves          |
+| angelkds | Angel Kids (Japanese version)                          | エンジェルキッズ (日本版)                               |
+| appoooh  | Appoooh                                                | アッポー                                                |
+| astrob1  | Astro Blaster (ver 1)                                  | アストロブラスター (ver 1)                              |
+| astrob2  | Astro Blaster (ver 2)                                  | アストロブラスター (ver 2)                              |
+| astrob2a | Astro Blaster (ver 2a)                                 | アストロブラスター (ver 2a)                             |
+| astrob   | Astro Blaster (ver 3)                                  | アストロブラスター (ver 3)                              |
+| astrofl  | TransBot (Japanese version)                            | アストロフラッシュ (日本版)                             |
+| bankp    | Bank panic                                             | バンク・パニック                                        |
+| blockgal | Block gal                                              | ブロックギャル                                          |
+| brdrline | Borderline                                             | ボーダーライン                                          |
+| brain    | Brain                                                  | ブレイン                                                |
+| buckrog  | Zoom 909 / Buck Rogers -Planet of Zoom                 | ズーム909 / Buck Rogers -Planet of Zoom                 |
+| buckrogn | Zoom 909 / Buck Rogers -Planet of Zoom (not encrypted) | ズーム909 / Buck Rogers -Planet of Zoom (not encrypted) |
+| bullfgt  | The Bullfight                                          | ザ・闘牛 / Bullfight                                    |
+| calorie  | Calorie-kun VS Mogranian                               | カロリーくん VS モグラニアン                            |
+| carnvckt | Carnival (cocktail)                                    | カーニバル (cocktail)                                   |
+| carnival | Carnival (upright)                                     | カーニバル (upright)                                    |
+| champbas | Champion baseball                                      | チャンピオンベースボール                                |
+| champbb2 | Champion Baseball II (set 1)                           | チャンピオンベースボールII (set 1)                      |
+| chboxing | Champion boxing                                        | チャンピオンボクシング                                  |
+| chwrestl | Champion Wrestling                                     | チャンピオンプロレス                                    |
+| chplft   | Choplifter                                             | チョップリフター                                        |
+| chplftb  | Choplifter (alt)                                       | チョップリフター (alt)                                  |
+| commsega | Command (Sega)                                         | コマンド (Sega)                                         |
+| congo    | Tip Tap / Congo Bongo                                  | ティップタップ / Congo Bongo                            |
+| dakkochn | Deko-chan Jakuso                                       | 脱子ちゃん雀荘                                          |
+| digger   | Digger                                                 | ディッガー                                              |
+| dotrikun | Dottori-kun (new ver)                                  | ドッ取り君 (new ver)                                    |
+| dotriku2 | Dottori-kun (old ver)                                  | ドッ取り君 (old ver)                                    |
+| fantzn2  | Fantasy Zone II                                        | ファンタジーゾーンII                                    |
+| flashgal | Flashgal (set 1)                                       | フラッシュギャル (set 1)                                |
+| flashgla | Flashgal (set 2)                                       | フラッシュギャル (set 2)                                |
+| flicky   | Flicky (128k ver)                                      | フリッキー (128k ver)                                   |
+| flickyo  | Flicky (64k ver)                                       | フリッキー (64k ver)                                    |
+| futspy   | Future spy                                             | フューチャースパイ                                      |
+| gardia   | Gardia                                                 | ガルディア                                              |
+| imsorryj | I'm Sorry- (Japanese version)                          | ごんべえのあいむそ～り～ (日本版)                       |
+| hangonjr | Hang-on Jr.                                            | ハングオンJr.                                           |
+| headon2  | Head on 2                                              | ヘッドオン2                                             |
+| hvymetal | Heavy metal                                            | ヘビーメタル                                            |
+| hopprobo | Hopper Robo                                            | ホッパーロボ                                            |
+| imsorry  | I'm Sorry- (USA version)                               | ごんべえのあいむそ～り～ (USA版)                        |
+| invinco  | Space Inbinco                                          | スペースインビンコ                                      |
+| invds    | Space Inbinco / Deep Scan                              | スペースインビンコ／ディープスキャン                    |
+| invho2   | Space Inbinco / Head On 2                              | スペースインビンコ／ヘッドオン2                         |
+| ixion    | Ixion (prototype)                                      | イクシオン (prototype)                                  |
+| kopunch  | KO punch                                               | KOパンチ                                                |
+| legend   | legend                                                 | レジェンド                                              |
+| mrviking | Mr. Viking                                             | ミスターバイキング                                      |
+| mrvikngj | Mr. Viking (Japanese version)                          | ミスターバイキング (日本版)                             |
+| monsterb | Monster bash                                           | モンスターバッシュ                                      |
+| monster2 | Monster Bash (2 board ver)                             | モンスターバッシュ (2 board ver)                        |
+| myherok  | My Hero / My Hero (Korean version)                     | 青春スキャンダル / My Hero (韓国版)                     |
+| myhero   | Youth Scandal / My Hero (USA Version)                  | 青春スキャンダル / My Hero (USA版)                      |
+| ninja    | Ninja Princess / Ninja                                 | 忍者プリンセス / Ninja                                  |
+| nprincso | Ninja Princess (128k ver)                              | 忍者プリンセス (128k ver)                               |
+| nprincsu | Ninja Princess (64k ver not encrypted)                 | 忍者プリンセス (64k ver not encrypted)                  |
+| nsub     | N-Sub (upright)                                        | N-サブ (upright)                                        |
+| opaopa   | Opaopa                                                 | オパオパ                                                |
+| pengo    | Pengo (set 1 rev c)                                    | ペンゴ (set 1 rev c)                                    |
+| pengo2u  | Pengo (set 2 not encrypted)                            | ペンゴ (set 2 not encrypted)                            |
+| pengo2   | Pengo (set 2)                                          | ペンゴ (set 2)                                          |
+| pengo3u  | Pengo (set 3 not encrypted)                            | ペンゴ (set 3 not encrypted)                            |
+| pengo4   | Pengo (set 4)                                          | ペンゴ (set 4)                                          |
+| pignewta | Pig Newton (ver A)                                     | ピッグニュートン (ver A)                                |
+| pignewt  | Pig Newton (ver C)                                     | ピッグニュートン (ver C)                                |
+| pitfall2 | Pitfall II -The Lost Caverns                           | ピットフォールII -The Lost Caverns                      |
+| pitfallu | Pitfall II -The Lost Caverns (not encrypted)           | ピットフォールII -The Lost Caverns (not encrypted)      |
+| pulsar   | Pulsar                                                 | パルサー                                                |
+| raflesia | Rafflesia                                              | ラフレシア                                              |
+| razmataz | RAZZ MA TAZZ                                           | ラズマタズ                                              |
+| regulus  | Regulus (new ver)                                      | レグルス (new ver)                                      |
+| regulusu | Regulus (not encrypted)                                | レグルス (not encrypted)                                |
+| reguluso | Regulus (old ver)                                      | レグルス (old ver)                                      |
+| repulse  | Repulse                                                | リパルス                                                |
+| ridleofp | The mystery of Pythagoras (Japanese version)           | ピタゴラスの謎 (日本版)                                 |
+| robowres | Roboless 2001                                          | ロボレス2001                                            |
+| samurai  | Samurai                                                | サムライ                                                |
+| ssanchan | Miwa San-chan (Japanese version)                       | 三輪サンちゃん (日本版)                                 |
+| seganinj | Ninja Princess / Sega Ninja                            | 忍者プリンセス / Sega Ninja                             |
+| seganinu | Ninja Princess / Sega Ninja (not encrypted)            | 忍者プリンセス / Sega Ninja (not encrypted)             |
+| sscandal | Youth Scandal (Japan Version)                          | 青春スキャンダル (日本版)                               |
+| shtngmst | Shooting master                                        | シューティングマスター                                  |
+| sindbadm | Sinbad Mystery                                         | シンドバッド・ミステリー                                |
+| sspacatc | Space attack (cocktail)                                | スペースアタック (cocktail)                             |
+| sspaceat | Space attack (upright set 1)                           | スペースアタック (upright set 1)                        |
+| sspacat2 | Space attack (upright set 2)                           | スペースアタック (upright set 2)                        |
+| sspacat3 | Space attack (upright set 3)                           | スペースアタック (upright set 3)                        |
+| sspacaho | Space Attack / Head On                                 | スペースアタック／ヘッドオン                            |
+| spacfura | Space Fury (rev A)                                     | スペースフューリー (rev A)                              |
+| spacfury | Space Fury (rev C)                                     | スペースフューリー (rev C)                              |
+| spaceod  | Space Odyssey (ver 2)                                  | スペースオデッセイ (ver 2)                              |
+| spcpostn | Space position (Japanese version)                      | スペースポジション (日本版)                             |
+| stactics | Space tactics                                          | スペースタクティクス                                    |
+| sptrekct | Space trek (cocktail)                                  | スペーストレック (cocktail)                             |
+| spacetrk | Space Trek (upright)                                   | スペーストレック (upright)                              |
+| spatter  | Miwa San-chan / Spatter                                | 三輪サンちゃん / Spatter                                |
+| starjack | Starjacker (Sega)                                      | スタージャッカー (Sega)                                 |
+| startrek | Star Trek                                              | スタートレック                                          |
+| subroc3d | SubRoc-3D                                              | サブロック3D                                            |
+| suprloco | Super Locomotive                                       | スーパーロコモーティブ                                  |
+| szaxxon  | Super zaxxon                                           | スーパーザクソン                                        |
+| swat     | Swat                                                   | スワット                                                |
+| tacscan  | Tack scan                                              | タックスキャン                                          |
+| teddybb  | Teddy Boy Blues (new ver)                              | テディーボーイ・ブルース (new ver)                      |
+| teddybbo | Teddy Boy Blues (old ver)                              | テディーボーイ・ブルース (old ver)                      |
+| thetogyu | The Bull Fighting (Japanese version)                   | ザ・闘牛 (日本版)                                       |
+| tiptop   | Tip tap                                                | ティップタップ                                          |
+| tokisens | Warrior of Time                                        | 時の戦士                                                |
+| tranqgun | Tranquilizer gun                                       | トランキライザーガン                                    |
+| transfrm | Transbot / Transformer                                 | アストロフラッシュ / Transformer                        |
+| turbo    | turbo                                                  | ターボ                                                  |
+| turboa   | Turbo (encrypted set 1)                                | ターボ (encrypted set 1)                                |
+| turbob   | Turbo (encrypted set 2)                                | ターボ (encrypted set 2)                                |
+| ufosensi | UFO Warrior Yoko-chan                                  | UFO戦士ようこちゃん                                     |
+| upndown  | Up'n down                                              | アップンダウン                                          |
+| upndownu | Up'n down (not encrypted)                              | アップンダウン (not encrypted)                          |
+| wmatch   | Water match                                            | ウォーターマッチ                                        |
+| wboyu    | Wonder Boy (not encrypted)                             | ワンダーボーイ (not encrypted)                          |
+| wboy     | Wonder Boy (set 1 new encryption)                      | ワンダーボーイ (set 1 new encryption)                   |
+| wboyo    | Wonder Boy (set 1 old encryption)                      | ワンダーボーイ (set 1 old encryption)                   |
+| wboy2u   | Wonder Boy (set 2 not encrypted)                       | ワンダーボーイ (set 2 not encrypted)                    |
+| wboy2    | Wonder Boy (set 2)                                     | ワンダーボーイ (set 2)                                  |
+| wboy3    | Wonder Boy (set 3)                                     | ワンダーボーイ (set 3)                                  |
+| wbdeluxe | Wonder Boy Deluxe                                      | ワンダーボーイ / Wonder Boy Deluxe                      |
+| wbml     | Wonder Boy Monster Land (Japanese version new ver)     | ワンダーボーイ モンスターランド (日本版 new ver)        |
+| wbmljo   | Wonder Boy Monster Land (Japanese version old ver)     | ワンダーボーイ モンスターランド (日本版 old ver)        |
+| yamato   | Yamato (USA version)                                   | ヤマト (USA版)                                          |
+| yamato2  | Yamato (overseas version?)                             | ヤマト (海外版?)                                        |
+| zaxxon   | Zaxxon (set 1)                                         | ザクソン (set 1)                                        |
+| zaxxon2  | Zaxxon (set 2)                                         | ザクソン (set 2)                                        |
+| zektor   | Zector (rev B)                                         | ゼクター (rev B)                                        |
+| zoom909  | Zoom 909                                               | ズーム909                                               |
 
 # SNK
 
