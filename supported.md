@@ -118,233 +118,236 @@ Ultraman-Fantasy Tokusatsu Series (Japan Version)
 
 # Deco
 
-```
-Act-Fancer -Cybernetick Hyper Weapon (Japanese version rev 1)
-Act-Fancer -Cybernetick Hyper Weapon (overseas version rev 1)
-Act-Fancer -Cybernetick Hyper Weapon (overseas version rev 2)
-Alpha Fighter / Head On
-Astro Fantasia (Cassette)
-Astro Fighter (set 1)
-Astro Fighter (set 2)
-Astro Fighter (set 3)
-Avengers in Galactic Storm (USA version)
-Backfire!
-Bad Dudes vs. Dragonninja (USA version)
-Bloody Wolf / Battle Rangers (Overseas Version)
-B-Wing (Japanese version new ver)
-Birdie Try (Japan Version)
-Bloody Wolf (USA version)
-The Great Rag Time Show / Boogie Wings (Asia Version ver 1.5 92.12.07)
-The Great Rag Time Show / Boogie Wings (European version ver 1.5 92.12.07)
-Genesis
-Boulder Dash (Cassette)
-Boulder Dash (Japan Version)
-Boulder Dash (overseas version)
-Break Thru (USA version)
-Braywood (Japanese version rev 2)
-Bump'n'Jump
-Bump'n'Jump (Cassette)
-Hamburger / Burger Time (Cassette)
-Hamburger Time (Data East set 1)
-Hamburger / Burger Time (Data East set 2)
-Hamburger / Burger Time (Midway)
-Burnin rubber
-Burnin Rubber (Cassette set 1)
-Burnin Rubber (Cassette set 2)
-Captain America and The Avengers (Asia Version rev 1.0)
-Captain America and The Avengers (Asia Version rev 1.9)
-Captain America and The Avengers (Japanese version rev 0.2)
-Captain America and The Avengers (UK version rev 1.4)
-Captain America and The Avengers (USA version rev 1.6)
-Captain America and The Avengers (USA version rev 1.9)
-Captain Silver (Japan Version)
-Joe & Mac / Caveman Ninja (USA version)
-Joe & Mac / Caveman Ninja (overseas version rev 0)
-Joe & Mac / Caveman Ninja (overseas version rev 3)
-Magical Drop / Chain Reaction (overseas version ver 2.2 1995.09.25)
-Chelnov-Fighting Human Power Plant (Japan Version)
-Chelnov -Nuclear Man, The Fighter (USA version)
-Chelnov -Nuclear Man, The Fighter (overseas version)
-Chinatown (Japan version)
-Cobra Command (Japan Version)
-Cobra Command (Overseas Version rev 5)
-Competition Golf Final Round (old ver)
-Competition Golf Final Round (rev 3)
-Counter steer
-Two Crude (Japan Version)
-Two Crude (Overseas Version FU ver)
-Two Crude (Overseas Version FX ver)
-Gate of Doom (Japan version)
-Gate of Doom (overseas version rev 1)
-Gate of Doom (overseas version rev 3)
-Gate of Doom II (Japanese version ver 2.1)
-Darwin 4078 (Japan Version)
-Death Blade (Japanese version rev 2 JM-3)
-Thunder Zone / Desert Assault (USA version 4 players)
-Thunder Zone / Desert Assault (USA version)
-Diet Go Go (European version ver 1.1 1992.08.04)
-Diet Go Go (European version ver 1.1 1992.09.26)
-Diet Go Go (Japanese version ver 1.1 1992.09.26)
-Diet Go Go (USA version ver 1.1 1992.09.26)
-Disco No.1
-Disco No.1 (Cassette)
-Disco No.1 (rev F)
-Dragon Gun (USA version)
-Dragon Ninja (Japan Version)
-Revolution / Dual Assault
-Dunk Dream '95 (Japanese version 1.4 EAM)
-Explorer (Cassette)
-Western Express / Express Raider (USA version set 2)
-Western Express / Express Raider (USA version)
-Fighter's History (USA version ver 42-05 alt hardware)
-Fighter's History (Overseas Version ver 43-07)
-Fighting Fantasy (Japanese version rev 2)
-Fighting Fantasy (Japan Version)
-Fighting Ice Hockey (Cassette)
-Fire trap (USA version)
-Flying ball (Cassette)
-Funky Jet (Overseas Version)
-Wolong Retsuden (Japan Version)
-Gate of Doom (USA version rev 1)
-Gate of Doom (USA version rev 4)
-Shooting down king (Japan version)
-Makai Warrior / Gondomania (USA version)
-Gray Prop / Cluster Buster (Cassette set 1)
-Gray Prop / Cluster Buster (Cassette set 2)
-Ganball (Japan version)
-Heavy barrel (USA version)
-Heavy barrel (overseas version)
-Hyper Handball Heavy Smash -The Future Sports (Japan Version ver -2)
-Highway Chase (Cassette)
-Fighting Fantasy / Hippodrome (USA version)
-Dunk Dream '95 / Hoops '96 (Europe / Asia 2.0)
-Joe & Mac Returns (overseas version ver 1.1 1994.05.27)
-Joe & Mac Returns (overseas version ver 1.0 1994.05.19)
-Yellow Cab / Kamikaze Cabbie
-Battle Karatedo-Youth Bishoujo Hen / Karate Champ (USA version VS ver)
-Karate Champ (USA version)
-Karatedo (Japan version)
-Karnov (Japan version)
-Karnov (USA version)
-Sora Fang -Operation Code'Vapor Trail' (Japanese version rev 3)
-Forced breakthrough (Japan version)
-Last mission (Japan version)
-Last mission (USA version rev 5)
-Last mission (USA version rev 6)
-Lemmings (USA version prototype)
-Revolution
-Gunhard / Locked'n Loaded (overseas version)
-Lock'n Chase
-Rock'n Chase (Cassette)
-Lucky Poker (Cassette)
-Mad Alien
-Magical Drop (Japanese version ver 1.1 1995.06.21)
-Magical Drop Plus 1! (Japanese version ver 2.1 1995.09.12)
-Makai Warrior (Japan Version)
-Mausuke no Ojama Zawarudo (Japanese version 960314 ver 1.000)
-Labyrinth Hunter G (Japanese version set 1)
-Metal Crash (Japan Version)
-Midnight Resistance (Japan Version)
-Midnight Resistance (USA version)
-Midnight Resistance (overseas version)
-Mission X (Cassette)
-Death Blade / Mutant Fighter (overseas version rev 3 EM-4)
-Death Blade / Mutant Fighter (overseas version rev 4 EM-5)
-Night Slashers (Korean version rev 1.3)
-Night Star (Cassette set 1)
-Night Star (Cassette set 2)
-Gunball / Nitro Ball (USA version)
-Peter Peppers Ice Cream Factory (Cassette set 1)
-Peter Peppers Ice Cream Factory (Cassette set 2)
-Pocket Gal (Japan Version)
-Pocket Gal 2 (English version)
-Pocket Gal Deluxe (European version ver 3.00)
-Professional baseball enrollment test tryout (Japan version)
-Professional Bowling (Cassette)
-Professional golf (Cassette)
-Professional soccer
-Professional soccer (Cassette)
-Professional tennis (Cassette)
-Professional sports
-Psycho-Nics Oscar (Japanese version rev 0)
-Psycho-Nics Oscar (Japanese version rev 1)
-Psycho-Nics Oscar (Japanese version rev 2)
-Psycho-Nics Oscar (USA version)
-King of Boxer / Ring King (USA version set 1)
-King of Boxer / Ring King (USA version set 2)
-King of Boxer / Ring King (USA version set 3)
-Robocop (Japan version)
-Robocop (USA version rev 0)
-Robocop (USA version rev 1)
-Robocop (overseas version rev 3)
-Robocop (overseas version rev 4)
-Robocop 2 (Japanese version ver 0.11)
-Robocop 2 (USA version ver 0.05)
-Robocop 2 (Europe / Asia version ver 0.10)
-Wolffang <Wolf Fang> -Sky Fang 2001 / Rohga -Armor Force (Asia / Europe version ver 5.0)
-Wolffang <Wolf Fang> -Sky Fang 2001 / Rohga -Armor Force (Hong Kong version ver 3.0)
-Wolffang <Wolf Fang> -Sky Fang 2001 / Rohga -Armor Force (USA version ver 1.0)
-Trumpet (Cassette)
-Trumpet / Rootin'Tootin' (Cassette)
-Scrum try (Cassette set 1)
-Scrum try (Cassette set 2)
-Secret Agent (Overseas Version)
-Braywood / Shackled (USA version)
-Shootout (Japan version)
-Shootout (USA version)
-Side pocket (Japan version)
-Side pocket (overseas version)
-Skull Fang-Sora Fang Gaiden (Japan Version)
-Secret Agent / Sly Spy (USA version rev 2)
-Secret Agent / Sly Spy (USA version rev 3)
-Stadium Hero (Japan Version)
-Stadium Hero '96 (ver EAD)
-Stadium Hero '96 (ver EAJ)
-Outlaws of the Lost Water (Japan / USA / Europe / Taiwan / Latin version 950314 ver 2.001)
-Super Astro Fighter (Cassette)
-Super Burgertime (Japan Version)
-Super Burgertime (overseas version)
-Super double tennis
-Pocket Gal / Super Pool III (I-Vics)
-Pocket Gal / Super Pool III
-SRD <Super Real Darwin> (Japan Version)
-SRD <Super Real Darwin> (Overseas Version)
-Disco No.1 /Sweet Heart (Cassette)
-Battle Karatedo-Youth Bishoujo Hen (Japan Version VS ver)
-Joe & Mac (Japan Version)
-Tattoo Assassins (Asian prototype)
-Tattoo Assassins (USA version prototype)
-Terranian (Cassette)
-DECO Cassette System Test Tape (Cassette)
-Edward Randy-The Cliffhanger (Japanese version rev 2)
-Edward Randy -The Cliffhanger -Edward Randy (overseas version rev 1)
-Edward Randy -The Cliffhanger -Edward Randy (overseas version rev 2)
-Labyrinth Hunter G / Real Ghost Busters (USA version 2 players)
-Labyrinth Hunter G / Real Ghost Busters (USA version 3 players)
-Thunder Zone (Overseas Version)
-Tomahawk 777 (rev 1)
-Tomahawk 777 (rev 5)
-Tornado (Cassette)
-Treasure Island (Cassette set 1)
-Treasure Island (Cassette set 2)
-Treasure Island (Cassette set 3)
-Trio the Punch -Never Forget Me ... (Japan Version)
-Trio the Punch -Never Forget Me ... (Overseas Version)
-Tumble Pop (Japan Version)
-Tumble Pop (Overseas Version)
-Two Crude (USA version)
-Vapor Trail -Operation Code'Vapor Trail'/ Vapor Trail -Hyper Offence Formation (USA version)
-Vapor Trail -Operation Code'Vapor Trail' / Vapor Trail -Hyper Offence Formation (overseas version rev 1)
-Western Express (overseas version?)
-Dark Seal II / Wizard Fire (USA version ver 1.1)
-Wonderplanet (Japan version)
-World Cup Volleyball '95 (Japan version ver 1.0)
-Zabiga
-Zaviga (Japan version)
-Shoot Down King / Zero Target (Overseas Version)
-Zeroise (Cassette)
-Mission X / Zoar
-```
+| Game     | Description                                                                                               | Description (Japanese)                                                                     |
+|----------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| actfancj | Act-Fancer -Cybernetick Hyper Weapon (Japanese version rev 1)                                             | アクトフェンサー -Cybernetick Hyper Weapon (日本版 rev 1)                                  |
+| actfanc1 | Act-Fancer -Cybernetick Hyper Weapon (overseas version rev 1)                                             | アクトフェンサー -Cybernetick Hyper Weapon (海外版 rev 1)                                  |
+| actfancr | Act-Fancer -Cybernetick Hyper Weapon (overseas version rev 2)                                             | アクトフェンサー -Cybernetick Hyper Weapon (海外版 rev 2)                                  |
+| alphaho  | Alpha Fighter / Head On                                                                                   | アルファファイター／ヘッドオン                                                             |
+| castfant | Astro Fantasia (Cassette)                                                                                 | アストロファンタジア (Cassette)                                                            |
+| astrof   | Astro Fighter (set 1)                                                                                     | アストロファイター (set 1)                                                                 |
+| astrof2  | Astro Fighter (set 2)                                                                                     | アストロファイター (set 2)                                                                 |
+| astrof3  | Astro Fighter (set 3)                                                                                     | アストロファイター (set 3)                                                                 |
+| avengrgs | Avengers in Galactic Storm (USA Version)                                                                  | アベンジャーズ・イン・ギャラクティックストーム (USA版)                                     |
+| backfire | Backfire!                                                                                                 | バックファイア！                                                                           |
+| baddudes | Bad Dudes vs. Dragonninja (USA version)                                                                   | ドラゴンニンジャ / Bad Dudes vs. Dragonninja (USA版)                                       |
+| battlera | Bloody Wolf / Battle Rangers (Overseas Version)                                                           | ならず者戦闘部隊ブラッディウルフ / Battle Rangers (海外版)                                 |
+| bwings   | B-Wing (Japanese version new ver)                                                                         | B-ウィング (日本版 new ver)                                                                |
+| batwings |                                                                                                           |                                                                                            |
+| birdtry  | Birdie Try (Japan Version)                                                                                | バーディートライ (日本版)                                                                  |
+| bldwolf  | Bloody Wolf (USA version)                                                                                 | ならず者戦闘部隊ブラッディウルフ / Bloody Wolf (USA版)                                     |
+| boogwina | The Great Rag Time Show / Boogie Wings (Asia Version ver 1.5 92.12.07)                                    | ザ・グレイトラグタイムショー / Boogie Wings (アジア版 ver 1.5 92.12.07)                    |
+| boogwing | The Great Rag Time Show / Boogie Wings (European version ver 1.5   92.12.07)                              | ザ・グレイトラグタイムショー / Boogie Wings (欧州版 ver 1.5 92.12.07)                      |
+| boomrang | Genesis                                                                                                   | ジェネシス                                                                                 |
+| cbdash   | Boulder Dash (Cassette)                                                                                   | バルダーダッシュ (Cassette)                                                                |
+| bouldshj | Boulder Dash (Japanese version)                                                                           | バルダーダッシュ (日本版)                                                                  |
+| bouldash | Boulder Dash (overseas version)                                                                           | バルダーダッシュ (海外版)                                                                  |
+| brkthru  | Break through / Break Thru (USA version)                                                                  | 強行突破 / Break Thru (USA版)                                                              |
+| breywood | Braywood (Japanese version rev 2)                                                                         | ブレイウッド (日本版 rev 2)                                                                |
+| bnj      | Bump'n'Jump                                                                                               | バーニンラバー / Bump 'n' Jump                                                             |
+| cbnj     | Bump'n'Jump (Cassette)                                                                                    | バーニンラバー / Bump 'n' Jump (Cassette)                                                  |
+| cbtime   | Hamburger / Burger Time (Cassette)                                                                        | ハンバーガー / Burger Time (Cassette)                                                      |
+| btime    | Hamburger / Burger Time (Data East set 1)                                                                 | ハンバーガー / Burger Time (Data East set 1)                                               |
+| btime2   | Hamburger / Burger Time (Data East set 2)                                                                 | ハンバーガー / Burger Time (Data East set 2)                                               |
+| btimem   | Hamburger / Burger Time (Midway)                                                                          | ハンバーガー / Burger Time (Midway)                                                        |
+| brubber  | Burnin rubber                                                                                             | バーニンラバー                                                                             |
+| cburnrub | Burnin Rubber (Cassette set 1)                                                                            | バーニンラバー (Cassette set 1)                                                            |
+| cburnrb2 | Burnin Rubber (Cassette set 2)                                                                            | バーニンラバー (Cassette set 2)                                                            |
+| bwing    |                                                                                                           |                                                                                            |
+| captavna | Captain America and The Avengers (Asia Version rev 1.0)                                                   | キャプテンアメリカ アンド ジ アベンジャーズ (アジア版 rev 1.0)                             |
+| captaven | Captain America and The Avengers (Asia Version rev 1.9)                                                   | キャプテンアメリカ アンド ジ アベンジャーズ (アジア版 rev 1.9)                             |
+| captavnj | Captain America and The Avengers (Japanese version rev 0.2)                                               | キャプテンアメリカ アンド ジ アベンジャーズ (日本版 rev 0.2)                               |
+| captavne | Captain America and The Avengers (UK version rev 1.4)                                                     | キャプテンアメリカ アンド ジ アベンジャーズ (UK版 rev 1.4)                                 |
+| captavuu | Captain America and The Avengers (USA version rev 1.6)                                                    | キャプテンアメリカ アンド ジ アベンジャーズ (USA版 rev 1.6)                                |
+| captavnu | Captain America and The Avengers (USA version rev 1.9)                                                    | キャプテンアメリカ アンド ジ アベンジャーズ (USA版 rev 1.9)                                |
+| csilver  | Captain Silver (Japanese version)                                                                         | キャプテンシルバー (日本版)                                                                |
+| cninjau  | Joe & Mac / Caveman Ninja (USA Version)                                                                   | 戦え原始人 ジョー&マック / Caveman Ninja (USA版)                                           |
+| cninja0  | Joe & Mac / Caveman Ninja (overseas version rev 0)                                                        | 戦え原始人 ジョー&マック / Caveman Ninja (海外版 rev 0)                                    |
+| cninja   | Joe & Mac / Caveman Ninja (overseas version rev 3)                                                        | 戦え原始人 ジョー&マック / Caveman Ninja (海外版 rev 3)                                    |
+| chainrec | Magical Drop / Chain Reaction (overseas version ver 2.2 1995.09.25)                                       | マジカルドロップ / Chain Reaction (海外版 ver 2.2 1995.09.25)                              |
+| chelnovj | Chelnov-Fighting Human Power Plant (Japanese Version)                                                     | チェルノブ -戦う人間発電所 (日本版)                                                        |
+| chelnovu | Chelnov -Nuclear Man, The Fighter (USA version)                                                           | チェルノブ -戦う人間発電所 / Chelnov -Nuclear Man, The Fighter (USA版)                     |
+| chelnov  | Chelnov -Nuclear Man, The Fighter (overseas version)                                                      | チェルノブ -戦う人間発電所 / Chelnov -Nuclear Man, The Fighter (海外版)                    |
+| chinatwn | Chinatown (Japan version)                                                                                 | チャイナタウン (日本版)                                                                    |
+| cobracmj | Cobra Command (Japanese version)                                                                          | コブラコマンド (日本版)                                                                    |
+| cobracom | Cobra Command (Overseas Version rev 5)                                                                    | コブラコマンド (海外版 rev 5)                                                              |
+| compglfo | Competition Golf Final Round (old ver)                                                                    | コンペティションゴルフ・決勝ラウンド (old ver)                                             |
+| compgolf | Competition Golf Final Round (rev 3)                                                                      | コンペティションゴルフ・決勝ラウンド (rev 3)                                               |
+| cntsteer | Counter steer                                                                                             | カウンターステア                                                                           |
+| cbusterj | Two Crude (Japanese version)                                                                              | クルードバスター (日本版)                                                                  |
+| cbusterw | Two Crude (Overseas Version FU ver)                                                                       | クルードバスター (海外版 FU ver)                                                           |
+| cbuster  | Two Crude (Overseas Version FX ver)                                                                       | クルードバスター (海外版 FX ver)                                                           |
+| darkseaj | Gate of Doom (Japanese version)                                                                           | ダークシール (日本版)                                                                      |
+| darksea1 | Gate of Doom (overseas version rev 1)                                                                     | ダークシール (海外版 rev 1)                                                                |
+| darkseal | Gate of Doom (overseas version rev 3)                                                                     | ダークシール (海外版 rev 3)                                                                |
+| darksel2 | Dark Seal II (Japanese version ver 2.1)                                                                   | ダークシールII (日本版 ver 2.1)                                                            |
+| darwin   | Darwin 4078 (Japanese version)                                                                            | ダーウィン4078 (日本版)                                                                    |
+| deathbrd | Death Blade (Japanese version rev 2 JM-3)                                                                 | デスブレイド (日本版 rev 2 JM-3)                                                           |
+| dassaul4 | Thunder Zone / Desert Assault (USA version 4 players)                                                     | サンダーゾーン / Desert Assault (USA版 4 players)                                          |
+| dassault | Thunder Zone / Desert Assault (USA version)                                                               | サンダーゾーン / Desert Assault (USA版)                                                    |
+| dietgoe  | Diet Go Go (European version ver 1.1 1992.08.04)                                                          | ダイエットゴーゴー (欧州版 ver 1.1 1992.08.04)                                             |
+| dietgo   | Diet Go Go (European version ver 1.1 1992.09.26)                                                          | ダイエットゴーゴー (欧州版 ver 1.1 1992.09.26)                                             |
+| dietgoj  | Diet Go Go (Japanese version ver 1.1 1992.09.26)                                                          | ダイエットゴーゴー (日本版 ver 1.1 1992.09.26)                                             |
+| dietgou  | Diet Go Go (USA version ver 1.1 1992.09.26)                                                               | ダイエットゴーゴー (USA版 ver 1.1 1992.09.26)                                              |
+| disco    | Disco No.1                                                                                                | ディスコNo.1                                                                               |
+| cdiscon1 | Disco No.1 (Cassette)                                                                                     | ディスコNo.1 (Cassette)                                                                    |
+| discof   | Disco No.1 (rev F)                                                                                        | ディスコNo.1 (rev F)                                                                       |
+| dragngun | Dragon Gun (USA version)                                                                                  | ドラゴンガン (USA版)                                                                       |
+| drgninja | Dragon Ninja (Japanese version)                                                                           | ドラゴンニンジャ (日本版)                                                                  |
+| dualaslt | Revolution / Dual Assault                                                                                 | リバレーション / Dual Assault                                                              |
+| ddream95 | Dunk Dream '95 (Japanese version 1.4 EAM)                                                                 | ダンクドリーム'95 (日本版 1.4 EAM)                                                         |
+| cexplore | Explorer (Cassette)                                                                                       | エクスプローラー (Cassette)                                                                |
+| exprrada | Western Express / Express Raider (USA version set 2)                                                      | ウェスタンエクスプレス / Express Raider (USA版 set 2)                                      |
+| exprraid | Western Express / Express Raider (USA version)                                                            | ウェスタンエクスプレス / Express Raider (USA版)                                            |
+| fghthsta | Fighter's History (USA version ver 42-05 alt hardware)                                                    | ファイターズヒストリー (USA版 ver 42-05 alt hardware)                                      |
+| fghthist | Fighter's History (Overseas Version ver 43-07)                                                            | ファイターズヒストリー (海外版 ver 43-07)                                                  |
+| fghthstw |                                                                                                           |                                                                                            |
+| ffantasy | Fighting Fantasy (Japanese version rev 2)                                                                 | ファイティングファンタジー (日本版 rev 2)                                                  |
+| ffantasa | Fighting Fantasy (Japanese version)                                                                       | ファイティングファンタジー (日本版)                                                        |
+| cfghtice | Fighting Ice Hockey (Cassette)                                                                            | ファイティングアイスホッケー (Cassette)                                                    |
+| firetrap | Fire trap (USA version)                                                                                   | ファイヤートラップ (USA版)                                                                 |
+| cflyball | Flying ball (Cassette)                                                                                    | フライングボール (Cassette)                                                                |
+| funkyjet | Funky Jet (Overseas Version)                                                                              | ファンキージェット (海外版)                                                                |
+| garyoret | Wolong Retsuden (Japanese version)                                                                        | 臥竜列伝 (日本版)                                                                          |
+| gatedom1 | Gate of Doom (USA version rev 1)                                                                          | ダークシール / Gate of Doom (USA版 rev 1)                                                  |
+| gatedoom | Gate of Doom (USA version rev 4)                                                                          | ダークシール / Gate of Doom (USA版 rev 4)                                                  |
+| gekitsui | Shooting down king (Japanese version)                                                                     | 撃墜王 (日本版)                                                                            |
+| gondo    | Makai Warrior / Gondomania (USA version)                                                                  | 魔境戦士 / Gondomania (USA版)                                                              |
+| cgraplop | Gray Prop / Cluster Buster (Cassette set 1)                                                               | グレイプロップ / Cluster Buster (Cassette set 1)                                           |
+| cgraplp2 | Gray Prop / Cluster Buster (Cassette set 2)                                                               | グレイプロップ / Cluster Buster (Cassette set 2)                                           |
+| gunball  | Ganball (Japanese version)                                                                                | ガンボール (日本版)                                                                        |
+| hbarrel  | Heavy barrel (USA version)                                                                                | ヘビーバレル (USA版)                                                                       |
+| hbarrelw | Heavy barrel (overseas version)                                                                           | ヘビーバレル (海外版)                                                                      |
+| hvysmsh  | Hyper Handball Heavy Smash -The Future Sports (Japanese version ver -2)                                   | ハイパーハンドボール ヘビースマッシュ -The Future Sports (日本版 ver -2)                   |
+| chwy     | Highway Chase (Cassette)                                                                                  | ハイウェイチェイス (Cassette)                                                              |
+| hippodrm | Fighting Fantasy / Hippodrome (USA version)                                                               | ファイティングファンタジー / Hippodrome (USA版)                                            |
+| hoops96  | Street Hoop '95 / Hoops '96 (Europe / Asia 2.0)                                                           | ダンクドリーム'95 / Hoops '96 (欧州 / アジア版 2.0)                                        |
+| joemacr  | Joe & Mac Returns (overseas version ver 1.1 1994.05.27)                                                   | ジョー&マック リターンズ (海外版 ver 1.1 1994.05.27)                                       |
+| joemacra | Joe & Mac Returns (overseas version ver 1.0 1994.05.19)                                                   | ジョー&マック リターンズ (海外版 ver 1.0 1994.05.19)                                       |
+| kamikcab | Yellow Cab / Kamikaze Cabbie                                                                              | イエローキャブ / Kamikaze Cabbie                                                           |
+| kchampvs | Battle Karate-Youth Bishoujo Hen / Karate Champ (USA version VS ver)                                      | 対戦空手道 -青春美少女編 / Karate Champ (USA版 VS ver)                                     |
+| kchamp   | Karate Champ (USA version)                                                                                | 空手道 / Karate Champ (USA版)                                                              |
+| karatedo | Karatedo (Japanese version)                                                                               | 空手道 (日本版)                                                                            |
+| karnovj  | Karnov (Japanese version)                                                                                 | カルノフ (日本版)                                                                          |
+| karnov   | Karnov (USA version)                                                                                      | カルノフ (USA版)                                                                           |
+| kuhga    | Sora Fang -Operation Code'Vapor Trail' (Japanese version rev 3)                                           | 空牙 -Operation Code 'Vapor Trail' (日本版 rev 3)                                          |
+| brkthruj | Forced breakthrough (Japanese version)                                                                    | 強行突破 (日本版)                                                                          |
+| lastmsnj | Last mission (Japanese version)                                                                           | ラストミッション (日本版)                                                                  |
+| lastmsno | Last mission (USA version rev 5)                                                                          | ラストミッション (USA版 rev 5)                                                             |
+| lastmisn | Last mission (USA version rev 6)                                                                          | ラストミッション (USA版 rev 6)                                                             |
+| lemmings | Lemmings (USA version prototype)                                                                          | レミングス (USA版 prototype)                                                               |
+| liberate | Revolution                                                                                                | リバレーション                                                                             |
+| lockload | Gunhard / Locked'n Loaded (overseas version)                                                              | ガンハード / Locked 'n Loaded (海外版)                                                     |
+| lnc      | Lock'n Chase                                                                                              | ロックンチェイス                                                                           |
+| clocknch | Lock'n Chase (Cassette)                                                                                   | ロックンチェイス (Cassette)                                                                |
+| cluckypo | Lucky Poker (Cassette)                                                                                    | ラッキーポーカー (Cassette)                                                                |
+| madalien | Mad Alien                                                                                                 | マッドエイリアン                                                                           |
+| magdrop  | Magical Drop (Japanese version ver 1.1 1995.06.21)                                                        | マジカルドロップ (日本版 ver 1.1 1995.06.21)                                               |
+| magdropp | Magical Drop Plus 1! (Japanese version ver 2.1 1995.09.12)                                                | マジカルドロッププラス1！ (日本版 ver 2.1 1995.09.12)                                      |
+| makyosen | Makai Warrior (Japanese version)                                                                          | 魔境戦士 (日本版)                                                                          |
+| mausuke  | Mausuke no Ojama Zawarudo (Japanese version 960314 ver 1.000)                                             | まうすけのオジャマ ざ わ～るど (日本版 960314 ver 1.000)                                   |
+| meikyuh  | Labyrinth Hunter G (Japanese version set 1)                                                               | 迷宮ハンターG (日本版 set 1)                                                               |
+| metlclsh | Metal Crash (Japanese version)                                                                            | メタルクラッシュ (日本版)                                                                  |
+| midresj  | Midnight Resistance (Japan Version)                                                                       | ミッドナイトレジスタンス (日本版)                                                          |
+| midresu  | Midnight Resistance (USA version)                                                                         | ミッドナイトレジスタンス (USA版)                                                           |
+| midres   | Midnight Resistance (overseas version)                                                                    | ミッドナイトレジスタンス (海外版)                                                          |
+| cmissnx  | Mission X (Cassette)                                                                                      | ミッションX (Cassette)                                                                     |
+| mutantfa | Death Blade / Mutant Fighter (overseas version rev 3 EM-4)                                                | デスブレイド / Mutant Fighter (海外版 rev 3 EM-4)                                          |
+| mutantf  | Death Blade / Mutant Fighter (overseas version rev 4 EM-5)                                                | デスブレイド / Mutant Fighter (海外版 rev 4 EM-5)                                          |
+| nslasher | Night Slashers (Korean version rev 1.3)                                                                   | ナイトスラッシャーズ (韓国版 rev 1.3)                                                      |
+| cnightst | Night Star (Cassette set 1)                                                                               | ナイトスター (Cassette set 1)                                                              |
+| cnights2 | Night Star (Cassette set 2)                                                                               | ナイトスター (Cassette set 2)                                                              |
+| nitrobal | Gunball / Nitro Ball (USA version)                                                                        | ガンボール / Nitro Ball (USA版)                                                            |
+| cppicf   | Peter Peppers Ice Cream Factory (Cassette set 1)                                                          | ピーターペッパーズ アイスクリームファクトリー (Cassette set 1)                             |
+| cppicf2  | Peter Peppers Ice Cream Factory (Cassette set 2)                                                          | ピーターペッパーズ アイスクリームファクトリー (Cassette set 2)                             |
+| pcktgal  | Pocket Gal (Japanese version)                                                                             | ポケットギャル (日本版)                                                                    |
+| pcktgal2 | Pocket Gal 2 (English version)                                                                            | ポケットギャル2 (英語版)                                                                   |
+| pktgaldx | Pocket Gal Deluxe (European version ver 3.00)                                                             | ポケットギャルデラックス (欧州版 ver 3.00)                                                 |
+| tryout   | Professional baseball enrollment test tryout (Japan version)                                              | プロ野球入団テスト トライアウト (日本版)                                                   |
+| cprobowl | Professional Bowling (Cassette)                                                                           | プロボウリング (Cassette)                                                                  |
+| cprogolf | Professional golf (Cassette)                                                                              | プロゴルフ (Cassette)                                                                      |
+| prosoccr | Professional soccer                                                                                       | プロサッカー                                                                               |
+| cprosocc | Professional soccer (Cassette)                                                                            | プロサッカー (Cassette)                                                                    |
+| cptennis | Professional tennis (Cassette)                                                                            | プロテニス (Cassette)                                                                      |
+| prosport | Professional sports                                                                                       | プロスポーツ                                                                               |
+| oscarj0  | Psycho-Nics Oscar (Japanese version rev 0)                                                                | サイコニクス・オスカー (日本版 rev 0)                                                      |
+| oscarj1  | Psycho-Nics Oscar (Japanese version rev 1)                                                                | サイコニクス・オスカー (日本版 rev 1)                                                      |
+| oscarj   | Psycho-Nics Oscar (Japanese version rev 2)                                                                | サイコニクス・オスカー (日本版 rev 2)                                                      |
+| oscar    | Psycho-Nics Oscar (USA version)                                                                           | サイコニクス・オスカー (USA版)                                                             |
+| ringking | King of Boxer / Ring King (USA version set 1)                                                             | キング・オブ・ボクサー / Ring King (USA版 set 1)                                           |
+| ringkin2 | King of Boxer / Ring King (USA version set 2)                                                             | キング・オブ・ボクサー / Ring King (USA版 set 2)                                           |
+| ringkin3 | King of Boxer / Ring King (USA version set 3)                                                             | キング・オブ・ボクサー / Ring King (USA版 set 3)                                           |
+| robocopj | Robocop (Japanese version)                                                                                | ロボコップ (日本版)                                                                        |
+| robocpu0 | Robocop (USA version rev 0)                                                                               | ロボコップ (USA版 rev 0)                                                                   |
+| robocopu | Robocop (USA version rev 1)                                                                               | ロボコップ (USA版 rev 1)                                                                   |
+| robocopw | Robocop (overseas version rev 3)                                                                          | ロボコップ (海外版 rev 3)                                                                  |
+| robocop  | Robocop (overseas version rev 4)                                                                          | ロボコップ (海外版 rev 4)                                                                  |
+| robocp2j | Robocop 2 (Japanese version ver 0.11)                                                                     | ロボコップ2 (日本版 ver 0.11)                                                              |
+| robocp2u | Robocop 2 (USA version ver 0.05)                                                                          | ロボコップ2 (USA版 ver 0.05)                                                               |
+| robocop2 | Robocop 2 (Europe / Asia version ver 0.10)                                                                | ロボコップ2 (欧州 / アジア版 ver 0.10)                                                     |
+| rohga    | Wolffang <Wolf Fang> -Sky Fang 2001 / Rohga -Armor Force (Asia /   Europe version ver 5.0)                | ウルフファング <狼牙> -空牙2001 / Rohga -Armor Force (アジア / 欧州版 ver 5.0)             |
+| rohgah   | Wolffang <Wolf Fang> -Sky Fang 2001 / Rohga -Armor Force (Hong Kong   version ver 3.0)                    | ウルフファング <狼牙> -空牙2001 / Rohga -Armor Force (香港版 ver 3.0)                      |
+| rohgau   | Wolffang <Wolf Fang> -Sky Fang 2001 / Rohga -Armor Force (USA   version ver 1.0)                          | ウルフファング <狼牙> -空牙2001 / Rohga -Armor Force (USA版 ver 1.0)                       |
+| clapapa  | Trumpet (Cassette)                                                                                        | ラッパッパ (Cassette)                                                                      |
+| clapapa2 | Trumpet / Rootin'Tootin' (Cassette)                                                                       | ラッパッパ / Rootin' Tootin' (Cassette)                                                    |
+| cscrtry  | Scrum try (Cassette set 1)                                                                                | スクラムトライ (Cassette set 1)                                                            |
+| cscrtry2 | Scrum try (Cassette set 2)                                                                                | スクラムトライ (Cassette set 2)                                                            |
+| secretag | Secret Agent (Overseas Version)                                                                           | シークレットエージェント (海外版)                                                          |
+| shackled | Braywood / Shackled (USA version)                                                                         | ブレイウッド / Shackled (USA版)                                                            |
+| shootouj | Shootout (Japanese version)                                                                               | シュートアウト (日本版)                                                                    |
+| shootout | Shootout (USA version)                                                                                    | シュートアウト (USA版)                                                                     |
+| sidepctj | Side pocket (Japanese version)                                                                            | サイドポケット (日本版)                                                                    |
+| sidepckt | Side pocket (overseas version)                                                                            | サイドポケット (海外版)                                                                    |
+| skullfng | Skull Fang-Sora Fang Gaiden (Japanese version)                                                            | スカルファング -空牙外伝 (日本版)                                                          |
+| slyspy2  | Secret Agent / Sly Spy (USA version rev 2)                                                                | シークレットエージェント / Sly Spy (USA版 rev 2)                                           |
+| slyspy   | Secret Agent / Sly Spy (USA version rev 3)                                                                | シークレットエージェント / Sly Spy (USA版 rev 3)                                           |
+| stadhero | Stadium Hero (Japan Version)                                                                              | スタジアムヒーロー (日本版)                                                                |
+| stadhr96 | Stadium Hero '96 (ver EAD)                                                                                | スタジアムヒーロー'96 (ver EAD)                                                            |
+| stadh96a | Stadium Hero '96 (ver EAJ)                                                                                | スタジアムヒーロー'96 (ver EAJ)                                                            |
+| suikoenb | Outlaws of the Lost Water (Japan / USA / Europe / Taiwan / Latin version   950314 ver 2.001)              | 水滸演武 (日本 / USA / 欧州 / 台湾 / ラテン版 950314 ver 2.001)                            |
+| csuperas | Super Astro Fighter (Cassette)                                                                            | スーパーアストロファイター (Cassette)                                                      |
+| supbtimj | Super Burgertime (Japanese version)                                                                       | スーパーバーガータイム (日本版)                                                            |
+| supbtime | Super Burgertime (overseas version)                                                                       | スーパーバーガータイム (海外版)                                                            |
+| sdtennis | Super double tennis                                                                                       | スーパーダブルテニス                                                                       |
+| spool3i  | Pocket Gal / Super Pool III (I-Vics)                                                                      | ポケットギャル / Super Pool III (I-Vics)                                                   |
+| spool3   | Pocket Gal / Super Pool III                                                                               | ポケットギャル / Super Pool III (英語版)                                                   |
+| srdarwnj | SRD <Super Real Darwin> (Japanese version)                                                                | SRD <スーパーリアルダーウィン> (日本版)                                                    |
+| srdarwin | SRD <Super Real Darwin> (Overseas Version)                                                                | SRD <スーパーリアルダーウィン> (海外版)                                                    |
+| csweetht | Disco No.1 / Sweet Heart (Cassette)                                                                       | ディスコNo.1 / Sweet Heart (Cassette)                                                      |
+| karatevs | Battle Karatedo-Youth Bishoujo Hen (Japanese version VS ver)                                              | 対戦空手道 -青春美少女編 (日本版 VS ver)                                                   |
+| joemac   | Joe & Mac (Japanese version)                                                                              | 戦え原始人 ジョー&マック (日本版)                                                          |
+| tattassa | Tattoo Assassins (Asia version prototype)                                                                 | タトゥーアサシン (アジア版 prototype)                                                      |
+| tattass  | Tattoo Assassins (USA version prototype)                                                                  | タトゥーアサシン (USA版 prototype)                                                         |
+| cterrani | Terranian (Cassette)                                                                                      | テラニアン (Cassette)                                                                      |
+| ctsttape | DECO Cassette System Test Tape (Cassette)                                                                 | DECOカセットシステム テストテープ (Cassette)                                               |
+| edrandyj | Edward Randy-The Cliffhanger (Japanese version rev 2)                                                     | エドワード・ランディ -ザ・クリフハンガー (日本版 rev 2)                                    |
+| edrandy1 | Edward Randy -The Cliffhanger -Edward Randy (overseas version rev 1)                                      | エドワード・ランディ -ザ・クリフハンガー / The Cliffhanger -Edward Randy (海外版 rev 1)    |
+| edrandy  | Edward Randy -The Cliffhanger -Edward Randy (overseas version rev 2)                                      | エドワード・ランディ -ザ・クリフハンガー / The Cliffhanger -Edward Randy (海外版 rev 2)    |
+| ghostb   | Labyrinth Hunter G / Real Ghost Busters (USA version 2 players)                                           | 迷宮ハンターG / Real Ghost Busters (USA版 2 players)                                       |
+| ghostb3  | Labyrinth Hunter G / Real Ghost Busters (USA version 3 players)                                           | 迷宮ハンターG / Real Ghost Busters (USA版 3 players)                                       |
+| thndzone | Thunder Zone (Overseas Version)                                                                           | サンダーゾーン (海外版)                                                                    |
+| tomahawk | Tomahawk 777 (rev 1)                                                                                      | トマホーク777 (rev 1)                                                                      |
+| tomahaw5 | Tomahawk 777 (rev 5)                                                                                      | トマホーク777 (rev 5)                                                                      |
+| ctornado | Tornado (Cassette)                                                                                        | トルネード (Cassette)                                                                      |
+| ctisland | Treasure Island (Cassette set 1)                                                                          | トレジャーアイランド (Cassette set 1)                                                      |
+| ctislnd2 | Treasure Island (Cassette set 2)                                                                          | トレジャーアイランド (Cassette set 2)                                                      |
+| ctislnd3 | Treasure Island (Cassette set 3)                                                                          | トレジャーアイランド (Cassette set 3)                                                      |
+| triothej | Trio the Punch -Never Forget Me ... (Japan Version)                                                       | トリオ・ザ・パンチ -Never Forget Me... (日本版)                                            |
+| triothep | Trio the Punch -Never Forget Me ... (Overseas Version)                                                    | トリオ・ザ・パンチ -Never Forget Me... (海外版)                                            |
+| tumblepj | Tumble Pop (Japanese version)                                                                             | タンブルポップ (日本版)                                                                    |
+| tumblep  | Tumble Pop (Overseas Version)                                                                             | タンブルポップ (海外版)                                                                    |
+| twocrude | Two Crude (USA version)                                                                                   | クルードバスター / Two Crude (USA版)                                                       |
+| vaportru | Vapor Trail -Operation Code'Vapor Trail'/ Vapor Trail -Hyper Offence   Formation (USA version)            | 空牙 -Operation Code 'Vapor Trail' / Vapor Trail -Hyper Offence Formation   (USA版)        |
+| vaportra | Vapor Trail -Operation Code'Vapor Trail'/ Vapor Trail -Hyper Offence   Formation (overseas version rev 1) | 空牙 -Operation Code 'Vapor Trail' / Vapor Trail -Hyper Offence Formation   (海外版 rev 1) |
+| wexpress | Western Express (overseas version?)                                                                       | ウェスタンエクスプレス (海外版?)                                                           |
+| wizdfire | Dark Seal II / Wizard Fire (USA version ver 1.1)                                                          | ダークシールII / Wizard Fire (USA版 ver 1.1)                                               |
+| wndrplnt | Wonderplanet (Japanese version)                                                                           | ワンダープラネット (日本版)                                                                |
+| wcvol95  | World Cup Volleyball '95 (Japanese version ver 1.0)                                                       | ワールドカップバレーボール'95 (日本版 ver 1.0)                                             |
+| zaviga   | Zabiga                                                                                                    | ザビガ                                                                                     |
+| zavigaj  | Zaviga (Japanese version)                                                                                 | ザビガ (日本版)                                                                            |
+| zerotrgt | Shoot Down King / Zero Target (Overseas Version)                                                          | 撃墜王 / Zero Target (海外版)                                                              |
+| czeroize | Zeroise (Cassette)                                                                                        | ゼロイゼ (Cassette)                                                                        |
+| zoar     | Mission X / Zoar                                                                                          | ミッションX / Zoar                                                                         |
 
 # Irem
 
