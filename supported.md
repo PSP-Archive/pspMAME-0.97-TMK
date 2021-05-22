@@ -2,37 +2,37 @@ Compatibility list for each build (machine translation):
 
 # Bandai
 
-```
-Air Gallet
-Bang Bang Ball (ver 1.05)
-Denjin Makai
-Dragon ball Z
-Dragon Ball Z 2-Super Battle
-Godzilla
-Denjin Mahou II / Guardians
-Bullet storm
-Gunpey
-Macross plus
-Mazinger Z
-Hidden Shinobi-The Ninja Master / Metamoqester
-Mobile Suit Gundam
-Mobile Suit Gundam (Japan Version)
-Mobile Suit Gundam EX Review
-Mobile Suit Gundam Final Shooting -Space War in 0079 (Japan Version)
-Hidden Shinobi-The Ninja Master (Japan Version)
-Sailor Moon (95/03/22)
-Sailor Moon (95/03 / 22B)
-quiz! !! Sailor Moon-Intelligence, Physical Strength, Luck of Time
-SD Gundam Neo Battling (Japan Version)
-Mobile Suit SD Gundam Psycho Salamander Threat
-SD Gundam Sangokushi Rainbow Continent Senki
-Super Slams-From TV Animation "Slam Dunk"
-The Super Dimension Fortress Macross
-The Super Dimension Fortress Macross II
-Ultra Fighting Spirit Legend (Japan Version)
-Ultra Guard-Fantasy Special Effects Game
-Ultraman-Fantasy Tokusatsu Series (Japan Version)
-```
+| Game     | Description                                                       | Description (Japanese)                                                       |
+|----------|-------------------------------------------------------------------|------------------------------------------------------------------------------|
+| agallet  | Air Gallet                                                        | アクウギャレット                                                             |
+| bangball | Bang Bang Ball (v1.05)                                            | バンバンボール (ver 1.05)                                                    |
+| denjinmk | Denjin Makai                                                      | 電神魔傀                                                                     |
+| dbz      | Dragonball Z                                                      | ドラゴンボールZ                                                              |
+| dbz2     | Dragonball Z 2   Super Battle                                     | ドラゴンボールZ   2 -スーパーバトル                                          |
+| godzilla | Godzilla                                                          | ゴジラ                                                                       |
+| grdians  | Guardians /   Denjin Makai II                                     | 電神魔傀II   / ガーディアンズ                                                |
+| gundhara | Gundhara                                                          | 銃弾嵐                                                                       |
+| gunpey   | Gunpey                                                            | グンペイ                                                                     |
+| macrossp | Macross Plus                                                      | マクロスプラス                                                               |
+| mazinger | Mazinger Z                                                        | マジンガーZ                                                                  |
+| metmqstr | Metamoqester                                                      | 隠忍 -ザ・ニンジャマスター / Metamoqester                                    |
+| msgundam | Mobile Suit   Gundam                                              | 機動戦士ガンダム                                                             |
+| msgunda1 | Mobile Suit Gundam (Japan)                                        | 機動戦士ガンダム (日本版)                                                    |
+| gundamex | Mobile Suit   Gundam EX Revue                                     | 機動戦士ガンダム   EXレビュー                                                |
+| gdfs     | Mobile Suit Gundam Final Shooting                                 | 機動戦士ガンダム ファイナルシューティング -スペースウォー in 0079   (日本版) |
+| nmaster  | Oni - The Ninja   Master (Japan)                                  | 隠忍   -ザ・ニンジャマスター (日本版)                                        |
+| sailormo | Pretty Soldier Sailor Moon (95/03/22)                             | 美少女戦士セーラームーン (95/03/22)                                          |
+| sailormn | Pretty Soldier   Sailor Moon (95/03/22B)                          | 美少女戦士セーラームーン   (95/03/22B)                                       |
+| quizmoon | Quiz Bisyoujo Senshi Sailor Moon - Chiryoku Tairyoku Toki   no Un | クイズ！！ 美少女戦士セーラームーン -知力・体力・時の運                      |
+| neobattl | SD Gundam Neo   Battling (Japan)                                  | SDガンダム   ネオバトリング (日本版)                                         |
+| sdgndmps | SD Gundam Psycho Salamander no Kyoui                              | 機動戦士SDガンダム サイコサラマンダーの脅威                                  |
+| sdgndmrb | SD Gundam   Sangokushi Rainbow Tairiku Senki                      | SDガンダム三国志   レインボー大陸戦記                                        |
+| suprslam | Super Slams                                                       | スーパースラムズ -フロムTVアニメーション「スラムダンク」                     |
+| macross  | Super   Spacefortress Macross / Chou-Jikuu Yousai Macross         | 超時空要塞マクロス                                                           |
+| macross2 | Super Spacefortress Macross II / Chou-Jikuu Yousai Macross   II   | 超時空要塞マクロス II                                                        |
+| utoukond | Ultra Toukon   Densetsu (Japan)                                   | ウルトラ闘魂伝説   (日本版)                                                  |
+| ultrax   | Ultra X Weapons / Ultra Keibitai                                  | ウルトラ警備隊 -空想特撮ゲーム                                               |
+| ultraman | Ultraman   (Japan)                                                | ウルトラマン   -空想特撮シリーズ (日本版)                                    |
 
 # Capcom
 
