@@ -1149,16 +1149,16 @@ Ultraman-Fantasy Tokusatsu Series (Japan Version)
 
 # Sunsoft
 
-```
-Beirut (USA version set 1 unprotected)
-Beirut (Japanese version set 2 FD1094 317-0115)
-Beirut (overseas version set 3 FD1094 317-0116)
-Hebereke Popun (Japan Version)
-Do you need a delicious puzzle?
-Shanghai (Japan version)
-Shanghai II (Japan version)
-Shanghai III (Japan version)
-```
+| Game     | Description                                 | Description (Japanese)                      |
+|----------|---------------------------------------------|---------------------------------------------|
+| bayrout1 | Bay Route (set   1, US, unprotected)        | ベイルート   (USA版 set 1 unprotected)      |
+| bayroutj | Bay Route (set 2, Japan, FD1094 317-0115)   | ベイルート (日本版 set 2 FD1094 317-0115)   |
+| bayroute | Bay Route (set   3, World, FD1094 317-0116) | ベイルート   (海外版 set 3 FD1094 317-0116) |
+| heberpop | Hebereke no Popoon (Japan)                  | へべれけのぽぷーん (日本版)                 |
+| oisipuzl | Oishii Puzzle   Ha Irimasenka               | おいしいパズルはいりませんか                |
+| shanghai | Shanghai (Japan)                            | 上海 (日本版)                               |
+| shangha2 | Shanghai II   (Japan)                       | 上海II   (日本版)                           |
+| shangha3 | Shanghai III (Japan)                        | 上海III (日本版)                            |
 
 # Taito
 
