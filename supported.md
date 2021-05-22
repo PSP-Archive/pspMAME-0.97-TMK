@@ -1644,43 +1644,44 @@ Shanghai III (Japan version)
 
 # Tecmo
 
-```Argos Warrior (Japan Version)
-Dero-Dero Dero
-Eight force
-Final Star Force (USA version)
-Ganbare Gin-kun-Action Mini Game Collection
-Gemini Wing
-Gun Dealer (Tecmo)
-Ninja Gaiden (USA version)
-Ninja Ryukenden (Japanese version set 1)
-Brain Strength Improvement Committee
-Quiz & Psychology Game Quiz Cocoology
-Quiz & Psychology Game Quiz Cocoology 2
-Raiga -Strato Fighter (Japan Version)
-Thunder Fang -Strato Fighter (USA version)
-Argos Warrior / Rygar (USA version set 1)
-Argos Warrior / Rygar (USA version set 2)
-Ninja Gaiden / Shadow Warriors (overseas version set 1)
-Ninja Ryukenden / Shadow Warriors (overseas version set 2)
-Silk worm (set 1)
-Silk worm (set 2)
-Solomon's Key (USA version)
-Super Pinball Action (Japan Version)
-Super Pinball Action (USA version)
-Tecmo Bowl (Japan Version)
-Tecmo Bowl (overseas version?)
-Wild Fang / Tecmo Knight
-Tecmo World Cup '90 (set 1)
-Tecmo World Cup '90 (set 2)
-Tecmo World Cup '90 (trackball)
-Tecmo World Cup '94
-Tecmo World Cup '94 (set 2)
-Ted off (Japan version)
-Tokidensho -Angel Eyes
-Tecmo V Goal Soccer
-Tecmo V Goal Soccer (alt)
-Wild Fang
-```
+| Game     | Description                       | Description (Japanese)                        |
+|----------|-----------------------------------|-----------------------------------------------|
+| rygarj   | Argus no Senshi   (Japan)         | アルゴスの戦士   (日本版)                     |
+| deroon   | Deroon DeroDero                   | でろ～んでろでろ                              |
+| eightfrc | Eight Forces                      | エイトフォース                                |
+| fstarfrc | Final Star Force (US)             | ファイナル・スターフォース (USA版)            |
+| ginkun   | Ganbare Ginkun                    | がんばれギンくん   -アクションミニゲーム集    |
+| gemini   | Gemini Wing                       | ジェミニウイング                              |
+| gundealt | Gun Dealer   (Tecmo)              | ガンディーラー   (Tecmo)                      |
+| gaiden   | Ninja Gaiden (US)                 | 忍者龍剣伝 / Ninja Gaiden (USA版)             |
+| ryukendn | Ninja Ryukenden   (Japan)         | 忍者龍剣伝   (日本版 set 1)                   |
+| nouryoku | Nouryoku Koujou Iinkai            | 脳力向上委員会                                |
+| qzkklogy | Quiz Kokology                     | クイズ&心理ゲーム   クイズココロジー          |
+| qzkklgy2 | Quiz Kokology 2                   | クイズ&心理ゲーム クイズココロジー2           |
+| raiga    | Raiga - Strato   Fighter (Japan)  | 雷牙   -Strato Fighter (日本版)               |
+| stratof  | Raiga - Strato Fighter (US)       | 雷牙 -Strato Fighter (USA版)                  |
+| rygar    | Rygar (US set   1)                | アルゴスの戦士   / Rygar (USA版 set 1)        |
+| rygar2   | Rygar (US set 2)                  | アルゴスの戦士 / Rygar (USA版 set 2)          |
+| shadoww  | Shadow Warriors   (World set 1)   | 忍者龍剣伝   / Shadow Warriors (海外版 set 1) |
+| shadowwa | Shadow Warriors (World set 2)     | 忍者龍剣伝 / Shadow Warriors (海外版 set 2)   |
+| silkworm | Silk Worm (set   1)               | シルクワーム   (set 1)                        |
+| silkwrm2 | Silk Worm (set 2)                 | シルクワーム (set 2)                          |
+| solomon  | Solomon's Key   (Japan)           | ソロモンの鍵   (USA版)                        |
+| spbactnj | Super Pinball Action (Japan)      | スーパーピンボールアクション (日本版)         |
+| spbactn  | Super Pinball   Action (US)       | スーパーピンボールアクション   (USA版)        |
+| tbowlj   | Tecmo Bowl (Japan)                | テクモボウル (日本版)                         |
+| tbowl    | Tecmo Bowl   (World?)             | テクモボウル   (海外版?)                      |
+| tknight  | Tecmo Knight                      | ワイルドファング / Tecmo Knight               |
+| wc90     | Tecmo World Cup   '90 (set 1)     | テクモワールドカップ   '90 (set 1)            |
+| wc90a    | Tecmo World Cup '90 (set 2)       | テクモワールドカップ '90 (set 2)              |
+| wc90t    | Tecmo World Cup   '90 (trackball) | テクモワールドカップ   '90 (trackball)        |
+| twrldc94 | Tecmo World Cup '94               | テクモワールドカップ '94                      |
+| twrdc94a | Tecmo World Cup   '94 (set 2)     | テクモワールドカップ   '94 (set 2)            |
+| teedoff  | Tee'd Off (Japan)                 | ティードオフ (日本版)                         |
+| tkdensho | Touki Denshou   -Angel Eyes-      | 闘姫伝承   -Angel Eyes                        |
+| vgoalsoc | V Goal Soccer                     | テクモVゴールサッカー                         |
+| vgoalsca | V Goal Soccer   (alt)             | テクモVゴールサッカー   (alt)                 |
+| wildfang | Wild Fang / Tecmo Knight          | ワイルドファング                              |
 
 # Universal
 
