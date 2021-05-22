@@ -464,94 +464,94 @@ Ultraman-Fantasy Tokusatsu Series (Japan Version)
 
 # Jaleco
 
-```
-64th Street -A Detective Story (Japan Version)
-64th Street -A Detective Story (Overseas Version)
-Formation Z / Aeroboto
-Alien command
-Avenging Spirit
-Best bout boxing
-Big Run -The Supreme 4WD Challenge (11th Rallye ver)
-Big striker
-chameleon
-Checkman (Japan version)
-Chimera Beast (prototype)
-Cisco heat
-City Connection (set 1)
-City Connection (set 2)
-City Connection / Cruisin
-Cybertra
-D-DAY (Jaleco set 1)
-Gulf war
-E.D.F. <Earth Defense Force>
-Exerion
-Exerion (pirated)
-Exerion (Taito)
-Excelizer (Japanese version) (pirated version)
-F-1 Grand Prix Star II
-F-1 Super Battle
-Field combat
-Formation Z
-Galactic Nintendo (set 1)
-Galactic Nintendo (set 2)
-Grand Prix Star
-Second Earth Gratia (91022-10 ver)
-Second Earth Gratia (92047-01 ver)
-Rupture
-Quick Push Quiz Grand Champion Tournament
-Idol Janshi Suchie-Pai II (ver 1.0)
-Idol Janshi Suchie-Pai II (ver 1.1)
-Idol Janshi Suchie-Pai Special
-Iga Ninjutsu Den-Book of Five Gods (Japan Version)
-Ability! !! Professional baseball (Japan version)
-Kickoff -Jaleco Cup (Japan Version)
-Legend of Makai (overseas version)
-Mahjong Angel Kiss
-Mahjong Channel Zoom in!
-Mahjong Great Spirit World
-Mahjong revolution
-Mahjong Revolution II-Princess League
-Legend of Makai (Japan Version)
-Burn! !! Professional baseball home run competition
-Momoko 120%
-Naughty boy
-Naughty Boy (Cinematronics)
-P-47 -The Freedom Fighter (Japan Version)
-P-47 -The Freedom Fighter / P-47 -The Phantom Fighter (Overseas Version)
-P-47 Aces
-Parallel turn
-Peekaboo!
-Phantasm (Japan version)
-Pinbo (set 1)
-Pinbo (set 2)
-plus alpha
-Pop framer (hack?)
-Pop framer (not protected)
-Pop framer (protected)
-Psychic 5
-Rock'n't Red (Japan Version)
-Fairy Story Rod Land (Japan Version) (Pirate Version)
-Fairy Story Rod Land (Japan Version)
-Fairy Story Rod Land (Overseas Version)
-Meteor Sparrow Kirara Star
-Saint Dragon <Saint Dragon>
-Scud hammer
-Takeda Shingen / Shingen Samurai-Fighter (Japanese version English)
-Excelizer / Sky Fox
-Soldam (Japan version)
-Super GT 24h
-Shingen Takeda (Japanese version)
-Tetris Plus
-Tetris Plus 2 (Japan Version)
-Tetris Plus 2 (MegaSystem 32 ver)
-Tetris Plus 2 (overseas version?)
-The Astyanax
-Game Paradise -The Game Paradise!
-The Road of King (Japan Version)
-Wai Wai Jockey Gate Inn!
-Wild pilot
-World PK Soccer
-```
+| Game     | Description                                                                  | Description (Japanese)                                                |
+|----------|------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| 64streej | 64th. Street -   A Detective Story (Japan)                                   | 64番街   -A Detective Story (日本版)                                  |
+| 64street | 64th. Street - A Detective Story (World)                                     | 64番街 -A Detective Story (海外版)                                    |
+| aeroboto | Aeroboto                                                                     | フォーメーションZ   / Aeroboto                                        |
+| acommand | Alien Command                                                                | エイリアンコマンド                                                    |
+| avspirit | Avenging Spirit                                                              | ファンタズム   / Avenging Spirit                                      |
+| bbbxing  | Best Bout Boxing                                                             | ベストバウトボクシング                                                |
+| bigrun   | Big Run (11th   Rallye version)                                              | ビッグラン   -The Supreme 4WD Challenge (11th Rallye ver)             |
+| bigstrik | Big Striker                                                                  | ビッグストライカー                                                    |
+| chameleo | Chameleon                                                                    | カメレオン                                                            |
+| checkmaj | Check Man (Japan)                                                            | チェックマン (日本版)                                                 |
+| chimerab | Chimera Beast   (prototype)                                                  | キメラビースト   (prototype)                                          |
+| cischeat | Cisco Heat                                                                   | シスコヒート                                                          |
+| citycon  | City Connection   (set 1)                                                    | シティコネクション   (set 1)                                          |
+| citycona | City Connection (set 2)                                                      | シティコネクション (set 2)                                            |
+| cruisin  | Cruisin                                                                      | シティコネクション   / Cruisin                                        |
+| cybattlr | Cybattler                                                                    | サイバトラー                                                          |
+| ddayjlc  | D-Day (Jaleco)                                                               | D-DAY   (Jaleco set 1)                                                |
+| desertwr | Desert War / Wangan Sensou                                                   | 湾岸戦争                                                              |
+| edf      | E.D.F. : Earth   Defense Force                                               | E.D.F.   <アースディフェンスフォース>                                 |
+| exerion  | Exerion                                                                      | エクセリオン                                                          |
+| exerionb | Exerion   (bootleg)                                                          | エクセリオン   (海賊版)                                               |
+| exeriont | Exerion (Taito)                                                              | エクセリオン (Taito)                                                  |
+| exerizrb | Exerizer   (Japan) (bootleg)                                                 | エクセライザー   (日本版) (海賊版)                                    |
+| f1gpstr2 | F-1 Grand Prix Star II                                                       | F-1グランプリスターII                                                 |
+| f1superb | F1 Super Battle                                                              | F-1スーパーバトル                                                     |
+| fcombat  | Field Combat                                                                 | フィールドコンバット                                                  |
+| formatz  | Formation Z                                                                  | フォーメーションZ                                                     |
+| ginganin | Ginga NinkyouDen (set 1)                                                     | 銀河任侠伝 (set 1)                                                    |
+| gingania | Ginga   NinkyouDen (set 2)                                                   | 銀河任侠伝   (set 2)                                                  |
+| f1gpstar | Grand Prix Star                                                              | グランプリスター                                                      |
+| gratiaa  | Gratia - Second   Earth (91022-10 version)                                   | セカンドアース   グラティア (91022-10 ver)                            |
+| gratia   | Gratia - Second Earth (92047-01 version)                                     | セカンドアース グラティア (92047-01 ver)                              |
+| hachoo   | Hachoo!                                                                      | 破兆                                                                  |
+| hayaosi1 | Hayaoshi Quiz Ouza Ketteisen                                                 | 早押しクイズ グランドチャンピオン大会                                 |
+| 47pie2o  | Idol Janshi   Su-Chi-Pie 2 (v1.0)                                            | アイドル雀士スーチーパイII   (ver 1.0)                                |
+| 47pie2   | Idol Janshi Su-Chi-Pie 2 (v1.1)                                              | アイドル雀士スーチーパイII (ver 1.1)                                  |
+| suchipi  | Idol Janshi   Su-Chi-Pie Special                                             | アイドル雀士スーチーパイスペシャル                                    |
+| iganinju | Iga Ninjyutsuden (Japan)                                                     | 伊賀忍術伝 -五神の書 (日本版)                                         |
+| jitsupro | Jitsuryoku!!   Pro Yakyuu (Japan)                                            | 実力！！プロ野球   (日本版)                                           |
+| kickoff  | Kick Off (Japan)                                                             | キックオフ -Jaleco Cup (日本版)                                       |
+| lomakai  | Legend of Makai   (World)                                                    | 魔魁伝説   / Legend of Makai (海外版)                                 |
+| akiss    | Mahjong Angel Kiss                                                           | 麻雀エンジェルキッス                                                  |
+| mjzoomin | Mahjong Channel   Zoom In                                                    | 麻雀ちゃんねるズームイン！                                            |
+| daireika | Mahjong Daireikai                                                            | 麻雀大霊界                                                            |
+| kakumei  | Mahjong Kakumei                                                              | 麻雀革命                                                              |
+| kakumei2 | Mahjong Kakumei 2 - Princess League                                          | 麻雀革命II -プリンセスリーグ                                          |
+| makaiden | Makai Densetsu   (Japan)                                                     | 魔魁伝説   (日本版)                                                   |
+| homerun  | Moero Pro Yakyuu Homerun                                                     | 燃えろ！！プロ野球 ホームラン競争                                     |
+| momoko   | Momoko 120%                                                                  | モモコ120％                                                           |
+| naughtyb | Naughty Boy                                                                  | ノーティ・ボーイ                                                      |
+| naughtyc | Naughty Boy   (Cinematronics)                                                | ノーティ・ボーイ   (Cinematronics)                                    |
+| p47j     | P-47 - The Freedom Fighter (Japan)                                           | P-47 -ザ・フリーダムファイター (日本版)                               |
+| p47      | P-47 - The   Phantom Fighter (World)                                         | P-47   -ザ・フリーダムファイター / P-47 -The Phantom Fighter (海外版) |
+| p47aces  | P-47 Aces                                                                    | P-47エイセス                                                          |
+| pturn    | Parallel Turn                                                                | パラレルターン                                                        |
+| peekaboo | Peek-a-Boo!                                                                  | ピーカブー！                                                          |
+| phantasm | Phantasm   (Japan)                                                           | ファンタズム   (日本版)                                               |
+| pinbo    | Pinbo (set 1)                                                                | ピンボ (set 1)                                                        |
+| pinboa   | Pinbo (set 2)                                                                | ピンボ   (set 2)                                                      |
+| plusalph | Plus Alpha                                                                   | プラスアルファ                                                        |
+| popflamb | Pop Flamer   (hack?)                                                         | ポップフレーマー   (ハック?)                                          |
+| popflama | Pop Flamer (not protected)                                                   | ポップフレーマー (not protected)                                      |
+| popflame | Pop Flamer   (protected)                                                     | ポップフレーマー   (protected)                                        |
+| psychic5 | Psychic 5                                                                    | サイキック5                                                           |
+| rockn    | Rock'n Tread   (Japan)                                                       | ロックントレッド   (日本版)                                           |
+| rodlndjb | Rod-Land (Japan bootleg)                                                     | 妖精物語ロッドランド (日本版) (海賊版)                                |
+| rodlandj | Rod-Land   (Japan)                                                           | 妖精物語ロッドランド   (日本版)                                       |
+| rodland  | Rod-Land (World)                                                             | 妖精物語ロッドランド (海外版)                                         |
+| kirarast | Ryuusei Janshi   Kirara Star                                                 | 流星雀士キララ★スター                                                 |
+| stdragon | Saint Dragon                                                                 | 天聖龍 <セイントドラゴン>                                             |
+| scudhamm | Scud Hammer                                                                  | スカッドハンマー                                                      |
+| tshingna | Shingen Samurai-Fighter (Japan, English)                                     | 武田信玄 / Shingen Samurai-Fighter (日本版 英語)                      |
+| skyfox   | Sky Fox                                                                      | エクセライザー   / Sky Fox                                            |
+| soldamj  | Soldam (Japan)                                                               | ソルダム (日本版)                                                     |
+| sgt24h   | Super GT 24h                                                                 | スーパーGT   24h                                                      |
+| tshingen | Takeda Shingen (Japan, Japanese)                                             | 武田信玄 (日本版 日本語)                                              |
+| tetrisp  | Tetris Plus                                                                  | テトリスプラス                                                        |
+| teplus2j | Tetris Plus 2 (Japan)                                                        | テトリスプラス2 (日本版)                                              |
+| tp2m32   | Tetris Plus 2   (MegaSystem 32 Version)                                      | テトリスプラス2   (MegaSystem 32 ver)                                 |
+| tetrisp2 | Tetris Plus 2 (World?)                                                       | テトリスプラス2 (海外版?)                                             |
+| astyanax | The Astyanax                                                                 | ザ・ロード・オブ・キング   / The Astyanax                             |
+| gametngk | The Game Paradise - Master of Shooting! / Game Tengoku -   The Game Paradise | ゲーム天国 -The Game Paradise!                                        |
+| lordofk  | The Lord of   King (Japan)                                                   | ザ・ロード・オブ・キング   (日本版)                                   |
+| wwjgtin  | Wai Wai Jockey Gate-In!                                                      | わいワイジョッキー ゲートイン！                                       |
+| wildplt  | Wild Pilot                                                                   | ワイルドパイロット                                                    |
+| wpksoc   | World PK Soccer                                                              | ワールドPKサッカー                                                    |
 
 # Konami
 
