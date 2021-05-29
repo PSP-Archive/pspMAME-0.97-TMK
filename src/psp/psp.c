@@ -87,7 +87,7 @@ int mame_main (int argc, char **argv)
 	return (res);
 }
 
-/*
+
 int printf(const char *fmt, ...)
 {
 va_list va;
@@ -115,7 +115,7 @@ int rtn;
 
 	return(rtn);
 }
-*/
+
 
 int printfnw(const char *fmt, ...)
 {
