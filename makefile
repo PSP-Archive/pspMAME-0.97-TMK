@@ -69,7 +69,7 @@ LD = @gcc
 ASM = @nasm
 #TMK ASMFLAGS = -f coff
 #ASMFLAGS = -march=r4000 -g -mabi=eabi -mgp32 -c -xassembler -O
-MD = -mkdir.exe
+MD = -mkdir
 RM = @rm -f
 
 
@@ -219,7 +219,7 @@ DESCJ =$(OBJ)/null_descj.o
 
 # include the various .mak files
 include src/core.mak
-include src/$(TARGET).mak
+include makes/$(TARGET).mak
 include src/rules.mak
 include src/$(MAMEOS)/$(MAMEOS2).mak
 
