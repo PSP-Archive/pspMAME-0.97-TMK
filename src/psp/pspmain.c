@@ -34,6 +34,8 @@ PSP_MODULE_INFO("PSPMAME", 0, 1, 10);
 /* Define the main thread's attribute value (optional) */
 PSP_MAIN_THREAD_ATTR(THREAD_ATTR_USER | THREAD_ATTR_VFPU);
 
+PSP_HEAP_SIZE_KB(-512); //-1024
+
 //============================================================
 //	HOMEÉLÅ[ä÷òA
 //============================================================

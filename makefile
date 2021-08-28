@@ -7,6 +7,8 @@ ifeq ($(TARGET),)
 TARGET = mame
 endif
 
+PSP_LARGE_MEMORY = 1
+
 # uncomment one of the next lines to build a target-optimized build
 # ATHLON = 1
 # I686 = 1
