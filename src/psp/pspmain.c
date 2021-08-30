@@ -357,6 +357,7 @@ int main(int argc, char *argv[])
 
 	_argv[_argc++] =argv;
 	//_argv[_argc++] ="-log";
+    sceIoChdir(getCrDir());
 
 	// コンフィグ＆BGのロード
 	load_config();
